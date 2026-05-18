@@ -10,19 +10,13 @@ Tinder Dating App: Date & Chat is a Lifestyle app by Tinder LLC. This compact pr
 - 3 distinct offer sets are visible in this capture, useful for comparing tiering or pricing variants.
 - The paywall presents week, month, half year options to support price anchoring.
 
-## Featured Paywall
-
-<p align="center">
-  <a href="https://www.paywallpro.app/apps/tinder-dating-app-date-and-chat?id=547702041&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery">
-    <img src="../screenshots/tinder-dating-app-date-and-chat-547702041/cover.webp" width="300" alt="Tinder Dating App: Date & Chat featured paywall">
-  </a>
-</p>
-
 ## Screenshots
 
-| Weekly $24.99 | Weekly $12.99 |
-|---|---|
-| <a href="https://www.paywallpro.app/apps/tinder-dating-app-date-and-chat?id=547702041&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/tinder-dating-app-date-and-chat-547702041/paywall-weekly-24-99.webp" width="220" alt="Weekly $24.99"></a> | <a href="https://www.paywallpro.app/apps/tinder-dating-app-date-and-chat?id=547702041&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/tinder-dating-app-date-and-chat-547702041/paywall-weekly-12-99.webp" width="220" alt="Weekly $12.99"></a> |
+<p align="center">
+  <a href="https://www.paywallpro.app/apps/tinder-dating-app-date-and-chat?id=547702041&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/tinder-dating-app-date-and-chat-547702041/cover.webp" width="220" alt="Tinder Dating App: Date & Chat paywall screen 1"></a>
+  <a href="https://www.paywallpro.app/apps/tinder-dating-app-date-and-chat?id=547702041&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/tinder-dating-app-date-and-chat-547702041/paywall-weekly-24-99.webp" width="220" alt="Weekly $24.99"></a>
+  <a href="https://www.paywallpro.app/apps/tinder-dating-app-date-and-chat?id=547702041&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/tinder-dating-app-date-and-chat-547702041/paywall-weekly-12-99.webp" width="220" alt="Weekly $12.99"></a>
+</p>
 
 ## Paywall Pattern
 

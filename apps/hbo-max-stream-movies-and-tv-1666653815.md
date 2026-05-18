@@ -10,19 +10,13 @@ HBO Max: Stream Movies & TV is an Entertainment app by WarnerMedia Global Digita
 - The preview exposes one visible offer set; the full PaywallPro page may include more historical context.
 - The paywall presents month, year options to support price anchoring.
 
-## Featured Paywall
-
-<p align="center">
-  <a href="https://www.paywallpro.app/apps/hbo-max-stream-movies-and-tv?id=1666653815&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery">
-    <img src="../screenshots/hbo-max-stream-movies-and-tv-1666653815/cover.webp" width="300" alt="HBO Max: Stream Movies & TV featured paywall">
-  </a>
-</p>
-
 ## Screenshots
 
-| Paywall screen 2 | Paywall screen 3 |
-|---|---|
-| <a href="https://www.paywallpro.app/apps/hbo-max-stream-movies-and-tv?id=1666653815&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/hbo-max-stream-movies-and-tv-1666653815/paywall-screen-2.webp" width="220" alt="Paywall screen 2"></a> | <a href="https://www.paywallpro.app/apps/hbo-max-stream-movies-and-tv?id=1666653815&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/hbo-max-stream-movies-and-tv-1666653815/paywall-screen-3.webp" width="220" alt="Paywall screen 3"></a> |
+<p align="center">
+  <a href="https://www.paywallpro.app/apps/hbo-max-stream-movies-and-tv?id=1666653815&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/hbo-max-stream-movies-and-tv-1666653815/cover.webp" width="220" alt="HBO Max: Stream Movies & TV paywall screen 1"></a>
+  <a href="https://www.paywallpro.app/apps/hbo-max-stream-movies-and-tv?id=1666653815&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/hbo-max-stream-movies-and-tv-1666653815/paywall-screen-2.webp" width="220" alt="Paywall screen 2"></a>
+  <a href="https://www.paywallpro.app/apps/hbo-max-stream-movies-and-tv?id=1666653815&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/hbo-max-stream-movies-and-tv-1666653815/paywall-screen-3.webp" width="220" alt="Paywall screen 3"></a>
+</p>
 
 ## Paywall Pattern
 

@@ -2,7 +2,7 @@
 
 An open iOS paywall gallery with compact, human-readable App case pages powered by [PaywallPro](https://www.paywallpro.app/?utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery).
 
-This repository contains a small review batch of 10 App paywall pages. Each page shows a short case summary, a featured paywall, up to two supporting screenshots, pricing, selected metrics, and a link back to the full PaywallPro gallery.
+This repository contains a small review batch of 10 App paywall pages. Each page shows a short case summary, key takeaways, up to three compact screenshots in one row, pricing, selected metrics, and a link back to the full PaywallPro gallery.
 
 ## Apps
 

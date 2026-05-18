@@ -9,19 +9,13 @@ Crunchyroll is an Entertainment app by Crunchyroll, LLC. This compact preview hi
 - Crunchyroll uses the Free Trial - Soft Paywall pattern in the Entertainment category.
 - The preview exposes one visible offer set; the full PaywallPro page may include more historical context.
 
-## Featured Paywall
-
-<p align="center">
-  <a href="https://www.paywallpro.app/apps/crunchyroll?id=329913454&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery">
-    <img src="../screenshots/crunchyroll-329913454/cover.webp" width="300" alt="Crunchyroll featured paywall">
-  </a>
-</p>
-
 ## Screenshots
 
-| Paywall screen 2 | Paywall screen 3 |
-|---|---|
-| <a href="https://www.paywallpro.app/apps/crunchyroll?id=329913454&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/crunchyroll-329913454/paywall-screen-2.webp" width="220" alt="Paywall screen 2"></a> | <a href="https://www.paywallpro.app/apps/crunchyroll?id=329913454&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/crunchyroll-329913454/paywall-screen-3.webp" width="220" alt="Paywall screen 3"></a> |
+<p align="center">
+  <a href="https://www.paywallpro.app/apps/crunchyroll?id=329913454&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/crunchyroll-329913454/cover.webp" width="220" alt="Crunchyroll paywall screen 1"></a>
+  <a href="https://www.paywallpro.app/apps/crunchyroll?id=329913454&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/crunchyroll-329913454/paywall-screen-2.webp" width="220" alt="Paywall screen 2"></a>
+  <a href="https://www.paywallpro.app/apps/crunchyroll?id=329913454&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/crunchyroll-329913454/paywall-screen-3.webp" width="220" alt="Paywall screen 3"></a>
+</p>
 
 ## Paywall Pattern
 

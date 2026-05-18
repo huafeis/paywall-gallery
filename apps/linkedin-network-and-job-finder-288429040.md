@@ -9,19 +9,12 @@ LinkedIn: Network & Job Finder is a Business app by LinkedIn Corporation. This c
 - LinkedIn: Network & Job Finder uses the Free Trial - Soft Paywall pattern in the Business category.
 - The preview exposes one visible offer set; the full PaywallPro page may include more historical context.
 
-## Featured Paywall
-
-<p align="center">
-  <a href="https://www.paywallpro.app/apps/linkedin-network-and-job-finder?id=288429040&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery">
-    <img src="../screenshots/linkedin-network-and-job-finder-288429040/cover.webp" width="300" alt="LinkedIn: Network & Job Finder featured paywall">
-  </a>
-</p>
-
 ## Screenshots
 
-| Monthly $69.99 |
-|---|
-| <a href="https://www.paywallpro.app/apps/linkedin-network-and-job-finder?id=288429040&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/linkedin-network-and-job-finder-288429040/paywall-monthly-69-99.webp" width="220" alt="Monthly $69.99"></a> |
+<p align="center">
+  <a href="https://www.paywallpro.app/apps/linkedin-network-and-job-finder?id=288429040&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/linkedin-network-and-job-finder-288429040/cover.webp" width="220" alt="LinkedIn: Network & Job Finder paywall screen 1"></a>
+  <a href="https://www.paywallpro.app/apps/linkedin-network-and-job-finder?id=288429040&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/linkedin-network-and-job-finder-288429040/paywall-monthly-69-99.webp" width="220" alt="Monthly $69.99"></a>
+</p>
 
 ## Paywall Pattern
 

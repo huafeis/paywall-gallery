@@ -10,19 +10,13 @@ Peacock TV: Stream TV & Movies is an Entertainment app by Peacock TV LLC. This c
 - The preview exposes one visible offer set; the full PaywallPro page may include more historical context.
 - The paywall presents month, year options to support price anchoring.
 
-## Featured Paywall
-
-<p align="center">
-  <a href="https://www.paywallpro.app/apps/peacock-tv-stream-tv-and-movies?id=1508186374&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery">
-    <img src="../screenshots/peacock-tv-stream-tv-and-movies-1508186374/cover.webp" width="300" alt="Peacock TV: Stream TV & Movies featured paywall">
-  </a>
-</p>
-
 ## Screenshots
 
-| Paywall screen 2 | Paywall screen 3 |
-|---|---|
-| <a href="https://www.paywallpro.app/apps/peacock-tv-stream-tv-and-movies?id=1508186374&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/peacock-tv-stream-tv-and-movies-1508186374/paywall-screen-2.webp" width="220" alt="Paywall screen 2"></a> | <a href="https://www.paywallpro.app/apps/peacock-tv-stream-tv-and-movies?id=1508186374&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/peacock-tv-stream-tv-and-movies-1508186374/paywall-screen-3.webp" width="220" alt="Paywall screen 3"></a> |
+<p align="center">
+  <a href="https://www.paywallpro.app/apps/peacock-tv-stream-tv-and-movies?id=1508186374&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/peacock-tv-stream-tv-and-movies-1508186374/cover.webp" width="220" alt="Peacock TV: Stream TV & Movies paywall screen 1"></a>
+  <a href="https://www.paywallpro.app/apps/peacock-tv-stream-tv-and-movies?id=1508186374&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/peacock-tv-stream-tv-and-movies-1508186374/paywall-screen-2.webp" width="220" alt="Paywall screen 2"></a>
+  <a href="https://www.paywallpro.app/apps/peacock-tv-stream-tv-and-movies?id=1508186374&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/peacock-tv-stream-tv-and-movies-1508186374/paywall-screen-3.webp" width="220" alt="Paywall screen 3"></a>
+</p>
 
 ## Paywall Pattern
 
