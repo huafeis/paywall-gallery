@@ -10,10 +10,18 @@
     "current_version": "20.40.4",
     "version_release_date": "2025-10-06",
     "paywall_type": "Free Trial - Soft Paywall",
-    "pricing": "$18.99/month | $18.99/$29.99/month",
+    "pricing": "2 offer sets across month",
+    "pricing_group_count": 2,
     "markdown_path": "apps/youtube-544007664.md",
-    "paywall_image": "screenshots/youtube-544007664/paywall.webp",
-    "paywallpro_url": "https://www.paywallpro.app/apps/youtube?id=544007664&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
+    "paywall_image": "screenshots/youtube-544007664/cover.webp",
+    "featured_image": "screenshots/youtube-544007664/cover.webp",
+    "screenshot_images": [
+      "screenshots/youtube-544007664/paywall-monthly-18-99-29-99.webp"
+    ],
+    "image_count": 2,
+    "paywallpro_url": "https://www.paywallpro.app/apps/youtube?id=544007664&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+    "full_gallery_url": "https://www.paywallpro.app/apps/youtube?id=544007664&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+    "last_generated_at": "2026-05-18"
   },
   {
     "app_id": 6448311069,
@@ -26,10 +34,16 @@
     "current_version": "1.2024.262",
     "version_release_date": "2024-09-25",
     "paywall_type": "No Free Trial - Soft Paywall",
-    "pricing": "$19.99/month",
+    "pricing": "1 offer set across month",
+    "pricing_group_count": 1,
     "markdown_path": "apps/chatgpt-6448311069.md",
-    "paywall_image": "screenshots/chatgpt-6448311069/paywall.webp",
-    "paywallpro_url": "https://www.paywallpro.app/apps/chatgpt?id=6448311069&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
+    "paywall_image": "screenshots/chatgpt-6448311069/cover.webp",
+    "featured_image": "screenshots/chatgpt-6448311069/cover.webp",
+    "screenshot_images": [],
+    "image_count": 1,
+    "paywallpro_url": "https://www.paywallpro.app/apps/chatgpt?id=6448311069&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+    "full_gallery_url": "https://www.paywallpro.app/apps/chatgpt?id=6448311069&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+    "last_generated_at": "2026-05-18"
   },
   {
     "app_id": 1508186374,
@@ -42,10 +56,19 @@
     "current_version": "6.9.32",
     "version_release_date": "2025-10-07",
     "paywall_type": "No Free Trial - Soft Paywall",
-    "pricing": "$7.99/$10.99/$16.99/month | $79.99/$109.99/$169.99/year",
+    "pricing": "1 offer set across month, year",
+    "pricing_group_count": 1,
     "markdown_path": "apps/peacock-tv-stream-tv-and-movies-1508186374.md",
-    "paywall_image": "screenshots/peacock-tv-stream-tv-and-movies-1508186374/paywall.webp",
-    "paywallpro_url": "https://www.paywallpro.app/apps/peacock-tv-stream-tv-and-movies?id=1508186374&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
+    "paywall_image": "screenshots/peacock-tv-stream-tv-and-movies-1508186374/cover.webp",
+    "featured_image": "screenshots/peacock-tv-stream-tv-and-movies-1508186374/cover.webp",
+    "screenshot_images": [
+      "screenshots/peacock-tv-stream-tv-and-movies-1508186374/paywall-screen-2.webp",
+      "screenshots/peacock-tv-stream-tv-and-movies-1508186374/paywall-screen-3.webp"
+    ],
+    "image_count": 3,
+    "paywallpro_url": "https://www.paywallpro.app/apps/peacock-tv-stream-tv-and-movies?id=1508186374&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+    "full_gallery_url": "https://www.paywallpro.app/apps/peacock-tv-stream-tv-and-movies?id=1508186374&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+    "last_generated_at": "2026-05-18"
   },
   {
     "app_id": 1666653815,
@@ -58,10 +81,19 @@
     "current_version": "5.2.0",
     "version_release_date": "2024-12-09",
     "paywall_type": "No Free Trial - Soft Paywall",
-    "pricing": "$9.99/$16.99/$20.99/month | $99.99/$169.99/$209.99/year",
+    "pricing": "1 offer set across month, year",
+    "pricing_group_count": 1,
     "markdown_path": "apps/hbo-max-stream-movies-and-tv-1666653815.md",
-    "paywall_image": "screenshots/hbo-max-stream-movies-and-tv-1666653815/paywall.webp",
-    "paywallpro_url": "https://www.paywallpro.app/apps/hbo-max-stream-movies-and-tv?id=1666653815&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
+    "paywall_image": "screenshots/hbo-max-stream-movies-and-tv-1666653815/cover.webp",
+    "featured_image": "screenshots/hbo-max-stream-movies-and-tv-1666653815/cover.webp",
+    "screenshot_images": [
+      "screenshots/hbo-max-stream-movies-and-tv-1666653815/paywall-screen-2.webp",
+      "screenshots/hbo-max-stream-movies-and-tv-1666653815/paywall-screen-3.webp"
+    ],
+    "image_count": 3,
+    "paywallpro_url": "https://www.paywallpro.app/apps/hbo-max-stream-movies-and-tv?id=1666653815&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+    "full_gallery_url": "https://www.paywallpro.app/apps/hbo-max-stream-movies-and-tv?id=1666653815&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+    "last_generated_at": "2026-05-18"
   },
   {
     "app_id": 547702041,
@@ -74,10 +106,19 @@
     "current_version": "15.10.1",
     "version_release_date": "2024-06-06",
     "paywall_type": "No Free Trial - Soft Paywall",
-    "pricing": "$19.99/week | $39.99/month | $139.99/half year | $12.99/week | $24.99/month | $99.99/half year | $24.99/week | $49.99/month | $179.99/half year",
+    "pricing": "3 offer sets across week, month, half year",
+    "pricing_group_count": 3,
     "markdown_path": "apps/tinder-dating-app-date-and-chat-547702041.md",
-    "paywall_image": "screenshots/tinder-dating-app-date-and-chat-547702041/paywall.webp",
-    "paywallpro_url": "https://www.paywallpro.app/apps/tinder-dating-app-date-and-chat?id=547702041&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
+    "paywall_image": "screenshots/tinder-dating-app-date-and-chat-547702041/cover.webp",
+    "featured_image": "screenshots/tinder-dating-app-date-and-chat-547702041/cover.webp",
+    "screenshot_images": [
+      "screenshots/tinder-dating-app-date-and-chat-547702041/paywall-weekly-24-99.webp",
+      "screenshots/tinder-dating-app-date-and-chat-547702041/paywall-weekly-12-99.webp"
+    ],
+    "image_count": 3,
+    "paywallpro_url": "https://www.paywallpro.app/apps/tinder-dating-app-date-and-chat?id=547702041&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+    "full_gallery_url": "https://www.paywallpro.app/apps/tinder-dating-app-date-and-chat?id=547702041&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+    "last_generated_at": "2026-05-18"
   },
   {
     "app_id": 530168168,
@@ -90,10 +131,19 @@
     "current_version": "15.0.22",
     "version_release_date": "2024-07-29",
     "paywall_type": "Free Trial - Soft Paywall",
-    "pricing": "$59.99/$119.99/year | $5.99/$11.99/month | $5.99/month",
+    "pricing": "2 offer sets across month, year",
+    "pricing_group_count": 2,
     "markdown_path": "apps/paramount-530168168.md",
-    "paywall_image": "screenshots/paramount-530168168/paywall.webp",
-    "paywallpro_url": "https://www.paywallpro.app/apps/paramount?id=530168168&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
+    "paywall_image": "screenshots/paramount-530168168/cover.webp",
+    "featured_image": "screenshots/paramount-530168168/cover.webp",
+    "screenshot_images": [
+      "screenshots/paramount-530168168/paywall-monthly-5-99.webp",
+      "screenshots/paramount-530168168/paywall-screen-3.webp"
+    ],
+    "image_count": 3,
+    "paywallpro_url": "https://www.paywallpro.app/apps/paramount?id=530168168&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+    "full_gallery_url": "https://www.paywallpro.app/apps/paramount?id=530168168&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+    "last_generated_at": "2026-05-18"
   },
   {
     "app_id": 288429040,
@@ -106,10 +156,18 @@
     "current_version": "9.1.417",
     "version_release_date": "2024-12-18",
     "paywall_type": "Free Trial - Soft Paywall",
-    "pricing": "$69.99/month",
+    "pricing": "1 offer set across month",
+    "pricing_group_count": 1,
     "markdown_path": "apps/linkedin-network-and-job-finder-288429040.md",
-    "paywall_image": "screenshots/linkedin-network-and-job-finder-288429040/paywall.webp",
-    "paywallpro_url": "https://www.paywallpro.app/apps/linkedin-network-and-job-finder?id=288429040&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
+    "paywall_image": "screenshots/linkedin-network-and-job-finder-288429040/cover.webp",
+    "featured_image": "screenshots/linkedin-network-and-job-finder-288429040/cover.webp",
+    "screenshot_images": [
+      "screenshots/linkedin-network-and-job-finder-288429040/paywall-monthly-69-99.webp"
+    ],
+    "image_count": 2,
+    "paywallpro_url": "https://www.paywallpro.app/apps/linkedin-network-and-job-finder?id=288429040&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+    "full_gallery_url": "https://www.paywallpro.app/apps/linkedin-network-and-job-finder?id=288429040&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+    "last_generated_at": "2026-05-18"
   },
   {
     "app_id": 447188370,
@@ -122,10 +180,18 @@
     "current_version": "13.23.0.34",
     "version_release_date": "2025-01-09",
     "paywall_type": "No Free Trial - Soft Paywall",
-    "pricing": "$1.99/$3.99/$2/month | $29.99/year | $1.99/$3.99/month",
+    "pricing": "2 offer sets across month, year",
+    "pricing_group_count": 2,
     "markdown_path": "apps/snapchat-447188370.md",
-    "paywall_image": "screenshots/snapchat-447188370/paywall.webp",
-    "paywallpro_url": "https://www.paywallpro.app/apps/snapchat?id=447188370&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
+    "paywall_image": "screenshots/snapchat-447188370/cover.webp",
+    "featured_image": "screenshots/snapchat-447188370/cover.webp",
+    "screenshot_images": [
+      "screenshots/snapchat-447188370/paywall-monthly-1-99-3-99.webp"
+    ],
+    "image_count": 2,
+    "paywallpro_url": "https://www.paywallpro.app/apps/snapchat?id=447188370&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+    "full_gallery_url": "https://www.paywallpro.app/apps/snapchat?id=447188370&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+    "last_generated_at": "2026-05-18"
   },
   {
     "app_id": 329913454,
@@ -138,10 +204,19 @@
     "current_version": "4.66.0",
     "version_release_date": "2024-12-09",
     "paywall_type": "Free Trial - Soft Paywall",
-    "pricing": "$7.99/$11.99/$15.99/month",
+    "pricing": "1 offer set across month",
+    "pricing_group_count": 1,
     "markdown_path": "apps/crunchyroll-329913454.md",
-    "paywall_image": "screenshots/crunchyroll-329913454/paywall.webp",
-    "paywallpro_url": "https://www.paywallpro.app/apps/crunchyroll?id=329913454&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
+    "paywall_image": "screenshots/crunchyroll-329913454/cover.webp",
+    "featured_image": "screenshots/crunchyroll-329913454/cover.webp",
+    "screenshot_images": [
+      "screenshots/crunchyroll-329913454/paywall-screen-2.webp",
+      "screenshots/crunchyroll-329913454/paywall-screen-3.webp"
+    ],
+    "image_count": 3,
+    "paywallpro_url": "https://www.paywallpro.app/apps/crunchyroll?id=329913454&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+    "full_gallery_url": "https://www.paywallpro.app/apps/crunchyroll?id=329913454&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+    "last_generated_at": "2026-05-18"
   },
   {
     "app_id": 1017492454,
@@ -154,9 +229,17 @@
     "current_version": "7.31.2",
     "version_release_date": "2024-12-15",
     "paywall_type": "Free Trial - Soft Paywall",
-    "pricing": "$14.99/month | $21.99/$14.99/month",
+    "pricing": "2 offer sets across month",
+    "pricing_group_count": 2,
     "markdown_path": "apps/youtube-music-1017492454.md",
-    "paywall_image": "screenshots/youtube-music-1017492454/paywall.webp",
-    "paywallpro_url": "https://www.paywallpro.app/apps/youtube-music?id=1017492454&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
+    "paywall_image": "screenshots/youtube-music-1017492454/cover.webp",
+    "featured_image": "screenshots/youtube-music-1017492454/cover.webp",
+    "screenshot_images": [
+      "screenshots/youtube-music-1017492454/paywall-monthly-21-99-14-99.webp"
+    ],
+    "image_count": 2,
+    "paywallpro_url": "https://www.paywallpro.app/apps/youtube-music?id=1017492454&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+    "full_gallery_url": "https://www.paywallpro.app/apps/youtube-music?id=1017492454&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
+    "last_generated_at": "2026-05-18"
   }
 ]
