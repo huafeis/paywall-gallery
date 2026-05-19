@@ -12,6 +12,8 @@ Entertainment apps often rely on content value, exclusive access, free trials, a
 | HBO Max: Stream Movies & TV | $19.00M | No Free Trial - Soft Paywall | [Open](../apps/hbo-max-stream-movies-and-tv-1666653815.md) |
 | Paramount+ | $13.34M | Free Trial - Soft Paywall | [Open](../apps/paramount-530168168.md) |
 | Crunchyroll | $9.18M | Free Trial - Soft Paywall | [Open](../apps/crunchyroll-329913454.md) |
+| ReelShort - Stream Drama & TV | $7.60M | No Free Trial - Soft Paywall | [Open](../apps/reelshort-stream-drama-and-tv-1636235979.md) |
+| Hulu: Stream TV shows & movies | $6.57M | No Free Trial - Soft Paywall | [Open](../apps/hulu-stream-tv-shows-and-movies-376510438.md) |
 
 ## What to study
 

@@ -1,15 +1,15 @@
 # 为 Open Paywall Gallery 做贡献
 
+## 语言版本
+
+- [English](CONTRIBUTING.md)
+- [简体中文](CONTRIBUTING.zh-CN.md)
+
 感谢你对 Open Paywall Gallery 的关注。
 
 Open Paywall Gallery 是由 PaywallPro 发布的公开研究型案例库，收录 iOS 订阅 App 的付费墙和 Onboarding 流程。
 
 这个仓库的目标是帮助 App 开发者、产品经理、增长团队、UX 设计师和研究者，研究真实头部 iOS App 的订阅付费墙案例。
-
-## 语言版本
-
-- [English](CONTRIBUTING.md)
-- [简体中文](CONTRIBUTING.zh-CN.md)
 
 ---
 
@@ -59,6 +59,40 @@ App 页面：
 ## 建议付费墙模式
 
 如果你认为某个 App 的付费墙模式标签可以优化，请提交 Issue，并包含 App 名称、当前模式、建议模式、原因和类似案例。
+
+常见付费墙模式包括：
+
+- Free Trial - Soft Paywall
+- Hard Paywall
+- Multi-Offer Paywall
+- Promotional Paywall
+- Onboarding Paywall
+- Monthly vs Annual Pricing
+- Freemium Upgrade Paywall
+
+---
+
+## 建议数据字段
+
+如果你认为某个新的公开字段能让数据集更有价值，请提交 Issue，并包含以下信息：
+
+```txt
+建议字段名称：
+为什么这个字段有价值：
+示例值：
+谁会使用这个字段：
+```
+
+可能有价值的字段示例：
+
+- trial_duration
+- default_selected_plan
+- has_close_button
+- has_discount_badge
+- has_countdown_timer
+- onboarding_steps_count
+- paywall_entry_point
+- primary_cta_copy
 
 ---
 

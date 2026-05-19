@@ -9,6 +9,7 @@ Lifestyle apps often convert by selling better outcomes, personalization, confid
 | App | Estimated MRR | Pattern | Page |
 |---|---:|---|---|
 | Tinder Dating App: Date & Chat | $17.12M | No Free Trial - Soft Paywall | [Open](../apps/tinder-dating-app-date-and-chat-547702041.md) |
+| Bumble Dating App: Meet & Date | $7.26M | Credit Paywall | [Open](../apps/bumble-dating-app-meet-and-date-930441707.md) |
 
 ## What to study
 

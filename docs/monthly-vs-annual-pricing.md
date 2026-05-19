@@ -20,13 +20,13 @@ The strongest paywalls usually make the comparison easy to understand.
 
 | App | Category | Page |
 |---|---|---|
-| YouTube | Photo & Video | [Open](../apps/youtube-544007664.md) |
-| ChatGPT | Productivity | [Open](../apps/chatgpt-6448311069.md) |
 | Peacock TV: Stream TV & Movies | Entertainment | [Open](../apps/peacock-tv-stream-tv-and-movies-1508186374.md) |
 | HBO Max: Stream Movies & TV | Entertainment | [Open](../apps/hbo-max-stream-movies-and-tv-1666653815.md) |
 | Tinder Dating App: Date & Chat | Lifestyle | [Open](../apps/tinder-dating-app-date-and-chat-547702041.md) |
 | Paramount+ | Entertainment | [Open](../apps/paramount-530168168.md) |
-| LinkedIn: Network & Job Finder | Business | [Open](../apps/linkedin-network-and-job-finder-288429040.md) |
-| Snapchat | Photo & Video | [Open](../apps/snapchat-447188370.md) |
 | Crunchyroll | Entertainment | [Open](../apps/crunchyroll-329913454.md) |
-| YouTube Music | Music | [Open](../apps/youtube-music-1017492454.md) |
+| Audible: Audiobooks & Podcasts | Books | [Open](../apps/audible-audiobooks-and-podcasts-379693831.md) |
+| ReelShort - Stream Drama & TV | Entertainment | [Open](../apps/reelshort-stream-drama-and-tv-1636235979.md) |
+| Bumble Dating App: Meet & Date | Lifestyle | [Open](../apps/bumble-dating-app-meet-and-date-930441707.md) |
+| Life360: Stay Connected & Safe | Social Networking | [Open](../apps/life360-stay-connected-and-safe-384830320.md) |
+| Hulu: Stream TV shows & movies | Entertainment | [Open](../apps/hulu-stream-tv-shows-and-movies-376510438.md) |

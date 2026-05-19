@@ -1,6 +1,9 @@
 # Contributing to Open Paywall Gallery
 
-Languages: [English](CONTRIBUTING.md) | [简体中文](CONTRIBUTING.zh-CN.md)
+## Languages
+
+- [English](CONTRIBUTING.md)
+- [简体中文](CONTRIBUTING.zh-CN.md)
 
 Thanks for your interest in contributing to Open Paywall Gallery.
 

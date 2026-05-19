@@ -1,0 +1,23 @@
+# Books Paywalls
+
+A curated collection of iOS subscription paywalls from books apps.
+
+Books apps use subscription paywalls to communicate value and convert users into paid plans.
+
+## Apps
+
+| App | Estimated MRR | Pattern | Page |
+|---|---:|---|---|
+| Audible: Audiobooks & Podcasts | $8.84M | No Free Trial - Soft Paywall | [Open](../apps/audible-audiobooks-and-podcasts-379693831.md) |
+
+## What to study
+
+- How apps present subscription value
+- How pricing options are framed
+- How paywall patterns differ inside the category
+
+## Explore more
+
+For complete screenshot history and onboarding flows, visit:
+
+[PaywallPro](https://www.paywallpro.app)

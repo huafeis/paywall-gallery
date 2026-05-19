@@ -1,6 +1,9 @@
 # Open Paywall Gallery
 
-Languages: [English](README.md) | [简体中文](README.zh-CN.md)
+## Languages
+
+- [English](README.md)
+- [简体中文](README.zh-CN.md)
 
 An open, curated dataset of iOS app paywalls and onboarding flows, published by [PaywallPro](https://www.paywallpro.app/?utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery).
 
@@ -143,27 +146,25 @@ See [Data Dictionary](docs/data-dictionary.md) for field definitions.
 
 | App | Category | Estimated MRR | Pattern | Page |
 |---|---|---:|---|---|
-| YouTube | Photo & Video | $55.84M | Free Trial - Soft Paywall | [Open](apps/youtube-544007664.md) |
-| ChatGPT | Productivity | $44.30M | No Free Trial - Soft Paywall | [Open](apps/chatgpt-6448311069.md) |
 | Peacock TV: Stream TV & Movies | Entertainment | $24.85M | No Free Trial - Soft Paywall | [Open](apps/peacock-tv-stream-tv-and-movies-1508186374.md) |
 | HBO Max: Stream Movies & TV | Entertainment | $19.00M | No Free Trial - Soft Paywall | [Open](apps/hbo-max-stream-movies-and-tv-1666653815.md) |
 | Tinder Dating App: Date & Chat | Lifestyle | $17.12M | No Free Trial - Soft Paywall | [Open](apps/tinder-dating-app-date-and-chat-547702041.md) |
 | Paramount+ | Entertainment | $13.34M | Free Trial - Soft Paywall | [Open](apps/paramount-530168168.md) |
-| LinkedIn: Network & Job Finder | Business | $12.27M | Free Trial - Soft Paywall | [Open](apps/linkedin-network-and-job-finder-288429040.md) |
-| Snapchat | Photo & Video | $11.86M | No Free Trial - Soft Paywall | [Open](apps/snapchat-447188370.md) |
 | Crunchyroll | Entertainment | $9.18M | Free Trial - Soft Paywall | [Open](apps/crunchyroll-329913454.md) |
-| YouTube Music | Music | $8.85M | Free Trial - Soft Paywall | [Open](apps/youtube-music-1017492454.md) |
+| Audible: Audiobooks & Podcasts | Books | $8.84M | No Free Trial - Soft Paywall | [Open](apps/audible-audiobooks-and-podcasts-379693831.md) |
+| ReelShort - Stream Drama & TV | Entertainment | $7.60M | No Free Trial - Soft Paywall | [Open](apps/reelshort-stream-drama-and-tv-1636235979.md) |
+| Bumble Dating App: Meet & Date | Lifestyle | $7.26M | Credit Paywall | [Open](apps/bumble-dating-app-meet-and-date-930441707.md) |
+| Life360: Stay Connected & Safe | Social Networking | $6.63M | Free Trial - Soft Paywall | [Open](apps/life360-stay-connected-and-safe-384830320.md) |
+| Hulu: Stream TV shows & movies | Entertainment | $6.57M | No Free Trial - Soft Paywall | [Open](apps/hulu-stream-tv-shows-and-movies-376510438.md) |
 
 ---
 
 ## Browse by category
 
 - [Entertainment](categories/entertainment.md)
-- [Photo & Video](categories/photo-video.md)
-- [Productivity](categories/productivity.md)
 - [Lifestyle](categories/lifestyle.md)
-- [Business](categories/business.md)
-- [Music](categories/music.md)
+- [Books](categories/books.md)
+- [Social Networking](categories/social-networking.md)
 
 ---
 
