@@ -1,14 +1,57 @@
-# Peacock TV: Stream TV & Movies
+---
+app_name: "Peacock TV: Stream TV & Movies"
+app_id: 1508186374
+developer: "Peacock TV LLC"
+category: "Entertainment"
+paywall_type: "No Free Trial - Soft Paywall"
+pricing_model: "1 offer set across month, year"
+mrr: "$24.85M"
+rating: 4.66
+versions_count: 4
+offers:
+  - period: "month"
+    prices: ["$7.99/$10.99/$16.99"]
+  - period: "year"
+    prices: ["$79.99/$109.99/$169.99"]
+screenshots_count: 3
+onboarding_flows_count: 0
+app_detail_url: "https://www.paywallpro.app/apps/peacock-tv-stream-tv-and-movies?id=1508186374&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
+---
+
+# Peacock TV: Stream TV & Movies Paywall Analysis
+
+Category: Entertainment  
+Estimated MRR: $24.85M  
+Paywall Pattern: No Free Trial - Soft Paywall  
+Pricing Model: 1 offer set across month, year  
+Captured Version: 6.9.32  
+Version Release Date: 2025-10-07  
+
+View full case on PaywallPro:  
+https://www.paywallpro.app/apps/peacock-tv-stream-tv-and-movies?id=1508186374&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery
 
 ## Snapshot
 
-Peacock TV: Stream TV & Movies is an Entertainment app by Peacock TV LLC. This compact preview highlights representative iOS subscription paywall screens from the US storefront. The full PaywallPro page includes the complete screenshot set, version history, onboarding context, and deeper revenue signals.
+Peacock TV: Stream TV & Movies is an Entertainment app by Peacock TV LLC. This compact public preview highlights representative iOS subscription paywall screens from the US storefront.
+
+Its paywall is a useful reference for studying how apps in the Entertainment category present subscription value, structure pricing, use trials, and reduce purchase friction.
+
+The full PaywallPro page includes the complete screenshot set, version history, onboarding context, and deeper revenue signals.
 
 ## Key Takeaways
 
 - Peacock TV: Stream TV & Movies uses the No Free Trial - Soft Paywall pattern in the Entertainment category.
 - The preview exposes one visible offer set; the full PaywallPro page may include more historical context.
-- The paywall presents month, year options to support price anchoring.
+- The paywall presents month, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
+- The pricing structure shows how a leading Entertainment app packages subscription value for its users.
+
+## Why This Paywall Matters
+
+Paywalls in the Entertainment category need to communicate value quickly and make the subscription decision easy to understand.
+
+This Peacock TV: Stream TV & Movies paywall is worth studying because it shows how a real subscription app combines offer framing, pricing structure, visual hierarchy, and purchase flow into one conversion experience.
+
+For app builders, product managers, growth teams, and designers, this case can be used as a reference when researching pricing, trial strategy, subscription UX, or paywall redesign ideas.
 
 ## Screenshots
 
@@ -28,27 +71,55 @@ Peacock TV: Stream TV & Movies is an Entertainment app by Peacock TV LLC. This c
 | Captured version | 6.9.32 |
 | Version release date | 2025-10-07 |
 
-## Pricing
+This paywall uses the **No Free Trial - Soft Paywall** structure.
+
+This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
+
+## Pricing Structure
 
 | Offer | Month | Year |
 |---|---:|---:|
 | Offer 1 | $7.99/$10.99/$16.99 | $79.99/$109.99/$169.99 |
 
-## Metrics
+## Monetization Signals
 
 | Metric | Value |
 |---|---:|
 | App Store rating | 4.66 |
 | Category rank | #2 |
-| MRR estimate | $24.85M |
+| Estimated MRR | $24.85M |
 | Avg daily revenue | $923.05K |
 | Avg daily downloads | 23.42K |
 | Avg daily ARPU | $39.42 |
+| Screenshot count in public repo | 3 |
+| Onboarding flow available | No |
+| Full history available on PaywallPro | Yes |
+
+## What Builders Can Learn
+
+- How Peacock TV: Stream TV & Movies frames subscription value for users in the Entertainment category.
+- How the app structures pricing options and subscription periods.
+- How the paywall uses visual hierarchy to guide the purchase decision.
+- How trials, discounts, or offer sets are used to reduce purchase friction.
+- How this paywall can inspire pricing, UX, or A/B testing ideas for similar apps.
+
+## Questions to Explore
+
+- Which plan or offer is visually prioritized?
+- Does the paywall lead with value, price, trial, urgency, or social proof?
+- Is the annual plan positioned as the best-value option?
+- How much cognitive load does the pricing section create?
+- What would you test if you were optimizing this paywall?
+- How does this paywall compare with other apps in the Entertainment category?
 
 ## View More
 
-See the full paywall history, screenshots, onboarding flow, and revenue insights on [PaywallPro](https://www.paywallpro.app/apps/peacock-tv-stream-tv-and-movies?id=1508186374&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery).
+This is a limited public preview.
+
+For the full paywall history, complete screenshot set, onboarding flow, historical changes, pricing experiments, and deeper revenue analysis, visit:
+
+[PaywallPro](https://www.paywallpro.app/apps/peacock-tv-stream-tv-and-movies?id=1508186374&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery)
 
 ---
 
-Powered by [PaywallPro](https://www.paywallpro.app).
+Powered by PaywallPro.

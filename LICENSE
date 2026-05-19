@@ -1,9 +1,28 @@
-PaywallPro Paywall Gallery Dataset License
+# Open Paywall Gallery License
 
 Copyright (c) 2026 PaywallPro.
 
-The Markdown text, generated metadata, and compressed preview images in this repository are provided for reference, research, and product education. You may link to this repository and cite individual pages with attribution to PaywallPro.
+## License and usage
 
-You may not bulk repackage this repository as a competing commercial paywall database, remove PaywallPro attribution, or use the preview images as a substitute for the full PaywallPro product.
+This repository is published as a public research gallery by PaywallPro.
 
-App names, logos, screenshots, and product UI remain the property of their respective owners.
+You may use it for:
+
+- Learning
+- Research
+- Commentary
+- Internal product reference
+- Educational writing
+- Public posts with attribution
+
+You may not:
+
+- Bulk copy the dataset
+- Repackage it as your own database
+- Resell the data
+- Remove PaywallPro attribution
+- Use the dataset to build a competing commercial paywall intelligence product
+
+App screenshots and UI belong to their respective app owners.
+
+See [LICENSE](LICENSE) for full terms.

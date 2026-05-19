@@ -13,6 +13,8 @@ The Markdown pages are optimized for human reading. Structured metadata lives in
 | category_rank | App Store category ranking where available. |
 | current_version | Captured App version. |
 | version_release_date | Release date for the captured version. |
+| versions_count | Number of captured versions available in PaywallPro for this App. |
+| onboarding_flows_count | Number of onboarding preview screens available in the selected public capture set. |
 | paywall_type | Paywall classification from PaywallPro. |
 | pricing | Human-readable pricing model summary extracted from the captured paywall. |
 | pricing_group_count | Number of distinct public offer sets shown in the preview. |

@@ -9,6 +9,8 @@
     "category_rank": 1,
     "current_version": "20.40.4",
     "version_release_date": "2025-10-06",
+    "versions_count": 3,
+    "onboarding_flows_count": 0,
     "paywall_type": "Free Trial - Soft Paywall",
     "pricing": "2 offer sets across month",
     "pricing_group_count": 2,
@@ -21,7 +23,7 @@
     "image_count": 2,
     "paywallpro_url": "https://www.paywallpro.app/apps/youtube?id=544007664&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
     "full_gallery_url": "https://www.paywallpro.app/apps/youtube?id=544007664&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
-    "last_generated_at": "2026-05-18"
+    "last_generated_at": "2026-05-19"
   },
   {
     "app_id": 6448311069,
@@ -33,6 +35,8 @@
     "category_rank": 1,
     "current_version": "1.2024.262",
     "version_release_date": "2024-09-25",
+    "versions_count": 1,
+    "onboarding_flows_count": 0,
     "paywall_type": "No Free Trial - Soft Paywall",
     "pricing": "1 offer set across month",
     "pricing_group_count": 1,
@@ -43,7 +47,7 @@
     "image_count": 1,
     "paywallpro_url": "https://www.paywallpro.app/apps/chatgpt?id=6448311069&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
     "full_gallery_url": "https://www.paywallpro.app/apps/chatgpt?id=6448311069&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
-    "last_generated_at": "2026-05-18"
+    "last_generated_at": "2026-05-19"
   },
   {
     "app_id": 1508186374,
@@ -55,6 +59,8 @@
     "category_rank": 2,
     "current_version": "6.9.32",
     "version_release_date": "2025-10-07",
+    "versions_count": 4,
+    "onboarding_flows_count": 0,
     "paywall_type": "No Free Trial - Soft Paywall",
     "pricing": "1 offer set across month, year",
     "pricing_group_count": 1,
@@ -68,7 +74,7 @@
     "image_count": 3,
     "paywallpro_url": "https://www.paywallpro.app/apps/peacock-tv-stream-tv-and-movies?id=1508186374&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
     "full_gallery_url": "https://www.paywallpro.app/apps/peacock-tv-stream-tv-and-movies?id=1508186374&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
-    "last_generated_at": "2026-05-18"
+    "last_generated_at": "2026-05-19"
   },
   {
     "app_id": 1666653815,
@@ -80,6 +86,8 @@
     "category_rank": 3,
     "current_version": "5.2.0",
     "version_release_date": "2024-12-09",
+    "versions_count": 1,
+    "onboarding_flows_count": 5,
     "paywall_type": "No Free Trial - Soft Paywall",
     "pricing": "1 offer set across month, year",
     "pricing_group_count": 1,
@@ -93,7 +101,7 @@
     "image_count": 3,
     "paywallpro_url": "https://www.paywallpro.app/apps/hbo-max-stream-movies-and-tv?id=1666653815&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
     "full_gallery_url": "https://www.paywallpro.app/apps/hbo-max-stream-movies-and-tv?id=1666653815&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
-    "last_generated_at": "2026-05-18"
+    "last_generated_at": "2026-05-19"
   },
   {
     "app_id": 547702041,
@@ -105,6 +113,8 @@
     "category_rank": 1,
     "current_version": "15.10.1",
     "version_release_date": "2024-06-06",
+    "versions_count": 1,
+    "onboarding_flows_count": 0,
     "paywall_type": "No Free Trial - Soft Paywall",
     "pricing": "3 offer sets across week, month, half year",
     "pricing_group_count": 3,
@@ -118,7 +128,7 @@
     "image_count": 3,
     "paywallpro_url": "https://www.paywallpro.app/apps/tinder-dating-app-date-and-chat?id=547702041&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
     "full_gallery_url": "https://www.paywallpro.app/apps/tinder-dating-app-date-and-chat?id=547702041&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
-    "last_generated_at": "2026-05-18"
+    "last_generated_at": "2026-05-19"
   },
   {
     "app_id": 530168168,
@@ -130,6 +140,8 @@
     "category_rank": 13,
     "current_version": "15.0.22",
     "version_release_date": "2024-07-29",
+    "versions_count": 1,
+    "onboarding_flows_count": 7,
     "paywall_type": "Free Trial - Soft Paywall",
     "pricing": "2 offer sets across month, year",
     "pricing_group_count": 2,
@@ -143,7 +155,7 @@
     "image_count": 3,
     "paywallpro_url": "https://www.paywallpro.app/apps/paramount?id=530168168&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
     "full_gallery_url": "https://www.paywallpro.app/apps/paramount?id=530168168&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
-    "last_generated_at": "2026-05-18"
+    "last_generated_at": "2026-05-19"
   },
   {
     "app_id": 288429040,
@@ -155,6 +167,8 @@
     "category_rank": 3,
     "current_version": "9.1.417",
     "version_release_date": "2024-12-18",
+    "versions_count": 1,
+    "onboarding_flows_count": 0,
     "paywall_type": "Free Trial - Soft Paywall",
     "pricing": "1 offer set across month",
     "pricing_group_count": 1,
@@ -167,7 +181,7 @@
     "image_count": 2,
     "paywallpro_url": "https://www.paywallpro.app/apps/linkedin-network-and-job-finder?id=288429040&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
     "full_gallery_url": "https://www.paywallpro.app/apps/linkedin-network-and-job-finder?id=288429040&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
-    "last_generated_at": "2026-05-18"
+    "last_generated_at": "2026-05-19"
   },
   {
     "app_id": 447188370,
@@ -179,6 +193,8 @@
     "category_rank": 2,
     "current_version": "13.23.0.34",
     "version_release_date": "2025-01-09",
+    "versions_count": 3,
+    "onboarding_flows_count": 0,
     "paywall_type": "No Free Trial - Soft Paywall",
     "pricing": "2 offer sets across month, year",
     "pricing_group_count": 2,
@@ -191,7 +207,7 @@
     "image_count": 2,
     "paywallpro_url": "https://www.paywallpro.app/apps/snapchat?id=447188370&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
     "full_gallery_url": "https://www.paywallpro.app/apps/snapchat?id=447188370&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
-    "last_generated_at": "2026-05-18"
+    "last_generated_at": "2026-05-19"
   },
   {
     "app_id": 329913454,
@@ -203,6 +219,8 @@
     "category_rank": 24,
     "current_version": "4.66.0",
     "version_release_date": "2024-12-09",
+    "versions_count": 2,
+    "onboarding_flows_count": 0,
     "paywall_type": "Free Trial - Soft Paywall",
     "pricing": "1 offer set across month",
     "pricing_group_count": 1,
@@ -216,7 +234,7 @@
     "image_count": 3,
     "paywallpro_url": "https://www.paywallpro.app/apps/crunchyroll?id=329913454&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
     "full_gallery_url": "https://www.paywallpro.app/apps/crunchyroll?id=329913454&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
-    "last_generated_at": "2026-05-18"
+    "last_generated_at": "2026-05-19"
   },
   {
     "app_id": 1017492454,
@@ -228,6 +246,8 @@
     "category_rank": 2,
     "current_version": "7.31.2",
     "version_release_date": "2024-12-15",
+    "versions_count": 1,
+    "onboarding_flows_count": 0,
     "paywall_type": "Free Trial - Soft Paywall",
     "pricing": "2 offer sets across month",
     "pricing_group_count": 2,
@@ -240,6 +260,6 @@
     "image_count": 2,
     "paywallpro_url": "https://www.paywallpro.app/apps/youtube-music?id=1017492454&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
     "full_gallery_url": "https://www.paywallpro.app/apps/youtube-music?id=1017492454&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery",
-    "last_generated_at": "2026-05-18"
+    "last_generated_at": "2026-05-19"
   }
 ]
