@@ -20,13 +20,23 @@ The strongest paywalls usually make the comparison easy to understand.
 
 | App | Category | Page |
 |---|---|---|
-| Peacock TV: Stream TV & Movies | Entertainment | [Open](../apps/peacock-tv-stream-tv-and-movies-1508186374.md) |
-| HBO Max: Stream Movies & TV | Entertainment | [Open](../apps/hbo-max-stream-movies-and-tv-1666653815.md) |
-| Tinder Dating App: Date & Chat | Lifestyle | [Open](../apps/tinder-dating-app-date-and-chat-547702041.md) |
-| Paramount+ | Entertainment | [Open](../apps/paramount-530168168.md) |
-| Crunchyroll | Entertainment | [Open](../apps/crunchyroll-329913454.md) |
-| Audible: Audiobooks & Podcasts | Books | [Open](../apps/audible-audiobooks-and-podcasts-379693831.md) |
-| ReelShort - Stream Drama & TV | Entertainment | [Open](../apps/reelshort-stream-drama-and-tv-1636235979.md) |
-| Bumble Dating App: Meet & Date | Lifestyle | [Open](../apps/bumble-dating-app-meet-and-date-930441707.md) |
+| Snapchat | Photo & Video | [Open](../apps/snapchat-447188370.md) |
 | Life360: Stay Connected & Safe | Social Networking | [Open](../apps/life360-stay-connected-and-safe-384830320.md) |
-| Hulu: Stream TV shows & movies | Entertainment | [Open](../apps/hulu-stream-tv-shows-and-movies-376510438.md) |
+| Grindr - Gay Dating & Chat | Social Networking | [Open](../apps/grindr-gay-dating-and-chat-319881193.md) |
+| YouTube | Photo & Video | [Open](../apps/youtube-544007664.md) |
+| Google Photos: Backup & Edit | Photo & Video | [Open](../apps/google-photos-backup-and-edit-962194608.md) |
+| Amazon Music: Songs & Podcasts | Music | [Open](../apps/amazon-music-songs-and-podcasts-510855668.md) |
+| Bumble Dating App: Meet & Date | Lifestyle | [Open](../apps/bumble-dating-app-meet-and-date-930441707.md) |
+| GameChanger | Sports | [Open](../apps/gamechanger-1308415878.md) |
+| X | News | [Open](../apps/x-333903271.md) |
+| Dropbox: Cloud Storage Backup | Productivity | [Open](../apps/dropbox-cloud-storage-backup-327630330.md) |
+| NFL | Sports | [Open](../apps/nfl-389781154.md) |
+| SoundCloud: The Music You Love | Music | [Open](../apps/soundcloud-the-music-you-love-336353151.md) |
+| BIGO LIVE-Live Stream, Go Live | Social Networking | [Open](../apps/bigo-live-live-stream-go-live-1077137248.md) |
+| Adobe Acrobat Reader: Edit PDF | Business | [Open](../apps/adobe-acrobat-reader-edit-pdf-469337564.md) |
+| NYTimes: US and Global News | News | [Open](../apps/nytimes-us-and-global-news-284862083.md) |
+| FaceApp: Perfect Face Editor | Photo & Video | [Open](../apps/faceapp-perfect-face-editor-1180884341.md) |
+| Wyze - Never Wonder | Lifestyle | [Open](../apps/wyze-never-wonder-1288415553.md) |
+| MileIQ: Mileage Tracker & Log | Finance | [Open](../apps/mileiq-mileage-tracker-and-log-578830929.md) |
+| Lingokids: Games & Shows | Education | [Open](../apps/lingokids-games-and-shows-1002043426.md) |
+| Quizlet: More than Flashcards | Education | [Open](../apps/quizlet-more-than-flashcards-546473125.md) |

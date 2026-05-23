@@ -3,29 +3,31 @@ app_name: "Crunchyroll"
 app_id: 329913454
 developer: "Crunchyroll, LLC"
 category: "Entertainment"
-paywall_type: "Free Trial - Soft Paywall"
-pricing_model: "1 offer set across month"
-mrr: "$9.18M"
+paywall_type: "No Free Trial - Soft Paywall"
+pricing_model: "1 offer set across month, year"
+mrr: "$315.45K"
 rating: 4.76
-versions_count: 2
+versions_count: 4
 offers:
   - period: "month"
-    prices: ["$7.99/$11.99/$15.99"]
+    prices: ["$13.99"]
+  - period: "year"
+    prices: ["$139.99"]
 screenshots_count: 3
-onboarding_flows_count: 0
+onboarding_flows_count: 7
 app_detail_url: "https://www.paywallpro.app/apps/Crunchyroll-us?id=17&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Crunchyroll Paywall Analysis
 
-Category: Entertainment  
-Estimated MRR: $9.18M  
-Paywall Pattern: Free Trial - Soft Paywall  
-Pricing Model: 1 offer set across month  
-Captured Version: 4.66.0  
-Version Release Date: 2024-12-09  
+Category: Entertainment
+Estimated MRR: $315.45K
+Paywall Pattern: No Free Trial - Soft Paywall
+Pricing Model: 1 offer set across month, year
+Captured Version: 4.99.0
+Version Release Date: 2026-01-31
 
-View full case on PaywallPro:  
+View full case on PaywallPro:
 <a href="https://www.paywallpro.app/apps/Crunchyroll-us?id=17&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">Open full case on PaywallPro</a>
 
 ## Snapshot
@@ -38,8 +40,9 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Crunchyroll uses the Free Trial - Soft Paywall pattern in the Entertainment category.
+- Crunchyroll uses the No Free Trial - Soft Paywall pattern in the Entertainment category.
 - The preview exposes one visible offer set; the full PaywallPro page may include more historical context.
+- The paywall presents month, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Entertainment app packages subscription value for its users.
 
 ## Why This Paywall Matters
@@ -63,20 +66,20 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Entertainment |
-| Paywall type | Free Trial - Soft Paywall |
-| Pricing model | 1 offer set across month |
-| Captured version | 4.66.0 |
-| Version release date | 2024-12-09 |
+| Paywall type | No Free Trial - Soft Paywall |
+| Pricing model | 1 offer set across month, year |
+| Captured version | 4.99.0 |
+| Version release date | 2026-01-31 |
 
-This paywall uses the **Free Trial - Soft Paywall** structure.
+This paywall uses the **No Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
 ## Pricing Structure
 
-| Offer | Month |
-|---|---:|
-| Offer 1 | $7.99/$11.99/$15.99 |
+| Offer | Month | Year |
+|---|---:|---:|
+| Offer 1 | $13.99 | $139.99 |
 
 ## Monetization Signals
 
@@ -84,12 +87,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.76 |
 | Category rank | #24 |
-| Estimated MRR | $9.18M |
-| Avg daily revenue | $388.43K |
-| Avg daily downloads | 8.96K |
-| Avg daily ARPU | $43.36 |
+| Estimated MRR | $315.45K |
+| Avg daily revenue | $384.97K |
+| Avg daily downloads | 14.34K |
+| Avg daily ARPU | $26.85 |
 | Screenshot count in public repo | 3 |
-| Onboarding flow available | No |
+| Onboarding flow available | Yes |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

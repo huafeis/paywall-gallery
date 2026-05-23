@@ -5,7 +5,7 @@ developer: "Bumble Holding Limited"
 category: "Lifestyle"
 paywall_type: "Credit Paywall"
 pricing_model: "3 offer sets across week, month, half year, quarter, one-time purchase"
-mrr: "$7.26M"
+mrr: "$2.57M"
 rating: 4.31
 versions_count: 1
 offers:
@@ -26,14 +26,14 @@ app_detail_url: "https://www.paywallpro.app/apps/Bumble-Dating-App:-Meet-&-Date-
 
 # Bumble Dating App: Meet & Date Paywall Analysis
 
-Category: Lifestyle  
-Estimated MRR: $7.26M  
-Paywall Pattern: Credit Paywall  
-Pricing Model: 3 offer sets across week, month, half year, quarter, one-time purchase  
-Captured Version: 5.378.1  
-Version Release Date: 2024-09-04  
+Category: Lifestyle
+Estimated MRR: $2.57M
+Paywall Pattern: Credit Paywall
+Pricing Model: 3 offer sets across week, month, half year, quarter, one-time purchase
+Captured Version: 5.378.1
+Version Release Date: 2024-09-04
 
-View full case on PaywallPro:  
+View full case on PaywallPro:
 <a href="https://www.paywallpro.app/apps/Bumble-Dating-App:-Meet-&-Date-us?id=8&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">Open full case on PaywallPro</a>
 
 ## Snapshot
@@ -95,7 +95,7 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.31 |
 | Category rank | #2 |
-| Estimated MRR | $7.26M |
+| Estimated MRR | $2.57M |
 | Avg daily revenue | $498.98K |
 | Avg daily downloads | 11.55K |
 | Avg daily ARPU | $43.22 |

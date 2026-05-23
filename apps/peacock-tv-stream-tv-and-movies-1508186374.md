@@ -5,7 +5,7 @@ developer: "Peacock TV LLC"
 category: "Entertainment"
 paywall_type: "No Free Trial - Soft Paywall"
 pricing_model: "1 offer set across month, year"
-mrr: "$24.85M"
+mrr: "$591.92K"
 rating: 4.66
 versions_count: 4
 offers:
@@ -20,14 +20,14 @@ app_detail_url: "https://www.paywallpro.app/apps/Peacock-TV:-Stream-TV-&-Movies-
 
 # Peacock TV: Stream TV & Movies Paywall Analysis
 
-Category: Entertainment  
-Estimated MRR: $24.85M  
-Paywall Pattern: No Free Trial - Soft Paywall  
-Pricing Model: 1 offer set across month, year  
-Captured Version: 6.9.32  
-Version Release Date: 2025-10-07  
+Category: Entertainment
+Estimated MRR: $591.92K
+Paywall Pattern: No Free Trial - Soft Paywall
+Pricing Model: 1 offer set across month, year
+Captured Version: 6.9.32
+Version Release Date: 2025-10-07
 
-View full case on PaywallPro:  
+View full case on PaywallPro:
 <a href="https://www.paywallpro.app/apps/Peacock-TV:-Stream-TV-&-Movies-us?id=9&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">Open full case on PaywallPro</a>
 
 ## Snapshot
@@ -87,7 +87,7 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.66 |
 | Category rank | #2 |
-| Estimated MRR | $24.85M |
+| Estimated MRR | $591.92K |
 | Avg daily revenue | $923.05K |
 | Avg daily downloads | 23.42K |
 | Avg daily ARPU | $39.42 |

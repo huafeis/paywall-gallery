@@ -4,30 +4,32 @@ app_id: 1636235979
 developer: "NewLeaf Publishing"
 category: "Entertainment"
 paywall_type: "No Free Trial - Soft Paywall"
-pricing_model: "2 offer sets across week, year"
-mrr: "$7.60M"
-rating: 4.60
-versions_count: 4
+pricing_model: "2 offer sets across week, month, year"
+mrr: "$157.47K"
+rating: 4.67
+versions_count: 6
 offers:
   - period: "week"
-    prices: ["$14.99"]
+    prices: ["$9.99/$19.99", "$19.99"]
+  - period: "month"
+    prices: ["$39.99"]
   - period: "year"
-    prices: ["$149.99"]
+    prices: ["$199.99"]
 screenshots_count: 3
-onboarding_flows_count: 15
+onboarding_flows_count: 11
 app_detail_url: "https://www.paywallpro.app/apps/ReelShort---Stream-Drama-&-TV-us?id=26&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # ReelShort - Stream Drama & TV Paywall Analysis
 
-Category: Entertainment  
-Estimated MRR: $7.60M  
-Paywall Pattern: No Free Trial - Soft Paywall  
-Pricing Model: 2 offer sets across week, year  
-Captured Version: 3.2.50  
-Version Release Date: 2025-10-09  
+Category: Entertainment
+Estimated MRR: $157.47K
+Paywall Pattern: No Free Trial - Soft Paywall
+Pricing Model: 2 offer sets across week, month, year
+Captured Version: 3.6.50
+Version Release Date: 2026-03-18
 
-View full case on PaywallPro:  
+View full case on PaywallPro:
 <a href="https://www.paywallpro.app/apps/ReelShort---Stream-Drama-&-TV-us?id=26&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">Open full case on PaywallPro</a>
 
 ## Snapshot
@@ -42,7 +44,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 - ReelShort - Stream Drama & TV uses the No Free Trial - Soft Paywall pattern in the Entertainment category.
 - 2 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
-- The paywall presents week, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
+- The paywall presents week, month, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Entertainment app packages subscription value for its users.
 
 ## Why This Paywall Matters
@@ -57,7 +59,7 @@ For app builders, product managers, growth teams, and designers, this case can b
 
 <p align="center">
   <a href="https://www.paywallpro.app/apps/ReelShort---Stream-Drama-&-TV-us?id=26&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/reelshort-stream-drama-and-tv-1636235979/cover.webp" width="220" alt="ReelShort - Stream Drama & TV paywall screen 1"></a>
-  <a href="https://www.paywallpro.app/apps/ReelShort---Stream-Drama-&-TV-us?id=26&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/reelshort-stream-drama-and-tv-1636235979/paywall-annual-149-99.webp" width="220" alt="Annual $149.99"></a>
+  <a href="https://www.paywallpro.app/apps/ReelShort---Stream-Drama-&-TV-us?id=26&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/reelshort-stream-drama-and-tv-1636235979/paywall-weekly-19-99.webp" width="220" alt="Weekly $19.99"></a>
   <a href="https://www.paywallpro.app/apps/ReelShort---Stream-Drama-&-TV-us?id=26&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/reelshort-stream-drama-and-tv-1636235979/paywall-screen-3.webp" width="220" alt="Paywall screen 3"></a>
 </p>
 
@@ -67,9 +69,9 @@ For app builders, product managers, growth teams, and designers, this case can b
 |---|---|
 | Category | Entertainment |
 | Paywall type | No Free Trial - Soft Paywall |
-| Pricing model | 2 offer sets across week, year |
-| Captured version | 3.2.50 |
-| Version release date | 2025-10-09 |
+| Pricing model | 2 offer sets across week, month, year |
+| Captured version | 3.6.50 |
+| Version release date | 2026-03-18 |
 
 This paywall uses the **No Free Trial - Soft Paywall** structure.
 
@@ -77,21 +79,21 @@ This pattern is useful for studying how the app presents subscription value, red
 
 ## Pricing Structure
 
-| Offer | Week | Year |
-|---|---:|---:|
-| Offer 1 | $14.99 | $149.99 |
-| Offer 2 | Not shown | $149.99 |
+| Offer | Week | Month | Year |
+|---|---:|---:|---:|
+| Offer 1 | $9.99/$19.99 | Not shown | Not shown |
+| Offer 2 | $19.99 | $39.99 | $199.99 |
 
 ## Monetization Signals
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 4.60 |
+| App Store rating | 4.67 |
 | Category rank | #5 |
-| Estimated MRR | $7.60M |
-| Avg daily revenue | $244.19K |
-| Avg daily downloads | 19.57K |
-| Avg daily ARPU | $12.48 |
+| Estimated MRR | $157.47K |
+| Avg daily revenue | Not available |
+| Avg daily downloads | Not available |
+| Avg daily ARPU | Not available |
 | Screenshot count in public repo | 3 |
 | Onboarding flow available | Yes |
 | Full history available on PaywallPro | Yes |

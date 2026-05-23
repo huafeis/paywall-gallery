@@ -5,29 +5,29 @@ developer: "Life360"
 category: "Social Networking"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across month, year"
-mrr: "$6.63M"
-rating: 4.78
-versions_count: 2
+mrr: "$4.50M"
+rating: 4.79
+versions_count: 3
 offers:
   - period: "month"
-    prices: ["$4.99"]
+    prices: ["$14.99", "$7.99/$14.99/$24.99"]
   - period: "year"
-    prices: ["$49.99"]
+    prices: ["$79.99/$149.99/$249.99"]
 screenshots_count: 3
-onboarding_flows_count: 10
+onboarding_flows_count: 37
 app_detail_url: "https://www.paywallpro.app/apps/Life360:-Stay-Connected-&-Safe-us?id=21&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Life360: Stay Connected & Safe Paywall Analysis
 
-Category: Social Networking  
-Estimated MRR: $6.63M  
-Paywall Pattern: Free Trial - Soft Paywall  
-Pricing Model: 2 offer sets across month, year  
-Captured Version: 24.33.0  
-Version Release Date: 2024-08-22  
+Category: Social Networking
+Estimated MRR: $4.50M
+Paywall Pattern: Free Trial - Soft Paywall
+Pricing Model: 2 offer sets across month, year
+Captured Version: 26.1.0
+Version Release Date: 2026-01-15
 
-View full case on PaywallPro:  
+View full case on PaywallPro:
 <a href="https://www.paywallpro.app/apps/Life360:-Stay-Connected-&-Safe-us?id=21&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">Open full case on PaywallPro</a>
 
 ## Snapshot
@@ -57,8 +57,8 @@ For app builders, product managers, growth teams, and designers, this case can b
 
 <p align="center">
   <a href="https://www.paywallpro.app/apps/Life360:-Stay-Connected-&-Safe-us?id=21&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/life360-stay-connected-and-safe-384830320/cover.webp" width="220" alt="Life360: Stay Connected & Safe paywall screen 1"></a>
-  <a href="https://www.paywallpro.app/apps/Life360:-Stay-Connected-&-Safe-us?id=21&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/life360-stay-connected-and-safe-384830320/paywall-monthly-4-99.webp" width="220" alt="Monthly $4.99"></a>
-  <a href="https://www.paywallpro.app/apps/Life360:-Stay-Connected-&-Safe-us?id=21&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/life360-stay-connected-and-safe-384830320/paywall-screen-3.webp" width="220" alt="Paywall screen 3"></a>
+  <a href="https://www.paywallpro.app/apps/Life360:-Stay-Connected-&-Safe-us?id=21&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/life360-stay-connected-and-safe-384830320/paywall-monthly-7-99-14-99-24-99.webp" width="220" alt="Monthly $7.99/$14.99/$24.99"></a>
+  <a href="https://www.paywallpro.app/apps/Life360:-Stay-Connected-&-Safe-us?id=21&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/life360-stay-connected-and-safe-384830320/paywall-monthly-7-99-14-99-24-99-2.webp" width="220" alt="Monthly $7.99/$14.99/$24.99"></a>
 </p>
 
 ## Paywall Pattern
@@ -68,8 +68,8 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Category | Social Networking |
 | Paywall type | Free Trial - Soft Paywall |
 | Pricing model | 2 offer sets across month, year |
-| Captured version | 24.33.0 |
-| Version release date | 2024-08-22 |
+| Captured version | 26.1.0 |
+| Version release date | 2026-01-15 |
 
 This paywall uses the **Free Trial - Soft Paywall** structure.
 
@@ -79,19 +79,19 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Offer | Month | Year |
 |---|---:|---:|
-| Offer 1 | $4.99 | $49.99 |
-| Offer 2 | $4.99 | Not shown |
+| Offer 1 | $14.99 | Not shown |
+| Offer 2 | $7.99/$14.99/$24.99 | $79.99/$149.99/$249.99 |
 
 ## Monetization Signals
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 4.78 |
+| App Store rating | 4.79 |
 | Category rank | #5 |
-| Estimated MRR | $6.63M |
-| Avg daily revenue | $315.49K |
-| Avg daily downloads | 38.37K |
-| Avg daily ARPU | $8.23 |
+| Estimated MRR | $4.50M |
+| Avg daily revenue | $284.75K |
+| Avg daily downloads | 21.37K |
+| Avg daily ARPU | $13.33 |
 | Screenshot count in public repo | 3 |
 | Onboarding flow available | Yes |
 | Full history available on PaywallPro | Yes |

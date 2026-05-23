@@ -5,8 +5,8 @@ developer: "Tinder LLC"
 category: "Lifestyle"
 paywall_type: "No Free Trial - Soft Paywall"
 pricing_model: "3 offer sets across week, month, half year"
-mrr: "$17.12M"
-rating: 4.16
+mrr: "$921.50K"
+rating: 4.18
 versions_count: 1
 offers:
   - period: "week"
@@ -22,14 +22,14 @@ app_detail_url: "https://www.paywallpro.app/apps/Tinder-Dating-App:-Date-&-Chat-
 
 # Tinder Dating App: Date & Chat Paywall Analysis
 
-Category: Lifestyle  
-Estimated MRR: $17.12M  
-Paywall Pattern: No Free Trial - Soft Paywall  
-Pricing Model: 3 offer sets across week, month, half year  
-Captured Version: 15.10.1  
-Version Release Date: 2024-06-06  
+Category: Lifestyle
+Estimated MRR: $921.50K
+Paywall Pattern: No Free Trial - Soft Paywall
+Pricing Model: 3 offer sets across week, month, half year
+Captured Version: 15.10.1
+Version Release Date: 2024-06-06
 
-View full case on PaywallPro:  
+View full case on PaywallPro:
 <a href="https://www.paywallpro.app/apps/Tinder-Dating-App:-Date-&-Chat-us?id=3&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">Open full case on PaywallPro</a>
 
 ## Snapshot
@@ -89,9 +89,9 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 4.16 |
+| App Store rating | 4.18 |
 | Category rank | #1 |
-| Estimated MRR | $17.12M |
+| Estimated MRR | $921.50K |
 | Avg daily revenue | $1.13M |
 | Avg daily downloads | 16.44K |
 | Avg daily ARPU | $68.47 |

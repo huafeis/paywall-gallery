@@ -8,7 +8,8 @@ Books apps use subscription paywalls to communicate value and convert users into
 
 | App | Estimated MRR | Pattern | Page |
 |---|---:|---|---|
-| Audible: Audiobooks & Podcasts | $8.84M | No Free Trial - Soft Paywall | [Open](../apps/audible-audiobooks-and-podcasts-379693831.md) |
+| Audible: Audiobooks & Podcasts | $241.79K | No Free Trial - Soft Paywall | [Open](../apps/audible-audiobooks-and-podcasts-379693831.md) |
+| GoodNovel - Booktok, Stories | $65.60K | Currency Paywall | [Open](../apps/goodnovel-booktok-stories-1503128132.md) |
 
 ## What to study
 

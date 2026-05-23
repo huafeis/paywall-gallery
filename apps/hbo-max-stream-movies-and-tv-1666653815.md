@@ -5,29 +5,29 @@ developer: "WarnerMedia Global Digital Services, LLC"
 category: "Entertainment"
 paywall_type: "No Free Trial - Soft Paywall"
 pricing_model: "1 offer set across month, year"
-mrr: "$19.00M"
+mrr: "$474.78K"
 rating: 4.87
-versions_count: 1
+versions_count: 7
 offers:
   - period: "month"
-    prices: ["$9.99/$16.99/$20.99"]
+    prices: ["$19.98"]
   - period: "year"
-    prices: ["$99.99/$169.99/$209.99"]
+    prices: ["$189.98"]
 screenshots_count: 3
-onboarding_flows_count: 5
+onboarding_flows_count: 4
 app_detail_url: "https://www.paywallpro.app/apps/HBO-Max:-Stream-Movies-&-TV-us?id=4&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # HBO Max: Stream Movies & TV Paywall Analysis
 
-Category: Entertainment  
-Estimated MRR: $19.00M  
-Paywall Pattern: No Free Trial - Soft Paywall  
-Pricing Model: 1 offer set across month, year  
-Captured Version: 5.2.0  
-Version Release Date: 2024-12-09  
+Category: Entertainment
+Estimated MRR: $474.78K
+Paywall Pattern: No Free Trial - Soft Paywall
+Pricing Model: 1 offer set across month, year
+Captured Version: 6.17.2
+Version Release Date: 2026-03-30
 
-View full case on PaywallPro:  
+View full case on PaywallPro:
 <a href="https://www.paywallpro.app/apps/HBO-Max:-Stream-Movies-&-TV-us?id=4&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">Open full case on PaywallPro</a>
 
 ## Snapshot
@@ -68,8 +68,8 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Category | Entertainment |
 | Paywall type | No Free Trial - Soft Paywall |
 | Pricing model | 1 offer set across month, year |
-| Captured version | 5.2.0 |
-| Version release date | 2024-12-09 |
+| Captured version | 6.17.2 |
+| Version release date | 2026-03-30 |
 
 This paywall uses the **No Free Trial - Soft Paywall** structure.
 
@@ -79,7 +79,7 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Offer | Month | Year |
 |---|---:|---:|
-| Offer 1 | $9.99/$16.99/$20.99 | $99.99/$169.99/$209.99 |
+| Offer 1 | $19.98 | $189.98 |
 
 ## Monetization Signals
 
@@ -87,10 +87,10 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.87 |
 | Category rank | #3 |
-| Estimated MRR | $19.00M |
-| Avg daily revenue | $1.23M |
-| Avg daily downloads | 36.40K |
-| Avg daily ARPU | $33.80 |
+| Estimated MRR | $474.78K |
+| Avg daily revenue | Not available |
+| Avg daily downloads | Not available |
+| Avg daily ARPU | Not available |
 | Screenshot count in public repo | 3 |
 | Onboarding flow available | Yes |
 | Full history available on PaywallPro | Yes |

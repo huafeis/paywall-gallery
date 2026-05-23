@@ -4,28 +4,30 @@ app_id: 379693831
 developer: "Audible, Inc."
 category: "Books"
 paywall_type: "No Free Trial - Soft Paywall"
-pricing_model: "1 offer set across month"
-mrr: "$8.84M"
+pricing_model: "2 offer sets across month, one-time purchase"
+mrr: "$241.79K"
 rating: 4.85
-versions_count: 1
+versions_count: 2
 offers:
   - period: "month"
-    prices: ["$14.95"]
+    prices: ["$0.99"]
+  - period: "one-time purchase"
+    prices: ["$7.99"]
 screenshots_count: 3
-onboarding_flows_count: 7
+onboarding_flows_count: 9
 app_detail_url: "https://www.paywallpro.app/apps/Audible:-Audiobooks-&-Podcasts-us?id=6&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Audible: Audiobooks & Podcasts Paywall Analysis
 
-Category: Books  
-Estimated MRR: $8.84M  
-Paywall Pattern: No Free Trial - Soft Paywall  
-Pricing Model: 1 offer set across month  
-Captured Version: 4.53  
-Version Release Date: 2025-09-09  
+Category: Books
+Estimated MRR: $241.79K
+Paywall Pattern: No Free Trial - Soft Paywall
+Pricing Model: 2 offer sets across month, one-time purchase
+Captured Version: 4.60.1
+Version Release Date: 2026-01-07
 
-View full case on PaywallPro:  
+View full case on PaywallPro:
 <a href="https://www.paywallpro.app/apps/Audible:-Audiobooks-&-Podcasts-us?id=6&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">Open full case on PaywallPro</a>
 
 ## Snapshot
@@ -39,7 +41,8 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 ## Key Takeaways
 
 - Audible: Audiobooks & Podcasts uses the No Free Trial - Soft Paywall pattern in the Books category.
-- The preview exposes one visible offer set; the full PaywallPro page may include more historical context.
+- 2 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
+- The paywall presents month, one-time purchase option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Books app packages subscription value for its users.
 
 ## Why This Paywall Matters
@@ -54,7 +57,7 @@ For app builders, product managers, growth teams, and designers, this case can b
 
 <p align="center">
   <a href="https://www.paywallpro.app/apps/Audible:-Audiobooks-&-Podcasts-us?id=6&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/audible-audiobooks-and-podcasts-379693831/cover.webp" width="220" alt="Audible: Audiobooks & Podcasts paywall screen 1"></a>
-  <a href="https://www.paywallpro.app/apps/Audible:-Audiobooks-&-Podcasts-us?id=6&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/audible-audiobooks-and-podcasts-379693831/paywall-screen-2.webp" width="220" alt="Paywall screen 2"></a>
+  <a href="https://www.paywallpro.app/apps/Audible:-Audiobooks-&-Podcasts-us?id=6&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/audible-audiobooks-and-podcasts-379693831/paywall-one-time-purchase-7-99.webp" width="220" alt="One-Time Purchase $7.99"></a>
   <a href="https://www.paywallpro.app/apps/Audible:-Audiobooks-&-Podcasts-us?id=6&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/audible-audiobooks-and-podcasts-379693831/paywall-screen-3.webp" width="220" alt="Paywall screen 3"></a>
 </p>
 
@@ -64,9 +67,9 @@ For app builders, product managers, growth teams, and designers, this case can b
 |---|---|
 | Category | Books |
 | Paywall type | No Free Trial - Soft Paywall |
-| Pricing model | 1 offer set across month |
-| Captured version | 4.53 |
-| Version release date | 2025-09-09 |
+| Pricing model | 2 offer sets across month, one-time purchase |
+| Captured version | 4.60.1 |
+| Version release date | 2026-01-07 |
 
 This paywall uses the **No Free Trial - Soft Paywall** structure.
 
@@ -74,9 +77,10 @@ This pattern is useful for studying how the app presents subscription value, red
 
 ## Pricing Structure
 
-| Offer | Month |
-|---|---:|
-| Offer 1 | $14.95 |
+| Offer | Month | One-Time Purchase |
+|---|---:|---:|
+| Offer 1 | $0.99 | Not shown |
+| Offer 2 | Not shown | $7.99 |
 
 ## Monetization Signals
 
@@ -84,10 +88,10 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.85 |
 | Category rank | #1 |
-| Estimated MRR | $8.84M |
-| Avg daily revenue | $300.32K |
-| Avg daily downloads | 23.15K |
-| Avg daily ARPU | $12.98 |
+| Estimated MRR | $241.79K |
+| Avg daily revenue | $272.90K |
+| Avg daily downloads | 20.96K |
+| Avg daily ARPU | $13.03 |
 | Screenshot count in public repo | 3 |
 | Onboarding flow available | Yes |
 | Full history available on PaywallPro | Yes |
