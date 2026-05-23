@@ -177,4 +177,4 @@ It helps app developers, product managers, growth teams, and designers study rea
 
 Learn more:
 
-https://www.paywallpro.app
+<a href="https://www.paywallpro.app" target="_blank" rel="noopener noreferrer">https://www.paywallpro.app</a>

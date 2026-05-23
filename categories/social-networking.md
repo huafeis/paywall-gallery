@@ -20,4 +20,4 @@ Social Networking apps use subscription paywalls to communicate value and conver
 
 For complete screenshot history and onboarding flows, visit:
 
-[PaywallPro](https://www.paywallpro.app)
+<a href="https://www.paywallpro.app" target="_blank" rel="noopener noreferrer">PaywallPro</a>

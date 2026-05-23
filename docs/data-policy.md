@@ -17,4 +17,4 @@ This repository is a public sample gallery, not a full PaywallPro export.
 - Raw crawler metadata or database connection details.
 - Original full-resolution assets.
 
-For complete history, comparison, onboarding context, and deeper revenue insights, use [PaywallPro](https://www.paywallpro.app/?utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery).
+For complete history, comparison, onboarding context, and deeper revenue insights, use <a href="https://www.paywallpro.app/?utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">PaywallPro</a>.

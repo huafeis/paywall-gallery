@@ -152,4 +152,4 @@ PaywallPro 是一个面向 iOS App 的订阅智能分析平台。
 
 了解更多：
 
-https://www.paywallpro.app
+<a href="https://www.paywallpro.app" target="_blank" rel="noopener noreferrer">https://www.paywallpro.app</a>

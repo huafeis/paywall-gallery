@@ -27,4 +27,4 @@ Entertainment apps often rely on content value, exclusive access, free trials, a
 
 For complete screenshot history and onboarding flows, visit:
 
-[PaywallPro](https://www.paywallpro.app)
+<a href="https://www.paywallpro.app" target="_blank" rel="noopener noreferrer">PaywallPro</a>

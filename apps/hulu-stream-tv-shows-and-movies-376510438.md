@@ -13,7 +13,7 @@ offers:
     prices: ["$7.99/$17.99"]
 screenshots_count: 3
 onboarding_flows_count: 6
-app_detail_url: "https://www.paywallpro.app/apps/hulu-stream-tv-shows-and-movies?id=376510438&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
+app_detail_url: "https://www.paywallpro.app/apps/Hulu:-Stream-TV-shows-&-movies-us?id=7&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Hulu: Stream TV shows & movies Paywall Analysis
@@ -26,7 +26,7 @@ Captured Version: 8.4.1
 Version Release Date: 2024-05-28  
 
 View full case on PaywallPro:  
-https://www.paywallpro.app/apps/hulu-stream-tv-shows-and-movies?id=376510438&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery
+<a href="https://www.paywallpro.app/apps/Hulu:-Stream-TV-shows-&-movies-us?id=7&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">Open full case on PaywallPro</a>
 
 ## Snapshot
 
@@ -53,9 +53,9 @@ For app builders, product managers, growth teams, and designers, this case can b
 ## Screenshots
 
 <p align="center">
-  <a href="https://www.paywallpro.app/apps/hulu-stream-tv-shows-and-movies?id=376510438&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/hulu-stream-tv-shows-and-movies-376510438/cover.webp" width="220" alt="Hulu: Stream TV shows & movies paywall screen 1"></a>
-  <a href="https://www.paywallpro.app/apps/hulu-stream-tv-shows-and-movies?id=376510438&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/hulu-stream-tv-shows-and-movies-376510438/paywall-screen-2.webp" width="220" alt="Paywall screen 2"></a>
-  <a href="https://www.paywallpro.app/apps/hulu-stream-tv-shows-and-movies?id=376510438&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/hulu-stream-tv-shows-and-movies-376510438/paywall-screen-3.webp" width="220" alt="Paywall screen 3"></a>
+  <a href="https://www.paywallpro.app/apps/Hulu:-Stream-TV-shows-&-movies-us?id=7&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/hulu-stream-tv-shows-and-movies-376510438/cover.webp" width="220" alt="Hulu: Stream TV shows & movies paywall screen 1"></a>
+  <a href="https://www.paywallpro.app/apps/Hulu:-Stream-TV-shows-&-movies-us?id=7&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/hulu-stream-tv-shows-and-movies-376510438/paywall-screen-2.webp" width="220" alt="Paywall screen 2"></a>
+  <a href="https://www.paywallpro.app/apps/Hulu:-Stream-TV-shows-&-movies-us?id=7&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/hulu-stream-tv-shows-and-movies-376510438/paywall-screen-3.webp" width="220" alt="Paywall screen 3"></a>
 </p>
 
 ## Paywall Pattern
@@ -115,7 +115,7 @@ This is a limited public preview.
 
 For the full paywall history, complete screenshot set, onboarding flow, historical changes, pricing experiments, and deeper revenue analysis, visit:
 
-[PaywallPro](https://www.paywallpro.app/apps/hulu-stream-tv-shows-and-movies?id=376510438&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery)
+<a href="https://www.paywallpro.app/apps/Hulu:-Stream-TV-shows-&-movies-us?id=7&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">PaywallPro</a>
 
 ---
 

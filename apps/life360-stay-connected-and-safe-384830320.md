@@ -15,7 +15,7 @@ offers:
     prices: ["$49.99"]
 screenshots_count: 3
 onboarding_flows_count: 10
-app_detail_url: "https://www.paywallpro.app/apps/life360-stay-connected-and-safe?id=384830320&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
+app_detail_url: "https://www.paywallpro.app/apps/Life360:-Stay-Connected-&-Safe-us?id=21&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Life360: Stay Connected & Safe Paywall Analysis
@@ -28,7 +28,7 @@ Captured Version: 24.33.0
 Version Release Date: 2024-08-22  
 
 View full case on PaywallPro:  
-https://www.paywallpro.app/apps/life360-stay-connected-and-safe?id=384830320&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery
+<a href="https://www.paywallpro.app/apps/Life360:-Stay-Connected-&-Safe-us?id=21&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">Open full case on PaywallPro</a>
 
 ## Snapshot
 
@@ -56,9 +56,9 @@ For app builders, product managers, growth teams, and designers, this case can b
 ## Screenshots
 
 <p align="center">
-  <a href="https://www.paywallpro.app/apps/life360-stay-connected-and-safe?id=384830320&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/life360-stay-connected-and-safe-384830320/cover.webp" width="220" alt="Life360: Stay Connected & Safe paywall screen 1"></a>
-  <a href="https://www.paywallpro.app/apps/life360-stay-connected-and-safe?id=384830320&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/life360-stay-connected-and-safe-384830320/paywall-monthly-4-99.webp" width="220" alt="Monthly $4.99"></a>
-  <a href="https://www.paywallpro.app/apps/life360-stay-connected-and-safe?id=384830320&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/life360-stay-connected-and-safe-384830320/paywall-screen-3.webp" width="220" alt="Paywall screen 3"></a>
+  <a href="https://www.paywallpro.app/apps/Life360:-Stay-Connected-&-Safe-us?id=21&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/life360-stay-connected-and-safe-384830320/cover.webp" width="220" alt="Life360: Stay Connected & Safe paywall screen 1"></a>
+  <a href="https://www.paywallpro.app/apps/Life360:-Stay-Connected-&-Safe-us?id=21&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/life360-stay-connected-and-safe-384830320/paywall-monthly-4-99.webp" width="220" alt="Monthly $4.99"></a>
+  <a href="https://www.paywallpro.app/apps/Life360:-Stay-Connected-&-Safe-us?id=21&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/life360-stay-connected-and-safe-384830320/paywall-screen-3.webp" width="220" alt="Paywall screen 3"></a>
 </p>
 
 ## Paywall Pattern
@@ -119,7 +119,7 @@ This is a limited public preview.
 
 For the full paywall history, complete screenshot set, onboarding flow, historical changes, pricing experiments, and deeper revenue analysis, visit:
 
-[PaywallPro](https://www.paywallpro.app/apps/life360-stay-connected-and-safe?id=384830320&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery)
+<a href="https://www.paywallpro.app/apps/Life360:-Stay-Connected-&-Safe-us?id=21&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">PaywallPro</a>
 
 ---
 

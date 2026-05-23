@@ -13,7 +13,7 @@ offers:
     prices: ["$7.99/$11.99/$15.99"]
 screenshots_count: 3
 onboarding_flows_count: 0
-app_detail_url: "https://www.paywallpro.app/apps/crunchyroll?id=329913454&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
+app_detail_url: "https://www.paywallpro.app/apps/Crunchyroll-us?id=17&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Crunchyroll Paywall Analysis
@@ -26,7 +26,7 @@ Captured Version: 4.66.0
 Version Release Date: 2024-12-09  
 
 View full case on PaywallPro:  
-https://www.paywallpro.app/apps/crunchyroll?id=329913454&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery
+<a href="https://www.paywallpro.app/apps/Crunchyroll-us?id=17&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">Open full case on PaywallPro</a>
 
 ## Snapshot
 
@@ -53,9 +53,9 @@ For app builders, product managers, growth teams, and designers, this case can b
 ## Screenshots
 
 <p align="center">
-  <a href="https://www.paywallpro.app/apps/crunchyroll?id=329913454&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/crunchyroll-329913454/cover.webp" width="220" alt="Crunchyroll paywall screen 1"></a>
-  <a href="https://www.paywallpro.app/apps/crunchyroll?id=329913454&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/crunchyroll-329913454/paywall-screen-2.webp" width="220" alt="Paywall screen 2"></a>
-  <a href="https://www.paywallpro.app/apps/crunchyroll?id=329913454&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/crunchyroll-329913454/paywall-screen-3.webp" width="220" alt="Paywall screen 3"></a>
+  <a href="https://www.paywallpro.app/apps/Crunchyroll-us?id=17&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/crunchyroll-329913454/cover.webp" width="220" alt="Crunchyroll paywall screen 1"></a>
+  <a href="https://www.paywallpro.app/apps/Crunchyroll-us?id=17&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/crunchyroll-329913454/paywall-screen-2.webp" width="220" alt="Paywall screen 2"></a>
+  <a href="https://www.paywallpro.app/apps/Crunchyroll-us?id=17&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/crunchyroll-329913454/paywall-screen-3.webp" width="220" alt="Paywall screen 3"></a>
 </p>
 
 ## Paywall Pattern
@@ -115,7 +115,7 @@ This is a limited public preview.
 
 For the full paywall history, complete screenshot set, onboarding flow, historical changes, pricing experiments, and deeper revenue analysis, visit:
 
-[PaywallPro](https://www.paywallpro.app/apps/crunchyroll?id=329913454&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery)
+<a href="https://www.paywallpro.app/apps/Crunchyroll-us?id=17&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">PaywallPro</a>
 
 ---
 

@@ -5,7 +5,7 @@
 - [English](README.md)
 - [简体中文](README.zh-CN.md)
 
-An open, curated dataset of iOS app paywalls and onboarding flows, published by [PaywallPro](https://www.paywallpro.app/?utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery).
+An open, curated dataset of iOS app paywalls and onboarding flows, published by <a href="https://www.paywallpro.app/?utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">PaywallPro</a>.
 
 Study how top iOS apps design paywalls, structure pricing, use free trials, present offers, onboard users, and monetize across different categories.
 
@@ -104,7 +104,7 @@ The full PaywallPro product includes:
 
 Explore the full database:
 
-[https://www.paywallpro.app](https://www.paywallpro.app/?utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery)
+<a href="https://www.paywallpro.app/?utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">https://www.paywallpro.app</a>
 
 ---
 
@@ -134,7 +134,7 @@ offers:
     prices: ["$18.99", "$18.99/$29.99"]
 screenshots_count: 2
 onboarding_flows_count: 1
-app_detail_url: "https://www.paywallpro.app/apps/youtube?id=544007664"
+app_detail_url: "https://www.paywallpro.app/apps/YouTube-us?id=PAYWALLPRO_INFO_ID"
 ---
 ```
 

@@ -15,7 +15,7 @@ offers:
     prices: ["$149.99"]
 screenshots_count: 3
 onboarding_flows_count: 15
-app_detail_url: "https://www.paywallpro.app/apps/reelshort-stream-drama-and-tv?id=1636235979&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
+app_detail_url: "https://www.paywallpro.app/apps/ReelShort---Stream-Drama-&-TV-us?id=26&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # ReelShort - Stream Drama & TV Paywall Analysis
@@ -28,7 +28,7 @@ Captured Version: 3.2.50
 Version Release Date: 2025-10-09  
 
 View full case on PaywallPro:  
-https://www.paywallpro.app/apps/reelshort-stream-drama-and-tv?id=1636235979&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery
+<a href="https://www.paywallpro.app/apps/ReelShort---Stream-Drama-&-TV-us?id=26&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">Open full case on PaywallPro</a>
 
 ## Snapshot
 
@@ -56,9 +56,9 @@ For app builders, product managers, growth teams, and designers, this case can b
 ## Screenshots
 
 <p align="center">
-  <a href="https://www.paywallpro.app/apps/reelshort-stream-drama-and-tv?id=1636235979&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/reelshort-stream-drama-and-tv-1636235979/cover.webp" width="220" alt="ReelShort - Stream Drama & TV paywall screen 1"></a>
-  <a href="https://www.paywallpro.app/apps/reelshort-stream-drama-and-tv?id=1636235979&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/reelshort-stream-drama-and-tv-1636235979/paywall-annual-149-99.webp" width="220" alt="Annual $149.99"></a>
-  <a href="https://www.paywallpro.app/apps/reelshort-stream-drama-and-tv?id=1636235979&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/reelshort-stream-drama-and-tv-1636235979/paywall-screen-3.webp" width="220" alt="Paywall screen 3"></a>
+  <a href="https://www.paywallpro.app/apps/ReelShort---Stream-Drama-&-TV-us?id=26&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/reelshort-stream-drama-and-tv-1636235979/cover.webp" width="220" alt="ReelShort - Stream Drama & TV paywall screen 1"></a>
+  <a href="https://www.paywallpro.app/apps/ReelShort---Stream-Drama-&-TV-us?id=26&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/reelshort-stream-drama-and-tv-1636235979/paywall-annual-149-99.webp" width="220" alt="Annual $149.99"></a>
+  <a href="https://www.paywallpro.app/apps/ReelShort---Stream-Drama-&-TV-us?id=26&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/reelshort-stream-drama-and-tv-1636235979/paywall-screen-3.webp" width="220" alt="Paywall screen 3"></a>
 </p>
 
 ## Paywall Pattern
@@ -119,7 +119,7 @@ This is a limited public preview.
 
 For the full paywall history, complete screenshot set, onboarding flow, historical changes, pricing experiments, and deeper revenue analysis, visit:
 
-[PaywallPro](https://www.paywallpro.app/apps/reelshort-stream-drama-and-tv?id=1636235979&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery)
+<a href="https://www.paywallpro.app/apps/ReelShort---Stream-Drama-&-TV-us?id=26&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">PaywallPro</a>
 
 ---
 

@@ -17,7 +17,7 @@ offers:
     prices: ["$139.99", "$179.99", "$99.99"]
 screenshots_count: 3
 onboarding_flows_count: 0
-app_detail_url: "https://www.paywallpro.app/apps/tinder-dating-app-date-and-chat?id=547702041&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
+app_detail_url: "https://www.paywallpro.app/apps/Tinder-Dating-App:-Date-&-Chat-us?id=3&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Tinder Dating App: Date & Chat Paywall Analysis
@@ -30,7 +30,7 @@ Captured Version: 15.10.1
 Version Release Date: 2024-06-06  
 
 View full case on PaywallPro:  
-https://www.paywallpro.app/apps/tinder-dating-app-date-and-chat?id=547702041&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery
+<a href="https://www.paywallpro.app/apps/Tinder-Dating-App:-Date-&-Chat-us?id=3&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">Open full case on PaywallPro</a>
 
 ## Snapshot
 
@@ -58,9 +58,9 @@ For app builders, product managers, growth teams, and designers, this case can b
 ## Screenshots
 
 <p align="center">
-  <a href="https://www.paywallpro.app/apps/tinder-dating-app-date-and-chat?id=547702041&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/tinder-dating-app-date-and-chat-547702041/cover.webp" width="220" alt="Tinder Dating App: Date & Chat paywall screen 1"></a>
-  <a href="https://www.paywallpro.app/apps/tinder-dating-app-date-and-chat?id=547702041&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/tinder-dating-app-date-and-chat-547702041/paywall-weekly-24-99.webp" width="220" alt="Weekly $24.99"></a>
-  <a href="https://www.paywallpro.app/apps/tinder-dating-app-date-and-chat?id=547702041&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"><img src="../screenshots/tinder-dating-app-date-and-chat-547702041/paywall-weekly-12-99.webp" width="220" alt="Weekly $12.99"></a>
+  <a href="https://www.paywallpro.app/apps/Tinder-Dating-App:-Date-&-Chat-us?id=3&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/tinder-dating-app-date-and-chat-547702041/cover.webp" width="220" alt="Tinder Dating App: Date & Chat paywall screen 1"></a>
+  <a href="https://www.paywallpro.app/apps/Tinder-Dating-App:-Date-&-Chat-us?id=3&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/tinder-dating-app-date-and-chat-547702041/paywall-weekly-24-99.webp" width="220" alt="Weekly $24.99"></a>
+  <a href="https://www.paywallpro.app/apps/Tinder-Dating-App:-Date-&-Chat-us?id=3&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/tinder-dating-app-date-and-chat-547702041/paywall-weekly-12-99.webp" width="220" alt="Weekly $12.99"></a>
 </p>
 
 ## Paywall Pattern
@@ -122,7 +122,7 @@ This is a limited public preview.
 
 For the full paywall history, complete screenshot set, onboarding flow, historical changes, pricing experiments, and deeper revenue analysis, visit:
 
-[PaywallPro](https://www.paywallpro.app/apps/tinder-dating-app-date-and-chat?id=547702041&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery)
+<a href="https://www.paywallpro.app/apps/Tinder-Dating-App:-Date-&-Chat-us?id=3&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">PaywallPro</a>
 
 ---
 
