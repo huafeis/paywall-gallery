@@ -8,13 +8,13 @@ Photo and video apps often rely on creative control, premium features, editing c
 
 | App | Estimated MRR | Pattern | Page |
 |---|---:|---|---|
-| Snapchat | $7.83M | No Free Trial - Soft Paywall | [Open](../apps/snapchat-447188370.md) |
 | YouTube | $3.07M | No Free Trial - Soft Paywall | [Open](../apps/youtube-544007664.md) |
 | Google Photos: Backup & Edit | $2.77M | No Free Trial - Soft Paywall | [Open](../apps/google-photos-backup-and-edit-962194608.md) |
 | FaceApp: Perfect Face Editor | $1.45M | Free Trial - Soft Paywall | [Open](../apps/faceapp-perfect-face-editor-1180884341.md) |
 | Lightroom: AI Photo Editor | $1.01M | Free Trial - Soft Paywall | [Open](../apps/lightroom-ai-photo-editor-878783582.md) |
 | Splice - Video Editor & Maker | $853.22K | Free Trial - Soft Paywall | [Open](../apps/splice-video-editor-and-maker-409838725.md) |
 | Retake AI Face & Selfie Editor | $506.20K | Free Trial - Soft Paywall | [Open](../apps/retake-ai-face-and-selfie-editor-6466298983.md) |
+| Snapchat | $495.34K | No Free Trial - Soft Paywall | [Open](../apps/snapchat-447188370.md) |
 | VSCO: Photo & Video Editor | $378.78K | Free Trial - Soft Paywall | [Open](../apps/vsco-photo-and-video-editor-588013838.md) |
 | Tezza: Aesthetic Photo Editor | $305.86K | Free Trial - Soft Paywall | [Open](../apps/tezza-aesthetic-photo-editor-1393061654.md) |
 | GoPro Quik | $301.04K | No Free Trial - Soft Paywall | [Open](../apps/gopro-quik-561350520.md) |
@@ -73,7 +73,6 @@ Photo and video apps often rely on creative control, premium features, editing c
 | Celebs - Celebrity Look Alike | $49.78K | Free Trial - Soft Paywall | [Open](../apps/celebs-celebrity-look-alike-1488127870.md) |
 | AI Catch: AI Video Generator | $49.54K | No Free Trial - Soft Paywall | [Open](../apps/ai-catch-ai-video-generator-6739276631.md) |
 | DaVinci - Image Generator AI | $49.06K | Free Trial - Soft Paywall | [Open](../apps/davinci-image-generator-ai-1630366866.md) |
-| Halo AI: Photo & Video Editor | $48.17K | Free Trial - Hard Paywall | [Open](../apps/halo-ai-photo-and-video-editor-6740445587.md) |
 | Unfold: Reels & Story Maker | $47.60K | No Free Trial - Soft Paywall | [Open](../apps/unfold-reels-and-story-maker-1247275033.md) |
 | Retouch Me: Face, Body Editor | $46.65K | Free Trial - Soft Paywall | [Open](../apps/retouch-me-face-body-editor-830286763.md) |
 | Photo Eraser - Remove Objects | $45.12K | Free Trial - Soft Paywall | [Open](../apps/photo-eraser-remove-objects-1465934502.md) |

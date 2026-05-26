@@ -45,6 +45,7 @@ Social Networking apps use subscription paywalls to communicate value and conver
 | Coverstar - Positive Social | $62.62K | Currency Paywall | [Open](../apps/coverstar-positive-social-1219890480.md) |
 | Fachat: Chat & Community | $47.95K | Currency Paywall | [Open](../apps/fachat-chat-and-community-1475875470.md) |
 | Livly Island - Adopt Cute Pets | $46.97K | No Free Trial - Soft Paywall | [Open](../apps/livly-island-adopt-cute-pets-1553045339.md) |
+| GraceChat | $44.78K | No Free Trial - Soft Paywall | [Open](../apps/gracechat-1658972379.md) |
 
 ## What to study
 

@@ -38,7 +38,6 @@ Utilities apps use subscription paywalls to communicate value and convert users 
 | QR Reader for iPhone | $46.78K | Free Trial - Soft Paywall | [Open](../apps/qr-reader-for-iphone-368494609.md) |
 | CleanX: Photo Storage Cleaner | $45.86K | Free Trial - Soft Paywall | [Open](../apps/cleanx-photo-storage-cleaner-1575903244.md) |
 | Remote for Firestick · Fire TV | $45.76K | No Free Trial - Soft Paywall | [Open](../apps/remote-for-firestick-fire-tv-1625553531.md) |
-| Calculator Air: AI Math Solver | $45.46K | Free Trial - Soft Paywall | [Open](../apps/calculator-air-ai-math-solver-1173365557.md) |
 
 ## What to study
 

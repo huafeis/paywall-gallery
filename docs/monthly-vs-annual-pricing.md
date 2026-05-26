@@ -20,7 +20,6 @@ The strongest paywalls usually make the comparison easy to understand.
 
 | App | Category | Page |
 |---|---|---|
-| Snapchat | Photo & Video | [Open](../apps/snapchat-447188370.md) |
 | Life360: Stay Connected & Safe | Social Networking | [Open](../apps/life360-stay-connected-and-safe-384830320.md) |
 | Grindr - Gay Dating & Chat | Social Networking | [Open](../apps/grindr-gay-dating-and-chat-319881193.md) |
 | YouTube | Photo & Video | [Open](../apps/youtube-544007664.md) |
@@ -33,10 +32,11 @@ The strongest paywalls usually make the comparison easy to understand.
 | NFL | Sports | [Open](../apps/nfl-389781154.md) |
 | SoundCloud: The Music You Love | Music | [Open](../apps/soundcloud-the-music-you-love-336353151.md) |
 | BIGO LIVE-Live Stream, Go Live | Social Networking | [Open](../apps/bigo-live-live-stream-go-live-1077137248.md) |
-| Adobe Acrobat Reader: Edit PDF | Business | [Open](../apps/adobe-acrobat-reader-edit-pdf-469337564.md) |
 | NYTimes: US and Global News | News | [Open](../apps/nytimes-us-and-global-news-284862083.md) |
 | FaceApp: Perfect Face Editor | Photo & Video | [Open](../apps/faceapp-perfect-face-editor-1180884341.md) |
 | Wyze - Never Wonder | Lifestyle | [Open](../apps/wyze-never-wonder-1288415553.md) |
 | MileIQ: Mileage Tracker & Log | Finance | [Open](../apps/mileiq-mileage-tracker-and-log-578830929.md) |
 | Lingokids: Games & Shows | Education | [Open](../apps/lingokids-games-and-shows-1002043426.md) |
 | Quizlet: More than Flashcards | Education | [Open](../apps/quizlet-more-than-flashcards-546473125.md) |
+| TIDAL Music: HiFi Sound | Music | [Open](../apps/tidal-music-hifi-sound-913943275.md) |
+| Peloton: Fitness & Workouts | Health & Fitness | [Open](../apps/peloton-fitness-and-workouts-792750948.md) |

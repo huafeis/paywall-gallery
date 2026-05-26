@@ -6,7 +6,7 @@ category: "Music"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "1 offer set across month, year"
 mrr: "$336.62K"
-rating: 4.76
+rating: 4.75
 versions_count: 7
 offers:
   - period: "month"
@@ -85,7 +85,7 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 4.76 |
+| App Store rating | 4.75 |
 | Category rank | #8 |
 | Estimated MRR | $336.62K |
 | Avg daily revenue | Not available |

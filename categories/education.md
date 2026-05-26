@@ -21,7 +21,6 @@ Education apps use subscription paywalls to communicate value and convert users 
 | Blinkist: Book Summaries Daily | $370.73K | No Free Trial - Soft Paywall | [Open](../apps/blinkist-book-summaries-daily-568839295.md) |
 | Early Learning Academy | $347.58K | Free Trial - Soft Paywall | [Open](../apps/early-learning-academy-586328581.md) |
 | Solid Starts: Baby First Foods | $336.88K | Free Trial - Soft Paywall | [Open](../apps/solid-starts-baby-first-foods-1564189151.md) |
-| PlantIn: Plant Identifier・Care | $305.67K | Free Trial - Soft Paywall | [Open](../apps/plantin-plant-identifier-care-1527399597.md) |
 | Epic - Kids' Books & Reading | $300.28K | Free Trial - Soft Paywall | [Open](../apps/epic-kids-books-and-reading-719219382.md) |
 | Keiki Learning games for Kids | $298.82K | Free Trial - Soft Paywall | [Open](../apps/keiki-learning-games-for-kids-1508098273.md) |
 | Simply Guitar - Learn Guitar | $268.66K | Free Trial - Soft Paywall | [Open](../apps/simply-guitar-learn-guitar-1476695335.md) |

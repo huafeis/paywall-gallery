@@ -1,0 +1,35 @@
+name: Data or screenshot problem
+description: Report broken screenshots, missing previews, or public metadata issues
+title: "[Data Problem]: "
+labels: ["data problem"]
+body:
+  - type: input
+    id: app-page
+    attributes:
+      label: App page
+      description: Link to the app page in this repository.
+      placeholder: apps/duolingo-language-lessons-570060128.md
+    validations:
+      required: true
+  - type: input
+    id: asset
+    attributes:
+      label: Broken image URL or field
+      description: Name the screenshot, field, or file that looks wrong.
+      placeholder: screenshots/example/cover.webp
+    validations:
+      required: false
+  - type: textarea
+    id: actual
+    attributes:
+      label: What happened?
+      description: Describe the incorrect, missing, duplicated, or confusing data.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+      description: Describe the expected screenshot, metadata, or behavior.
+    validations:
+      required: true

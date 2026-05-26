@@ -8,7 +8,6 @@ Business apps often convert users by selling professional growth, productivity, 
 
 | App | Estimated MRR | Pattern | Page |
 |---|---:|---|---|
-| Adobe Acrobat Reader: Edit PDF | $1.61M | Free Trial - Soft Paywall | [Open](../apps/adobe-acrobat-reader-edit-pdf-469337564.md) |
 | iScanner: PDF Document Scanner | $976.93K | Free Trial - Soft Paywall | [Open](../apps/iscanner-pdf-document-scanner-1040093707.md) |
 | Intuit QuickBooks for Business | $835.84K | Free Trial - Soft Paywall | [Open](../apps/intuit-quickbooks-for-business-584606479.md) |
 | Zoom Workplace | $644.96K | Free Trial - Soft Paywall | [Open](../apps/zoom-workplace-546505307.md) |
@@ -35,7 +34,9 @@ Business apps often convert users by selling professional growth, productivity, 
 | Call Recorder for iPhone. | $57.28K | Free Trial - Soft Paywall | [Open](../apps/call-recorder-for-iphone-1503665233.md) |
 | Popl: AI Lead Capture | $52.92K | Free Trial - Soft Paywall | [Open](../apps/popl-ai-lead-capture-1503939262.md) |
 | Scanner – Scan PDF & Document | $51.76K | Free Trial - Soft Paywall | [Open](../apps/scanner-scan-pdf-and-document-1291962681.md) |
+| Adobe Acrobat Reader: Edit PDF | $48.98K | Free Trial - Soft Paywall | [Open](../apps/adobe-acrobat-reader-edit-pdf-469337564.md) |
 | pdfFiller: edit PDF documents | $46.91K | Free Trial - Soft Paywall | [Open](../apps/pdffiller-edit-pdf-documents-571613512.md) |
+| PDF Editor ® | $44.94K | Free Trial - Soft Paywall | [Open](../apps/pdf-editor-1532638515.md) |
 
 ## What to study
 

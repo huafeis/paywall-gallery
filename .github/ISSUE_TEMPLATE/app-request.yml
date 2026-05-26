@@ -1,0 +1,45 @@
+name: App request
+description: Request a new app to add to Open Paywall Gallery
+title: "[App Request]: "
+labels: ["app request"]
+body:
+  - type: input
+    id: app-name
+    attributes:
+      label: App name
+      description: What app should we add?
+      placeholder: Duolingo
+    validations:
+      required: true
+  - type: input
+    id: app-store-url
+    attributes:
+      label: App Store URL
+      description: Paste the App Store URL if you have it.
+      placeholder: https://apps.apple.com/us/app/duolingo-language-lessons/id570060128
+    validations:
+      required: false
+  - type: input
+    id: region
+    attributes:
+      label: Country or region
+      description: Which storefront or market should we prioritize?
+      placeholder: US
+    validations:
+      required: false
+  - type: textarea
+    id: reason
+    attributes:
+      label: Why this app is interesting
+      description: Tell us what makes the paywall, pricing, onboarding, category, or competitor context useful.
+      placeholder: This app is a top subscription app in its category and has a notable free trial flow.
+    validations:
+      required: true
+  - type: textarea
+    id: research-question
+    attributes:
+      label: What do you want to learn?
+      description: What should builders study from this app's paywall or onboarding flow?
+      placeholder: I want to compare its monthly vs annual pricing and trial framing.
+    validations:
+      required: false

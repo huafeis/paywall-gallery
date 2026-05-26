@@ -1,0 +1,28 @@
+name: App category request
+description: Discuss which app category or paywall pattern should be prioritized next
+title: "[Category Request]: "
+body:
+  - type: input
+    id: category
+    attributes:
+      label: Category or pattern
+      description: Which category, pattern, or app group should we prioritize?
+      placeholder: Health & Fitness free trial paywalls
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why this should be prioritized
+      description: Explain who would use this category and what questions it helps answer.
+      placeholder: Fitness apps often use trial-heavy onboarding flows, and this would help compare trial framing.
+    validations:
+      required: true
+  - type: textarea
+    id: examples
+    attributes:
+      label: Example apps
+      description: List apps that should be included if you have examples.
+      placeholder: Strava, MyFitnessPal, Calm
+    validations:
+      required: false

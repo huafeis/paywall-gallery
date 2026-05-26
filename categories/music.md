@@ -42,6 +42,7 @@ Music apps often convert by selling ad-free listening, offline access, better pl
 | AI Song Generator - Zona | $61.85K | No Free Trial - Soft Paywall | [Open](../apps/ai-song-generator-zona-6499261254.md) |
 | Piano - Keyboard Lesson & Game | $61.35K | Free Trial - Soft Paywall | [Open](../apps/piano-keyboard-lesson-and-game-1360309966.md) |
 | Rap Fame - Rap Music Studio | $48.42K | Free Trial - Soft Paywall | [Open](../apps/rap-fame-rap-music-studio-1476399789.md) |
+| Tuner Pro: Guitar Tuner & Tab | $44.82K | Free Trial - Soft Paywall | [Open](../apps/tuner-pro-guitar-tuner-and-tab-1438248122.md) |
 
 ## What to study
 

@@ -19,7 +19,6 @@ Free trials can make a paid subscription feel easier to start. They are especial
 
 | App | Category | Page |
 |---|---|---|
-| Snapchat | Photo & Video | [Open](../apps/snapchat-447188370.md) |
 | Life360: Stay Connected & Safe | Social Networking | [Open](../apps/life360-stay-connected-and-safe-384830320.md) |
 | Grindr - Gay Dating & Chat | Social Networking | [Open](../apps/grindr-gay-dating-and-chat-319881193.md) |
 | YouTube | Photo & Video | [Open](../apps/youtube-544007664.md) |
@@ -32,7 +31,6 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | NFL | Sports | [Open](../apps/nfl-389781154.md) |
 | SoundCloud: The Music You Love | Music | [Open](../apps/soundcloud-the-music-you-love-336353151.md) |
 | BIGO LIVE-Live Stream, Go Live | Social Networking | [Open](../apps/bigo-live-live-stream-go-live-1077137248.md) |
-| Adobe Acrobat Reader: Edit PDF | Business | [Open](../apps/adobe-acrobat-reader-edit-pdf-469337564.md) |
 | NYTimes: US and Global News | News | [Open](../apps/nytimes-us-and-global-news-284862083.md) |
 | FaceApp: Perfect Face Editor | Photo & Video | [Open](../apps/faceapp-perfect-face-editor-1180884341.md) |
 | Wyze - Never Wonder | Lifestyle | [Open](../apps/wyze-never-wonder-1288415553.md) |
@@ -79,6 +77,7 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | FAX from iPhone: Send Doc App | Business | [Open](../apps/fax-from-iphone-send-doc-app-978931264.md) |
 | SiriusXM: Music, Sports & News | Music | [Open](../apps/siriusxm-music-sports-and-news-317951436.md) |
 | Retake AI Face & Selfie Editor | Photo & Video | [Open](../apps/retake-ai-face-and-selfie-editor-6466298983.md) |
+| Snapchat | Photo & Video | [Open](../apps/snapchat-447188370.md) |
 | HBO Max: Stream Movies & TV | Entertainment | [Open](../apps/hbo-max-stream-movies-and-tv-1666653815.md) |
 | 18Birdies: Golf GPS Tracker | Sports | [Open](../apps/18birdies-golf-gps-tracker-892700751.md) |
 | MacroFactor - Macro Tracker | Health & Fitness | [Open](../apps/macrofactor-macro-tracker-1553503471.md) |
@@ -106,7 +105,6 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | Crunchyroll | Entertainment | [Open](../apps/crunchyroll-329913454.md) |
 | Ancestry: Family History & DNA | Reference | [Open](../apps/ancestry-family-history-and-dna-349554263.md) |
 | Tezza: Aesthetic Photo Editor | Photo & Video | [Open](../apps/tezza-aesthetic-photo-editor-1393061654.md) |
-| PlantIn: Plant Identifier・Care | Education | [Open](../apps/plantin-plant-identifier-care-1527399597.md) |
 | Slopes: Ski & Snowboard | Sports | [Open](../apps/slopes-ski-and-snowboard-643351983.md) |
 | Fishbrain - Fishing App | Sports | [Open](../apps/fishbrain-fishing-app-477967747.md) |
 | GoPro Quik | Photo & Video | [Open](../apps/gopro-quik-561350520.md) |
@@ -473,11 +471,11 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | The Wall Street Journal. News | News | [Open](../apps/the-wall-street-journal-news-364387007.md) |
 | RIZZ | Lifestyle | [Open](../apps/rizz-1663430725.md) |
 | DaVinci - Image Generator AI | Photo & Video | [Open](../apps/davinci-image-generator-ai-1630366866.md) |
+| Adobe Acrobat Reader: Edit PDF | Business | [Open](../apps/adobe-acrobat-reader-edit-pdf-469337564.md) |
 | Calculator₊ | Utilities | [Open](../apps/calculator-398129933.md) |
 | AI Calorie Counter - Appediet | Health & Fitness | [Open](../apps/ai-calorie-counter-appediet-6450329545.md) |
 | Rap Fame - Rap Music Studio | Music | [Open](../apps/rap-fame-rap-music-studio-1476399789.md) |
 | Clean Manager: Storage Cleaner | Utilities | [Open](../apps/clean-manager-storage-cleaner-1579881271.md) |
-| Halo AI: Photo & Video Editor | Photo & Video | [Open](../apps/halo-ai-photo-and-video-editor-6740445587.md) |
 | Full Code Medical Simulation | Medical | [Open](../apps/full-code-medical-simulation-1207424206.md) |
 | KidloLand Kids Toddler Games | Education | [Open](../apps/kidloland-kids-toddler-games-533412119.md) |
 | Fitness AI Gym Workout Planner | Health & Fitness | [Open](../apps/fitness-ai-gym-workout-planner-1446224156.md) |
@@ -504,6 +502,8 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | Remote for Firestick · Fire TV | Utilities | [Open](../apps/remote-for-firestick-fire-tv-1625553531.md) |
 | Crayola Create and Play: Kids | Education | [Open](../apps/crayola-create-and-play-kids-1431955703.md) |
 | Course Hero: AI Homework Help | Education | [Open](../apps/course-hero-ai-homework-help-922208952.md) |
-| Calculator Air: AI Math Solver | Utilities | [Open](../apps/calculator-air-ai-math-solver-1173365557.md) |
 | Real - Sports | Sports | [Open](../apps/real-sports-1514546162.md) |
 | Photo Eraser - Remove Objects | Photo & Video | [Open](../apps/photo-eraser-remove-objects-1465934502.md) |
+| PDF Editor ® | Business | [Open](../apps/pdf-editor-1532638515.md) |
+| Tuner Pro: Guitar Tuner & Tab | Music | [Open](../apps/tuner-pro-guitar-tuner-and-tab-1438248122.md) |
+| GraceChat | Social Networking | [Open](../apps/gracechat-1658972379.md) |

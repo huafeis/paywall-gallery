@@ -6,7 +6,7 @@ category: "Sports"
 paywall_type: "No Free Trial - Soft Paywall"
 pricing_model: "1 offer set across month"
 mrr: "$300.55K"
-rating: 3.00
+rating: 3.05
 versions_count: 2
 offers:
   - period: "month"
@@ -82,7 +82,7 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 3.00 |
+| App Store rating | 3.05 |
 | Category rank | #136 |
 | Estimated MRR | $300.55K |
 | Avg daily revenue | $6.79K |

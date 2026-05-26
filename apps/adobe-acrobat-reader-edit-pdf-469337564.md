@@ -5,7 +5,7 @@ developer: "Adobe Inc."
 category: "Business"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "1 offer set across month, year"
-mrr: "$1.61M"
+mrr: "$48.98K"
 rating: 4.66
 versions_count: 7
 offers:
@@ -21,7 +21,7 @@ app_detail_url: "https://www.paywallpro.app/apps/Adobe-Acrobat-Reader:-Edit-PDF-
 # Adobe Acrobat Reader: Edit PDF Paywall Analysis
 
 Category: Business
-Estimated MRR: $1.61M
+Estimated MRR: $48.98K
 Paywall Pattern: Free Trial - Soft Paywall
 Pricing Model: 1 offer set across month, year
 Captured Version: 26.01.10
@@ -87,7 +87,7 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.66 |
 | Category rank | #12 |
-| Estimated MRR | $1.61M |
+| Estimated MRR | $48.98K |
 | Avg daily revenue | $110.73K |
 | Avg daily downloads | 12.46K |
 | Avg daily ARPU | $8.89 |
