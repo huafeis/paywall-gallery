@@ -20,7 +20,6 @@ Open an Issue if you want us to add a specific app: [request an app](https://git
   <a href="apps/youtube-544007664.md"><img src="screenshots/youtube-544007664/cover.webp" width="160" alt="YouTube paywall preview"></a>
   <a href="apps/google-photos-backup-and-edit-962194608.md"><img src="screenshots/google-photos-backup-and-edit-962194608/cover.webp" width="160" alt="Google Photos: Backup &amp; Edit paywall preview"></a>
   <a href="apps/amazon-music-songs-and-podcasts-510855668.md"><img src="screenshots/amazon-music-songs-and-podcasts-510855668/cover.webp" width="160" alt="Amazon Music: Songs &amp; Podcasts paywall preview"></a>
-  <a href="apps/bumble-dating-app-meet-and-date-930441707.md"><img src="screenshots/bumble-dating-app-meet-and-date-930441707/cover.webp" width="160" alt="Bumble Dating App: Meet &amp; Date paywall preview"></a>
 </p>
 
 
