@@ -12,16 +12,7 @@ Open an Issue if you want us to add a specific app: [request an app](https://git
 
 ---
 
-## Paywall previews
-
-<p align="center">
-  <a href="apps/life360-stay-connected-and-safe-384830320.md"><img src="screenshots/life360-stay-connected-and-safe-384830320/cover.webp" width="160" alt="Life360: Stay Connected &amp; Safe paywall preview"></a>
-  <a href="apps/grindr-gay-dating-and-chat-319881193.md"><img src="screenshots/grindr-gay-dating-and-chat-319881193/cover.webp" width="160" alt="Grindr - Gay Dating &amp; Chat paywall preview"></a>
-  <a href="apps/youtube-544007664.md"><img src="screenshots/youtube-544007664/cover.webp" width="160" alt="YouTube paywall preview"></a>
-  <a href="apps/google-photos-backup-and-edit-962194608.md"><img src="screenshots/google-photos-backup-and-edit-962194608/cover.webp" width="160" alt="Google Photos: Backup &amp; Edit paywall preview"></a>
-  <a href="apps/amazon-music-songs-and-podcasts-510855668.md"><img src="screenshots/amazon-music-songs-and-podcasts-510855668/cover.webp" width="160" alt="Amazon Music: Songs &amp; Podcasts paywall preview"></a>
-</p>
-
+![500+ iOS Paywalls & Onboarding Flows](assets/readme-hero.jpg)
 
 ---
 
