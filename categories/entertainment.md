@@ -31,6 +31,7 @@ Entertainment apps often rely on content value, exclusive access, free trials, a
 | Flipped:Chat with AI Character | $51.86K | No Free Trial - Soft Paywall | [Open](../apps/flipped-chat-with-ai-character-6445969623.md) |
 | MBC Shahid | $47.17K | No Free Trial - Soft Paywall | [Open](../apps/mbc-shahid-879915134.md) |
 | DreameShort - Drama TV | $46.22K | No Free Trial - Soft Paywall | [Open](../apps/dreameshort-drama-tv-6462846884.md) |
+| Spicychat AI: Roleplay Chat | $39.75K | No Free Trial - Soft Paywall | [Open](../apps/spicychat-ai-roleplay-chat-6471116525.md) |
 
 ## What to study
 

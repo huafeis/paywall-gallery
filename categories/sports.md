@@ -29,6 +29,9 @@ Sports apps use subscription paywalls to communicate value and convert users int
 | HuntStand: GPS Maps & Tools | $47.77K | No Free Trial - Soft Paywall | [Open](../apps/huntstand-gps-maps-and-tools-778772892.md) |
 | LUDEX Sports Card Scanner +TCG | $45.89K | No Free Trial - Soft Paywall | [Open](../apps/ludex-sports-card-scanner-tcg-1616691213.md) |
 | Real - Sports | $45.33K | No Free Trial - Soft Paywall | [Open](../apps/real-sports-1514546162.md) |
+| CollX: Sports Card Scanner | $44.23K | No Free Trial - Soft Paywall | [Open](../apps/collx-sports-card-scanner-1581164444.md) |
+| HOF: Sports Stats & Data | $42.09K | Free Trial - Soft Paywall | [Open](../apps/hof-sports-stats-and-data-6449443337.md) |
+| Cricbuzz Live Cricket Scores | $40.12K | No Free Trial - Soft Paywall | [Open](../apps/cricbuzz-live-cricket-scores-360466413.md) |
 
 ## What to study
 

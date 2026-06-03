@@ -24,6 +24,7 @@ News apps use subscription paywalls to communicate value and convert users into 
 | Podcast App | $47.03K | Free Trial - Soft Paywall | [Open](../apps/podcast-app-1199070742.md) |
 | The Atlantic Magazine | $46.89K | Free Trial - Soft Paywall | [Open](../apps/the-atlantic-magazine-397599894.md) |
 | Epoch Times: Live & Breaking | $46.82K | No Free Trial - Soft Paywall | [Open](../apps/epoch-times-live-and-breaking-670443321.md) |
+| Reddit | $43.21K | No Free Trial - Soft Paywall | [Open](../apps/reddit-1064216828.md) |
 
 ## What to study
 

@@ -16,6 +16,8 @@ Medical apps use subscription paywalls to communicate value and convert users in
 | Blood Pressure Tracker SmartBP | $58.78K | No Free Trial - Soft Paywall | [Open](../apps/blood-pressure-tracker-smartbp-519076558.md) |
 | WeMoms - Pregnancy & Baby App | $54.21K | Free Trial - Soft Paywall | [Open](../apps/wemoms-pregnancy-and-baby-app-938845147.md) |
 | Full Code Medical Simulation | $48.07K | No Free Trial - Soft Paywall | [Open](../apps/full-code-medical-simulation-1207424206.md) |
+| AI Skin Scanner - SkinGuru | $44.36K | Free Trial - Soft Paywall | [Open](../apps/ai-skin-scanner-skinguru-6474288157.md) |
+| Glucose \| Blood Sugar Tracker | $39.36K | No Free Trial - Soft Paywall | [Open](../apps/glucose-blood-sugar-tracker-1135157609.md) |
 
 ## What to study
 

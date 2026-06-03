@@ -64,6 +64,9 @@ Health & Fitness apps use subscription paywalls to communicate value and convert
 | AI Calorie Counter - Appediet | $48.77K | Free Trial - Soft Paywall | [Open](../apps/ai-calorie-counter-appediet-6450329545.md) |
 | Fitness AI Gym Workout Planner | $47.79K | No Free Trial - Soft Paywall | [Open](../apps/fitness-ai-gym-workout-planner-1446224156.md) |
 | Pillow: Sleep Tracker | $47.57K | Free Trial - Soft Paywall | [Open](../apps/pillow-sleep-tracker-878691772.md) |
+| SmartGym: Gym & Home Workouts | $43.18K | No Free Trial - Soft Paywall | [Open](../apps/smartgym-gym-and-home-workouts-922744883.md) |
+| Foodvisor - AI Calorie Counter | $43.08K | No Free Trial - Soft Paywall | [Open](../apps/foodvisor-ai-calorie-counter-1064020872.md) |
+| Ride with GPS: Bike Navigation | $38.90K | Free Trial - Soft Paywall | [Open](../apps/ride-with-gps-bike-navigation-893687399.md) |
 
 ## What to study
 

@@ -507,3 +507,49 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | PDF Editor ® | Business | [Open](../apps/pdf-editor-1532638515.md) |
 | Tuner Pro: Guitar Tuner & Tab | Music | [Open](../apps/tuner-pro-guitar-tuner-and-tab-1438248122.md) |
 | GraceChat | Social Networking | [Open](../apps/gracechat-1658972379.md) |
+| Brilliant: Learn Math & Coding | Education | [Open](../apps/brilliant-learn-math-and-coding-913335252.md) |
+| AI Skin Scanner - SkinGuru | Medical | [Open](../apps/ai-skin-scanner-skinguru-6474288157.md) |
+| Virus Protection for Phone | Utilities | [Open](../apps/virus-protection-for-phone-6736693162.md) |
+| Airbrush: Face Photo Editor | Photo & Video | [Open](../apps/airbrush-face-photo-editor-998411110.md) |
+| Fantastical Calendar | Productivity | [Open](../apps/fantastical-calendar-718043190.md) |
+| CollX: Sports Card Scanner | Sports | [Open](../apps/collx-sports-card-scanner-1581164444.md) |
+| Photo Retouch-Object Removal | Photo & Video | [Open](../apps/photo-retouch-object-removal-1230394683.md) |
+| Chordify: Songs, Chords, Tuner | Music | [Open](../apps/chordify-songs-chords-tuner-1073624757.md) |
+| LEGO® DUPLO® World | Education | [Open](../apps/lego-duplo-world-1458749093.md) |
+| Betternet VPN: Best VPN Proxy | Productivity | [Open](../apps/betternet-vpn-best-vpn-proxy-946659216.md) |
+| Fonts Art: Keyboard for iPhone | Utilities | [Open](../apps/fonts-art-keyboard-for-iphone-1480383173.md) |
+| PhotoApp - AI Photo Enhancer | Photo & Video | [Open](../apps/photoapp-ai-photo-enhancer-1596089614.md) |
+| Reddit | News | [Open](../apps/reddit-1064216828.md) |
+| Truecaller: Premium Caller ID | Utilities | [Open](../apps/truecaller-premium-caller-id-448142450.md) |
+| SmartGym: Gym & Home Workouts | Health & Fitness | [Open](../apps/smartgym-gym-and-home-workouts-922744883.md) |
+| Foodvisor - AI Calorie Counter | Health & Fitness | [Open](../apps/foodvisor-ai-calorie-counter-1064020872.md) |
+| ‎Smart Printer App: iPrint | Business | [Open](../apps/smart-printer-app-iprint-6445919810.md) |
+| Lens AI & Identifier・EveryScan | Reference | [Open](../apps/lens-ai-and-identifier-everyscan-1663862037.md) |
+| Rokie - Remote for Roku Player | Utilities | [Open](../apps/rokie-remote-for-roku-player-1016562846.md) |
+| CamScanner - PDF Scanner App | Productivity | [Open](../apps/camscanner-pdf-scanner-app-388627783.md) |
+| Uplens: Photo & Video Editor | Photo & Video | [Open](../apps/uplens-photo-and-video-editor-1554939382.md) |
+| MyScreen - Live Wallpapers | Lifestyle | [Open](../apps/myscreen-live-wallpapers-1039845801.md) |
+| Nail Salon Games for Kids 2-5 | Education | [Open](../apps/nail-salon-games-for-kids-2-5-6472039857.md) |
+| Authenticator ® App | Productivity | [Open](../apps/authenticator-app-6480253221.md) |
+| PixVerse: AI Video Generator | Photo & Video | [Open](../apps/pixverse-ai-video-generator-6599839203.md) |
+| HOF: Sports Stats & Data | Sports | [Open](../apps/hof-sports-stats-and-data-6449443337.md) |
+| BeautyUp－AI Face & Body Editor | Photo & Video | [Open](../apps/beautyup-ai-face-and-body-editor-1671843069.md) |
+| sendit - get it now | Social Networking | [Open](../apps/sendit-get-it-now-1439623630.md) |
+| OpusClip - AI video clipping | Photo & Video | [Open](../apps/opusclip-ai-video-clipping-6743615403.md) |
+| Jotform - Form, Sign & Survey | Business | [Open](../apps/jotform-form-sign-and-survey-1391524277.md) |
+| codeSpark - Coding for Kids | Education | [Open](../apps/codespark-coding-for-kids-923441570.md) |
+| Starfall | Education | [Open](../apps/starfall-707189889.md) |
+| CooMeet | Social Networking | [Open](../apps/coomeet-1459611740.md) |
+| HeyStar-AI Photo Editor | Utilities | [Open](../apps/heystar-ai-photo-editor-6754450703.md) |
+| TotalAV | Utilities | [Open](../apps/totalav-1130411958.md) |
+| Pollo AI - AI Video Generator | Photo & Video | [Open](../apps/pollo-ai-ai-video-generator-6740024098.md) |
+| Forma: PDF Document Editor | Productivity | [Open](../apps/forma-pdf-document-editor-1658514439.md) |
+| MM: Elite Premium Dating App | Social Networking | [Open](../apps/mm-elite-premium-dating-app-1484587490.md) |
+| Cricbuzz Live Cricket Scores | Sports | [Open](../apps/cricbuzz-live-cricket-scores-360466413.md) |
+| Spicychat AI: Roleplay Chat | Entertainment | [Open](../apps/spicychat-ai-roleplay-chat-6471116525.md) |
+| Glucose \| Blood Sugar Tracker | Medical | [Open](../apps/glucose-blood-sugar-tracker-1135157609.md) |
+| Photo Lab — AI Image Editor | Photo & Video | [Open](../apps/photo-lab-ai-image-editor-441457218.md) |
+| Buddy.ai: Kids Learning Games | Education | [Open](../apps/buddy-ai-kids-learning-games-1255783056.md) |
+| Kids cooking games 2+ year old | Education | [Open](../apps/kids-cooking-games-2-year-old-1623570895.md) |
+| Ride with GPS: Bike Navigation | Health & Fitness | [Open](../apps/ride-with-gps-bike-navigation-893687399.md) |
+| Fender Play: Learn Guitar | Education | [Open](../apps/fender-play-learn-guitar-1226057939.md) |

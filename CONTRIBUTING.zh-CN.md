@@ -106,6 +106,7 @@ App 页面：
 apps/*
 screenshots/*
 data/*
+assets/readme-hero.jpg
 ```
 
 更适合提交修改建议的文件包括：

@@ -48,6 +48,8 @@ Lifestyle apps often convert by selling better outcomes, personalization, confid
 | Perfect365 Makeup Photo Editor | $47.50K | Free Trial - Soft Paywall | [Open](../apps/perfect365-makeup-photo-editor-475976577.md) |
 | Precious - Baby Photo Art | $47.24K | Free Trial - Soft Paywall | [Open](../apps/precious-baby-photo-art-1103530261.md) |
 | I Am Sober | $46.78K | Free Trial - Soft Paywall | [Open](../apps/i-am-sober-672904239.md) |
+| Care.com: Hire Caregivers | $43.62K | Currency Paywall | [Open](../apps/care-com-hire-caregivers-328453619.md) |
+| MyScreen - Live Wallpapers | $42.62K | Free Trial - Soft Paywall | [Open](../apps/myscreen-live-wallpapers-1039845801.md) |
 
 ## What to study
 

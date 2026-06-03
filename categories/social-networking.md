@@ -46,6 +46,10 @@ Social Networking apps use subscription paywalls to communicate value and conver
 | Fachat: Chat & Community | $47.95K | Currency Paywall | [Open](../apps/fachat-chat-and-community-1475875470.md) |
 | Livly Island - Adopt Cute Pets | $46.97K | No Free Trial - Soft Paywall | [Open](../apps/livly-island-adopt-cute-pets-1553045339.md) |
 | GraceChat | $44.78K | No Free Trial - Soft Paywall | [Open](../apps/gracechat-1658972379.md) |
+| ChatSpace - Chat, Talk & Fun | $43.08K | Currency Paywall | [Open](../apps/chatspace-chat-talk-and-fun-6443834097.md) |
+| sendit - get it now | $41.56K | No Free Trial - Soft Paywall | [Open](../apps/sendit-get-it-now-1439623630.md) |
+| CooMeet | $40.70K | No Free Trial - Soft Paywall | [Open](../apps/coomeet-1459611740.md) |
+| MM: Elite Premium Dating App | $40.25K | No Free Trial - Soft Paywall | [Open](../apps/mm-elite-premium-dating-app-1484587490.md) |
 
 ## What to study
 

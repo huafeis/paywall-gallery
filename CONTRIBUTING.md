@@ -125,6 +125,7 @@ Files that may be generated include:
 apps/*
 screenshots/*
 data/*
+assets/readme-hero.jpg
 ```
 
 Safer files to suggest improvements for include:

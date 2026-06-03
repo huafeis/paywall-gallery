@@ -37,6 +37,8 @@ Business apps often convert users by selling professional growth, productivity, 
 | Adobe Acrobat Reader: Edit PDF | $48.98K | Free Trial - Soft Paywall | [Open](../apps/adobe-acrobat-reader-edit-pdf-469337564.md) |
 | pdfFiller: edit PDF documents | $46.91K | Free Trial - Soft Paywall | [Open](../apps/pdffiller-edit-pdf-documents-571613512.md) |
 | PDF Editor ® | $44.94K | Free Trial - Soft Paywall | [Open](../apps/pdf-editor-1532638515.md) |
+| ‎Smart Printer App: iPrint | $43.07K | Free Trial - Soft Paywall | [Open](../apps/smart-printer-app-iprint-6445919810.md) |
+| Jotform - Form, Sign & Survey | $41.38K | No Free Trial - Soft Paywall | [Open](../apps/jotform-form-sign-and-survey-1391524277.md) |
 
 ## What to study
 

@@ -43,6 +43,7 @@ Music apps often convert by selling ad-free listening, offline access, better pl
 | Piano - Keyboard Lesson & Game | $61.35K | Free Trial - Soft Paywall | [Open](../apps/piano-keyboard-lesson-and-game-1360309966.md) |
 | Rap Fame - Rap Music Studio | $48.42K | Free Trial - Soft Paywall | [Open](../apps/rap-fame-rap-music-studio-1476399789.md) |
 | Tuner Pro: Guitar Tuner & Tab | $44.82K | Free Trial - Soft Paywall | [Open](../apps/tuner-pro-guitar-tuner-and-tab-1438248122.md) |
+| Chordify: Songs, Chords, Tuner | $43.73K | No Free Trial - Soft Paywall | [Open](../apps/chordify-songs-chords-tuner-1073624757.md) |
 
 ## What to study
 

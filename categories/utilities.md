@@ -38,6 +38,13 @@ Utilities apps use subscription paywalls to communicate value and convert users 
 | QR Reader for iPhone | $46.78K | Free Trial - Soft Paywall | [Open](../apps/qr-reader-for-iphone-368494609.md) |
 | CleanX: Photo Storage Cleaner | $45.86K | Free Trial - Soft Paywall | [Open](../apps/cleanx-photo-storage-cleaner-1575903244.md) |
 | Remote for Firestick · Fire TV | $45.76K | No Free Trial - Soft Paywall | [Open](../apps/remote-for-firestick-fire-tv-1625553531.md) |
+| Virus Protection for Phone | $44.34K | Free Trial - Soft Paywall | [Open](../apps/virus-protection-for-phone-6736693162.md) |
+| Fonts Art: Keyboard for iPhone | $43.38K | Free Trial - Soft Paywall | [Open](../apps/fonts-art-keyboard-for-iphone-1480383173.md) |
+| Truecaller: Premium Caller ID | $43.18K | Free Trial - Soft Paywall | [Open](../apps/truecaller-premium-caller-id-448142450.md) |
+| Rokie - Remote for Roku Player | $42.88K | Free Trial - Soft Paywall | [Open](../apps/rokie-remote-for-roku-player-1016562846.md) |
+| Hushed: US Second Phone Number | $41.15K | Credit Paywall | [Open](../apps/hushed-us-second-phone-number-600520752.md) |
+| HeyStar-AI Photo Editor | $40.60K | No Free Trial - Soft Paywall | [Open](../apps/heystar-ai-photo-editor-6754450703.md) |
+| TotalAV | $40.50K | No Free Trial - Soft Paywall | [Open](../apps/totalav-1130411958.md) |
 
 ## What to study
 

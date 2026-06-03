@@ -81,6 +81,14 @@ Education apps use subscription paywalls to communicate value and convert users 
 | Brainly: Your Personal Tutor | $46.40K | No Free Trial - Soft Paywall | [Open](../apps/brainly-your-personal-tutor-745089947.md) |
 | Crayola Create and Play: Kids | $45.74K | Free Trial - Soft Paywall | [Open](../apps/crayola-create-and-play-kids-1431955703.md) |
 | Course Hero: AI Homework Help | $45.66K | No Free Trial - Soft Paywall | [Open](../apps/course-hero-ai-homework-help-922208952.md) |
+| Brilliant: Learn Math & Coding | $44.54K | Free Trial - Soft Paywall | [Open](../apps/brilliant-learn-math-and-coding-913335252.md) |
+| LEGO® DUPLO® World | $43.72K | No Free Trial - Soft Paywall | [Open](../apps/lego-duplo-world-1458749093.md) |
+| Nail Salon Games for Kids 2-5 | $42.33K | Free Trial - Soft Paywall | [Open](../apps/nail-salon-games-for-kids-2-5-6472039857.md) |
+| codeSpark - Coding for Kids | $41.11K | Free Trial - Hard Paywall | [Open](../apps/codespark-coding-for-kids-923441570.md) |
+| Starfall | $41.10K | No Free Trial - Soft Paywall | [Open](../apps/starfall-707189889.md) |
+| Buddy.ai: Kids Learning Games | $38.94K | Free Trial - Soft Paywall | [Open](../apps/buddy-ai-kids-learning-games-1255783056.md) |
+| Kids cooking games 2+ year old | $38.91K | Free Trial - Hard Paywall | [Open](../apps/kids-cooking-games-2-year-old-1623570895.md) |
+| Fender Play: Learn Guitar | $38.80K | No Free Trial - Soft Paywall | [Open](../apps/fender-play-learn-guitar-1226057939.md) |
 
 ## What to study
 

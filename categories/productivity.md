@@ -35,6 +35,11 @@ Productivity apps often convert users by selling time savings, professional outp
 | SignNow: e-Signature app | $53.83K | Free Trial - Soft Paywall | [Open](../apps/signnow-e-signature-app-489262811.md) |
 | AI ChatBot Assistant: AskEasy | $52.76K | Free Trial - Soft Paywall | [Open](../apps/ai-chatbot-assistant-askeasy-6447290444.md) |
 | Forms for Google Docs | $50.60K | Free Trial - Soft Paywall | [Open](../apps/forms-for-google-docs-1619382448.md) |
+| Fantastical Calendar | $44.27K | Free Trial - Soft Paywall | [Open](../apps/fantastical-calendar-718043190.md) |
+| Betternet VPN: Best VPN Proxy | $43.41K | Free Trial - Soft Paywall | [Open](../apps/betternet-vpn-best-vpn-proxy-946659216.md) |
+| CamScanner - PDF Scanner App | $42.74K | Free Trial - Soft Paywall | [Open](../apps/camscanner-pdf-scanner-app-388627783.md) |
+| Authenticator ® App | $42.31K | Free Trial - Soft Paywall | [Open](../apps/authenticator-app-6480253221.md) |
+| Forma: PDF Document Editor | $40.29K | Free Trial - Soft Paywall | [Open](../apps/forma-pdf-document-editor-1658514439.md) |
 
 ## What to study
 

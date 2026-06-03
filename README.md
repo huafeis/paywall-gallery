@@ -2,7 +2,7 @@
 
 Languages: [English](README.md) | [简体中文](README.zh-CN.md)
 
-A public dataset of 500 top iOS subscription app paywalls and onboarding flows, published by <a href="https://www.paywallpro.app/?utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">PaywallPro</a>.
+A public dataset of 550 top iOS subscription app paywalls and onboarding flows, published by <a href="https://www.paywallpro.app/?utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">PaywallPro</a>.
 
 Explore screenshots, pricing models, paywall patterns, onboarding previews, and monetization signals from real subscription apps.
 
@@ -12,7 +12,7 @@ Open an Issue if you want us to add a specific app: [request an app](https://git
 
 ---
 
-![500+ iOS Paywalls & Onboarding Flows](assets/readme-hero.jpg)
+![iOS Paywalls & Onboarding Flows](assets/readme-hero.jpg)
 
 ---
 
@@ -70,9 +70,9 @@ It is a curated subset of the PaywallPro database, designed to be:
 - Easy to browse, with human-readable summaries and preview screenshots
 - Useful for product research, pricing research, UX reference, and growth analysis
 
-Current public release: 500 apps. We will keep adding 50 new apps every week.
+Current public release: 550 apps. We will keep adding 50 new apps every week.
 
-The complete app index lives in [apps/index.md](apps/index.md). [Browse all 500 apps](apps/index.md).
+The complete app index lives in [apps/index.md](apps/index.md). [Browse all 550 apps](apps/index.md).
 
 ---
 
@@ -172,7 +172,7 @@ See [Data Dictionary](docs/data-dictionary.md) for field definitions.
 | Quizlet: More than Flashcards | Education | $1.16M | Free Trial - Soft Paywall | [Open](apps/quizlet-more-than-flashcards-546473125.md) |
 | TIDAL Music: HiFi Sound | Music | $1.03M | Free Trial - Soft Paywall | [Open](apps/tidal-music-hifi-sound-913943275.md) |
 
-The complete app index lives in [apps/index.md](apps/index.md). [Browse all 500 apps](apps/index.md).
+The complete app index lives in [apps/index.md](apps/index.md). [Browse all 550 apps](apps/index.md).
 
 ---
 

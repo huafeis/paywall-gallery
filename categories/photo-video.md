@@ -76,6 +76,16 @@ Photo and video apps often rely on creative control, premium features, editing c
 | Unfold: Reels & Story Maker | $47.60K | No Free Trial - Soft Paywall | [Open](../apps/unfold-reels-and-story-maker-1247275033.md) |
 | Retouch Me: Face, Body Editor | $46.65K | Free Trial - Soft Paywall | [Open](../apps/retouch-me-face-body-editor-830286763.md) |
 | Photo Eraser - Remove Objects | $45.12K | Free Trial - Soft Paywall | [Open](../apps/photo-eraser-remove-objects-1465934502.md) |
+| Airbrush: Face Photo Editor | $44.30K | Free Trial - Soft Paywall | [Open](../apps/airbrush-face-photo-editor-998411110.md) |
+| Photo Retouch-Object Removal | $44.01K | No Free Trial - Soft Paywall | [Open](../apps/photo-retouch-object-removal-1230394683.md) |
+| PhotoApp - AI Photo Enhancer | $43.28K | Free Trial - Soft Paywall | [Open](../apps/photoapp-ai-photo-enhancer-1596089614.md) |
+| Uplens: Photo & Video Editor | $42.70K | Free Trial - Soft Paywall | [Open](../apps/uplens-photo-and-video-editor-1554939382.md) |
+| PixVerse: AI Video Generator | $42.22K | No Free Trial - Soft Paywall | [Open](../apps/pixverse-ai-video-generator-6599839203.md) |
+| BeautyUp－AI Face & Body Editor | $41.90K | Free Trial - Soft Paywall | [Open](../apps/beautyup-ai-face-and-body-editor-1671843069.md) |
+| OpusClip - AI video clipping | $41.39K | No Free Trial - Soft Paywall | [Open](../apps/opusclip-ai-video-clipping-6743615403.md) |
+| Pollo AI - AI Video Generator | $40.48K | No Free Trial - Soft Paywall | [Open](../apps/pollo-ai-ai-video-generator-6740024098.md) |
+| Elf Alert: Elf & Santa Camera | $39.76K | Currency Paywall | [Open](../apps/elf-alert-elf-and-santa-camera-6754893687.md) |
+| Photo Lab — AI Image Editor | $39.35K | Free Trial - Soft Paywall | [Open](../apps/photo-lab-ai-image-editor-441457218.md) |
 
 ## What to study
 
