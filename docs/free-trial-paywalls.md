@@ -513,8 +513,6 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | Kids cooking games 2+ year old | Education | [Open](../apps/kids-cooking-games-2-year-old-1623570895.md) |
 | Ride with GPS: Bike Navigation | Health & Fitness | [Open](../apps/ride-with-gps-bike-navigation-893687399.md) |
 | Fender Play: Learn Guitar | Education | [Open](../apps/fender-play-learn-guitar-1226057939.md) |
-| SDC Adult Dating | Social Networking | [Open](../apps/sdc-adult-dating-1114616696.md) |
-| Voice Recorder & Audio Editor | Utilities | [Open](../apps/voice-recorder-and-audio-editor-685310398.md) |
 | Grammarly: AI Keyboard & Notes | Productivity | [Open](../apps/grammarly-ai-keyboard-and-notes-1158877342.md) |
 | Ultimate Guitar: Chords & Tabs | Music | [Open](../apps/ultimate-guitar-chords-and-tabs-357828853.md) |
 | iScanner: PDF Document Scanner | Business | [Open](../apps/iscanner-pdf-document-scanner-1040093707.md) |

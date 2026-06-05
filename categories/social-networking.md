@@ -47,7 +47,6 @@ Social Networking apps use subscription paywalls to communicate value and conver
 | sendit - get it now | $41.56K | No Free Trial - Soft Paywall | [Open](../apps/sendit-get-it-now-1439623630.md) |
 | CooMeet | $40.70K | No Free Trial - Soft Paywall | [Open](../apps/coomeet-1459611740.md) |
 | MM: Elite Premium Dating App | $40.25K | No Free Trial - Soft Paywall | [Open](../apps/mm-elite-premium-dating-app-1484587490.md) |
-| SDC Adult Dating | $38.76K | No Free Trial - Soft Paywall | [Open](../apps/sdc-adult-dating-1114616696.md) |
 | Bumpy – International Dating | $8.43K | No Free Trial - Soft Paywall | [Open](../apps/bumpy-international-dating-1455336523.md) |
 | Repost+ for Instagram . | $7.43K | Free Trial - Soft Paywall | [Open](../apps/repost-for-instagram-1477820240.md) |
 | GraceChat | $3.15K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/gracechat-1658972379.md) |
