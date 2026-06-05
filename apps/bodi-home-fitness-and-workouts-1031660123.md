@@ -13,8 +13,8 @@ offers:
     prices: ["$19/$35"]
   - period: "year"
     prices: ["$99/$179"]
-onboarding_count: 9
-walkthrough_count: 0
+onboarding_count: 0
+walkthrough_count: 9
 app_detail_url: "https://www.paywallpro.app/apps/BODi-Home-Fitness-&-Workouts-us?id=162&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -91,8 +91,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $10.90K |
 | Avg daily downloads | 139 |
 | Avg daily ARPU | $78.40 |
-| Onboarding preview count | 9 |
-| Walkthrough preview count | 0 |
+| Onboarding preview count | 0 |
+| Walkthrough preview count | 9 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

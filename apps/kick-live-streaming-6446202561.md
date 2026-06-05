@@ -10,8 +10,8 @@ rating: 4.64
 versions_count: 1
 offers:
   []
-onboarding_count: 12
-walkthrough_count: 0
+onboarding_count: 0
+walkthrough_count: 12
 app_detail_url: "https://www.paywallpro.app/apps/KICK---Live-Streaming-us?id=237&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -84,8 +84,8 @@ Not available in preview
 | Avg daily revenue | $11.76K |
 | Avg daily downloads | 9.11K |
 | Avg daily ARPU | $1.30 |
-| Onboarding preview count | 12 |
-| Walkthrough preview count | 0 |
+| Onboarding preview count | 0 |
+| Walkthrough preview count | 12 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

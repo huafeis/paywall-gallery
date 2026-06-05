@@ -13,8 +13,8 @@ offers:
     prices: ["$6.99"]
   - period: "year"
     prices: ["$49.99"]
-onboarding_count: 10
-walkthrough_count: 0
+onboarding_count: 0
+walkthrough_count: 10
 app_detail_url: "https://www.paywallpro.app/apps/Dino-Fun---Games-for-kids-us?id=13319&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -91,8 +91,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $3.39K |
 | Avg daily downloads | 1.63K |
 | Avg daily ARPU | $2.09 |
-| Onboarding preview count | 10 |
-| Walkthrough preview count | 0 |
+| Onboarding preview count | 0 |
+| Walkthrough preview count | 10 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

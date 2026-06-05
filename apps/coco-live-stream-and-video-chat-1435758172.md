@@ -10,8 +10,8 @@ rating: 4.30
 versions_count: 1
 offers:
   []
-onboarding_count: 9
-walkthrough_count: 0
+onboarding_count: 0
+walkthrough_count: 9
 app_detail_url: "https://www.paywallpro.app/apps/Coco--Live-Stream-&-Video-Chat-us?id=195&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -84,8 +84,8 @@ Not available in preview
 | Avg daily revenue | $17.06K |
 | Avg daily downloads | 1.33K |
 | Avg daily ARPU | $12.82 |
-| Onboarding preview count | 9 |
-| Walkthrough preview count | 0 |
+| Onboarding preview count | 0 |
+| Walkthrough preview count | 9 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

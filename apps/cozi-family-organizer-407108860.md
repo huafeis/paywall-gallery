@@ -11,8 +11,8 @@ versions_count: 2
 offers:
   - period: "year"
     prices: ["$39"]
-onboarding_count: 8
-walkthrough_count: 0
+onboarding_count: 0
+walkthrough_count: 8
 app_detail_url: "https://www.paywallpro.app/apps/Cozi-Family-Organizer-us?id=580&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -88,8 +88,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $4.65K |
 | Avg daily downloads | 900 |
 | Avg daily ARPU | $5.18 |
-| Onboarding preview count | 8 |
-| Walkthrough preview count | 0 |
+| Onboarding preview count | 0 |
+| Walkthrough preview count | 8 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

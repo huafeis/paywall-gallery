@@ -11,8 +11,8 @@ versions_count: 2
 offers:
   - period: "month"
     prices: ["$9.99"]
-onboarding_count: 6
-walkthrough_count: 0
+onboarding_count: 0
+walkthrough_count: 6
 app_detail_url: "https://www.paywallpro.app/apps/Songsterr-Tabs-&-Chords-us?id=781&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -88,8 +88,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $6.48K |
 | Avg daily downloads | 826 |
 | Avg daily ARPU | $7.85 |
-| Onboarding preview count | 6 |
-| Walkthrough preview count | 0 |
+| Onboarding preview count | 0 |
+| Walkthrough preview count | 6 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

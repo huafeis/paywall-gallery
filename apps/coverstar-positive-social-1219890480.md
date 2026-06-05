@@ -10,8 +10,8 @@ rating: 4.74
 versions_count: 3
 offers:
   []
-onboarding_count: 17
-walkthrough_count: 0
+onboarding_count: 0
+walkthrough_count: 17
 app_detail_url: "https://www.paywallpro.app/apps/Coverstar---Positive-Social-us?id=1224654&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -84,8 +84,8 @@ Not available in preview
 | Avg daily revenue | $2.59K |
 | Avg daily downloads | 1.02K |
 | Avg daily ARPU | $2.54 |
-| Onboarding preview count | 17 |
-| Walkthrough preview count | 0 |
+| Onboarding preview count | 0 |
+| Walkthrough preview count | 17 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

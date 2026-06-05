@@ -13,8 +13,8 @@ offers:
     prices: ["$5.99"]
   - period: "year"
     prices: ["$79.99"]
-onboarding_count: 10
-walkthrough_count: 0
+onboarding_count: 0
+walkthrough_count: 10
 app_detail_url: "https://www.paywallpro.app/apps/Pollo-AI---AI-Video-Generator-us?id=1955259&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -91,8 +91,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $2.17K |
 | Avg daily downloads | 1.46K |
 | Avg daily ARPU | $1.50 |
-| Onboarding preview count | 10 |
-| Walkthrough preview count | 0 |
+| Onboarding preview count | 0 |
+| Walkthrough preview count | 10 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

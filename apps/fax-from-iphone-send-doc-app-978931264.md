@@ -15,8 +15,8 @@ offers:
     prices: ["$29.99"]
   - period: "year"
     prices: ["$249.99"]
-onboarding_count: 5
-walkthrough_count: 0
+onboarding_count: 0
+walkthrough_count: 5
 app_detail_url: "https://www.paywallpro.app/apps/FAX-from-iPhone:-Send-Doc-App-us?id=118&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -93,8 +93,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $32.59K |
 | Avg daily downloads | 2.54K |
 | Avg daily ARPU | $12.83 |
-| Onboarding preview count | 5 |
-| Walkthrough preview count | 0 |
+| Onboarding preview count | 0 |
+| Walkthrough preview count | 5 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

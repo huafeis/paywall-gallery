@@ -13,8 +13,8 @@ offers:
     prices: ["$14.99"]
   - period: "month"
     prices: ["$39.99"]
-onboarding_count: 11
-walkthrough_count: 0
+onboarding_count: 0
+walkthrough_count: 11
 app_detail_url: "https://www.paywallpro.app/apps/iRomance-Step-Into-Stories-us?id=2483559&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -91,8 +91,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $2.10K |
 | Avg daily downloads | 143 |
 | Avg daily ARPU | $14.71 |
-| Onboarding preview count | 11 |
-| Walkthrough preview count | 0 |
+| Onboarding preview count | 0 |
+| Walkthrough preview count | 11 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

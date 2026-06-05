@@ -13,8 +13,8 @@ offers:
     prices: ["$5.99/$8.99/$12.99"]
   - period: "year"
     prices: ["$59.99"]
-onboarding_count: 11
-walkthrough_count: 0
+onboarding_count: 0
+walkthrough_count: 11
 app_detail_url: "https://www.paywallpro.app/apps/ViX:-TV%2C-Sports-and-News-us?id=100&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -91,8 +91,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $74.57K |
 | Avg daily downloads | 4.46K |
 | Avg daily ARPU | $16.74 |
-| Onboarding preview count | 11 |
-| Walkthrough preview count | 0 |
+| Onboarding preview count | 0 |
+| Walkthrough preview count | 11 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

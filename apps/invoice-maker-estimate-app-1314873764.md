@@ -15,8 +15,8 @@ offers:
     prices: ["$17.99"]
   - period: "year"
     prices: ["$99.99/$179.99"]
-onboarding_count: 8
-walkthrough_count: 0
+onboarding_count: 0
+walkthrough_count: 8
 app_detail_url: "https://www.paywallpro.app/apps/Invoice-Maker-%E2%96%B8-Estimate-App-us?id=346&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -93,8 +93,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $14.17K |
 | Avg daily downloads | 782 |
 | Avg daily ARPU | $18.13 |
-| Onboarding preview count | 8 |
-| Walkthrough preview count | 0 |
+| Onboarding preview count | 0 |
+| Walkthrough preview count | 8 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

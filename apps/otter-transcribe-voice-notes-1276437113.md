@@ -13,8 +13,8 @@ offers:
     prices: ["$16.99"]
   - period: "year"
     prices: ["$99.99"]
-onboarding_count: 7
-walkthrough_count: 0
+onboarding_count: 0
+walkthrough_count: 7
 app_detail_url: "https://www.paywallpro.app/apps/Otter-Transcribe-Voice-Notes-us?id=394&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -91,8 +91,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $12.43K |
 | Avg daily downloads | 2.67K |
 | Avg daily ARPU | $4.66 |
-| Onboarding preview count | 7 |
-| Walkthrough preview count | 0 |
+| Onboarding preview count | 0 |
+| Walkthrough preview count | 7 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

@@ -15,8 +15,8 @@ offers:
     prices: ["$299.99", "$2499.99"]
   - period: "quarter"
     prices: ["$399.99", "$4999.99"]
-onboarding_count: 8
-walkthrough_count: 0
+onboarding_count: 0
+walkthrough_count: 8
 app_detail_url: "https://www.paywallpro.app/apps/The-League:-Intelligent-Dating-us?id=99&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -94,8 +94,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $35.05K |
 | Avg daily downloads | 1.20K |
 | Avg daily ARPU | $29.27 |
-| Onboarding preview count | 8 |
-| Walkthrough preview count | 0 |
+| Onboarding preview count | 0 |
+| Walkthrough preview count | 8 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

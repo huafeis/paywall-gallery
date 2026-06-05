@@ -15,8 +15,8 @@ offers:
     prices: ["$29.99"]
   - period: "quarter"
     prices: ["$20.99"]
-onboarding_count: 9
-walkthrough_count: 0
+onboarding_count: 0
+walkthrough_count: 9
 app_detail_url: "https://www.paywallpro.app/apps/Tagged-Dating:-Chat-&-Go-Live!-us?id=227&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -93,8 +93,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $9.71K |
 | Avg daily downloads | 1.12K |
 | Avg daily ARPU | $8.71 |
-| Onboarding preview count | 9 |
-| Walkthrough preview count | 0 |
+| Onboarding preview count | 0 |
+| Walkthrough preview count | 9 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

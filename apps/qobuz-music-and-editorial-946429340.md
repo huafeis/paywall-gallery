@@ -11,8 +11,8 @@ versions_count: 2
 offers:
   - period: "month"
     prices: ["$16.99"]
-onboarding_count: 8
-walkthrough_count: 0
+onboarding_count: 0
+walkthrough_count: 8
 app_detail_url: "https://www.paywallpro.app/apps/Qobuz:-Music-&-Editorial-us?id=1949930&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -88,8 +88,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $5.97K |
 | Avg daily downloads | 1.32K |
 | Avg daily ARPU | $4.51 |
-| Onboarding preview count | 8 |
-| Walkthrough preview count | 0 |
+| Onboarding preview count | 0 |
+| Walkthrough preview count | 8 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

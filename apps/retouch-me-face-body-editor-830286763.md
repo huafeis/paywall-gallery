@@ -13,8 +13,8 @@ offers:
     prices: ["$2.99"]
   - period: "month"
     prices: ["$9.99/$29.99/$49.99/$99.99"]
-onboarding_count: 12
-walkthrough_count: 0
+onboarding_count: 0
+walkthrough_count: 12
 app_detail_url: "https://www.paywallpro.app/apps/Retouch-Me:-Face%2C-Body-Editor-us?id=648&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -92,8 +92,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $2.81K |
 | Avg daily downloads | 385 |
 | Avg daily ARPU | $7.30 |
-| Onboarding preview count | 12 |
-| Walkthrough preview count | 0 |
+| Onboarding preview count | 0 |
+| Walkthrough preview count | 12 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

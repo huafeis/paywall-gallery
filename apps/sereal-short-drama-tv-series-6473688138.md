@@ -15,8 +15,8 @@ offers:
     prices: ["$24.99"]
   - period: "year"
     prices: ["$199.99"]
-onboarding_count: 10
-walkthrough_count: 0
+onboarding_count: 0
+walkthrough_count: 10
 app_detail_url: "https://www.paywallpro.app/apps/Sereal%2B-Short-Drama%2C-TV-Series-us?id=177&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -93,8 +93,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $8.66K |
 | Avg daily downloads | 412 |
 | Avg daily ARPU | $21.02 |
-| Onboarding preview count | 10 |
-| Walkthrough preview count | 0 |
+| Onboarding preview count | 0 |
+| Walkthrough preview count | 10 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

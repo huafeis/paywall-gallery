@@ -13,8 +13,8 @@ offers:
     prices: ["$14.99"]
   - period: "year"
     prices: ["$95.99"]
-onboarding_count: 3
-walkthrough_count: 0
+onboarding_count: 0
+walkthrough_count: 3
 app_detail_url: "https://www.paywallpro.app/apps/SignNow:-e-Signature-app-us?id=600&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -91,8 +91,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $4.92K |
 | Avg daily downloads | 1.22K |
 | Avg daily ARPU | $4.03 |
-| Onboarding preview count | 3 |
-| Walkthrough preview count | 0 |
+| Onboarding preview count | 0 |
+| Walkthrough preview count | 3 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

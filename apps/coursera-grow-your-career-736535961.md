@@ -11,8 +11,8 @@ versions_count: 3
 offers:
   - period: "month"
     prices: ["$58.99"]
-onboarding_count: 12
-walkthrough_count: 0
+onboarding_count: 0
+walkthrough_count: 12
 app_detail_url: "https://www.paywallpro.app/apps/Coursera:-Grow-your-career-us?id=287&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -88,8 +88,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $5.38K |
 | Avg daily downloads | 1.16K |
 | Avg daily ARPU | $4.65 |
-| Onboarding preview count | 12 |
-| Walkthrough preview count | 0 |
+| Onboarding preview count | 0 |
+| Walkthrough preview count | 12 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn
