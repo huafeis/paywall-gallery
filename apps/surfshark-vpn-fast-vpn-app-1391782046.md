@@ -15,8 +15,8 @@ offers:
     prices: ["$29.99/$39.99"]
   - period: "year"
     prices: ["$47/$59.99", "$47/$59.99/$64.99/$79.99"]
-screenshots_count: 3
-onboarding_flows_count: 12
+onboarding_count: 4
+walkthrough_count: 8
 app_detail_url: "https://www.paywallpro.app/apps/Surfshark-VPN:-Fast-VPN-App-us?id=400&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -94,8 +94,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $6.08K |
 | Avg daily downloads | 4.91K |
 | Avg daily ARPU | $1.24 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 4 |
+| Walkthrough preview count | 8 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

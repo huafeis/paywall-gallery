@@ -11,8 +11,8 @@ versions_count: 2
 offers:
   - period: "week"
     prices: ["$7.99"]
-screenshots_count: 3
-onboarding_flows_count: 11
+onboarding_count: 6
+walkthrough_count: 5
 app_detail_url: "https://www.paywallpro.app/apps/NGL:-ask-me-anything-us?id=334&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -88,8 +88,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $3.14K |
 | Avg daily downloads | 3.24K |
 | Avg daily ARPU | $0.98 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 6 |
+| Walkthrough preview count | 5 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

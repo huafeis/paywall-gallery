@@ -5,7 +5,7 @@ developer: "GameChanger Media, Inc."
 category: "Sports"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "3 offer sets across month, year"
-mrr: "$2.54M"
+mrr: "$187.50K"
 rating: 4.88
 versions_count: 2
 offers:
@@ -13,15 +13,15 @@ offers:
     prices: ["$3.33/$8.33", "$9.99", "$14.99"]
   - period: "year"
     prices: ["$39.99", "$99.99"]
-screenshots_count: 3
-onboarding_flows_count: 8
+onboarding_count: 8
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/GameChanger-us?id=35&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # GameChanger Paywall Analysis
 
 Category: Sports
-Estimated MRR: $2.54M
+Estimated MRR: $187.50K
 Paywall Pattern: Free Trial - Soft Paywall
 Pricing Model: 3 offer sets across month, year
 Captured Version: 2025.19.0
@@ -89,12 +89,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.88 |
 | Category rank | #24 |
-| Estimated MRR | $2.54M |
+| Estimated MRR | $187.50K |
 | Avg daily revenue | $156.59K |
 | Avg daily downloads | 4.46K |
 | Avg daily ARPU | $35.15 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 8 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

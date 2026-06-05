@@ -6,15 +6,15 @@ category: "Education"
 paywall_type: "No Free Trial - Soft Paywall"
 pricing_model: "1 offer set across month, year"
 mrr: "$97.63K"
-rating: 4.59
+rating: 4.58
 versions_count: 1
 offers:
   - period: "month"
     prices: ["$9.99"]
   - period: "year"
     prices: ["$59.99"]
-screenshots_count: 3
-onboarding_flows_count: 35
+onboarding_count: 35
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Micro-Learning---SmartyMe-us?id=1221036&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -85,14 +85,14 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 4.59 |
+| App Store rating | 4.58 |
 | Category rank | #27 |
 | Estimated MRR | $97.63K |
 | Avg daily revenue | $2.01K |
 | Avg daily downloads | 1.59K |
 | Avg daily ARPU | $1.27 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 35 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

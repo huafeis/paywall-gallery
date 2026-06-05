@@ -3,7 +3,7 @@ app_name: "HelloTalk - Language Learning"
 app_id: 557130558
 developer: "HELLOTALK FOREIGN LANGUAGE EXCHANGE LEARNING TALK CHAT APP"
 category: "Education"
-paywall_type: "Currency Paywall"
+paywall_type: "Currency Paywall, No Free Trial - Soft Paywall"
 pricing_model: "1 offer set across month, year, one-time purchase"
 mrr: "$114.90K"
 rating: 4.59
@@ -15,8 +15,8 @@ offers:
     prices: ["$79.99"]
   - period: "one-time purchase"
     prices: ["$199.99"]
-screenshots_count: 3
-onboarding_flows_count: 20
+onboarding_count: 12
+walkthrough_count: 8
 app_detail_url: "https://www.paywallpro.app/apps/HelloTalk---Language-Learning-us?id=661&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -24,7 +24,7 @@ app_detail_url: "https://www.paywallpro.app/apps/HelloTalk---Language-Learning-u
 
 Category: Education
 Estimated MRR: $114.90K
-Paywall Pattern: Currency Paywall
+Paywall Pattern: Currency Paywall, No Free Trial - Soft Paywall
 Pricing Model: 1 offer set across month, year, one-time purchase
 Captured Version: 6.1.90
 Version Release Date: 2026-01-07
@@ -42,7 +42,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- HelloTalk - Language Learning uses the Currency Paywall pattern in the Education category.
+- HelloTalk - Language Learning uses the Currency Paywall, No Free Trial - Soft Paywall pattern in the Education category.
 - The preview exposes one visible offer set; the full PaywallPro page may include more historical context.
 - The paywall presents month, year, one-time purchase option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Education app packages subscription value for its users.
@@ -68,12 +68,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Education |
-| Paywall type | Currency Paywall |
+| Paywall type | Currency Paywall, No Free Trial - Soft Paywall |
 | Pricing model | 1 offer set across month, year, one-time purchase |
 | Captured version | 6.1.90 |
 | Version release date | 2026-01-07 |
 
-This paywall uses the **Currency Paywall** structure.
+This paywall uses the **Currency Paywall, No Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -93,8 +93,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $7.10K |
 | Avg daily downloads | 1.65K |
 | Avg daily ARPU | $4.30 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 12 |
+| Walkthrough preview count | 8 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

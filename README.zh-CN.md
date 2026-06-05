@@ -118,51 +118,51 @@ apps/{app-name}-{app_id}.md
 
 | App | 品类 | 预估 MRR | 付费墙模式 | 页面 |
 |---|---|---:|---|---|
-| Life360: Stay Connected & Safe | Social Networking | $4.50M | Free Trial - Soft Paywall | [打开](apps/life360-stay-connected-and-safe-384830320.md) |
-| Grindr - Gay Dating & Chat | Social Networking | $3.10M | No Free Trial - Soft Paywall | [打开](apps/grindr-gay-dating-and-chat-319881193.md) |
 | YouTube | Photo & Video | $3.07M | No Free Trial - Soft Paywall | [打开](apps/youtube-544007664.md) |
-| Google Photos: Backup & Edit | Photo & Video | $2.77M | No Free Trial - Soft Paywall | [打开](apps/google-photos-backup-and-edit-962194608.md) |
-| Amazon Music: Songs & Podcasts | Music | $2.58M | Free Trial - Soft Paywall | [打开](apps/amazon-music-songs-and-podcasts-510855668.md) |
-| Bumble Dating App: Meet & Date | Lifestyle | $2.57M | Credit Paywall | [打开](apps/bumble-dating-app-meet-and-date-930441707.md) |
-| GameChanger | Sports | $2.54M | Free Trial - Soft Paywall | [打开](apps/gamechanger-1308415878.md) |
-| X | News | $2.48M | No Free Trial - Soft Paywall | [打开](apps/x-333903271.md) |
 | Telegram Messenger | Social Networking | $2.13M | No Free Trial - Soft Paywall | [打开](apps/telegram-messenger-686449807.md) |
-| Dropbox: Cloud Storage Backup | Productivity | $2.09M | Free Trial - Soft Paywall | [打开](apps/dropbox-cloud-storage-backup-327630330.md) |
 | NFL | Sports | $2.04M | No Free Trial - Soft Paywall | [打开](apps/nfl-389781154.md) |
-| SoundCloud: The Music You Love | Music | $1.71M | No Free Trial - Soft Paywall | [打开](apps/soundcloud-the-music-you-love-336353151.md) |
-| BIGO LIVE-Live Stream, Go Live | Social Networking | $1.65M | No Free Trial - Soft Paywall | [打开](apps/bigo-live-live-stream-go-live-1077137248.md) |
 | NYTimes: US and Global News | News | $1.48M | No Free Trial - Soft Paywall | [打开](apps/nytimes-us-and-global-news-284862083.md) |
-| FaceApp: Perfect Face Editor | Photo & Video | $1.45M | Free Trial - Soft Paywall | [打开](apps/faceapp-perfect-face-editor-1180884341.md) |
-| Wyze - Never Wonder | Lifestyle | $1.45M | Free Trial - Soft Paywall | [打开](apps/wyze-never-wonder-1288415553.md) |
 | MileIQ: Mileage Tracker & Log | Finance | $1.26M | Free Trial - Soft Paywall | [打开](apps/mileiq-mileage-tracker-and-log-578830929.md) |
-| Lingokids: Games & Shows | Education | $1.16M | No Free Trial - Soft Paywall | [打开](apps/lingokids-games-and-shows-1002043426.md) |
 | Quizlet: More than Flashcards | Education | $1.16M | Free Trial - Soft Paywall | [打开](apps/quizlet-more-than-flashcards-546473125.md) |
 | TIDAL Music: HiFi Sound | Music | $1.03M | Free Trial - Soft Paywall | [打开](apps/tidal-music-hifi-sound-913943275.md) |
+| Peloton: Fitness & Workouts | Health & Fitness | $1.01M | No Free Trial - Soft Paywall | [打开](apps/peloton-fitness-and-workouts-792750948.md) |
+| Lightroom: AI Photo Editor | Photo & Video | $1.01M | Free Trial - Soft Paywall | [打开](apps/lightroom-ai-photo-editor-878783582.md) |
+| Tinder Dating App: Date & Chat | Lifestyle | $921.50K | No Free Trial - Soft Paywall | [打开](apps/tinder-dating-app-date-and-chat-547702041.md) |
+| epocrates: Drug Info & Pill ID | Medical | $908.38K | Free Trial - Soft Paywall | [打开](apps/epocrates-drug-info-and-pill-id-281935788.md) |
+| MLB | Sports | $870.76K | No Free Trial - Soft Paywall | [打开](apps/mlb-493619333.md) |
+| Simply Piano: Learn Piano Fast | Education | $852.93K | Free Trial - Soft Paywall | [打开](apps/simply-piano-learn-piano-fast-1019442026.md) |
+| Intuit QuickBooks for Business | Business | $835.84K | Free Trial - Soft Paywall | [打开](apps/intuit-quickbooks-for-business-584606479.md) |
+| Yubo: Chat Meet & Make Friends | Social Networking | $807.31K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [打开](apps/yubo-chat-meet-and-make-friends-1038653883.md) |
+| Paramount+ | Entertainment | $756.00K | No Free Trial - Soft Paywall | [打开](apps/paramount-530168168.md) |
+| PURE: Open-Minded Dating App | Lifestyle | $752.12K | No Free Trial - Soft Paywall | [打开](apps/pure-open-minded-dating-app-690661663.md) |
+| Suno - AI Songs & Music | Music | $743.32K | No Free Trial - Soft Paywall | [打开](apps/suno-ai-songs-and-music-6480136315.md) |
+| Text Me - Phone Call + Texting | Social Networking | $727.67K | No Free Trial - Soft Paywall | [打开](apps/text-me-phone-call-texting-514485964.md) |
+| Fambase: Live & Group Chat | Utilities | $726.99K | No Free Trial - Soft Paywall, Currency Paywall | [打开](apps/fambase-live-and-group-chat-1580059320.md) |
 
-完整 App 索引位于 [apps/index.zh-CN.md](apps/index.zh-CN.md)。
+完整 App 索引位于 [apps/index.zh-CN.md](apps/index.zh-CN.md)。[浏览全部 550 个 App](apps/index.zh-CN.md)。
 
 ---
 
 ## 按品类浏览
 
-- [Social Networking](categories/social-networking.md)
 - [Photo & Video](categories/photo-video.md)
-- [Music](categories/music.md)
-- [Lifestyle](categories/lifestyle.md)
+- [Social Networking](categories/social-networking.md)
 - [Sports](categories/sports.md)
 - [News](categories/news.md)
-- [Productivity](categories/productivity.md)
 - [Finance](categories/finance.md)
 - [Education](categories/education.md)
+- [Music](categories/music.md)
 - [Health & Fitness](categories/health-and-fitness.md)
-- [Business](categories/business.md)
+- [Lifestyle](categories/lifestyle.md)
 - [Medical](categories/medical.md)
-- [Utilities](categories/utilities.md)
+- [Business](categories/business.md)
 - [Entertainment](categories/entertainment.md)
-- [Travel](categories/travel.md)
+- [Utilities](categories/utilities.md)
 - [Reference](categories/reference.md)
 - [Food & Drink](categories/food-and-drink.md)
+- [Travel](categories/travel.md)
 - [Shopping](categories/shopping.md)
+- [Productivity](categories/productivity.md)
 - [Books](categories/books.md)
 - [Navigation](categories/navigation.md)
 - [Weather](categories/weather.md)

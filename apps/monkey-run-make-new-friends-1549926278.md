@@ -11,8 +11,8 @@ versions_count: 1
 offers:
   - period: "week"
     prices: ["$7.99"]
-screenshots_count: 3
-onboarding_flows_count: 9
+onboarding_count: 9
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Monkey-Run---Make-New-Friends-us?id=504&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -88,8 +88,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $6.93K |
 | Avg daily downloads | 2.89K |
 | Avg daily ARPU | $2.40 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 9 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

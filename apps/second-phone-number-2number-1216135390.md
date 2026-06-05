@@ -3,7 +3,7 @@ app_name: "Second Phone Number - 2Number"
 app_id: 1216135390
 developer: "BPMobile"
 category: "Utilities"
-paywall_type: "Free Trial - Soft Paywall"
+paywall_type: "Free Trial - Soft Paywall, Currency Paywall"
 pricing_model: "1 offer set across week, year"
 mrr: "$83.30K"
 rating: 4.51
@@ -13,8 +13,8 @@ offers:
     prices: ["$9.99"]
   - period: "year"
     prices: ["$69.99"]
-screenshots_count: 3
-onboarding_flows_count: 18
+onboarding_count: 11
+walkthrough_count: 7
 app_detail_url: "https://www.paywallpro.app/apps/Second-Phone-Number---2Number-us?id=421&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -22,7 +22,7 @@ app_detail_url: "https://www.paywallpro.app/apps/Second-Phone-Number---2Number-u
 
 Category: Utilities
 Estimated MRR: $83.30K
-Paywall Pattern: Free Trial - Soft Paywall
+Paywall Pattern: Free Trial - Soft Paywall, Currency Paywall
 Pricing Model: 1 offer set across week, year
 Captured Version: 2.89
 Version Release Date: 2025-12-22
@@ -40,7 +40,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Second Phone Number - 2Number uses the Free Trial - Soft Paywall pattern in the Utilities category.
+- Second Phone Number - 2Number uses the Free Trial - Soft Paywall, Currency Paywall pattern in the Utilities category.
 - The preview exposes one visible offer set; the full PaywallPro page may include more historical context.
 - The paywall presents week, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Utilities app packages subscription value for its users.
@@ -66,12 +66,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Utilities |
-| Paywall type | Free Trial - Soft Paywall |
+| Paywall type | Free Trial - Soft Paywall, Currency Paywall |
 | Pricing model | 1 offer set across week, year |
 | Captured version | 2.89 |
 | Version release date | 2025-12-22 |
 
-This paywall uses the **Free Trial - Soft Paywall** structure.
+This paywall uses the **Free Trial - Soft Paywall, Currency Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -91,8 +91,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $6.59K |
 | Avg daily downloads | 3.00K |
 | Avg daily ARPU | $2.20 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 11 |
+| Walkthrough preview count | 7 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

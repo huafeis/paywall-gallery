@@ -13,8 +13,8 @@ offers:
     prices: ["$4.99", "$4.99/$9.99"]
   - period: "year"
     prices: ["$33.99", "$33.99/$59.99"]
-screenshots_count: 3
-onboarding_flows_count: 13
+onboarding_count: 6
+walkthrough_count: 7
 app_detail_url: "https://www.paywallpro.app/apps/PhotoGrid:-Video-Collage-Maker-us?id=420&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -92,8 +92,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $4.94K |
 | Avg daily downloads | 1.18K |
 | Avg daily ARPU | $4.20 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 6 |
+| Walkthrough preview count | 7 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

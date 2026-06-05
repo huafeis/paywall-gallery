@@ -11,8 +11,8 @@ versions_count: 3
 offers:
   - period: "month"
     prices: ["$24.99/$49.99"]
-screenshots_count: 3
-onboarding_flows_count: 16
+onboarding_count: 10
+walkthrough_count: 6
 app_detail_url: "https://www.paywallpro.app/apps/DateMyAge%E2%84%A2---Mature-Dating-40%2B-us?id=293&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -88,8 +88,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $11.79K |
 | Avg daily downloads | 527 |
 | Avg daily ARPU | $22.35 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 10 |
+| Walkthrough preview count | 6 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

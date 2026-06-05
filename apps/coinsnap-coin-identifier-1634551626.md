@@ -3,24 +3,24 @@ app_name: "CoinSnap: Coin Identifier"
 app_id: 1634551626
 developer: "Next Vision Limited"
 category: "Reference"
-paywall_type: "Free Trial - Soft Paywall"
+paywall_type: "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
 pricing_model: "1 offer set across year"
-mrr: "$280.63K"
+mrr: "$5.70K"
 rating: 4.72
 versions_count: 10
 offers:
   - period: "year"
     prices: ["$39.99"]
-screenshots_count: 3
-onboarding_flows_count: 7
+onboarding_count: 3
+walkthrough_count: 4
 app_detail_url: "https://www.paywallpro.app/apps/CoinSnap:-Coin-Identifier-us?id=258&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # CoinSnap: Coin Identifier Paywall Analysis
 
 Category: Reference
-Estimated MRR: $280.63K
-Paywall Pattern: Free Trial - Soft Paywall
+Estimated MRR: $5.70K
+Paywall Pattern: Free Trial - Soft Paywall, No Free Trial - Soft Paywall
 Pricing Model: 1 offer set across year
 Captured Version: 2.16.0
 Version Release Date: 2026-02-10
@@ -38,7 +38,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- CoinSnap: Coin Identifier uses the Free Trial - Soft Paywall pattern in the Reference category.
+- CoinSnap: Coin Identifier uses the Free Trial - Soft Paywall, No Free Trial - Soft Paywall pattern in the Reference category.
 - The preview exposes one visible offer set; the full PaywallPro page may include more historical context.
 - The pricing structure shows how a leading Reference app packages subscription value for its users.
 
@@ -63,12 +63,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Reference |
-| Paywall type | Free Trial - Soft Paywall |
+| Paywall type | Free Trial - Soft Paywall, No Free Trial - Soft Paywall |
 | Pricing model | 1 offer set across year |
 | Captured version | 2.16.0 |
 | Version release date | 2026-02-10 |
 
-This paywall uses the **Free Trial - Soft Paywall** structure.
+This paywall uses the **Free Trial - Soft Paywall, No Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -84,12 +84,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.72 |
 | Category rank | #6 |
-| Estimated MRR | $280.63K |
+| Estimated MRR | $5.70K |
 | Avg daily revenue | $10.40K |
 | Avg daily downloads | 4.38K |
 | Avg daily ARPU | $2.38 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 3 |
+| Walkthrough preview count | 4 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

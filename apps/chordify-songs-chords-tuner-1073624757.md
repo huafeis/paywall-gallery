@@ -13,8 +13,8 @@ offers:
     prices: ["$9/$8"]
   - period: "year"
     prices: ["$12/$42"]
-screenshots_count: 3
-onboarding_flows_count: 15
+onboarding_count: 6
+walkthrough_count: 9
 app_detail_url: "https://www.paywallpro.app/apps/Chordify:-Songs%2C-Chords%2C-Tuner-us?id=860&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -91,8 +91,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $3.25K |
 | Avg daily downloads | 589 |
 | Avg daily ARPU | $5.53 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 6 |
+| Walkthrough preview count | 9 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

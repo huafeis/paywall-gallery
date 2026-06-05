@@ -13,8 +13,8 @@ offers:
     prices: ["$1.99/$6.99/$2.99/$14.99"]
   - period: "year"
     prices: ["$62.99/$126.99"]
-screenshots_count: 3
-onboarding_flows_count: 14
+onboarding_count: 4
+walkthrough_count: 10
 app_detail_url: "https://www.paywallpro.app/apps/CapCut:-Photo-&-Video-Editor-us?id=45&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -91,8 +91,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $209.94K |
 | Avg daily downloads | 150.89K |
 | Avg daily ARPU | $1.40 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 4 |
+| Walkthrough preview count | 10 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

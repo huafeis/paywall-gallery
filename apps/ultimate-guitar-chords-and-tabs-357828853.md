@@ -3,9 +3,9 @@ app_name: "Ultimate Guitar: Chords & Tabs"
 app_id: 357828853
 developer: "Ultimate Guitar"
 category: "Music"
-paywall_type: "Free Trial - Soft Paywall"
+paywall_type: "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
 pricing_model: "4 offer sets across month, year"
-mrr: "$766.57K"
+mrr: "$35.62K"
 rating: 4.74
 versions_count: 5
 offers:
@@ -13,16 +13,16 @@ offers:
     prices: ["$36.99", "$9.99", "$19.99"]
   - period: "year"
     prices: ["$99.99/$79.99", "$59.99", "$39.99"]
-screenshots_count: 3
-onboarding_flows_count: 29
+onboarding_count: 19
+walkthrough_count: 10
 app_detail_url: "https://www.paywallpro.app/apps/Ultimate-Guitar:-Chords-&-Tabs-us?id=111&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Ultimate Guitar: Chords & Tabs Paywall Analysis
 
 Category: Music
-Estimated MRR: $766.57K
-Paywall Pattern: Free Trial - Soft Paywall
+Estimated MRR: $35.62K
+Paywall Pattern: Free Trial - Soft Paywall, No Free Trial - Soft Paywall
 Pricing Model: 4 offer sets across month, year
 Captured Version: 7.2.13
 Version Release Date: 2026-03-13
@@ -40,7 +40,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Ultimate Guitar: Chords & Tabs uses the Free Trial - Soft Paywall pattern in the Music category.
+- Ultimate Guitar: Chords & Tabs uses the Free Trial - Soft Paywall, No Free Trial - Soft Paywall pattern in the Music category.
 - 4 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The paywall presents month, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Music app packages subscription value for its users.
@@ -66,12 +66,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Music |
-| Paywall type | Free Trial - Soft Paywall |
+| Paywall type | Free Trial - Soft Paywall, No Free Trial - Soft Paywall |
 | Pricing model | 4 offer sets across month, year |
 | Captured version | 7.2.13 |
 | Version release date | 2026-03-13 |
 
-This paywall uses the **Free Trial - Soft Paywall** structure.
+This paywall uses the **Free Trial - Soft Paywall, No Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -90,12 +90,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.74 |
 | Category rank | #36 |
-| Estimated MRR | $766.57K |
+| Estimated MRR | $35.62K |
 | Avg daily revenue | Not available |
 | Avg daily downloads | Not available |
 | Avg daily ARPU | Not available |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 19 |
+| Walkthrough preview count | 10 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

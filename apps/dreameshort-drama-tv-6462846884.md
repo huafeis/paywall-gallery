@@ -3,7 +3,7 @@ app_name: "DreameShort - Drama TV"
 app_id: 6462846884
 developer: "CRATER PTE. LTD."
 category: "Entertainment"
-paywall_type: "No Free Trial - Soft Paywall"
+paywall_type: "No Free Trial - Soft Paywall, Currency Paywall"
 pricing_model: "1 offer set across week"
 mrr: "$46.22K"
 rating: 4.82
@@ -11,8 +11,8 @@ versions_count: 3
 offers:
   - period: "week"
     prices: ["$9.99"]
-screenshots_count: 3
-onboarding_flows_count: 12
+onboarding_count: 12
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/DreameShort---Drama-TV-us?id=218&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -20,7 +20,7 @@ app_detail_url: "https://www.paywallpro.app/apps/DreameShort---Drama-TV-us?id=21
 
 Category: Entertainment
 Estimated MRR: $46.22K
-Paywall Pattern: No Free Trial - Soft Paywall
+Paywall Pattern: No Free Trial - Soft Paywall, Currency Paywall
 Pricing Model: 1 offer set across week
 Captured Version: 1.28.20
 Version Release Date: 2025-12-04
@@ -38,7 +38,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- DreameShort - Drama TV uses the No Free Trial - Soft Paywall pattern in the Entertainment category.
+- DreameShort - Drama TV uses the No Free Trial - Soft Paywall, Currency Paywall pattern in the Entertainment category.
 - The preview exposes one visible offer set; the full PaywallPro page may include more historical context.
 - The pricing structure shows how a leading Entertainment app packages subscription value for its users.
 
@@ -63,12 +63,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Entertainment |
-| Paywall type | No Free Trial - Soft Paywall |
+| Paywall type | No Free Trial - Soft Paywall, Currency Paywall |
 | Pricing model | 1 offer set across week |
 | Captured version | 1.28.20 |
 | Version release date | 2025-12-04 |
 
-This paywall uses the **No Free Trial - Soft Paywall** structure.
+This paywall uses the **No Free Trial - Soft Paywall, Currency Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -88,8 +88,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $7.40K |
 | Avg daily downloads | 522 |
 | Avg daily ARPU | $14.18 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 12 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

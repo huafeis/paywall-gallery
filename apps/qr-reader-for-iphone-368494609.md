@@ -5,21 +5,21 @@ developer: "TapMedia Ltd"
 category: "Utilities"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "1 offer set across month"
-mrr: "$46.78K"
+mrr: "$4.46K"
 rating: 4.72
 versions_count: 2
 offers:
   - period: "month"
     prices: ["$4.99"]
-screenshots_count: 3
-onboarding_flows_count: 11
+onboarding_count: 6
+walkthrough_count: 5
 app_detail_url: "https://www.paywallpro.app/apps/QR-Reader-for-iPhone-us?id=863&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # QR Reader for iPhone Paywall Analysis
 
 Category: Utilities
-Estimated MRR: $46.78K
+Estimated MRR: $4.46K
 Paywall Pattern: Free Trial - Soft Paywall
 Pricing Model: 1 offer set across month
 Captured Version: 9.6
@@ -84,12 +84,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.72 |
 | Category rank | #107 |
-| Estimated MRR | $46.78K |
+| Estimated MRR | $4.46K |
 | Avg daily revenue | $2.49K |
 | Avg daily downloads | 2.10K |
 | Avg daily ARPU | $1.19 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 6 |
+| Walkthrough preview count | 5 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

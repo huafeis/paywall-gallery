@@ -3,7 +3,7 @@ app_name: "DramaBox - Stream Drama Shorts"
 app_id: 6445905219
 developer: "STORYMATRIX PTE. LTD."
 category: "Entertainment"
-paywall_type: "No Free Trial - Soft Paywall"
+paywall_type: "No Free Trial - Soft Paywall, Currency Paywall"
 pricing_model: "2 offer sets across week, year"
 mrr: "$142.68K"
 rating: 4.77
@@ -13,8 +13,8 @@ offers:
     prices: ["$6.49/$12.99"]
   - period: "year"
     prices: ["$119.99"]
-screenshots_count: 3
-onboarding_flows_count: 10
+onboarding_count: 10
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/DramaBox---Stream-Drama-Shorts-us?id=51&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -22,7 +22,7 @@ app_detail_url: "https://www.paywallpro.app/apps/DramaBox---Stream-Drama-Shorts-
 
 Category: Entertainment
 Estimated MRR: $142.68K
-Paywall Pattern: No Free Trial - Soft Paywall
+Paywall Pattern: No Free Trial - Soft Paywall, Currency Paywall
 Pricing Model: 2 offer sets across week, year
 Captured Version: 5.6.1
 Version Release Date: 2026-03-29
@@ -40,7 +40,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- DramaBox - Stream Drama Shorts uses the No Free Trial - Soft Paywall pattern in the Entertainment category.
+- DramaBox - Stream Drama Shorts uses the No Free Trial - Soft Paywall, Currency Paywall pattern in the Entertainment category.
 - 2 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The paywall presents week, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Entertainment app packages subscription value for its users.
@@ -66,12 +66,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Entertainment |
-| Paywall type | No Free Trial - Soft Paywall |
+| Paywall type | No Free Trial - Soft Paywall, Currency Paywall |
 | Pricing model | 2 offer sets across week, year |
 | Captured version | 5.6.1 |
 | Version release date | 2026-03-29 |
 
-This paywall uses the **No Free Trial - Soft Paywall** structure.
+This paywall uses the **No Free Trial - Soft Paywall, Currency Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -92,8 +92,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | Not available |
 | Avg daily downloads | Not available |
 | Avg daily ARPU | Not available |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 10 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

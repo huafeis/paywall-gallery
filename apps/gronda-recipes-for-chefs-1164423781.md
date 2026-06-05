@@ -3,7 +3,7 @@ app_name: "Gronda: Recipes for Chefs"
 app_id: 1164423781
 developer: "Gronda GmbH"
 category: "Food & Drink"
-paywall_type: "Free Trial - Soft Paywall"
+paywall_type: "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
 pricing_model: "3 offer sets across month, year"
 mrr: "$50.66K"
 rating: 4.81
@@ -13,8 +13,8 @@ offers:
     prices: ["$9.99"]
   - period: "year"
     prices: ["$99.99"]
-screenshots_count: 3
-onboarding_flows_count: 30
+onboarding_count: 21
+walkthrough_count: 9
 app_detail_url: "https://www.paywallpro.app/apps/Gronda:-Recipes-for-Chefs-us?id=235267&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -22,7 +22,7 @@ app_detail_url: "https://www.paywallpro.app/apps/Gronda:-Recipes-for-Chefs-us?id
 
 Category: Food & Drink
 Estimated MRR: $50.66K
-Paywall Pattern: Free Trial - Soft Paywall
+Paywall Pattern: Free Trial - Soft Paywall, No Free Trial - Soft Paywall
 Pricing Model: 3 offer sets across month, year
 Captured Version: 8.3.1
 Version Release Date: 2026-01-13
@@ -40,7 +40,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Gronda: Recipes for Chefs uses the Free Trial - Soft Paywall pattern in the Food & Drink category.
+- Gronda: Recipes for Chefs uses the Free Trial - Soft Paywall, No Free Trial - Soft Paywall pattern in the Food & Drink category.
 - 3 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The paywall presents month, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Food & Drink app packages subscription value for its users.
@@ -66,12 +66,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Food & Drink |
-| Paywall type | Free Trial - Soft Paywall |
+| Paywall type | Free Trial - Soft Paywall, No Free Trial - Soft Paywall |
 | Pricing model | 3 offer sets across month, year |
 | Captured version | 8.3.1 |
 | Version release date | 2026-01-13 |
 
-This paywall uses the **Free Trial - Soft Paywall** structure.
+This paywall uses the **Free Trial - Soft Paywall, No Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -93,8 +93,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $3.15K |
 | Avg daily downloads | 379 |
 | Avg daily ARPU | $8.32 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 21 |
+| Walkthrough preview count | 9 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

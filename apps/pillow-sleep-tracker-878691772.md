@@ -5,7 +5,7 @@ developer: "Neybox Digital Ltd."
 category: "Health & Fitness"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "1 offer set across month, year"
-mrr: "$47.57K"
+mrr: "$1.20K"
 rating: 4.37
 versions_count: 2
 offers:
@@ -13,15 +13,15 @@ offers:
     prices: ["$3.33"]
   - period: "year"
     prices: ["$39.99"]
-screenshots_count: 3
-onboarding_flows_count: 16
+onboarding_count: 14
+walkthrough_count: 3
 app_detail_url: "https://www.paywallpro.app/apps/Pillow:-Sleep-Tracker-us?id=718&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Pillow: Sleep Tracker Paywall Analysis
 
 Category: Health & Fitness
-Estimated MRR: $47.57K
+Estimated MRR: $1.20K
 Paywall Pattern: Free Trial - Soft Paywall
 Pricing Model: 1 offer set across month, year
 Captured Version: 5.2
@@ -87,12 +87,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.37 |
 | Category rank | #196 |
-| Estimated MRR | $47.57K |
+| Estimated MRR | $1.20K |
 | Avg daily revenue | $4.63K |
 | Avg daily downloads | 751 |
 | Avg daily ARPU | $6.17 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 14 |
+| Walkthrough preview count | 3 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

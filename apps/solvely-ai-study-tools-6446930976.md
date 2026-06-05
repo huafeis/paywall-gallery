@@ -3,9 +3,9 @@ app_name: "Solvely - AI Study Tools"
 app_id: 6446930976
 developer: "Aignite Inc."
 category: "Education"
-paywall_type: "Free Trial - Soft Paywall"
+paywall_type: "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
 pricing_model: "3 offer sets across week, month, year"
-mrr: "$243.61K"
+mrr: "$17.97K"
 rating: 4.76
 versions_count: 7
 offers:
@@ -15,16 +15,16 @@ offers:
     prices: ["$12.99"]
   - period: "year"
     prices: ["$67.99"]
-screenshots_count: 3
-onboarding_flows_count: 14
+onboarding_count: 7
+walkthrough_count: 7
 app_detail_url: "https://www.paywallpro.app/apps/Solvely---AI-Study-Tools-us?id=693&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Solvely - AI Study Tools Paywall Analysis
 
 Category: Education
-Estimated MRR: $243.61K
-Paywall Pattern: Free Trial - Soft Paywall
+Estimated MRR: $17.97K
+Paywall Pattern: Free Trial - Soft Paywall, No Free Trial - Soft Paywall
 Pricing Model: 3 offer sets across week, month, year
 Captured Version: 4.9.5
 Version Release Date: 2026-01-13
@@ -42,7 +42,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Solvely - AI Study Tools uses the Free Trial - Soft Paywall pattern in the Education category.
+- Solvely - AI Study Tools uses the Free Trial - Soft Paywall, No Free Trial - Soft Paywall pattern in the Education category.
 - 3 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The paywall presents week, month, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Education app packages subscription value for its users.
@@ -68,12 +68,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Education |
-| Paywall type | Free Trial - Soft Paywall |
+| Paywall type | Free Trial - Soft Paywall, No Free Trial - Soft Paywall |
 | Pricing model | 3 offer sets across week, month, year |
 | Captured version | 4.9.5 |
 | Version release date | 2026-01-13 |
 
-This paywall uses the **Free Trial - Soft Paywall** structure.
+This paywall uses the **Free Trial - Soft Paywall, No Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -91,12 +91,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.76 |
 | Category rank | #18 |
-| Estimated MRR | $243.61K |
+| Estimated MRR | $17.97K |
 | Avg daily revenue | $9.70K |
 | Avg daily downloads | 2.13K |
 | Avg daily ARPU | $4.55 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 7 |
+| Walkthrough preview count | 7 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

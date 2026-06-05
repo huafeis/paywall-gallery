@@ -11,8 +11,8 @@ versions_count: 3
 offers:
   - period: "year"
     prices: ["$79.99"]
-screenshots_count: 3
-onboarding_flows_count: 13
+onboarding_count: 2
+walkthrough_count: 11
 app_detail_url: "https://www.paywallpro.app/apps/Sago-Mini-World:-Kids-Games-us?id=317&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -88,8 +88,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $11.73K |
 | Avg daily downloads | 1.78K |
 | Avg daily ARPU | $6.58 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 2 |
+| Walkthrough preview count | 11 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

@@ -13,8 +13,8 @@ offers:
     prices: ["$4.95"]
   - period: "year"
     prices: ["$299"]
-screenshots_count: 3
-onboarding_flows_count: 11
+onboarding_count: 5
+walkthrough_count: 6
 app_detail_url: "https://www.paywallpro.app/apps/Seeking-Alpha:-News-&-Analysis-us?id=457&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -91,8 +91,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $4.65K |
 | Avg daily downloads | 371 |
 | Avg daily ARPU | $12.54 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 5 |
+| Walkthrough preview count | 6 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

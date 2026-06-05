@@ -3,7 +3,7 @@ app_name: "The Athletic: All Sports News"
 app_id: 1135216317
 developer: "The New York Times Company"
 category: "Sports"
-paywall_type: "Free Trial - Soft Paywall"
+paywall_type: "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across month, year"
 mrr: "$173.62K"
 rating: 4.81
@@ -13,8 +13,8 @@ offers:
     prices: ["$7.99"]
   - period: "year"
     prices: ["$71.99", "$23.99"]
-screenshots_count: 3
-onboarding_flows_count: 11
+onboarding_count: 6
+walkthrough_count: 5
 app_detail_url: "https://www.paywallpro.app/apps/The-Athletic:-All-Sports-News-us?id=330&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -22,7 +22,7 @@ app_detail_url: "https://www.paywallpro.app/apps/The-Athletic:-All-Sports-News-u
 
 Category: Sports
 Estimated MRR: $173.62K
-Paywall Pattern: Free Trial - Soft Paywall
+Paywall Pattern: Free Trial - Soft Paywall, No Free Trial - Soft Paywall
 Pricing Model: 2 offer sets across month, year
 Captured Version: 13.103.0
 Version Release Date: 2025-09-15
@@ -40,7 +40,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- The Athletic: All Sports News uses the Free Trial - Soft Paywall pattern in the Sports category.
+- The Athletic: All Sports News uses the Free Trial - Soft Paywall, No Free Trial - Soft Paywall pattern in the Sports category.
 - 2 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The paywall presents month, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Sports app packages subscription value for its users.
@@ -66,12 +66,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Sports |
-| Paywall type | Free Trial - Soft Paywall |
+| Paywall type | Free Trial - Soft Paywall, No Free Trial - Soft Paywall |
 | Pricing model | 2 offer sets across month, year |
 | Captured version | 13.103.0 |
 | Version release date | 2025-09-15 |
 
-This paywall uses the **Free Trial - Soft Paywall** structure.
+This paywall uses the **Free Trial - Soft Paywall, No Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -92,8 +92,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $10.69K |
 | Avg daily downloads | 480 |
 | Avg daily ARPU | $22.28 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 6 |
+| Walkthrough preview count | 5 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

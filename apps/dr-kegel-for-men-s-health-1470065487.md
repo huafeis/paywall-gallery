@@ -3,7 +3,7 @@ app_name: "Dr. Kegel: For Men’s Health"
 app_id: 1470065487
 developer: "ApperCut"
 category: "Health & Fitness"
-paywall_type: "Free Trial - Soft Paywall"
+paywall_type: "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across month, year, quarter"
 mrr: "$53.67K"
 rating: 4.83
@@ -15,8 +15,8 @@ offers:
     prices: ["$56.99", "$59.99"]
   - period: "quarter"
     prices: ["$29.99"]
-screenshots_count: 3
-onboarding_flows_count: 9
+onboarding_count: 9
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Dr.-Kegel:-For-Men%E2%80%99s-Health-us?id=823&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -24,7 +24,7 @@ app_detail_url: "https://www.paywallpro.app/apps/Dr.-Kegel:-For-Men%E2%80%99s-He
 
 Category: Health & Fitness
 Estimated MRR: $53.67K
-Paywall Pattern: Free Trial - Soft Paywall
+Paywall Pattern: Free Trial - Soft Paywall, No Free Trial - Soft Paywall
 Pricing Model: 2 offer sets across month, year, quarter
 Captured Version: 2.47.2
 Version Release Date: 2024-08-07
@@ -42,7 +42,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Dr. Kegel: For Men’s Health uses the Free Trial - Soft Paywall pattern in the Health & Fitness category.
+- Dr. Kegel: For Men’s Health uses the Free Trial - Soft Paywall, No Free Trial - Soft Paywall pattern in the Health & Fitness category.
 - 2 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The paywall presents month, year, quarter option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Health & Fitness app packages subscription value for its users.
@@ -68,12 +68,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Health & Fitness |
-| Paywall type | Free Trial - Soft Paywall |
+| Paywall type | Free Trial - Soft Paywall, No Free Trial - Soft Paywall |
 | Pricing model | 2 offer sets across month, year, quarter |
 | Captured version | 2.47.2 |
 | Version release date | 2024-08-07 |
 
-This paywall uses the **Free Trial - Soft Paywall** structure.
+This paywall uses the **Free Trial - Soft Paywall, No Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -94,8 +94,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $4.05K |
 | Avg daily downloads | 327 |
 | Avg daily ARPU | $12.39 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 9 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

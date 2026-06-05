@@ -13,8 +13,8 @@ offers:
     prices: ["$27.95", "$24.95", "$34.95"]
   - period: "year"
     prices: ["$249.99", "$224.99", "$314.99"]
-screenshots_count: 3
-onboarding_flows_count: 17
+onboarding_count: 17
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Simply-Piano:-Learn-Piano-Fast-us?id=131&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -93,8 +93,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $37.50K |
 | Avg daily downloads | 2.94K |
 | Avg daily ARPU | $12.78 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 17 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

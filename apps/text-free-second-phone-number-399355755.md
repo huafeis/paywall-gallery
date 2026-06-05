@@ -5,21 +5,21 @@ developer: "Pinger, Inc."
 category: "Social Networking"
 paywall_type: "No Free Trial - Soft Paywall"
 pricing_model: "1 offer set across month"
-mrr: "$586.73K"
+mrr: "$49.30K"
 rating: 4.68
 versions_count: 1
 offers:
   - period: "month"
     prices: ["$9.99"]
-screenshots_count: 3
-onboarding_flows_count: 7
+onboarding_count: 7
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Text-Free:-Second-Phone-Number-us?id=252&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Text Free: Second Phone Number Paywall Analysis
 
 Category: Social Networking
-Estimated MRR: $586.73K
+Estimated MRR: $49.30K
 Paywall Pattern: No Free Trial - Soft Paywall
 Pricing Model: 1 offer set across month
 Captured Version: v12.74
@@ -84,12 +84,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.68 |
 | Category rank | #14 |
-| Estimated MRR | $586.73K |
+| Estimated MRR | $49.30K |
 | Avg daily revenue | $23.55K |
 | Avg daily downloads | 9.63K |
 | Avg daily ARPU | $2.45 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 7 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

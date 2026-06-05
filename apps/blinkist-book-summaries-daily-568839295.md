@@ -3,7 +3,7 @@ app_name: "Blinkist: Book Summaries Daily"
 app_id: 568839295
 developer: "Blinks Labs"
 category: "Education"
-paywall_type: "No Free Trial - Soft Paywall"
+paywall_type: "No Free Trial - Soft Paywall, Free Trial - Soft Paywall"
 pricing_model: "3 offer sets across year"
 mrr: "$370.73K"
 rating: 4.78
@@ -11,8 +11,8 @@ versions_count: 3
 offers:
   - period: "year"
     prices: ["$139.99/$99.99", "$139.99", "$79.99/$59.99"]
-screenshots_count: 3
-onboarding_flows_count: 16
+onboarding_count: 10
+walkthrough_count: 6
 app_detail_url: "https://www.paywallpro.app/apps/Blinkist:-Book-Summaries-Daily-us?id=221&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -20,7 +20,7 @@ app_detail_url: "https://www.paywallpro.app/apps/Blinkist:-Book-Summaries-Daily-
 
 Category: Education
 Estimated MRR: $370.73K
-Paywall Pattern: No Free Trial - Soft Paywall
+Paywall Pattern: No Free Trial - Soft Paywall, Free Trial - Soft Paywall
 Pricing Model: 3 offer sets across year
 Captured Version: 11.4.0
 Version Release Date: 2025-12-16
@@ -38,7 +38,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Blinkist: Book Summaries Daily uses the No Free Trial - Soft Paywall pattern in the Education category.
+- Blinkist: Book Summaries Daily uses the No Free Trial - Soft Paywall, Free Trial - Soft Paywall pattern in the Education category.
 - 3 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The pricing structure shows how a leading Education app packages subscription value for its users.
 
@@ -63,12 +63,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Education |
-| Paywall type | No Free Trial - Soft Paywall |
+| Paywall type | No Free Trial - Soft Paywall, Free Trial - Soft Paywall |
 | Pricing model | 3 offer sets across year |
 | Captured version | 11.4.0 |
 | Version release date | 2025-12-16 |
 
-This paywall uses the **No Free Trial - Soft Paywall** structure.
+This paywall uses the **No Free Trial - Soft Paywall, Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -90,8 +90,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $48.21K |
 | Avg daily downloads | 1.16K |
 | Avg daily ARPU | $41.44 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 10 |
+| Walkthrough preview count | 6 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

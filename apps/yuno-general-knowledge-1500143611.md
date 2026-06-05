@@ -13,8 +13,8 @@ offers:
     prices: ["$12.99"]
   - period: "year"
     prices: ["$79.99/$99.99"]
-screenshots_count: 3
-onboarding_flows_count: 32
+onboarding_count: 27
+walkthrough_count: 5
 app_detail_url: "https://www.paywallpro.app/apps/Yuno---General-knowledge-us?id=680944&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -92,8 +92,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $1.27K |
 | Avg daily downloads | 628 |
 | Avg daily ARPU | $2.02 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 27 |
+| Walkthrough preview count | 5 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

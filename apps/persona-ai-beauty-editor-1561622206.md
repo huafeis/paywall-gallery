@@ -5,7 +5,7 @@ developer: "Ticket To The Moon, Inc."
 category: "Photo & Video"
 paywall_type: "No Free Trial - Soft Paywall"
 pricing_model: "1 offer set across month, year, one-time purchase"
-mrr: "$67.35K"
+mrr: "$5.46K"
 rating: 4.77
 versions_count: 2
 offers:
@@ -15,15 +15,15 @@ offers:
     prices: ["$27"]
   - period: "one-time purchase"
     prices: ["$100"]
-screenshots_count: 3
-onboarding_flows_count: 10
+onboarding_count: 8
+walkthrough_count: 2
 app_detail_url: "https://www.paywallpro.app/apps/Persona:-AI-Beauty-Editor-us?id=5780&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Persona: AI Beauty Editor Paywall Analysis
 
 Category: Photo & Video
-Estimated MRR: $67.35K
+Estimated MRR: $5.46K
 Paywall Pattern: No Free Trial - Soft Paywall
 Pricing Model: 1 offer set across month, year, one-time purchase
 Captured Version: 1.14.18
@@ -89,12 +89,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.77 |
 | Category rank | #123 |
-| Estimated MRR | $67.35K |
+| Estimated MRR | $5.46K |
 | Avg daily revenue | $3.03K |
 | Avg daily downloads | 688 |
 | Avg daily ARPU | $4.41 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 8 |
+| Walkthrough preview count | 2 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

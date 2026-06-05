@@ -3,7 +3,7 @@ app_name: "Fambase: Live & Group Chat"
 app_id: 1580059320
 developer: "NEXTWAVE MEDIA HOLDINGS LIMITED"
 category: "Utilities"
-paywall_type: "No Free Trial - Soft Paywall"
+paywall_type: "No Free Trial - Soft Paywall, Currency Paywall"
 pricing_model: "1 offer set across month, year"
 mrr: "$726.99K"
 rating: 4.43
@@ -13,8 +13,8 @@ offers:
     prices: ["$19.99"]
   - period: "year"
     prices: ["$199.99"]
-screenshots_count: 3
-onboarding_flows_count: 9
+onboarding_count: 9
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Fambase:-Live-&-Group-Chat-us?id=249&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -22,7 +22,7 @@ app_detail_url: "https://www.paywallpro.app/apps/Fambase:-Live-&-Group-Chat-us?i
 
 Category: Utilities
 Estimated MRR: $726.99K
-Paywall Pattern: No Free Trial - Soft Paywall
+Paywall Pattern: No Free Trial - Soft Paywall, Currency Paywall
 Pricing Model: 1 offer set across month, year
 Captured Version: 6.5.0
 Version Release Date: 2026-02-09
@@ -40,7 +40,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Fambase: Live & Group Chat uses the No Free Trial - Soft Paywall pattern in the Utilities category.
+- Fambase: Live & Group Chat uses the No Free Trial - Soft Paywall, Currency Paywall pattern in the Utilities category.
 - The preview exposes one visible offer set; the full PaywallPro page may include more historical context.
 - The paywall presents month, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Utilities app packages subscription value for its users.
@@ -66,12 +66,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Utilities |
-| Paywall type | No Free Trial - Soft Paywall |
+| Paywall type | No Free Trial - Soft Paywall, Currency Paywall |
 | Pricing model | 1 offer set across month, year |
 | Captured version | 6.5.0 |
 | Version release date | 2026-02-09 |
 
-This paywall uses the **No Free Trial - Soft Paywall** structure.
+This paywall uses the **No Free Trial - Soft Paywall, Currency Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -91,8 +91,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $44.18K |
 | Avg daily downloads | 1.92K |
 | Avg daily ARPU | $22.97 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 9 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

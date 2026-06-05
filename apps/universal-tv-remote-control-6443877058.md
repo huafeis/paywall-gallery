@@ -15,8 +15,8 @@ offers:
     prices: ["$29.99/$39.99"]
   - period: "one-time purchase"
     prices: ["$39.99/$49.99"]
-screenshots_count: 3
-onboarding_flows_count: 10
+onboarding_count: 8
+walkthrough_count: 2
 app_detail_url: "https://www.paywallpro.app/apps/Universal-TV-Remote-Control%E3%83%BB-us?id=712357&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -94,8 +94,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $3.82K |
 | Avg daily downloads | 4.89K |
 | Avg daily ARPU | $0.79 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 8 |
+| Walkthrough preview count | 2 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

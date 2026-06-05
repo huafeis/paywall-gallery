@@ -11,8 +11,8 @@ versions_count: 1
 offers:
   - period: "month"
     prices: ["$3.33"]
-screenshots_count: 3
-onboarding_flows_count: 17
+onboarding_count: 6
+walkthrough_count: 11
 app_detail_url: "https://www.paywallpro.app/apps/CardiaLink-Heart-rate&Health-us?id=2152118&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -88,8 +88,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $4.65K |
 | Avg daily downloads | 959 |
 | Avg daily ARPU | $4.85 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 6 |
+| Walkthrough preview count | 11 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

@@ -6,7 +6,7 @@ category: "Education"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across month, half year, year, one-time purchase"
 mrr: "$52.00K"
-rating: 4.64
+rating: 4.63
 versions_count: 3
 offers:
   - period: "month"
@@ -17,8 +17,8 @@ offers:
     prices: ["$79.99"]
   - period: "one-time purchase"
     prices: ["$199.99"]
-screenshots_count: 3
-onboarding_flows_count: 30
+onboarding_count: 20
+walkthrough_count: 10
 app_detail_url: "https://www.paywallpro.app/apps/Language-Learning---Ling-us?id=14257&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -90,14 +90,14 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 4.64 |
+| App Store rating | 4.63 |
 | Category rank | #169 |
 | Estimated MRR | $52.00K |
 | Avg daily revenue | $2.35K |
 | Avg daily downloads | 549 |
 | Avg daily ARPU | $4.28 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 20 |
+| Walkthrough preview count | 10 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

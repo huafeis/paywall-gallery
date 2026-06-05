@@ -5,21 +5,21 @@ developer: "LastPass US LP"
 category: "Productivity"
 paywall_type: "No Free Trial - Soft Paywall"
 pricing_model: "1 offer set across year"
-mrr: "$61.77K"
+mrr: "$4.97K"
 rating: 4.38
 versions_count: 2
 offers:
   - period: "year"
     prices: ["$35.99"]
-screenshots_count: 3
-onboarding_flows_count: 11
+onboarding_count: 6
+walkthrough_count: 5
 app_detail_url: "https://www.paywallpro.app/apps/LastPass-Password-Manager-us?id=285&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # LastPass Password Manager Paywall Analysis
 
 Category: Productivity
-Estimated MRR: $61.77K
+Estimated MRR: $4.97K
 Paywall Pattern: No Free Trial - Soft Paywall
 Pricing Model: 1 offer set across year
 Captured Version: 6.43.0
@@ -84,12 +84,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.38 |
 | Category rank | #58 |
-| Estimated MRR | $61.77K |
+| Estimated MRR | $4.97K |
 | Avg daily revenue | $3.90K |
 | Avg daily downloads | 313 |
 | Avg daily ARPU | $12.46 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 6 |
+| Walkthrough preview count | 5 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

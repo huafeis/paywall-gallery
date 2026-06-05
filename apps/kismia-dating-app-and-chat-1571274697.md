@@ -3,7 +3,7 @@ app_name: "Kismia - Dating App & Chat"
 app_id: 1571274697
 developer: "Kismia Group Limited"
 category: "Lifestyle"
-paywall_type: "Free Trial - Soft Paywall"
+paywall_type: "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
 pricing_model: "4 offer sets across week, month, year"
 mrr: "$176.64K"
 rating: 4.51
@@ -15,8 +15,8 @@ offers:
     prices: ["$29.99", "$39.99"]
   - period: "year"
     prices: ["$99.99", "$129.99"]
-screenshots_count: 3
-onboarding_flows_count: 35
+onboarding_count: 26
+walkthrough_count: 10
 app_detail_url: "https://www.paywallpro.app/apps/Kismia---Dating-App-&-Chat-us?id=309&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -24,7 +24,7 @@ app_detail_url: "https://www.paywallpro.app/apps/Kismia---Dating-App-&-Chat-us?i
 
 Category: Lifestyle
 Estimated MRR: $176.64K
-Paywall Pattern: Free Trial - Soft Paywall
+Paywall Pattern: Free Trial - Soft Paywall, No Free Trial - Soft Paywall
 Pricing Model: 4 offer sets across week, month, year
 Captured Version: 1.9.22
 Version Release Date: 2025-10-02
@@ -42,7 +42,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Kismia - Dating App & Chat uses the Free Trial - Soft Paywall pattern in the Lifestyle category.
+- Kismia - Dating App & Chat uses the Free Trial - Soft Paywall, No Free Trial - Soft Paywall pattern in the Lifestyle category.
 - 4 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The paywall presents week, month, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Lifestyle app packages subscription value for its users.
@@ -68,12 +68,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Lifestyle |
-| Paywall type | Free Trial - Soft Paywall |
+| Paywall type | Free Trial - Soft Paywall, No Free Trial - Soft Paywall |
 | Pricing model | 4 offer sets across week, month, year |
 | Captured version | 1.9.22 |
 | Version release date | 2025-10-02 |
 
-This paywall uses the **Free Trial - Soft Paywall** structure.
+This paywall uses the **Free Trial - Soft Paywall, No Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -96,8 +96,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $11.41K |
 | Avg daily downloads | 1.15K |
 | Avg daily ARPU | $9.91 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 26 |
+| Walkthrough preview count | 10 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

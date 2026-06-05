@@ -5,7 +5,7 @@ developer: "FishBrain"
 category: "Sports"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across month, year"
-mrr: "$303.73K"
+mrr: "$14.20K"
 rating: 4.65
 versions_count: 3
 offers:
@@ -13,15 +13,15 @@ offers:
     prices: ["$12.99"]
   - period: "year"
     prices: ["$79.99"]
-screenshots_count: 3
-onboarding_flows_count: 19
+onboarding_count: 12
+walkthrough_count: 7
 app_detail_url: "https://www.paywallpro.app/apps/Fishbrain---Fishing-App-us?id=197&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Fishbrain - Fishing App Paywall Analysis
 
 Category: Sports
-Estimated MRR: $303.73K
+Estimated MRR: $14.20K
 Paywall Pattern: Free Trial - Soft Paywall
 Pricing Model: 2 offer sets across month, year
 Captured Version: 9.46.0
@@ -88,12 +88,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.65 |
 | Category rank | #55 |
-| Estimated MRR | $303.73K |
+| Estimated MRR | $14.20K |
 | Avg daily revenue | $21.54K |
 | Avg daily downloads | 1.33K |
 | Avg daily ARPU | $16.20 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 12 |
+| Walkthrough preview count | 7 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

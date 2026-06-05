@@ -5,21 +5,21 @@ developer: "Dropbox, Inc."
 category: "Productivity"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "3 offer sets across month"
-mrr: "$2.09M"
+mrr: "$147.11K"
 rating: 4.81
 versions_count: 3
 offers:
   - period: "month"
     prices: ["$19.99/$6.99", "$11.99/$19.99", "$11.99"]
-screenshots_count: 3
-onboarding_flows_count: 21
+onboarding_count: 11
+walkthrough_count: 10
 app_detail_url: "https://www.paywallpro.app/apps/Dropbox:-Cloud-Storage-Backup-us?id=23&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Dropbox: Cloud Storage Backup Paywall Analysis
 
 Category: Productivity
-Estimated MRR: $2.09M
+Estimated MRR: $147.11K
 Paywall Pattern: Free Trial - Soft Paywall
 Pricing Model: 3 offer sets across month
 Captured Version: 462.2
@@ -86,12 +86,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.81 |
 | Category rank | #21 |
-| Estimated MRR | $2.09M |
+| Estimated MRR | $147.11K |
 | Avg daily revenue | $141.67K |
 | Avg daily downloads | 5.27K |
 | Avg daily ARPU | $26.88 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 11 |
+| Walkthrough preview count | 10 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

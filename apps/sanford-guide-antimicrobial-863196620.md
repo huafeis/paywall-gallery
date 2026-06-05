@@ -11,8 +11,8 @@ versions_count: 3
 offers:
   - period: "year"
     prices: ["$39.99/$79.99/$4.99"]
-screenshots_count: 3
-onboarding_flows_count: 11
+onboarding_count: 11
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Sanford-Guide-Antimicrobial-us?id=822&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -88,8 +88,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $10.95K |
 | Avg daily downloads | 5 |
 | Avg daily ARPU | $2.24K |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 11 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

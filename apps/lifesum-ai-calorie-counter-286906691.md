@@ -15,8 +15,8 @@ offers:
     prices: ["$49.99"]
   - period: "quarter"
     prices: ["$14.99"]
-screenshots_count: 3
-onboarding_flows_count: 56
+onboarding_count: 51
+walkthrough_count: 5
 app_detail_url: "https://www.paywallpro.app/apps/Lifesum:-AI-Calorie-Counter-us?id=368&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -94,8 +94,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $4.14K |
 | Avg daily downloads | 654 |
 | Avg daily ARPU | $6.34 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 51 |
+| Walkthrough preview count | 5 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

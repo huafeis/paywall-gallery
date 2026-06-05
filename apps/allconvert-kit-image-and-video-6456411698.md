@@ -6,15 +6,15 @@ category: "Utilities"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across week, year"
 mrr: "$51.09K"
-rating: 3.53
+rating: 3.54
 versions_count: 1
 offers:
   - period: "week"
     prices: ["$19.99"]
   - period: "year"
     prices: ["$49.99"]
-screenshots_count: 3
-onboarding_flows_count: 6
+onboarding_count: 6
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/AllConvert-Kit---Image-&-Video-us?id=1221033&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -86,14 +86,14 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 3.53 |
+| App Store rating | 3.54 |
 | Category rank | #114 |
 | Estimated MRR | $51.09K |
 | Avg daily revenue | $2.80K |
 | Avg daily downloads | 2.16K |
 | Avg daily ARPU | $1.30 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 6 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

@@ -13,8 +13,8 @@ offers:
     prices: ["$28.49"]
   - period: "quarter"
     prices: ["$17.49"]
-screenshots_count: 3
-onboarding_flows_count: 32
+onboarding_count: 19
+walkthrough_count: 13
 app_detail_url: "https://www.paywallpro.app/apps/Premom-Ovulation-Tracker-&-BBT-us?id=481&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -91,8 +91,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $6.55K |
 | Avg daily downloads | 1.26K |
 | Avg daily ARPU | $5.21 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 19 |
+| Walkthrough preview count | 13 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

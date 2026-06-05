@@ -13,8 +13,8 @@ offers:
     prices: ["$14.99", "$24.99", "$44.99", "$16.99"]
   - period: "year"
     prices: ["$124.99", "$204.99", "$349.99", "$99.99"]
-screenshots_count: 3
-onboarding_flows_count: 10
+onboarding_count: 10
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/SmartGym:-Gym-&-Home-Workouts-us?id=3912&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -95,8 +95,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $1.85K |
 | Avg daily downloads | 735 |
 | Avg daily ARPU | $2.52 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 10 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

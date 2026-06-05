@@ -17,8 +17,8 @@ offers:
     prices: ["$39.99"]
   - period: "one-time purchase"
     prices: ["$119.99"]
-screenshots_count: 3
-onboarding_flows_count: 21
+onboarding_count: 21
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/MadMuscles:-Workouts-&-Diet-us?id=540&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -95,8 +95,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $3.00K |
 | Avg daily downloads | 674 |
 | Avg daily ARPU | $4.46 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 21 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

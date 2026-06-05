@@ -3,7 +3,7 @@ app_name: "Gaze: Live Video Chat App"
 app_id: 1506577189
 developer: "VLMedia Inc."
 category: "Social Networking"
-paywall_type: "No Free Trial - Soft Paywall"
+paywall_type: "No Free Trial - Soft Paywall, Currency Paywall"
 pricing_model: "1 offer set across month"
 mrr: "$279.35K"
 rating: 4.42
@@ -11,8 +11,8 @@ versions_count: 1
 offers:
   - period: "month"
     prices: ["$9.99"]
-screenshots_count: 3
-onboarding_flows_count: 9
+onboarding_count: 3
+walkthrough_count: 6
 app_detail_url: "https://www.paywallpro.app/apps/Gaze:-Live-Video-Chat-App-us?id=355&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -20,7 +20,7 @@ app_detail_url: "https://www.paywallpro.app/apps/Gaze:-Live-Video-Chat-App-us?id
 
 Category: Social Networking
 Estimated MRR: $279.35K
-Paywall Pattern: No Free Trial - Soft Paywall
+Paywall Pattern: No Free Trial - Soft Paywall, Currency Paywall
 Pricing Model: 1 offer set across month
 Captured Version: 1.11.2
 Version Release Date: 2025-12-12
@@ -38,7 +38,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Gaze: Live Video Chat App uses the No Free Trial - Soft Paywall pattern in the Social Networking category.
+- Gaze: Live Video Chat App uses the No Free Trial - Soft Paywall, Currency Paywall pattern in the Social Networking category.
 - The preview exposes one visible offer set; the full PaywallPro page may include more historical context.
 - The pricing structure shows how a leading Social Networking app packages subscription value for its users.
 
@@ -63,12 +63,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Social Networking |
-| Paywall type | No Free Trial - Soft Paywall |
+| Paywall type | No Free Trial - Soft Paywall, Currency Paywall |
 | Pricing model | 1 offer set across month |
 | Captured version | 1.11.2 |
 | Version release date | 2025-12-12 |
 
-This paywall uses the **No Free Trial - Soft Paywall** structure.
+This paywall uses the **No Free Trial - Soft Paywall, Currency Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -88,8 +88,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $17.58K |
 | Avg daily downloads | 451 |
 | Avg daily ARPU | $38.98 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 3 |
+| Walkthrough preview count | 6 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

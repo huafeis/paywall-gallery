@@ -3,7 +3,7 @@ app_name: "Beat Maker Pro: Music drum Pad"
 app_id: 1362013798
 developer: "MWM"
 category: "Music"
-paywall_type: "No Free Trial - Soft Paywall"
+paywall_type: "No Free Trial - Soft Paywall, Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across week"
 mrr: "$90.64K"
 rating: 4.73
@@ -11,8 +11,8 @@ versions_count: 3
 offers:
   - period: "week"
     prices: ["$7.99", "$3.99"]
-screenshots_count: 3
-onboarding_flows_count: 16
+onboarding_count: 10
+walkthrough_count: 7
 app_detail_url: "https://www.paywallpro.app/apps/Beat-Maker-Pro:-Music-drum-Pad-us?id=434&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -20,7 +20,7 @@ app_detail_url: "https://www.paywallpro.app/apps/Beat-Maker-Pro:-Music-drum-Pad-
 
 Category: Music
 Estimated MRR: $90.64K
-Paywall Pattern: No Free Trial - Soft Paywall
+Paywall Pattern: No Free Trial - Soft Paywall, Free Trial - Soft Paywall
 Pricing Model: 2 offer sets across week
 Captured Version: 4.13.01
 Version Release Date: 2025-12-17
@@ -38,7 +38,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Beat Maker Pro: Music drum Pad uses the No Free Trial - Soft Paywall pattern in the Music category.
+- Beat Maker Pro: Music drum Pad uses the No Free Trial - Soft Paywall, Free Trial - Soft Paywall pattern in the Music category.
 - 2 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The pricing structure shows how a leading Music app packages subscription value for its users.
 
@@ -63,12 +63,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Music |
-| Paywall type | No Free Trial - Soft Paywall |
+| Paywall type | No Free Trial - Soft Paywall, Free Trial - Soft Paywall |
 | Pricing model | 2 offer sets across week |
 | Captured version | 4.13.01 |
 | Version release date | 2025-12-17 |
 
-This paywall uses the **No Free Trial - Soft Paywall** structure.
+This paywall uses the **No Free Trial - Soft Paywall, Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -89,8 +89,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $7.21K |
 | Avg daily downloads | 8.78K |
 | Avg daily ARPU | $0.83 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 10 |
+| Walkthrough preview count | 7 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

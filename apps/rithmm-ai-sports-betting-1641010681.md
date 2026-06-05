@@ -6,15 +6,15 @@ category: "Sports"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "1 offer set across month, year"
 mrr: "$59.89K"
-rating: 4.37
+rating: 4.38
 versions_count: 2
 offers:
   - period: "month"
     prices: ["$29.99/$99.99"]
   - period: "year"
     prices: ["$239.99/$999.99"]
-screenshots_count: 3
-onboarding_flows_count: 12
+onboarding_count: 5
+walkthrough_count: 8
 app_detail_url: "https://www.paywallpro.app/apps/Rithmm:-AI-Sports-Betting-us?id=1292219&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -85,14 +85,14 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 4.37 |
+| App Store rating | 4.38 |
 | Category rank | #65 |
 | Estimated MRR | $59.89K |
 | Avg daily revenue | $4.10K |
 | Avg daily downloads | 1.01K |
 | Avg daily ARPU | $4.06 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 5 |
+| Walkthrough preview count | 8 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

@@ -15,8 +15,8 @@ offers:
     prices: ["$12.99"]
   - period: "year"
     prices: ["$19.99"]
-screenshots_count: 3
-onboarding_flows_count: 22
+onboarding_count: 15
+walkthrough_count: 7
 app_detail_url: "https://www.paywallpro.app/apps/PURE:-Open-Minded-Dating-App-us?id=141&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -93,8 +93,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $50.85K |
 | Avg daily downloads | 2.69K |
 | Avg daily ARPU | $18.93 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 15 |
+| Walkthrough preview count | 7 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

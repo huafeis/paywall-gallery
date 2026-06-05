@@ -3,7 +3,7 @@ app_name: "CamScanner - PDF Scanner App"
 app_id: 388627783
 developer: "INTSIG Information Co., Ltd"
 category: "Productivity"
-paywall_type: "Free Trial - Soft Paywall"
+paywall_type: "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across year"
 mrr: "$42.74K"
 rating: 4.85
@@ -11,8 +11,8 @@ versions_count: 3
 offers:
   - period: "year"
     prices: ["$59.99", "$69.99"]
-screenshots_count: 3
-onboarding_flows_count: 14
+onboarding_count: 6
+walkthrough_count: 8
 app_detail_url: "https://www.paywallpro.app/apps/CamScanner---PDF-Scanner-App-us?id=196&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -20,7 +20,7 @@ app_detail_url: "https://www.paywallpro.app/apps/CamScanner---PDF-Scanner-App-us
 
 Category: Productivity
 Estimated MRR: $42.74K
-Paywall Pattern: Free Trial - Soft Paywall
+Paywall Pattern: Free Trial - Soft Paywall, No Free Trial - Soft Paywall
 Pricing Model: 2 offer sets across year
 Captured Version: 7.12.0
 Version Release Date: 2026-02-09
@@ -38,7 +38,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- CamScanner - PDF Scanner App uses the Free Trial - Soft Paywall pattern in the Productivity category.
+- CamScanner - PDF Scanner App uses the Free Trial - Soft Paywall, No Free Trial - Soft Paywall pattern in the Productivity category.
 - 2 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The pricing structure shows how a leading Productivity app packages subscription value for its users.
 
@@ -63,12 +63,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Productivity |
-| Paywall type | Free Trial - Soft Paywall |
+| Paywall type | Free Trial - Soft Paywall, No Free Trial - Soft Paywall |
 | Pricing model | 2 offer sets across year |
 | Captured version | 7.12.0 |
 | Version release date | 2026-02-09 |
 
-This paywall uses the **Free Trial - Soft Paywall** structure.
+This paywall uses the **Free Trial - Soft Paywall, No Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -89,8 +89,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $39.65K |
 | Avg daily downloads | 5.70K |
 | Avg daily ARPU | $6.96 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 6 |
+| Walkthrough preview count | 8 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

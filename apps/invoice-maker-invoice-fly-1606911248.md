@@ -5,7 +5,7 @@ developer: "Labhouse Mobile"
 category: "Business"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "1 offer set across week, year"
-mrr: "$372.36K"
+mrr: "$10.88K"
 rating: 4.77
 versions_count: 2
 offers:
@@ -13,15 +13,15 @@ offers:
     prices: ["$5.99"]
   - period: "year"
     prices: ["$98.99"]
-screenshots_count: 3
-onboarding_flows_count: 14
+onboarding_count: 14
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Invoice-Maker---Invoice-Fly-us?id=784&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Invoice Maker - Invoice Fly Paywall Analysis
 
 Category: Business
-Estimated MRR: $372.36K
+Estimated MRR: $10.88K
 Paywall Pattern: Free Trial - Soft Paywall
 Pricing Model: 1 offer set across week, year
 Captured Version: 1.7.57
@@ -87,12 +87,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.77 |
 | Category rank | #42 |
-| Estimated MRR | $372.36K |
+| Estimated MRR | $10.88K |
 | Avg daily revenue | $4.64K |
 | Avg daily downloads | 1.13K |
 | Avg daily ARPU | $4.12 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 14 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

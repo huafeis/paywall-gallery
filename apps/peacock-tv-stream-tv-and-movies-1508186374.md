@@ -13,8 +13,8 @@ offers:
     prices: ["$7.99/$10.99/$16.99"]
   - period: "year"
     prices: ["$79.99/$109.99/$169.99"]
-screenshots_count: 3
-onboarding_flows_count: 0
+onboarding_count: 0
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Peacock-TV:-Stream-TV-&-Movies-us?id=9&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -91,8 +91,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $923.05K |
 | Avg daily downloads | 23.42K |
 | Avg daily ARPU | $39.42 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | No |
+| Onboarding preview count | 0 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

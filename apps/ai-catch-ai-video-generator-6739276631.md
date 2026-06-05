@@ -3,18 +3,18 @@ app_name: "AI Catch: AI Video Generator"
 app_id: 6739276631
 developer: "Prominent Fortune PTE. LTD"
 category: "Photo & Video"
-paywall_type: "No Free Trial - Soft Paywall"
+paywall_type: "No Free Trial - Soft Paywall, Currency Paywall"
 pricing_model: "2 offer sets across week, year"
 mrr: "$49.54K"
-rating: 4.35
+rating: 4.33
 versions_count: 1
 offers:
   - period: "week"
     prices: ["$4.99"]
   - period: "year"
     prices: ["$39.99"]
-screenshots_count: 3
-onboarding_flows_count: 8
+onboarding_count: 2
+walkthrough_count: 6
 app_detail_url: "https://www.paywallpro.app/apps/AI-Catch:-AI-Video-Generator-us?id=2317625&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -22,7 +22,7 @@ app_detail_url: "https://www.paywallpro.app/apps/AI-Catch:-AI-Video-Generator-us
 
 Category: Photo & Video
 Estimated MRR: $49.54K
-Paywall Pattern: No Free Trial - Soft Paywall
+Paywall Pattern: No Free Trial - Soft Paywall, Currency Paywall
 Pricing Model: 2 offer sets across week, year
 Captured Version: 1.3.6
 Version Release Date: 2025-12-17
@@ -40,7 +40,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- AI Catch: AI Video Generator uses the No Free Trial - Soft Paywall pattern in the Photo & Video category.
+- AI Catch: AI Video Generator uses the No Free Trial - Soft Paywall, Currency Paywall pattern in the Photo & Video category.
 - 2 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The paywall presents week, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Photo & Video app packages subscription value for its users.
@@ -66,12 +66,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Photo & Video |
-| Paywall type | No Free Trial - Soft Paywall |
+| Paywall type | No Free Trial - Soft Paywall, Currency Paywall |
 | Pricing model | 2 offer sets across week, year |
 | Captured version | 1.3.6 |
 | Version release date | 2025-12-17 |
 
-This paywall uses the **No Free Trial - Soft Paywall** structure.
+This paywall uses the **No Free Trial - Soft Paywall, Currency Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -86,14 +86,14 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 4.35 |
+| App Store rating | 4.33 |
 | Category rank | #128 |
 | Estimated MRR | $49.54K |
 | Avg daily revenue | $3.83K |
 | Avg daily downloads | 4.24K |
 | Avg daily ARPU | $0.91 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 2 |
+| Walkthrough preview count | 6 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

@@ -15,7 +15,7 @@ Finance apps use subscription paywalls to communicate value and convert users in
 | Seeking Alpha: News & Analysis | $109.80K | No Free Trial - Soft Paywall | [Open](../apps/seeking-alpha-news-and-analysis-552799694.md) |
 | EveryDollar: Budget Management | $88.82K | Free Trial - Soft Paywall | [Open](../apps/everydollar-budget-management-942571931.md) |
 | Monarch: Budget & Track Money | $86.22K | Free Trial - Soft Paywall | [Open](../apps/monarch-budget-and-track-money-1459319842.md) |
-| Settlemate: Financial Savings | $84.25K | No Free Trial - Hard Paywall | [Open](../apps/settlemate-financial-savings-6737785495.md) |
+| Settlemate: Claim Savings | $84.25K | No Free Trial - Hard Paywall | [Open](../apps/settlemate-claim-savings-6737785495.md) |
 | Mileage Tracker by Everlance | $61.27K | Free Trial - Soft Paywall | [Open](../apps/mileage-tracker-by-everlance-985378916.md) |
 | Aura: Security & Protection | $58.76K | Free Trial - Soft Paywall | [Open](../apps/aura-security-and-protection-1547735089.md) |
 | LifeLock Identity | $51.97K | No Free Trial - Soft Paywall | [Open](../apps/lifelock-identity-1422875903.md) |

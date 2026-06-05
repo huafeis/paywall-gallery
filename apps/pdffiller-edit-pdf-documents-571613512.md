@@ -6,15 +6,15 @@ category: "Business"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across month, year"
 mrr: "$46.91K"
-rating: 4.41
+rating: 4.42
 versions_count: 3
 offers:
   - period: "month"
     prices: ["$8/$10/$15", "$20/$30/$40"]
   - period: "year"
     prices: ["$96/$120/$180"]
-screenshots_count: 3
-onboarding_flows_count: 14
+onboarding_count: 10
+walkthrough_count: 4
 app_detail_url: "https://www.paywallpro.app/apps/pdfFiller:-edit-PDF-documents-us?id=676&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -86,14 +86,14 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 4.41 |
+| App Store rating | 4.42 |
 | Category rank | #169 |
 | Estimated MRR | $46.91K |
 | Avg daily revenue | $2.89K |
 | Avg daily downloads | 431 |
 | Avg daily ARPU | $6.71 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 10 |
+| Walkthrough preview count | 4 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

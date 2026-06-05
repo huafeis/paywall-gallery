@@ -3,7 +3,7 @@ app_name: "Joi - Live Stream"
 app_id: 1497699883
 developer: "VLMedia Inc."
 category: "Social Networking"
-paywall_type: "Free Trial - Soft Paywall"
+paywall_type: "Free Trial - Soft Paywall, Currency Paywall"
 pricing_model: "1 offer set across week"
 mrr: "$640.86K"
 rating: 4.36
@@ -11,8 +11,8 @@ versions_count: 2
 offers:
   - period: "week"
     prices: ["$1.99"]
-screenshots_count: 3
-onboarding_flows_count: 17
+onboarding_count: 9
+walkthrough_count: 8
 app_detail_url: "https://www.paywallpro.app/apps/Joi---Live-Stream-us?id=124&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -20,7 +20,7 @@ app_detail_url: "https://www.paywallpro.app/apps/Joi---Live-Stream-us?id=124&utm
 
 Category: Social Networking
 Estimated MRR: $640.86K
-Paywall Pattern: Free Trial - Soft Paywall
+Paywall Pattern: Free Trial - Soft Paywall, Currency Paywall
 Pricing Model: 1 offer set across week
 Captured Version: 2.2.3
 Version Release Date: 2025-11-06
@@ -38,7 +38,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Joi - Live Stream uses the Free Trial - Soft Paywall pattern in the Social Networking category.
+- Joi - Live Stream uses the Free Trial - Soft Paywall, Currency Paywall pattern in the Social Networking category.
 - The preview exposes one visible offer set; the full PaywallPro page may include more historical context.
 - The pricing structure shows how a leading Social Networking app packages subscription value for its users.
 
@@ -63,12 +63,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Social Networking |
-| Paywall type | Free Trial - Soft Paywall |
+| Paywall type | Free Trial - Soft Paywall, Currency Paywall |
 | Pricing model | 1 offer set across week |
 | Captured version | 2.2.3 |
 | Version release date | 2025-11-06 |
 
-This paywall uses the **Free Trial - Soft Paywall** structure.
+This paywall uses the **Free Trial - Soft Paywall, Currency Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -88,8 +88,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $57.02K |
 | Avg daily downloads | 702 |
 | Avg daily ARPU | $81.24 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 9 |
+| Walkthrough preview count | 8 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

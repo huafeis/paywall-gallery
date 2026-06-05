@@ -3,7 +3,7 @@ app_name: "Rosetta Stone Classic (2024)"
 app_id: 435588892
 developer: "Rosetta Stone, Ltd."
 category: "Education"
-paywall_type: "Free Trial - Soft Paywall"
+paywall_type: "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across year, quarter, one-time purchase"
 mrr: "$107.27K"
 rating: 4.76
@@ -15,8 +15,8 @@ offers:
     prices: ["$44.99"]
   - period: "one-time purchase"
     prices: ["$199.99"]
-screenshots_count: 3
-onboarding_flows_count: 15
+onboarding_count: 9
+walkthrough_count: 6
 app_detail_url: "https://www.paywallpro.app/apps/Rosetta-Stone-Classic-(2024)-us?id=336&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -24,7 +24,7 @@ app_detail_url: "https://www.paywallpro.app/apps/Rosetta-Stone-Classic-(2024)-us
 
 Category: Education
 Estimated MRR: $107.27K
-Paywall Pattern: Free Trial - Soft Paywall
+Paywall Pattern: Free Trial - Soft Paywall, No Free Trial - Soft Paywall
 Pricing Model: 2 offer sets across year, quarter, one-time purchase
 Captured Version: 8.43.2
 Version Release Date: 2025-11-10
@@ -42,7 +42,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Rosetta Stone Classic (2024) uses the Free Trial - Soft Paywall pattern in the Education category.
+- Rosetta Stone Classic (2024) uses the Free Trial - Soft Paywall, No Free Trial - Soft Paywall pattern in the Education category.
 - 2 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The paywall presents year, quarter, one-time purchase option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Education app packages subscription value for its users.
@@ -68,12 +68,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Education |
-| Paywall type | Free Trial - Soft Paywall |
+| Paywall type | Free Trial - Soft Paywall, No Free Trial - Soft Paywall |
 | Pricing model | 2 offer sets across year, quarter, one-time purchase |
 | Captured version | 8.43.2 |
 | Version release date | 2025-11-10 |
 
-This paywall uses the **Free Trial - Soft Paywall** structure.
+This paywall uses the **Free Trial - Soft Paywall, No Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -94,8 +94,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $6.46K |
 | Avg daily downloads | 1.03K |
 | Avg daily ARPU | $6.25 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 9 |
+| Walkthrough preview count | 6 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

@@ -5,7 +5,7 @@ developer: "IRONTECH LIMITED"
 category: "Photo & Video"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across week, year"
-mrr: "$88.56K"
+mrr: "$6.51K"
 rating: 4.76
 versions_count: 2
 offers:
@@ -13,15 +13,15 @@ offers:
     prices: ["$4.99"]
   - period: "year"
     prices: ["$29.99", "$17.99"]
-screenshots_count: 3
-onboarding_flows_count: 15
+onboarding_count: 5
+walkthrough_count: 10
 app_detail_url: "https://www.paywallpro.app/apps/Photo-Collage---Collageable-us?id=500&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Photo Collage - Collageable Paywall Analysis
 
 Category: Photo & Video
-Estimated MRR: $88.56K
+Estimated MRR: $6.51K
 Paywall Pattern: Free Trial - Soft Paywall
 Pricing Model: 2 offer sets across week, year
 Captured Version: 3.13
@@ -88,12 +88,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.76 |
 | Category rank | #91 |
-| Estimated MRR | $88.56K |
+| Estimated MRR | $6.51K |
 | Avg daily revenue | $7.75K |
 | Avg daily downloads | 1.94K |
 | Avg daily ARPU | $4.00 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 5 |
+| Walkthrough preview count | 10 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

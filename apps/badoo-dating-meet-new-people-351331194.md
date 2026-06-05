@@ -10,8 +10,8 @@ rating: 4.57
 versions_count: 3
 offers:
   []
-screenshots_count: 3
-onboarding_flows_count: 30
+onboarding_count: 18
+walkthrough_count: 12
 app_detail_url: "https://www.paywallpro.app/apps/Badoo-Dating:-Meet-New-People-us?id=200&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -84,8 +84,8 @@ Not available in preview
 | Avg daily revenue | $11.24K |
 | Avg daily downloads | 1.78K |
 | Avg daily ARPU | $6.30 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 18 |
+| Walkthrough preview count | 12 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

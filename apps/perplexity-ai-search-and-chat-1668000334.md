@@ -13,8 +13,8 @@ offers:
     prices: ["$20/$200"]
   - period: "year"
     prices: ["$200"]
-screenshots_count: 3
-onboarding_flows_count: 11
+onboarding_count: 4
+walkthrough_count: 7
 app_detail_url: "https://www.paywallpro.app/apps/Perplexity---AI-Search-&-Chat-us?id=452&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -91,8 +91,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $37.29K |
 | Avg daily downloads | 7.19K |
 | Avg daily ARPU | $5.19 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 4 |
+| Walkthrough preview count | 7 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

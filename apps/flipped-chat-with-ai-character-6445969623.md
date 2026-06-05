@@ -3,7 +3,7 @@ app_name: "Flipped:Chat with AI Character"
 app_id: 6445969623
 developer: "SINGAPORE DESERT OASIS TECHNICAL PTE. LIMITED"
 category: "Entertainment"
-paywall_type: "No Free Trial - Soft Paywall"
+paywall_type: "No Free Trial - Soft Paywall, Currency Paywall"
 pricing_model: "6 offer sets across week, month, year"
 mrr: "$51.86K"
 rating: 4.70
@@ -15,8 +15,8 @@ offers:
     prices: ["$9.99", "$14.99", "$19.99"]
   - period: "year"
     prices: ["$39.99", "$69.99", "$99.99"]
-screenshots_count: 3
-onboarding_flows_count: 22
+onboarding_count: 11
+walkthrough_count: 11
 app_detail_url: "https://www.paywallpro.app/apps/Flipped:Chat-with-AI-Character-us?id=1950666&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -24,7 +24,7 @@ app_detail_url: "https://www.paywallpro.app/apps/Flipped:Chat-with-AI-Character-
 
 Category: Entertainment
 Estimated MRR: $51.86K
-Paywall Pattern: No Free Trial - Soft Paywall
+Paywall Pattern: No Free Trial - Soft Paywall, Currency Paywall
 Pricing Model: 6 offer sets across week, month, year
 Captured Version: 1.7.5
 Version Release Date: 2025-10-01
@@ -42,7 +42,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Flipped:Chat with AI Character uses the No Free Trial - Soft Paywall pattern in the Entertainment category.
+- Flipped:Chat with AI Character uses the No Free Trial - Soft Paywall, Currency Paywall pattern in the Entertainment category.
 - 6 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The paywall presents week, month, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Entertainment app packages subscription value for its users.
@@ -68,12 +68,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Entertainment |
-| Paywall type | No Free Trial - Soft Paywall |
+| Paywall type | No Free Trial - Soft Paywall, Currency Paywall |
 | Pricing model | 6 offer sets across week, month, year |
 | Captured version | 1.7.5 |
 | Version release date | 2025-10-01 |
 
-This paywall uses the **No Free Trial - Soft Paywall** structure.
+This paywall uses the **No Free Trial - Soft Paywall, Currency Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -98,8 +98,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $1.69K |
 | Avg daily downloads | 757 |
 | Avg daily ARPU | $2.23 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 11 |
+| Walkthrough preview count | 11 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

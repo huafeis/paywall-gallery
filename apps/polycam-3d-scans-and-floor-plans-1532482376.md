@@ -13,8 +13,8 @@ offers:
     prices: ["$26.99"]
   - period: "year"
     prices: ["$199.99"]
-screenshots_count: 3
-onboarding_flows_count: 9
+onboarding_count: 5
+walkthrough_count: 4
 app_detail_url: "https://www.paywallpro.app/apps/Polycam-3D-Scans-&-Floor-Plans-us?id=476&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -91,8 +91,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $5.99K |
 | Avg daily downloads | 1.18K |
 | Avg daily ARPU | $5.08 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 5 |
+| Walkthrough preview count | 4 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

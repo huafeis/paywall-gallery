@@ -3,7 +3,7 @@ app_name: "Clip Studio Paint"
 app_id: 1262985592
 developer: "CELSYS,Inc."
 category: "Graphics & Design"
-paywall_type: "No Free Trial - Soft Paywall"
+paywall_type: "No Free Trial - Soft Paywall, Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across month, year, one-time purchase"
 mrr: "$63.07K"
 rating: 4.68
@@ -15,8 +15,8 @@ offers:
     prices: ["$16.99/$6.49/$110.99/$38.49/$126.99/$58.9"]
   - period: "one-time purchase"
     prices: ["$0.99"]
-screenshots_count: 3
-onboarding_flows_count: 7
+onboarding_count: 7
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Clip-Studio-Paint-us?id=928&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -24,7 +24,7 @@ app_detail_url: "https://www.paywallpro.app/apps/Clip-Studio-Paint-us?id=928&utm
 
 Category: Graphics & Design
 Estimated MRR: $63.07K
-Paywall Pattern: No Free Trial - Soft Paywall
+Paywall Pattern: No Free Trial - Soft Paywall, Free Trial - Soft Paywall
 Pricing Model: 2 offer sets across month, year, one-time purchase
 Captured Version: 3.0.2
 Version Release Date: 2017-11-07
@@ -42,7 +42,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Clip Studio Paint uses the No Free Trial - Soft Paywall pattern in the Graphics & Design category.
+- Clip Studio Paint uses the No Free Trial - Soft Paywall, Free Trial - Soft Paywall pattern in the Graphics & Design category.
 - 2 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The paywall presents month, year, one-time purchase option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Graphics & Design app packages subscription value for its users.
@@ -68,12 +68,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Graphics & Design |
-| Paywall type | No Free Trial - Soft Paywall |
+| Paywall type | No Free Trial - Soft Paywall, Free Trial - Soft Paywall |
 | Pricing model | 2 offer sets across month, year, one-time purchase |
 | Captured version | 3.0.2 |
 | Version release date | 2017-11-07 |
 
-This paywall uses the **No Free Trial - Soft Paywall** structure.
+This paywall uses the **No Free Trial - Soft Paywall, Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -94,8 +94,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $3.95K |
 | Avg daily downloads | 617 |
 | Avg daily ARPU | $6.40 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 7 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

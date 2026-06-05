@@ -5,8 +5,8 @@ developer: "Flighty LLC"
 category: "Travel"
 paywall_type: "No Free Trial - Soft Paywall"
 pricing_model: "3 offer sets across week, year, one-time purchase"
-mrr: "$718.66K"
-rating: 4.84
+mrr: "$42.39K"
+rating: 4.85
 versions_count: 4
 offers:
   - period: "week"
@@ -15,15 +15,15 @@ offers:
     prices: ["$59.99"]
   - period: "one-time purchase"
     prices: ["$299"]
-screenshots_count: 3
-onboarding_flows_count: 10
+onboarding_count: 10
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Flighty-%E2%80%93-Live-Flight-Tracker-us?id=325&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Flighty – Live Flight Tracker Paywall Analysis
 
 Category: Travel
-Estimated MRR: $718.66K
+Estimated MRR: $42.39K
 Paywall Pattern: No Free Trial - Soft Paywall
 Pricing Model: 3 offer sets across week, year, one-time purchase
 Captured Version: 4.6.1
@@ -89,14 +89,14 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 4.84 |
+| App Store rating | 4.85 |
 | Category rank | #87 |
-| Estimated MRR | $718.66K |
+| Estimated MRR | $42.39K |
 | Avg daily revenue | $39.56K |
 | Avg daily downloads | 2.08K |
 | Avg daily ARPU | $18.99 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 10 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

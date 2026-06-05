@@ -5,8 +5,8 @@ developer: "Grindr LLC"
 category: "Social Networking"
 paywall_type: "No Free Trial - Soft Paywall"
 pricing_model: "1 offer set across week, month, year, quarter"
-mrr: "$3.10M"
-rating: 4.46
+mrr: "$196.59K"
+rating: 4.45
 versions_count: 7
 offers:
   - period: "week"
@@ -17,15 +17,15 @@ offers:
     prices: ["$149.99"]
   - period: "quarter"
     prices: ["$49.99"]
-screenshots_count: 3
-onboarding_flows_count: 9
+onboarding_count: 9
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Grindr---Gay-Dating-&-Chat-us?id=27&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Grindr - Gay Dating & Chat Paywall Analysis
 
 Category: Social Networking
-Estimated MRR: $3.10M
+Estimated MRR: $196.59K
 Paywall Pattern: No Free Trial - Soft Paywall
 Pricing Model: 1 offer set across week, month, year, quarter
 Captured Version: 26.2.1
@@ -89,14 +89,14 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 4.46 |
+| App Store rating | 4.45 |
 | Category rank | #32 |
-| Estimated MRR | $3.10M |
+| Estimated MRR | $196.59K |
 | Avg daily revenue | $206.58K |
 | Avg daily downloads | 3.94K |
 | Avg daily ARPU | $52.41 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 9 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

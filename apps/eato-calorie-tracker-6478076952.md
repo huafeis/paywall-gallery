@@ -3,7 +3,7 @@ app_name: "Eato®: Calorie Tracker"
 app_id: 6478076952
 developer: "Enerjoy Pte. Ltd."
 category: "Health & Fitness"
-paywall_type: "Free Trial - Soft Paywall"
+paywall_type: "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across month, year, quarter"
 mrr: "$49.93K"
 rating: 4.75
@@ -15,8 +15,8 @@ offers:
     prices: ["$79.99", "$29.99"]
   - period: "quarter"
     prices: ["$29.99"]
-screenshots_count: 3
-onboarding_flows_count: 76
+onboarding_count: 68
+walkthrough_count: 8
 app_detail_url: "https://www.paywallpro.app/apps/Eato%C2%AE:-Calorie-Tracker-us?id=763&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -24,7 +24,7 @@ app_detail_url: "https://www.paywallpro.app/apps/Eato%C2%AE:-Calorie-Tracker-us?
 
 Category: Health & Fitness
 Estimated MRR: $49.93K
-Paywall Pattern: Free Trial - Soft Paywall
+Paywall Pattern: Free Trial - Soft Paywall, No Free Trial - Soft Paywall
 Pricing Model: 2 offer sets across month, year, quarter
 Captured Version: 1.6.7
 Version Release Date: 2025-09-28
@@ -42,7 +42,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Eato®: Calorie Tracker uses the Free Trial - Soft Paywall pattern in the Health & Fitness category.
+- Eato®: Calorie Tracker uses the Free Trial - Soft Paywall, No Free Trial - Soft Paywall pattern in the Health & Fitness category.
 - 2 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The paywall presents month, year, quarter option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Health & Fitness app packages subscription value for its users.
@@ -68,12 +68,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Health & Fitness |
-| Paywall type | Free Trial - Soft Paywall |
+| Paywall type | Free Trial - Soft Paywall, No Free Trial - Soft Paywall |
 | Pricing model | 2 offer sets across month, year, quarter |
 | Captured version | 1.6.7 |
 | Version release date | 2025-09-28 |
 
-This paywall uses the **Free Trial - Soft Paywall** structure.
+This paywall uses the **Free Trial - Soft Paywall, No Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -94,8 +94,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $4.40K |
 | Avg daily downloads | 960 |
 | Avg daily ARPU | $4.59 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 68 |
+| Walkthrough preview count | 8 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

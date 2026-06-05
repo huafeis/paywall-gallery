@@ -16,21 +16,21 @@ Entertainment apps often rely on content value, exclusive access, free trials, a
 | Amazon Prime Video | $191.66K | Free Trial - Soft Paywall | [Open](../apps/amazon-prime-video-545519333.md) |
 | ReelShort - Stream Drama & TV | $157.47K | No Free Trial - Soft Paywall | [Open](../apps/reelshort-stream-drama-and-tv-1636235979.md) |
 | The Zeus Network | $151.04K | No Free Trial - Soft Paywall | [Open](../apps/the-zeus-network-1399446592.md) |
-| DramaBox - Stream Drama Shorts | $142.68K | No Free Trial - Soft Paywall | [Open](../apps/dramabox-stream-drama-shorts-6445905219.md) |
-| Sereal+ Short Drama, TV Series | $102.19K | No Free Trial - Soft Paywall | [Open](../apps/sereal-short-drama-tv-series-6473688138.md) |
+| DramaBox - Stream Drama Shorts | $142.68K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/dramabox-stream-drama-shorts-6445905219.md) |
+| Sereal+ Short Drama, TV Series | $102.19K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/sereal-short-drama-tv-series-6473688138.md) |
 | STARZ | $98.36K | No Free Trial - Soft Paywall | [Open](../apps/starz-550221096.md) |
 | ViX: TV, Sports and News | $94.84K | No Free Trial - Soft Paywall | [Open](../apps/vix-tv-sports-and-news-1531467766.md) |
-| GoodShort - Short Dramas Hub | $93.61K | No Free Trial - Soft Paywall | [Open](../apps/goodshort-short-dramas-hub-6448176203.md) |
-| DramaWave - Dramas & Reels | $78.68K | No Free Trial - Soft Paywall | [Open](../apps/dramawave-dramas-and-reels-6670430706.md) |
+| GoodShort - Short Dramas Hub | $93.61K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/goodshort-short-dramas-hub-6448176203.md) |
+| DramaWave - Dramas & Reels | $78.68K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/dramawave-dramas-and-reels-6670430706.md) |
 | discovery+ \| Stream TV Shows | $75.39K | Free Trial - Soft Paywall | [Open](../apps/discovery-stream-tv-shows-1498327873.md) |
 | BET+ | $66.30K | No Free Trial - Hard Paywall | [Open](../apps/bet-1456618978.md) |
 | Call Santa Claus with PNP | $63.95K | No Free Trial - Soft Paywall | [Open](../apps/call-santa-claus-with-pnp-902026228.md) |
 | Aveola: 1-on-1 Live Video Chat | $55.29K | Currency Paywall | [Open](../apps/aveola-1-on-1-live-video-chat-1622015258.md) |
 | Angel: Stream TV & Movies | $54.34K | No Free Trial - Soft Paywall | [Open](../apps/angel-stream-tv-and-movies-1473663873.md) |
 | Globoplay: Novelas, séries e + | $53.41K | No Free Trial - Soft Paywall | [Open](../apps/globoplay-novelas-s-ries-e-536321738.md) |
-| Flipped:Chat with AI Character | $51.86K | No Free Trial - Soft Paywall | [Open](../apps/flipped-chat-with-ai-character-6445969623.md) |
+| Flipped:Chat with AI Character | $51.86K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/flipped-chat-with-ai-character-6445969623.md) |
 | MBC Shahid | $47.17K | No Free Trial - Soft Paywall | [Open](../apps/mbc-shahid-879915134.md) |
-| DreameShort - Drama TV | $46.22K | No Free Trial - Soft Paywall | [Open](../apps/dreameshort-drama-tv-6462846884.md) |
+| DreameShort - Drama TV | $46.22K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/dreameshort-drama-tv-6462846884.md) |
 | Spicychat AI: Roleplay Chat | $39.75K | No Free Trial - Soft Paywall | [Open](../apps/spicychat-ai-roleplay-chat-6471116525.md) |
 
 ## What to study

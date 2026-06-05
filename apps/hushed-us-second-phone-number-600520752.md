@@ -10,8 +10,8 @@ rating: 4.59
 versions_count: 2
 offers:
   []
-screenshots_count: 3
-onboarding_flows_count: 9
+onboarding_count: 9
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Hushed:-US-Second-Phone-Number-us?id=582&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -84,8 +84,8 @@ Not available in preview
 | Avg daily revenue | $3.18K |
 | Avg daily downloads | 696 |
 | Avg daily ARPU | $4.57 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 9 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

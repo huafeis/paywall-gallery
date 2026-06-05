@@ -5,21 +5,21 @@ developer: "GSM Outdoors"
 category: "Sports"
 paywall_type: "No Free Trial - Soft Paywall"
 pricing_model: "1 offer set across year"
-mrr: "$47.77K"
+mrr: "$1.37K"
 rating: 4.60
 versions_count: 3
 offers:
   - period: "year"
     prices: ["$99.99/$34.99"]
-screenshots_count: 3
-onboarding_flows_count: 17
+onboarding_count: 15
+walkthrough_count: 2
 app_detail_url: "https://www.paywallpro.app/apps/HuntStand:-GPS-Maps-&-Tools-us?id=491&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # HuntStand: GPS Maps & Tools Paywall Analysis
 
 Category: Sports
-Estimated MRR: $47.77K
+Estimated MRR: $1.37K
 Paywall Pattern: No Free Trial - Soft Paywall
 Pricing Model: 1 offer set across year
 Captured Version: 8.0.59
@@ -84,12 +84,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.60 |
 | Category rank | #63 |
-| Estimated MRR | $47.77K |
+| Estimated MRR | $1.37K |
 | Avg daily revenue | $33.08K |
 | Avg daily downloads | 983 |
 | Avg daily ARPU | $33.66 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 15 |
+| Walkthrough preview count | 2 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

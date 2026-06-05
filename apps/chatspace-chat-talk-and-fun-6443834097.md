@@ -10,8 +10,8 @@ rating: 4.61
 versions_count: 1
 offers:
   []
-screenshots_count: 3
-onboarding_flows_count: 5
+onboarding_count: 5
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/ChatSpace---Chat%2C-Talk-&-Fun-us?id=1962963&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -84,8 +84,8 @@ Not available in preview
 | Avg daily revenue | $2.18K |
 | Avg daily downloads | 350 |
 | Avg daily ARPU | $6.23 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 5 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

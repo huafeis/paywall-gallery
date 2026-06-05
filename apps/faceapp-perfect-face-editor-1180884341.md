@@ -5,7 +5,7 @@ developer: "FaceApp Technology Limited"
 category: "Photo & Video"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "1 offer set across month, year"
-mrr: "$1.45M"
+mrr: "$107.79K"
 rating: 4.73
 versions_count: 4
 offers:
@@ -13,15 +13,15 @@ offers:
     prices: ["$10"]
   - period: "year"
     prices: ["$60"]
-screenshots_count: 3
-onboarding_flows_count: 6
+onboarding_count: 2
+walkthrough_count: 4
 app_detail_url: "https://www.paywallpro.app/apps/FaceApp:-Perfect-Face-Editor-us?id=61&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # FaceApp: Perfect Face Editor Paywall Analysis
 
 Category: Photo & Video
-Estimated MRR: $1.45M
+Estimated MRR: $107.79K
 Paywall Pattern: Free Trial - Soft Paywall
 Pricing Model: 1 offer set across month, year
 Captured Version: 12.12.8
@@ -87,12 +87,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.73 |
 | Category rank | #24 |
-| Estimated MRR | $1.45M |
+| Estimated MRR | $107.79K |
 | Avg daily revenue | $94.84K |
 | Avg daily downloads | 5.76K |
 | Avg daily ARPU | $16.47 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 2 |
+| Walkthrough preview count | 4 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

@@ -15,8 +15,8 @@ offers:
     prices: ["$12.99"]
   - period: "year"
     prices: ["$79.99"]
-screenshots_count: 3
-onboarding_flows_count: 8
+onboarding_count: 4
+walkthrough_count: 4
 app_detail_url: "https://www.paywallpro.app/apps/VPN---Super-Unlimited-Proxy-us?id=311&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -93,8 +93,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $13.79K |
 | Avg daily downloads | 18.22K |
 | Avg daily ARPU | $0.76 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 4 |
+| Walkthrough preview count | 4 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

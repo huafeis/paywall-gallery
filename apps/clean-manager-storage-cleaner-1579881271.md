@@ -5,7 +5,7 @@ developer: "Quiet"
 category: "Utilities"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "1 offer set across week, year"
-mrr: "$48.28K"
+mrr: "$2.56K"
 rating: 4.25
 versions_count: 1
 offers:
@@ -13,15 +13,15 @@ offers:
     prices: ["$8.99"]
   - period: "year"
     prices: ["$49.99"]
-screenshots_count: 3
-onboarding_flows_count: 14
+onboarding_count: 9
+walkthrough_count: 5
 app_detail_url: "https://www.paywallpro.app/apps/Clean-Manager:-Storage-Cleaner-us?id=1950653&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Clean Manager: Storage Cleaner Paywall Analysis
 
 Category: Utilities
-Estimated MRR: $48.28K
+Estimated MRR: $2.56K
 Paywall Pattern: Free Trial - Soft Paywall
 Pricing Model: 1 offer set across week, year
 Captured Version: 5.5.47
@@ -87,12 +87,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.25 |
 | Category rank | #90 |
-| Estimated MRR | $48.28K |
+| Estimated MRR | $2.56K |
 | Avg daily revenue | $3.45K |
 | Avg daily downloads | 1.87K |
 | Avg daily ARPU | $1.85 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 9 |
+| Walkthrough preview count | 5 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

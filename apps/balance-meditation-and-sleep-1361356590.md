@@ -3,9 +3,9 @@ app_name: "Balance: Meditation & Sleep"
 app_id: 1361356590
 developer: "The Mind Company"
 category: "Health & Fitness"
-paywall_type: "Free Trial - Soft Paywall"
+paywall_type: "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
 pricing_model: "4 offer sets across month, year"
-mrr: "$67.69K"
+mrr: "$1.74K"
 rating: 4.88
 versions_count: 4
 offers:
@@ -13,16 +13,16 @@ offers:
     prices: ["$4.99"]
   - period: "year"
     prices: ["$39.99", "$29.99", "$23.99/$39.99", "$69.99"]
-screenshots_count: 3
-onboarding_flows_count: 28
+onboarding_count: 20
+walkthrough_count: 8
 app_detail_url: "https://www.paywallpro.app/apps/Balance:-Meditation-&-Sleep-us?id=397&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Balance: Meditation & Sleep Paywall Analysis
 
 Category: Health & Fitness
-Estimated MRR: $67.69K
-Paywall Pattern: Free Trial - Soft Paywall
+Estimated MRR: $1.74K
+Paywall Pattern: Free Trial - Soft Paywall, No Free Trial - Soft Paywall
 Pricing Model: 4 offer sets across month, year
 Captured Version: 1.192.0
 Version Release Date: 2026-01-12
@@ -40,7 +40,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Balance: Meditation & Sleep uses the Free Trial - Soft Paywall pattern in the Health & Fitness category.
+- Balance: Meditation & Sleep uses the Free Trial - Soft Paywall, No Free Trial - Soft Paywall pattern in the Health & Fitness category.
 - 4 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The paywall presents month, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Health & Fitness app packages subscription value for its users.
@@ -66,12 +66,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Health & Fitness |
-| Paywall type | Free Trial - Soft Paywall |
+| Paywall type | Free Trial - Soft Paywall, No Free Trial - Soft Paywall |
 | Pricing model | 4 offer sets across month, year |
 | Captured version | 1.192.0 |
 | Version release date | 2026-01-12 |
 
-This paywall uses the **Free Trial - Soft Paywall** structure.
+This paywall uses the **Free Trial - Soft Paywall, No Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -90,12 +90,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.88 |
 | Category rank | #190 |
-| Estimated MRR | $67.69K |
+| Estimated MRR | $1.74K |
 | Avg daily revenue | $5.60K |
 | Avg daily downloads | 499 |
 | Avg daily ARPU | $11.23 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 20 |
+| Walkthrough preview count | 8 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

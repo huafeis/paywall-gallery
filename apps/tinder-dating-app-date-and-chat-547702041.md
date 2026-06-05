@@ -15,8 +15,8 @@ offers:
     prices: ["$39.99", "$49.99", "$24.99"]
   - period: "half year"
     prices: ["$139.99", "$179.99", "$99.99"]
-screenshots_count: 3
-onboarding_flows_count: 0
+onboarding_count: 0
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Tinder-Dating-App:-Date-&-Chat-us?id=3&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -95,8 +95,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $1.13M |
 | Avg daily downloads | 16.44K |
 | Avg daily ARPU | $68.47 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | No |
+| Onboarding preview count | 0 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

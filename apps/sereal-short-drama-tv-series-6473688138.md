@@ -3,7 +3,7 @@ app_name: "Sereal+ Short Drama, TV Series"
 app_id: 6473688138
 developer: "COL WEB PTE. LTD."
 category: "Entertainment"
-paywall_type: "No Free Trial - Soft Paywall"
+paywall_type: "No Free Trial - Soft Paywall, Currency Paywall"
 pricing_model: "1 offer set across week, month, year"
 mrr: "$102.19K"
 rating: 4.51
@@ -15,8 +15,8 @@ offers:
     prices: ["$24.99"]
   - period: "year"
     prices: ["$199.99"]
-screenshots_count: 3
-onboarding_flows_count: 10
+onboarding_count: 10
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Sereal%2B-Short-Drama%2C-TV-Series-us?id=177&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -24,7 +24,7 @@ app_detail_url: "https://www.paywallpro.app/apps/Sereal%2B-Short-Drama%2C-TV-Ser
 
 Category: Entertainment
 Estimated MRR: $102.19K
-Paywall Pattern: No Free Trial - Soft Paywall
+Paywall Pattern: No Free Trial - Soft Paywall, Currency Paywall
 Pricing Model: 1 offer set across week, month, year
 Captured Version: 2.2.3
 Version Release Date: 2025-07-23
@@ -42,7 +42,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Sereal+ Short Drama, TV Series uses the No Free Trial - Soft Paywall pattern in the Entertainment category.
+- Sereal+ Short Drama, TV Series uses the No Free Trial - Soft Paywall, Currency Paywall pattern in the Entertainment category.
 - The preview exposes one visible offer set; the full PaywallPro page may include more historical context.
 - The paywall presents week, month, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Entertainment app packages subscription value for its users.
@@ -68,12 +68,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Entertainment |
-| Paywall type | No Free Trial - Soft Paywall |
+| Paywall type | No Free Trial - Soft Paywall, Currency Paywall |
 | Pricing model | 1 offer set across week, month, year |
 | Captured version | 2.2.3 |
 | Version release date | 2025-07-23 |
 
-This paywall uses the **No Free Trial - Soft Paywall** structure.
+This paywall uses the **No Free Trial - Soft Paywall, Currency Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -93,8 +93,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $8.66K |
 | Avg daily downloads | 412 |
 | Avg daily ARPU | $21.02 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 10 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

@@ -3,7 +3,7 @@ app_name: "OkCupid Dating: Date Singles"
 app_id: 338701294
 developer: "Match Group Americas, LLC"
 category: "Lifestyle"
-paywall_type: "No Free Trial - Soft Paywall"
+paywall_type: "No Free Trial - Soft Paywall, Credit Paywall"
 pricing_model: "1 offer set across month, half year, quarter"
 mrr: "$241.74K"
 rating: 4.32
@@ -15,8 +15,8 @@ offers:
     prices: ["$119.99"]
   - period: "quarter"
     prices: ["$79.99"]
-screenshots_count: 3
-onboarding_flows_count: 3
+onboarding_count: 3
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/OkCupid-Dating:-Date-Singles-us?id=158&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -24,7 +24,7 @@ app_detail_url: "https://www.paywallpro.app/apps/OkCupid-Dating:-Date-Singles-us
 
 Category: Lifestyle
 Estimated MRR: $241.74K
-Paywall Pattern: No Free Trial - Soft Paywall
+Paywall Pattern: No Free Trial - Soft Paywall, Credit Paywall
 Pricing Model: 1 offer set across month, half year, quarter
 Captured Version: 94.0.0
 Version Release Date: 2024-10-07
@@ -42,7 +42,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- OkCupid Dating: Date Singles uses the No Free Trial - Soft Paywall pattern in the Lifestyle category.
+- OkCupid Dating: Date Singles uses the No Free Trial - Soft Paywall, Credit Paywall pattern in the Lifestyle category.
 - The preview exposes one visible offer set; the full PaywallPro page may include more historical context.
 - The paywall presents month, half year, quarter option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Lifestyle app packages subscription value for its users.
@@ -68,12 +68,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Lifestyle |
-| Paywall type | No Free Trial - Soft Paywall |
+| Paywall type | No Free Trial - Soft Paywall, Credit Paywall |
 | Pricing model | 1 offer set across month, half year, quarter |
 | Captured version | 94.0.0 |
 | Version release date | 2024-10-07 |
 
-This paywall uses the **No Free Trial - Soft Paywall** structure.
+This paywall uses the **No Free Trial - Soft Paywall, Credit Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -93,8 +93,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $29.67K |
 | Avg daily downloads | 2.52K |
 | Avg daily ARPU | $11.80 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 3 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

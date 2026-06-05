@@ -5,7 +5,7 @@ developer: "Bumpy Inc."
 category: "Social Networking"
 paywall_type: "No Free Trial - Soft Paywall"
 pricing_model: "1 offer set across week, month, half year, quarter"
-mrr: "$133.94K"
+mrr: "$8.43K"
 rating: 4.55
 versions_count: 2
 offers:
@@ -17,15 +17,15 @@ offers:
     prices: ["$38.99"]
   - period: "quarter"
     prices: ["$23.99"]
-screenshots_count: 3
-onboarding_flows_count: 35
+onboarding_count: 26
+walkthrough_count: 9
 app_detail_url: "https://www.paywallpro.app/apps/Bumpy-%E2%80%93-International-Dating-us?id=976348&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Bumpy – International Dating Paywall Analysis
 
 Category: Social Networking
-Estimated MRR: $133.94K
+Estimated MRR: $8.43K
 Paywall Pattern: No Free Trial - Soft Paywall
 Pricing Model: 1 offer set across week, month, half year, quarter
 Captured Version: 2.6.21
@@ -91,12 +91,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.55 |
 | Category rank | #85 |
-| Estimated MRR | $133.94K |
+| Estimated MRR | $8.43K |
 | Avg daily revenue | $3.19K |
 | Avg daily downloads | 1.17K |
 | Avg daily ARPU | $2.73 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 26 |
+| Walkthrough preview count | 9 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

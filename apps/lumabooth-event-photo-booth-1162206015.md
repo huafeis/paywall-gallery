@@ -6,15 +6,15 @@ category: "Photo & Video"
 paywall_type: "No Free Trial - Soft Paywall"
 pricing_model: "1 offer set across month, year"
 mrr: "$91.31K"
-rating: 4.56
+rating: 4.55
 versions_count: 1
 offers:
   - period: "month"
     prices: ["$19.99"]
   - period: "year"
     prices: ["$199.99"]
-screenshots_count: 3
-onboarding_flows_count: 5
+onboarding_count: 5
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/LumaBooth-Event-Photo-Booth-us?id=626&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -85,14 +85,14 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 4.56 |
+| App Store rating | 4.55 |
 | Category rank | #158 |
 | Estimated MRR | $91.31K |
 | Avg daily revenue | $6.54K |
 | Avg daily downloads | 63 |
 | Avg daily ARPU | $103.85 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 5 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

@@ -1,20 +1,20 @@
 ---
 app_name: "Voice Recorder — Audio Memos"
 app_id: 1639516366
-developer: "Viktor Sukhoy"
+developer: "PrimeForm OU"
 category: "Business"
 paywall_type: "Free Trial - Hard Paywall"
 pricing_model: "1 offer set across week, year"
 mrr: "$61.55K"
-rating: 4.44
+rating: 4.43
 versions_count: 1
 offers:
   - period: "week"
     prices: ["$9.99"]
   - period: "year"
     prices: ["$39.99"]
-screenshots_count: 3
-onboarding_flows_count: 9
+onboarding_count: 9
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Voice-Recorder-%E2%80%94-Audio-Memos-us?id=1952271&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -32,7 +32,7 @@ View full case on PaywallPro:
 
 ## Snapshot
 
-Voice Recorder — Audio Memos is a Business app by Viktor Sukhoy. This compact public preview highlights representative iOS subscription paywall screens from the US storefront.
+Voice Recorder — Audio Memos is a Business app by PrimeForm OU. This compact public preview highlights representative iOS subscription paywall screens from the US storefront.
 
 Its paywall is a useful reference for studying how apps in the Business category present subscription value, structure pricing, use trials, and reduce purchase friction.
 
@@ -85,14 +85,14 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 4.44 |
+| App Store rating | 4.43 |
 | Category rank | #85 |
 | Estimated MRR | $61.55K |
 | Avg daily revenue | $3.81K |
 | Avg daily downloads | 1.62K |
 | Avg daily ARPU | $2.35 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 9 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

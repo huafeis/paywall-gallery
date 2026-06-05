@@ -13,8 +13,8 @@ offers:
     prices: ["$34.99/$49.99/$14.99", "$14.99"]
   - period: "year"
     prices: ["$299.99/$399.99/$149.99", "$149.99"]
-screenshots_count: 3
-onboarding_flows_count: 12
+onboarding_count: 2
+walkthrough_count: 10
 app_detail_url: "https://www.paywallpro.app/apps/CNBC:-Stock-Market-&-Business-us?id=379&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -92,8 +92,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | Not available |
 | Avg daily downloads | Not available |
 | Avg daily ARPU | Not available |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 2 |
+| Walkthrough preview count | 10 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

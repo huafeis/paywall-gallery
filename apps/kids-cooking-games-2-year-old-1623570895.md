@@ -13,8 +13,8 @@ offers:
     prices: ["$9.99"]
   - period: "year"
     prices: ["$49.99"]
-screenshots_count: 3
-onboarding_flows_count: 4
+onboarding_count: 4
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Kids-cooking-games-2%2B-year-old-us?id=893&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -91,8 +91,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $3.22K |
 | Avg daily downloads | 1.57K |
 | Avg daily ARPU | $2.05 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 4 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

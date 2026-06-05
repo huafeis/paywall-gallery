@@ -5,7 +5,7 @@ developer: "StoryToys Limited"
 category: "Education"
 paywall_type: "No Free Trial - Soft Paywall"
 pricing_model: "1 offer set across month, year"
-mrr: "$56.86K"
+mrr: "$992"
 rating: 4.26
 versions_count: 2
 offers:
@@ -13,15 +13,15 @@ offers:
     prices: ["$6.99"]
   - period: "year"
     prices: ["$39.99"]
-screenshots_count: 3
-onboarding_flows_count: 20
+onboarding_count: 16
+walkthrough_count: 5
 app_detail_url: "https://www.paywallpro.app/apps/LEGO%C2%AE-DUPLO%C2%AE-MARVEL-us?id=753&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # LEGO® DUPLO® MARVEL Paywall Analysis
 
 Category: Education
-Estimated MRR: $56.86K
+Estimated MRR: $992
 Paywall Pattern: No Free Trial - Soft Paywall
 Pricing Model: 1 offer set across month, year
 Captured Version: 19.0.0
@@ -87,12 +87,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.26 |
 | Category rank | #181 |
-| Estimated MRR | $56.86K |
+| Estimated MRR | $992 |
 | Avg daily revenue | $3.58K |
 | Avg daily downloads | 861 |
 | Avg daily ARPU | $4.16 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 16 |
+| Walkthrough preview count | 5 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

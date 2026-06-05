@@ -5,7 +5,7 @@ developer: "Headspace Inc."
 category: "Health & Fitness"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "1 offer set across month, year"
-mrr: "$373.54K"
+mrr: "$10.56K"
 rating: 4.84
 versions_count: 4
 offers:
@@ -13,15 +13,15 @@ offers:
     prices: ["$12.99"]
   - period: "year"
     prices: ["$69.99"]
-screenshots_count: 3
-onboarding_flows_count: 17
+onboarding_count: 13
+walkthrough_count: 4
 app_detail_url: "https://www.paywallpro.app/apps/Headspace:-Sleep-&-Meditation-us?id=98&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Headspace: Sleep & Meditation Paywall Analysis
 
 Category: Health & Fitness
-Estimated MRR: $373.54K
+Estimated MRR: $10.56K
 Paywall Pattern: Free Trial - Soft Paywall
 Pricing Model: 1 offer set across month, year
 Captured Version: 3.410.0
@@ -87,12 +87,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.84 |
 | Category rank | #88 |
-| Estimated MRR | $373.54K |
+| Estimated MRR | $10.56K |
 | Avg daily revenue | $24.26K |
 | Avg daily downloads | 1.76K |
 | Avg daily ARPU | $13.77 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 13 |
+| Walkthrough preview count | 4 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

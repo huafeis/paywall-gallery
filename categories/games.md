@@ -8,7 +8,7 @@ Games apps use subscription paywalls to communicate value and convert users into
 
 | App | Estimated MRR | Pattern | Page |
 |---|---:|---|---|
-| iRomance-Step Into Stories | $62.83K | Currency Paywall | [Open](../apps/iromance-step-into-stories-1643862208.md) |
+| iRomance-Step Into Stories | $62.83K | Currency Paywall, No Free Trial - Soft Paywall | [Open](../apps/iromance-step-into-stories-1643862208.md) |
 
 ## What to study
 

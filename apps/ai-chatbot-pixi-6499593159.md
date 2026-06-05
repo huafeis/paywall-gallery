@@ -3,7 +3,7 @@ app_name: "AI Chatbot: Pixi"
 app_id: 6499593159
 developer: "44pixels"
 category: "Productivity"
-paywall_type: "Free Trial - Soft Paywall"
+paywall_type: "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
 pricing_model: "3 offer sets across week, year"
 mrr: "$68.39K"
 rating: 4.65
@@ -13,8 +13,8 @@ offers:
     prices: ["$7.99"]
   - period: "year"
     prices: ["$49.99", "$44.99", "$69.99"]
-screenshots_count: 3
-onboarding_flows_count: 19
+onboarding_count: 13
+walkthrough_count: 6
 app_detail_url: "https://www.paywallpro.app/apps/AI-Chatbot:-Pixi-us?id=1011587&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -22,7 +22,7 @@ app_detail_url: "https://www.paywallpro.app/apps/AI-Chatbot:-Pixi-us?id=1011587&
 
 Category: Productivity
 Estimated MRR: $68.39K
-Paywall Pattern: Free Trial - Soft Paywall
+Paywall Pattern: Free Trial - Soft Paywall, No Free Trial - Soft Paywall
 Pricing Model: 3 offer sets across week, year
 Captured Version: 0.51.46
 Version Release Date: 2025-12-17
@@ -40,7 +40,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- AI Chatbot: Pixi uses the Free Trial - Soft Paywall pattern in the Productivity category.
+- AI Chatbot: Pixi uses the Free Trial - Soft Paywall, No Free Trial - Soft Paywall pattern in the Productivity category.
 - 3 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The paywall presents week, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Productivity app packages subscription value for its users.
@@ -66,12 +66,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Productivity |
-| Paywall type | Free Trial - Soft Paywall |
+| Paywall type | Free Trial - Soft Paywall, No Free Trial - Soft Paywall |
 | Pricing model | 3 offer sets across week, year |
 | Captured version | 0.51.46 |
 | Version release date | 2025-12-17 |
 
-This paywall uses the **Free Trial - Soft Paywall** structure.
+This paywall uses the **Free Trial - Soft Paywall, No Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -93,8 +93,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $5.55K |
 | Avg daily downloads | 2.44K |
 | Avg daily ARPU | $2.28 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 13 |
+| Walkthrough preview count | 6 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

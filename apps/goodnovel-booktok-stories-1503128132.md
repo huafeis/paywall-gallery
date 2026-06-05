@@ -3,7 +3,7 @@ app_name: "GoodNovel - Booktok, Stories"
 app_id: 1503128132
 developer: "SINGAPORE NEW READING TECHNOLOGY PTE. LTD."
 category: "Books"
-paywall_type: "Currency Paywall"
+paywall_type: "Currency Paywall, Free Trial - Soft Paywall"
 pricing_model: "1 offer set across week, month, year"
 mrr: "$65.60K"
 rating: 4.52
@@ -15,8 +15,8 @@ offers:
     prices: ["$49.99"]
   - period: "year"
     prices: ["$199.99"]
-screenshots_count: 3
-onboarding_flows_count: 11
+onboarding_count: 11
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/GoodNovel---Booktok%2C-Stories-us?id=42&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -24,7 +24,7 @@ app_detail_url: "https://www.paywallpro.app/apps/GoodNovel---Booktok%2C-Stories-
 
 Category: Books
 Estimated MRR: $65.60K
-Paywall Pattern: Currency Paywall
+Paywall Pattern: Currency Paywall, Free Trial - Soft Paywall
 Pricing Model: 1 offer set across week, month, year
 Captured Version: 3.5.2
 Version Release Date: 2025-12-29
@@ -42,7 +42,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- GoodNovel - Booktok, Stories uses the Currency Paywall pattern in the Books category.
+- GoodNovel - Booktok, Stories uses the Currency Paywall, Free Trial - Soft Paywall pattern in the Books category.
 - The preview exposes one visible offer set; the full PaywallPro page may include more historical context.
 - The paywall presents week, month, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Books app packages subscription value for its users.
@@ -68,12 +68,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Books |
-| Paywall type | Currency Paywall |
+| Paywall type | Currency Paywall, Free Trial - Soft Paywall |
 | Pricing model | 1 offer set across week, month, year |
 | Captured version | 3.5.2 |
 | Version release date | 2025-12-29 |
 
-This paywall uses the **Currency Paywall** structure.
+This paywall uses the **Currency Paywall, Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -93,8 +93,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | Not available |
 | Avg daily downloads | Not available |
 | Avg daily ARPU | Not available |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 11 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

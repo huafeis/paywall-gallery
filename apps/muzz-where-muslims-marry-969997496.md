@@ -6,7 +6,7 @@ category: "Lifestyle"
 paywall_type: "No Free Trial - Soft Paywall"
 pricing_model: "1 offer set across week, month, quarter"
 mrr: "$89.50K"
-rating: 4.54
+rating: 4.53
 versions_count: 4
 offers:
   - period: "week"
@@ -15,8 +15,8 @@ offers:
     prices: ["$31.99"]
   - period: "quarter"
     prices: ["$73.99"]
-screenshots_count: 3
-onboarding_flows_count: 12
+onboarding_count: 6
+walkthrough_count: 6
 app_detail_url: "https://www.paywallpro.app/apps/Muzz:-Where-Muslims-Marry-us?id=658&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -87,14 +87,14 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 4.54 |
+| App Store rating | 4.53 |
 | Category rank | #46 |
 | Estimated MRR | $89.50K |
 | Avg daily revenue | $7.35K |
 | Avg daily downloads | 611 |
 | Avg daily ARPU | $12.05 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 6 |
+| Walkthrough preview count | 6 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

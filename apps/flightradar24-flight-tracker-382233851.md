@@ -3,7 +3,7 @@ app_name: "Flightradar24 | Flight Tracker"
 app_id: 382233851
 developer: "Flightradar24 AB"
 category: "Travel"
-paywall_type: "No Free Trial - Soft Paywall"
+paywall_type: "No Free Trial - Soft Paywall, Free Trial - Soft Paywall"
 pricing_model: "3 offer sets across year, quarter"
 mrr: "$350.32K"
 rating: 4.84
@@ -13,8 +13,8 @@ offers:
     prices: ["$39.99", "$17.99"]
   - period: "quarter"
     prices: ["$0.99"]
-screenshots_count: 3
-onboarding_flows_count: 9
+onboarding_count: 9
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Flightradar24-%7C-Flight-Tracker-us?id=194&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -22,7 +22,7 @@ app_detail_url: "https://www.paywallpro.app/apps/Flightradar24-%7C-Flight-Tracke
 
 Category: Travel
 Estimated MRR: $350.32K
-Paywall Pattern: No Free Trial - Soft Paywall
+Paywall Pattern: No Free Trial - Soft Paywall, Free Trial - Soft Paywall
 Pricing Model: 3 offer sets across year, quarter
 Captured Version: 10.15.0
 Version Release Date: 2025-08-26
@@ -40,7 +40,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Flightradar24 | Flight Tracker uses the No Free Trial - Soft Paywall pattern in the Travel category.
+- Flightradar24 | Flight Tracker uses the No Free Trial - Soft Paywall, Free Trial - Soft Paywall pattern in the Travel category.
 - 3 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The paywall presents year, quarter option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Travel app packages subscription value for its users.
@@ -66,12 +66,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Travel |
-| Paywall type | No Free Trial - Soft Paywall |
+| Paywall type | No Free Trial - Soft Paywall, Free Trial - Soft Paywall |
 | Pricing model | 3 offer sets across year, quarter |
 | Captured version | 10.15.0 |
 | Version release date | 2025-08-26 |
 
-This paywall uses the **No Free Trial - Soft Paywall** structure.
+This paywall uses the **No Free Trial - Soft Paywall, Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -93,8 +93,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $28.61K |
 | Avg daily downloads | 7.59K |
 | Avg daily ARPU | $3.77 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 9 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

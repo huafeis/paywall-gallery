@@ -13,8 +13,8 @@ offers:
     prices: ["$4.99/$1/$75/$45"]
   - period: "year"
     prices: ["$49/$299/$719"]
-screenshots_count: 3
-onboarding_flows_count: 18
+onboarding_count: 6
+walkthrough_count: 12
 app_detail_url: "https://www.paywallpro.app/apps/Financial-Times:-Business-News-us?id=45389&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -91,8 +91,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $4.55K |
 | Avg daily downloads | 236 |
 | Avg daily ARPU | $19.28 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 6 |
+| Walkthrough preview count | 12 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

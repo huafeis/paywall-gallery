@@ -13,8 +13,8 @@ offers:
     prices: ["$7.99"]
   - period: "year"
     prices: ["$69.99"]
-screenshots_count: 3
-onboarding_flows_count: 14
+onboarding_count: 14
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Blinq:-Digital-Business-Card-us?id=357899&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -91,8 +91,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $3.62K |
 | Avg daily downloads | 2.07K |
 | Avg daily ARPU | $1.75 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 14 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

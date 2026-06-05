@@ -3,7 +3,7 @@ app_name: "GrowIt: Garden Planner"
 app_id: 6443580320
 developer: "Glority Global Group Ltd."
 category: "Lifestyle"
-paywall_type: "Free Trial - Soft Paywall"
+paywall_type: "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
 pricing_model: "1 offer set across year"
 mrr: "$54.44K"
 rating: 4.68
@@ -11,8 +11,8 @@ versions_count: 2
 offers:
   - period: "year"
     prices: ["$39.99"]
-screenshots_count: 3
-onboarding_flows_count: 30
+onboarding_count: 24
+walkthrough_count: 6
 app_detail_url: "https://www.paywallpro.app/apps/GrowIt:-Garden-Planner-us?id=1273987&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -20,7 +20,7 @@ app_detail_url: "https://www.paywallpro.app/apps/GrowIt:-Garden-Planner-us?id=12
 
 Category: Lifestyle
 Estimated MRR: $54.44K
-Paywall Pattern: Free Trial - Soft Paywall
+Paywall Pattern: Free Trial - Soft Paywall, No Free Trial - Soft Paywall
 Pricing Model: 1 offer set across year
 Captured Version: 1.36
 Version Release Date: 2026-01-07
@@ -38,7 +38,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- GrowIt: Garden Planner uses the Free Trial - Soft Paywall pattern in the Lifestyle category.
+- GrowIt: Garden Planner uses the Free Trial - Soft Paywall, No Free Trial - Soft Paywall pattern in the Lifestyle category.
 - The preview exposes one visible offer set; the full PaywallPro page may include more historical context.
 - The pricing structure shows how a leading Lifestyle app packages subscription value for its users.
 
@@ -63,12 +63,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Lifestyle |
-| Paywall type | Free Trial - Soft Paywall |
+| Paywall type | Free Trial - Soft Paywall, No Free Trial - Soft Paywall |
 | Pricing model | 1 offer set across year |
 | Captured version | 1.36 |
 | Version release date | 2026-01-07 |
 
-This paywall uses the **Free Trial - Soft Paywall** structure.
+This paywall uses the **Free Trial - Soft Paywall, No Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -88,8 +88,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $3.60K |
 | Avg daily downloads | 1.01K |
 | Avg daily ARPU | $3.56 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 24 |
+| Walkthrough preview count | 6 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

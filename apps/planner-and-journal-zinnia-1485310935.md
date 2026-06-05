@@ -3,7 +3,7 @@ app_name: "Planner & Journal - Zinnia"
 app_id: 1485310935
 developer: "Pixite Inc."
 category: "Lifestyle"
-paywall_type: "Free Trial - Soft Paywall"
+paywall_type: "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
 pricing_model: "1 offer set across year"
 mrr: "$66.54K"
 rating: 4.56
@@ -11,8 +11,8 @@ versions_count: 6
 offers:
   - period: "year"
     prices: ["$34.99"]
-screenshots_count: 3
-onboarding_flows_count: 16
+onboarding_count: 10
+walkthrough_count: 6
 app_detail_url: "https://www.paywallpro.app/apps/Planner-&-Journal---Zinnia-us?id=438&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -20,7 +20,7 @@ app_detail_url: "https://www.paywallpro.app/apps/Planner-&-Journal---Zinnia-us?i
 
 Category: Lifestyle
 Estimated MRR: $66.54K
-Paywall Pattern: Free Trial - Soft Paywall
+Paywall Pattern: Free Trial - Soft Paywall, No Free Trial - Soft Paywall
 Pricing Model: 1 offer set across year
 Captured Version: 1.44
 Version Release Date: 2026-02-02
@@ -38,7 +38,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Planner & Journal - Zinnia uses the Free Trial - Soft Paywall pattern in the Lifestyle category.
+- Planner & Journal - Zinnia uses the Free Trial - Soft Paywall, No Free Trial - Soft Paywall pattern in the Lifestyle category.
 - The preview exposes one visible offer set; the full PaywallPro page may include more historical context.
 - The pricing structure shows how a leading Lifestyle app packages subscription value for its users.
 
@@ -63,12 +63,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Lifestyle |
-| Paywall type | Free Trial - Soft Paywall |
+| Paywall type | Free Trial - Soft Paywall, No Free Trial - Soft Paywall |
 | Pricing model | 1 offer set across year |
 | Captured version | 1.44 |
 | Version release date | 2026-02-02 |
 
-This paywall uses the **Free Trial - Soft Paywall** structure.
+This paywall uses the **Free Trial - Soft Paywall, No Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -88,8 +88,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $5.19K |
 | Avg daily downloads | 820 |
 | Avg daily ARPU | $6.34 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 10 |
+| Walkthrough preview count | 6 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

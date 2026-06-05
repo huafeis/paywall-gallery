@@ -13,8 +13,8 @@ offers:
     prices: ["$15.99/$28.99"]
   - period: "year"
     prices: ["$159/$289"]
-screenshots_count: 3
-onboarding_flows_count: 10
+onboarding_count: 10
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Peloton:-Fitness-&-Workouts-us?id=49&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -91,8 +91,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $84.52K |
 | Avg daily downloads | 1.12K |
 | Avg daily ARPU | $75.46 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 10 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

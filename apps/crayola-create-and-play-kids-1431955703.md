@@ -6,13 +6,13 @@ category: "Education"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "1 offer set across year"
 mrr: "$45.74K"
-rating: 4.33
+rating: 4.34
 versions_count: 2
 offers:
   - period: "year"
     prices: ["$35.99"]
-screenshots_count: 3
-onboarding_flows_count: 19
+onboarding_count: 19
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Crayola-Create-and-Play:-Kids-us?id=597&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -82,14 +82,14 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 4.33 |
+| App Store rating | 4.34 |
 | Category rank | #193 |
 | Estimated MRR | $45.74K |
 | Avg daily revenue | $3.54K |
 | Avg daily downloads | 1.04K |
 | Avg daily ARPU | $3.41 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 19 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

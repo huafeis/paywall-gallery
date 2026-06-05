@@ -5,7 +5,7 @@ developer: "Simply Ltd"
 category: "Music"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "1 offer set across month, year"
-mrr: "$154.29K"
+mrr: "$9.03K"
 rating: 4.68
 versions_count: 2
 offers:
@@ -13,15 +13,15 @@ offers:
     prices: ["$14.99"]
   - period: "year"
     prices: ["$89.99"]
-screenshots_count: 3
-onboarding_flows_count: 24
+onboarding_count: 20
+walkthrough_count: 4
 app_detail_url: "https://www.paywallpro.app/apps/Simply-Sing:-My-Singing-App-us?id=384&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Simply Sing: My Singing App Paywall Analysis
 
 Category: Music
-Estimated MRR: $154.29K
+Estimated MRR: $9.03K
 Paywall Pattern: Free Trial - Soft Paywall
 Pricing Model: 1 offer set across month, year
 Captured Version: 2.6.4
@@ -87,12 +87,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.68 |
 | Category rank | #18 |
-| Estimated MRR | $154.29K |
+| Estimated MRR | $9.03K |
 | Avg daily revenue | $12.67K |
 | Avg daily downloads | 4.21K |
 | Avg daily ARPU | $3.02 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 20 |
+| Walkthrough preview count | 4 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

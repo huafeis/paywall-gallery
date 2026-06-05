@@ -11,8 +11,8 @@ versions_count: 3
 offers:
   - period: "month"
     prices: ["$6.99"]
-screenshots_count: 3
-onboarding_flows_count: 14
+onboarding_count: 7
+walkthrough_count: 7
 app_detail_url: "https://www.paywallpro.app/apps/Audiomack---Play-Music-Offline-us?id=267&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -88,8 +88,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $6.97K |
 | Avg daily downloads | 6.50K |
 | Avg daily ARPU | $1.08 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 7 |
+| Walkthrough preview count | 7 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

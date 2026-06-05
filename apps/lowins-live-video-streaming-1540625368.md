@@ -3,7 +3,7 @@ app_name: "Lowins - Live Video Streaming"
 app_id: 1540625368
 developer: "ADDATTAIN"
 category: "Social Networking"
-paywall_type: "Currency Paywall"
+paywall_type: "Currency Paywall, No Free Trial - Soft Paywall"
 pricing_model: "1 offer set across week, month, year, quarter"
 mrr: "$73.65K"
 rating: 4.59
@@ -17,8 +17,8 @@ offers:
     prices: ["$99.99"]
   - period: "quarter"
     prices: ["$49.99"]
-screenshots_count: 3
-onboarding_flows_count: 19
+onboarding_count: 10
+walkthrough_count: 9
 app_detail_url: "https://www.paywallpro.app/apps/Lowins---Live-Video-Streaming-us?id=885030&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -26,7 +26,7 @@ app_detail_url: "https://www.paywallpro.app/apps/Lowins---Live-Video-Streaming-u
 
 Category: Social Networking
 Estimated MRR: $73.65K
-Paywall Pattern: Currency Paywall
+Paywall Pattern: Currency Paywall, No Free Trial - Soft Paywall
 Pricing Model: 1 offer set across week, month, year, quarter
 Captured Version: 2.8.52
 Version Release Date: 2025-10-10
@@ -44,7 +44,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Lowins - Live Video Streaming uses the Currency Paywall pattern in the Social Networking category.
+- Lowins - Live Video Streaming uses the Currency Paywall, No Free Trial - Soft Paywall pattern in the Social Networking category.
 - The preview exposes one visible offer set; the full PaywallPro page may include more historical context.
 - The paywall presents week, month, year, quarter option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Social Networking app packages subscription value for its users.
@@ -70,12 +70,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Social Networking |
-| Paywall type | Currency Paywall |
+| Paywall type | Currency Paywall, No Free Trial - Soft Paywall |
 | Pricing model | 1 offer set across week, month, year, quarter |
 | Captured version | 2.8.52 |
 | Version release date | 2025-10-10 |
 
-This paywall uses the **Currency Paywall** structure.
+This paywall uses the **Currency Paywall, No Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -95,8 +95,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $6.61K |
 | Avg daily downloads | 488 |
 | Avg daily ARPU | $13.54 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 10 |
+| Walkthrough preview count | 9 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

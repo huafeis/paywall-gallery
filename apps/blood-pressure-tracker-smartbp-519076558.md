@@ -15,8 +15,8 @@ offers:
     prices: ["$24.99"]
   - period: "one-time purchase"
     prices: ["$89.99"]
-screenshots_count: 3
-onboarding_flows_count: 34
+onboarding_count: 18
+walkthrough_count: 17
 app_detail_url: "https://www.paywallpro.app/apps/Blood-Pressure-Tracker-SmartBP-us?id=1228316&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -95,8 +95,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $1.73K |
 | Avg daily downloads | 492 |
 | Avg daily ARPU | $3.52 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 18 |
+| Walkthrough preview count | 17 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

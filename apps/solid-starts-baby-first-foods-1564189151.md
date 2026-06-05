@@ -13,8 +13,8 @@ offers:
     prices: ["$19.99"]
   - period: "year"
     prices: ["$99.99"]
-screenshots_count: 3
-onboarding_flows_count: 51
+onboarding_count: 44
+walkthrough_count: 7
 app_detail_url: "https://www.paywallpro.app/apps/Solid-Starts:-Baby-First-Foods-us?id=405&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -91,8 +91,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $25.44K |
 | Avg daily downloads | 1.96K |
 | Avg daily ARPU | $12.96 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 44 |
+| Walkthrough preview count | 7 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

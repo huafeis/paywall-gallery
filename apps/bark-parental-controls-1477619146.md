@@ -5,7 +5,7 @@ developer: "Bark Technologies, Inc."
 category: "Productivity"
 paywall_type: "No Free Trial - Soft Paywall"
 pricing_model: "1 offer set across month, year"
-mrr: "$78.71K"
+mrr: "$6.43K"
 rating: 4.24
 versions_count: 1
 offers:
@@ -13,15 +13,15 @@ offers:
     prices: ["$14.99"]
   - period: "year"
     prices: ["$99.99"]
-screenshots_count: 3
-onboarding_flows_count: 7
+onboarding_count: 7
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Bark---Parental-Controls-us?id=413&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Bark - Parental Controls Paywall Analysis
 
 Category: Productivity
-Estimated MRR: $78.71K
+Estimated MRR: $6.43K
 Paywall Pattern: No Free Trial - Soft Paywall
 Pricing Model: 1 offer set across month, year
 Captured Version: 5.3.5
@@ -87,12 +87,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.24 |
 | Category rank | #158 |
-| Estimated MRR | $78.71K |
+| Estimated MRR | $6.43K |
 | Avg daily revenue | $7.68K |
 | Avg daily downloads | 1.03K |
 | Avg daily ARPU | $7.49 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 7 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

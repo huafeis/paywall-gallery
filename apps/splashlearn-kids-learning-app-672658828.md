@@ -3,7 +3,7 @@ app_name: "SplashLearn: Kids Learning App"
 app_id: 672658828
 developer: "StudyPad, Inc."
 category: "Education"
-paywall_type: "Free Trial - Hard Paywall"
+paywall_type: "Free Trial - Hard Paywall, Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across month, year"
 mrr: "$104.94K"
 rating: 4.52
@@ -13,8 +13,8 @@ offers:
     prices: ["$11.99"]
   - period: "year"
     prices: ["$69.99"]
-screenshots_count: 3
-onboarding_flows_count: 23
+onboarding_count: 23
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/SplashLearn:-Kids-Learning-App-us?id=415&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -22,7 +22,7 @@ app_detail_url: "https://www.paywallpro.app/apps/SplashLearn:-Kids-Learning-App-
 
 Category: Education
 Estimated MRR: $104.94K
-Paywall Pattern: Free Trial - Hard Paywall
+Paywall Pattern: Free Trial - Hard Paywall, Free Trial - Soft Paywall
 Pricing Model: 2 offer sets across month, year
 Captured Version: 7.3.15
 Version Release Date: 2026-01-09
@@ -40,7 +40,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- SplashLearn: Kids Learning App uses the Free Trial - Hard Paywall pattern in the Education category.
+- SplashLearn: Kids Learning App uses the Free Trial - Hard Paywall, Free Trial - Soft Paywall pattern in the Education category.
 - 2 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The paywall presents month, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Education app packages subscription value for its users.
@@ -66,12 +66,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Education |
-| Paywall type | Free Trial - Hard Paywall |
+| Paywall type | Free Trial - Hard Paywall, Free Trial - Soft Paywall |
 | Pricing model | 2 offer sets across month, year |
 | Captured version | 7.3.15 |
 | Version release date | 2026-01-09 |
 
-This paywall uses the **Free Trial - Hard Paywall** structure.
+This paywall uses the **Free Trial - Hard Paywall, Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -92,8 +92,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $7.00K |
 | Avg daily downloads | 1.19K |
 | Avg daily ARPU | $5.88 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 23 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

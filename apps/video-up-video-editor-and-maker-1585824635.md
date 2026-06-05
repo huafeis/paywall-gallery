@@ -5,23 +5,23 @@ developer: "Video editor & maker app"
 category: "Photo & Video"
 paywall_type: "No Free Trial - Soft Paywall"
 pricing_model: "1 offer set across week, year"
-mrr: "$197.26K"
-rating: 4.58
+mrr: "$14.43K"
+rating: 4.57
 versions_count: 4
 offers:
   - period: "week"
     prices: ["$0.49/$9.99"]
   - period: "year"
     prices: ["$35.99"]
-screenshots_count: 3
-onboarding_flows_count: 9
+onboarding_count: 7
+walkthrough_count: 2
 app_detail_url: "https://www.paywallpro.app/apps/Video-Up!-Video-Editor-&-Maker-us?id=302&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Video Up! Video Editor & Maker Paywall Analysis
 
 Category: Photo & Video
-Estimated MRR: $197.26K
+Estimated MRR: $14.43K
 Paywall Pattern: No Free Trial - Soft Paywall
 Pricing Model: 1 offer set across week, year
 Captured Version: 2.5.0
@@ -85,14 +85,14 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 4.58 |
+| App Store rating | 4.57 |
 | Category rank | #77 |
-| Estimated MRR | $197.26K |
+| Estimated MRR | $14.43K |
 | Avg daily revenue | Not available |
 | Avg daily downloads | Not available |
 | Avg daily ARPU | Not available |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 7 |
+| Walkthrough preview count | 2 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

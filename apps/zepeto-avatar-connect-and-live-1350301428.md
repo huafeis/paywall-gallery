@@ -3,7 +3,7 @@ app_name: "ZEPETO: Avatar, Connect & Live"
 app_id: 1350301428
 developer: "NAVER Z Corporation"
 category: "Social Networking"
-paywall_type: "Currency Paywall"
+paywall_type: "Currency Paywall, No Free Trial - Soft Paywall"
 pricing_model: "1 offer set across month"
 mrr: "$101.38K"
 rating: 4.65
@@ -11,8 +11,8 @@ versions_count: 2
 offers:
   - period: "month"
     prices: ["$1/$3.99/$9.99"]
-screenshots_count: 3
-onboarding_flows_count: 23
+onboarding_count: 12
+walkthrough_count: 11
 app_detail_url: "https://www.paywallpro.app/apps/ZEPETO:-Avatar%2C-Connect-&-Live-us?id=280&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -20,7 +20,7 @@ app_detail_url: "https://www.paywallpro.app/apps/ZEPETO:-Avatar%2C-Connect-&-Liv
 
 Category: Social Networking
 Estimated MRR: $101.38K
-Paywall Pattern: Currency Paywall
+Paywall Pattern: Currency Paywall, No Free Trial - Soft Paywall
 Pricing Model: 1 offer set across month
 Captured Version: 4.14.000
 Version Release Date: 2026-01-05
@@ -38,7 +38,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- ZEPETO: Avatar, Connect & Live uses the Currency Paywall pattern in the Social Networking category.
+- ZEPETO: Avatar, Connect & Live uses the Currency Paywall, No Free Trial - Soft Paywall pattern in the Social Networking category.
 - The preview exposes one visible offer set; the full PaywallPro page may include more historical context.
 - The pricing structure shows how a leading Social Networking app packages subscription value for its users.
 
@@ -63,12 +63,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Social Networking |
-| Paywall type | Currency Paywall |
+| Paywall type | Currency Paywall, No Free Trial - Soft Paywall |
 | Pricing model | 1 offer set across month |
 | Captured version | 4.14.000 |
 | Version release date | 2026-01-05 |
 
-This paywall uses the **Currency Paywall** structure.
+This paywall uses the **Currency Paywall, No Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -88,8 +88,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $9.91K |
 | Avg daily downloads | 2.56K |
 | Avg daily ARPU | $3.87 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 12 |
+| Walkthrough preview count | 11 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

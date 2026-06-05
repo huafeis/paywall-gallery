@@ -6,15 +6,15 @@ category: "Health & Fitness"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "1 offer set across month, year"
 mrr: "$105.64K"
-rating: 4.88
+rating: 4.89
 versions_count: 2
 offers:
   - period: "month"
     prices: ["$27.99"]
   - period: "year"
     prices: ["$179.99"]
-screenshots_count: 3
-onboarding_flows_count: 8
+onboarding_count: 3
+walkthrough_count: 5
 app_detail_url: "https://www.paywallpro.app/apps/FORM:-Strength%2C-Pilates%2C-Gym-us?id=640&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -85,14 +85,14 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 4.88 |
+| App Store rating | 4.89 |
 | Category rank | #59 |
 | Estimated MRR | $105.64K |
 | Avg daily revenue | $8.72K |
 | Avg daily downloads | 23 |
 | Avg daily ARPU | $374.47 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 3 |
+| Walkthrough preview count | 5 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

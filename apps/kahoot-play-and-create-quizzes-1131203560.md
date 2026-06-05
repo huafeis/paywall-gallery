@@ -3,7 +3,7 @@ app_name: "Kahoot! Play & Create Quizzes"
 app_id: 1131203560
 developer: "Kahoot ASA"
 category: "Education"
-paywall_type: "Free Trial - Soft Paywall"
+paywall_type: "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
 pricing_model: "4 offer sets across month, year"
 mrr: "$78.14K"
 rating: 4.56
@@ -13,8 +13,8 @@ offers:
     prices: ["$29.99", "$14.99", "$7.99"]
   - period: "year"
     prices: ["$155.99", "$95.90", "$47.90"]
-screenshots_count: 3
-onboarding_flows_count: 20
+onboarding_count: 7
+walkthrough_count: 13
 app_detail_url: "https://www.paywallpro.app/apps/Kahoot!-Play-&-Create-Quizzes-us?id=785&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -22,7 +22,7 @@ app_detail_url: "https://www.paywallpro.app/apps/Kahoot!-Play-&-Create-Quizzes-u
 
 Category: Education
 Estimated MRR: $78.14K
-Paywall Pattern: Free Trial - Soft Paywall
+Paywall Pattern: Free Trial - Soft Paywall, No Free Trial - Soft Paywall
 Pricing Model: 4 offer sets across month, year
 Captured Version: 6.4.9
 Version Release Date: 2025-10-27
@@ -40,7 +40,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Kahoot! Play & Create Quizzes uses the Free Trial - Soft Paywall pattern in the Education category.
+- Kahoot! Play & Create Quizzes uses the Free Trial - Soft Paywall, No Free Trial - Soft Paywall pattern in the Education category.
 - 4 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The paywall presents month, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Education app packages subscription value for its users.
@@ -66,12 +66,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Education |
-| Paywall type | Free Trial - Soft Paywall |
+| Paywall type | Free Trial - Soft Paywall, No Free Trial - Soft Paywall |
 | Pricing model | 4 offer sets across month, year |
 | Captured version | 6.4.9 |
 | Version release date | 2025-10-27 |
 
-This paywall uses the **Free Trial - Soft Paywall** structure.
+This paywall uses the **Free Trial - Soft Paywall, No Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -94,8 +94,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $4.93K |
 | Avg daily downloads | 4.29K |
 | Avg daily ARPU | $1.16 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 7 |
+| Walkthrough preview count | 13 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

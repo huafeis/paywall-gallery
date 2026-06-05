@@ -6,15 +6,15 @@ category: "Finance"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across month, year"
 mrr: "$201.09K"
-rating: 4.85
+rating: 4.84
 versions_count: 4
 offers:
   - period: "month"
     prices: ["$12.95/$28.29/$56.49/$199.95/$14.95/$33.95/$67.95/$239.95"]
   - period: "year"
     prices: ["$219.99/$439.99/$879.99"]
-screenshots_count: 3
-onboarding_flows_count: 17
+onboarding_count: 17
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/TradingView:-Track-All-Markets-us?id=446&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -86,14 +86,14 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 4.85 |
+| App Store rating | 4.84 |
 | Category rank | #36 |
 | Estimated MRR | $201.09K |
 | Avg daily revenue | $10.06K |
 | Avg daily downloads | 11.73K |
 | Avg daily ARPU | $0.86 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 17 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

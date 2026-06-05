@@ -3,7 +3,7 @@ app_name: "DramaWave - Dramas & Reels"
 app_id: 6670430706
 developer: "SKYWORK AI PTE LTD"
 category: "Entertainment"
-paywall_type: "No Free Trial - Soft Paywall"
+paywall_type: "No Free Trial - Soft Paywall, Currency Paywall"
 pricing_model: "1 offer set across week, month, year"
 mrr: "$78.68K"
 rating: 4.88
@@ -15,8 +15,8 @@ offers:
     prices: ["$32.99"]
   - period: "year"
     prices: ["$99.99"]
-screenshots_count: 3
-onboarding_flows_count: 11
+onboarding_count: 11
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/DramaWave---Dramas-&-Reels-us?id=921353&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -24,7 +24,7 @@ app_detail_url: "https://www.paywallpro.app/apps/DramaWave---Dramas-&-Reels-us?i
 
 Category: Entertainment
 Estimated MRR: $78.68K
-Paywall Pattern: No Free Trial - Soft Paywall
+Paywall Pattern: No Free Trial - Soft Paywall, Currency Paywall
 Pricing Model: 1 offer set across week, month, year
 Captured Version: 1.7.50
 Version Release Date: 2026-02-06
@@ -42,7 +42,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- DramaWave - Dramas & Reels uses the No Free Trial - Soft Paywall pattern in the Entertainment category.
+- DramaWave - Dramas & Reels uses the No Free Trial - Soft Paywall, Currency Paywall pattern in the Entertainment category.
 - The preview exposes one visible offer set; the full PaywallPro page may include more historical context.
 - The paywall presents week, month, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Entertainment app packages subscription value for its users.
@@ -68,12 +68,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Entertainment |
-| Paywall type | No Free Trial - Soft Paywall |
+| Paywall type | No Free Trial - Soft Paywall, Currency Paywall |
 | Pricing model | 1 offer set across week, month, year |
 | Captured version | 1.7.50 |
 | Version release date | 2026-02-06 |
 
-This paywall uses the **No Free Trial - Soft Paywall** structure.
+This paywall uses the **No Free Trial - Soft Paywall, Currency Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -93,8 +93,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $92.66K |
 | Avg daily downloads | 7.32K |
 | Avg daily ARPU | $12.66 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 11 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

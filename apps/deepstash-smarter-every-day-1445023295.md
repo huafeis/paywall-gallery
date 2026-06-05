@@ -17,8 +17,8 @@ offers:
     prices: ["$19.98"]
   - period: "one-time purchase"
     prices: ["$142.49"]
-screenshots_count: 3
-onboarding_flows_count: 37
+onboarding_count: 29
+walkthrough_count: 8
 app_detail_url: "https://www.paywallpro.app/apps/Deepstash:-Smarter-Every-Day!-us?id=232448&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -98,8 +98,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $674.00 |
 | Avg daily downloads | 2.99K |
 | Avg daily ARPU | $0.23 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 29 |
+| Walkthrough preview count | 8 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

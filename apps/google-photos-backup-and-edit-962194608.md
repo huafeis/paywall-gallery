@@ -5,7 +5,7 @@ developer: "Google"
 category: "Photo & Video"
 paywall_type: "No Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across month, year"
-mrr: "$2.77M"
+mrr: "$200.60K"
 rating: 4.82
 versions_count: 9
 offers:
@@ -13,15 +13,15 @@ offers:
     prices: ["$1.99", "$1.99/$2.99/$9.99"]
   - period: "year"
     prices: ["$19.99/$29.99/$99.99"]
-screenshots_count: 3
-onboarding_flows_count: 9
+onboarding_count: 9
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Google-Photos:-Backup-&-Edit-us?id=32&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Google Photos: Backup & Edit Paywall Analysis
 
 Category: Photo & Video
-Estimated MRR: $2.77M
+Estimated MRR: $200.60K
 Paywall Pattern: No Free Trial - Soft Paywall
 Pricing Model: 2 offer sets across month, year
 Captured Version: 7.67.0
@@ -88,12 +88,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.82 |
 | Category rank | #7 |
-| Estimated MRR | $2.77M |
+| Estimated MRR | $200.60K |
 | Avg daily revenue | Not available |
 | Avg daily downloads | Not available |
 | Avg daily ARPU | Not available |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 9 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

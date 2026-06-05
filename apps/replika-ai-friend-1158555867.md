@@ -5,21 +5,21 @@ developer: "Luka, Inc."
 category: "Health & Fitness"
 paywall_type: "No Free Trial - Soft Paywall"
 pricing_model: "3 offer sets across year"
-mrr: "$65.26K"
+mrr: "$2.12K"
 rating: 4.45
 versions_count: 4
 offers:
   - period: "year"
     prices: ["$89.99", "$89.99/$79.99", "$89.99/$79.99/$69.99"]
-screenshots_count: 3
-onboarding_flows_count: 30
+onboarding_count: 24
+walkthrough_count: 6
 app_detail_url: "https://www.paywallpro.app/apps/Replika---AI-Friend-us?id=359&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Replika - AI Friend Paywall Analysis
 
 Category: Health & Fitness
-Estimated MRR: $65.26K
+Estimated MRR: $2.12K
 Paywall Pattern: No Free Trial - Soft Paywall
 Pricing Model: 3 offer sets across year
 Captured Version: 10.4.12
@@ -86,12 +86,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.45 |
 | Category rank | #188 |
-| Estimated MRR | $65.26K |
+| Estimated MRR | $2.12K |
 | Avg daily revenue | $8.98K |
 | Avg daily downloads | 939 |
 | Avg daily ARPU | $9.57 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 24 |
+| Walkthrough preview count | 6 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

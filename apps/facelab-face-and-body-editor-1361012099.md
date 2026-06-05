@@ -15,8 +15,8 @@ offers:
     prices: ["$7.99"]
   - period: "year"
     prices: ["$35.99"]
-screenshots_count: 3
-onboarding_flows_count: 9
+onboarding_count: 5
+walkthrough_count: 4
 app_detail_url: "https://www.paywallpro.app/apps/Facelab:-Face-&-Body-Editor-us?id=575&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -94,8 +94,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $6.08K |
 | Avg daily downloads | 1.41K |
 | Avg daily ARPU | $4.31 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 5 |
+| Walkthrough preview count | 4 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

@@ -6,13 +6,13 @@ category: "Sports"
 paywall_type: "No Free Trial - Soft Paywall"
 pricing_model: "1 offer set across month"
 mrr: "$300.55K"
-rating: 3.05
+rating: 3.16
 versions_count: 2
 offers:
   - period: "month"
     prices: ["$9.99"]
-screenshots_count: 3
-onboarding_flows_count: 13
+onboarding_count: 4
+walkthrough_count: 9
 app_detail_url: "https://www.paywallpro.app/apps/Willow---Watch-Live-Cricket-us?id=643&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -82,14 +82,14 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 3.05 |
+| App Store rating | 3.16 |
 | Category rank | #136 |
 | Estimated MRR | $300.55K |
 | Avg daily revenue | $6.79K |
 | Avg daily downloads | 218 |
 | Avg daily ARPU | $31.13 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 4 |
+| Walkthrough preview count | 9 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

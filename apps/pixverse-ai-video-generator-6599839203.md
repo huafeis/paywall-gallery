@@ -11,8 +11,8 @@ versions_count: 3
 offers:
   - period: "year"
     prices: ["$96/$289/$579"]
-screenshots_count: 3
-onboarding_flows_count: 0
+onboarding_count: 0
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/PixVerse:-AI-Video-Generator-us?id=1320340&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -88,8 +88,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $3.77K |
 | Avg daily downloads | 15.23K |
 | Avg daily ARPU | $0.25 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | No |
+| Onboarding preview count | 0 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

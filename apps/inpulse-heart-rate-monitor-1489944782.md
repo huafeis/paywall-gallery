@@ -5,7 +5,7 @@ developer: "AIBY"
 category: "Health & Fitness"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "1 offer set across week, year"
-mrr: "$248.57K"
+mrr: "$7.32K"
 rating: 4.64
 versions_count: 2
 offers:
@@ -13,15 +13,15 @@ offers:
     prices: ["$6.99"]
   - period: "year"
     prices: ["$39.99"]
-screenshots_count: 3
-onboarding_flows_count: 18
+onboarding_count: 15
+walkthrough_count: 3
 app_detail_url: "https://www.paywallpro.app/apps/InPulse---Heart-Rate-Monitor-us?id=164&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # InPulse - Heart Rate Monitor Paywall Analysis
 
 Category: Health & Fitness
-Estimated MRR: $248.57K
+Estimated MRR: $7.32K
 Paywall Pattern: Free Trial - Soft Paywall
 Pricing Model: 1 offer set across week, year
 Captured Version: 2.62
@@ -87,12 +87,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.64 |
 | Category rank | #121 |
-| Estimated MRR | $248.57K |
+| Estimated MRR | $7.32K |
 | Avg daily revenue | $18.48K |
 | Avg daily downloads | 1.20K |
 | Avg daily ARPU | $15.40 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 15 |
+| Walkthrough preview count | 3 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

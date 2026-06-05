@@ -5,7 +5,7 @@ developer: "Lingvano GmbH"
 category: "Education"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "1 offer set across month, year, quarter"
-mrr: "$184.17K"
+mrr: "$13.58K"
 rating: 4.88
 versions_count: 3
 offers:
@@ -15,15 +15,15 @@ offers:
     prices: ["$119.99"]
   - period: "quarter"
     prices: ["$47.99"]
-screenshots_count: 3
-onboarding_flows_count: 47
+onboarding_count: 38
+walkthrough_count: 9
 app_detail_url: "https://www.paywallpro.app/apps/Lingvano---Learn-Sign-Language-us?id=483&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Lingvano - Learn Sign Language Paywall Analysis
 
 Category: Education
-Estimated MRR: $184.17K
+Estimated MRR: $13.58K
 Paywall Pattern: Free Trial - Soft Paywall
 Pricing Model: 1 offer set across month, year, quarter
 Captured Version: 4.3.6
@@ -89,12 +89,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.88 |
 | Category rank | #45 |
-| Estimated MRR | $184.17K |
+| Estimated MRR | $13.58K |
 | Avg daily revenue | $8.41K |
 | Avg daily downloads | 1.39K |
 | Avg daily ARPU | $6.04 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 38 |
+| Walkthrough preview count | 9 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

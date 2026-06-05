@@ -3,7 +3,7 @@ app_name: "Retouch Me: Face, Body Editor"
 app_id: 830286763
 developer: "Good Retouch LP"
 category: "Photo & Video"
-paywall_type: "Free Trial - Soft Paywall"
+paywall_type: "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across week, month"
 mrr: "$46.65K"
 rating: 4.43
@@ -13,8 +13,8 @@ offers:
     prices: ["$2.99"]
   - period: "month"
     prices: ["$9.99/$29.99/$49.99/$99.99"]
-screenshots_count: 3
-onboarding_flows_count: 12
+onboarding_count: 12
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Retouch-Me:-Face%2C-Body-Editor-us?id=648&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -22,7 +22,7 @@ app_detail_url: "https://www.paywallpro.app/apps/Retouch-Me:-Face%2C-Body-Editor
 
 Category: Photo & Video
 Estimated MRR: $46.65K
-Paywall Pattern: Free Trial - Soft Paywall
+Paywall Pattern: Free Trial - Soft Paywall, No Free Trial - Soft Paywall
 Pricing Model: 2 offer sets across week, month
 Captured Version: 6.3.1
 Version Release Date: 2025-09-05
@@ -40,7 +40,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Retouch Me: Face, Body Editor uses the Free Trial - Soft Paywall pattern in the Photo & Video category.
+- Retouch Me: Face, Body Editor uses the Free Trial - Soft Paywall, No Free Trial - Soft Paywall pattern in the Photo & Video category.
 - 2 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The paywall presents week, month option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Photo & Video app packages subscription value for its users.
@@ -66,12 +66,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Photo & Video |
-| Paywall type | Free Trial - Soft Paywall |
+| Paywall type | Free Trial - Soft Paywall, No Free Trial - Soft Paywall |
 | Pricing model | 2 offer sets across week, month |
 | Captured version | 6.3.1 |
 | Version release date | 2025-09-05 |
 
-This paywall uses the **Free Trial - Soft Paywall** structure.
+This paywall uses the **Free Trial - Soft Paywall, No Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -92,8 +92,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $2.81K |
 | Avg daily downloads | 385 |
 | Avg daily ARPU | $7.30 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 12 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

@@ -5,21 +5,21 @@ developer: "Livintis W.L.L."
 category: "Social Networking"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "1 offer set across week"
-mrr: "$119.11K"
+mrr: "$7.43K"
 rating: 4.84
 versions_count: 2
 offers:
   - period: "week"
     prices: ["$2.99"]
-screenshots_count: 3
-onboarding_flows_count: 16
+onboarding_count: 11
+walkthrough_count: 5
 app_detail_url: "https://www.paywallpro.app/apps/Repost%2B-for-Instagram-.-us?id=449&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Repost+ for Instagram . Paywall Analysis
 
 Category: Social Networking
-Estimated MRR: $119.11K
+Estimated MRR: $7.43K
 Paywall Pattern: Free Trial - Soft Paywall
 Pricing Model: 1 offer set across week
 Captured Version: 28.00
@@ -84,12 +84,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.84 |
 | Category rank | #194 |
-| Estimated MRR | $119.11K |
+| Estimated MRR | $7.43K |
 | Avg daily revenue | $7.50K |
 | Avg daily downloads | 203 |
 | Avg daily ARPU | $36.93 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 11 |
+| Walkthrough preview count | 5 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

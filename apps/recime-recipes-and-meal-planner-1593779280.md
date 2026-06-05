@@ -3,7 +3,7 @@ app_name: "ReciMe: Recipes & Meal Planner"
 app_id: 1593779280
 developer: "ReciMe Pty Ltd"
 category: "Food & Drink"
-paywall_type: "Free Trial - Soft Paywall"
+paywall_type: "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across month, year, one-time purchase"
 mrr: "$383.01K"
 rating: 4.80
@@ -15,8 +15,8 @@ offers:
     prices: ["$59.99"]
   - period: "one-time purchase"
     prices: ["$29.99"]
-screenshots_count: 3
-onboarding_flows_count: 2
+onboarding_count: 2
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/ReciMe:-Recipes-&-Meal-Planner-us?id=402997&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -24,7 +24,7 @@ app_detail_url: "https://www.paywallpro.app/apps/ReciMe:-Recipes-&-Meal-Planner-
 
 Category: Food & Drink
 Estimated MRR: $383.01K
-Paywall Pattern: Free Trial - Soft Paywall
+Paywall Pattern: Free Trial - Soft Paywall, No Free Trial - Soft Paywall
 Pricing Model: 2 offer sets across month, year, one-time purchase
 Captured Version: 3.8.5
 Version Release Date: 2024-12-19
@@ -42,7 +42,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- ReciMe: Recipes & Meal Planner uses the Free Trial - Soft Paywall pattern in the Food & Drink category.
+- ReciMe: Recipes & Meal Planner uses the Free Trial - Soft Paywall, No Free Trial - Soft Paywall pattern in the Food & Drink category.
 - 2 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The paywall presents month, year, one-time purchase option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Food & Drink app packages subscription value for its users.
@@ -68,12 +68,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Food & Drink |
-| Paywall type | Free Trial - Soft Paywall |
+| Paywall type | Free Trial - Soft Paywall, No Free Trial - Soft Paywall |
 | Pricing model | 2 offer sets across month, year, one-time purchase |
 | Captured version | 3.8.5 |
 | Version release date | 2024-12-19 |
 
-This paywall uses the **Free Trial - Soft Paywall** structure.
+This paywall uses the **Free Trial - Soft Paywall, No Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -94,8 +94,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $8.04K |
 | Avg daily downloads | 4.09K |
 | Avg daily ARPU | $1.97 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 2 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

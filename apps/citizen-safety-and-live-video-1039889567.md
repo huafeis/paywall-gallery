@@ -3,7 +3,7 @@ app_name: "Citizen: Safety & Live Video"
 app_id: 1039889567
 developer: "sp0n, Inc."
 category: "News"
-paywall_type: "Free Trial - Soft Paywall"
+paywall_type: "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across month"
 mrr: "$416.35K"
 rating: 4.73
@@ -11,8 +11,8 @@ versions_count: 2
 offers:
   - period: "month"
     prices: ["$19.99", "$1.99/$19.99"]
-screenshots_count: 3
-onboarding_flows_count: 8
+onboarding_count: 8
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Citizen:-Safety-&-Live-Video-us?id=198&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -20,7 +20,7 @@ app_detail_url: "https://www.paywallpro.app/apps/Citizen:-Safety-&-Live-Video-us
 
 Category: News
 Estimated MRR: $416.35K
-Paywall Pattern: Free Trial - Soft Paywall
+Paywall Pattern: Free Trial - Soft Paywall, No Free Trial - Soft Paywall
 Pricing Model: 2 offer sets across month
 Captured Version: 0.1278.0
 Version Release Date: 2026-01-29
@@ -38,7 +38,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Citizen: Safety & Live Video uses the Free Trial - Soft Paywall pattern in the News category.
+- Citizen: Safety & Live Video uses the Free Trial - Soft Paywall, No Free Trial - Soft Paywall pattern in the News category.
 - 2 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The pricing structure shows how a leading News app packages subscription value for its users.
 
@@ -63,12 +63,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | News |
-| Paywall type | Free Trial - Soft Paywall |
+| Paywall type | Free Trial - Soft Paywall, No Free Trial - Soft Paywall |
 | Pricing model | 2 offer sets across month |
 | Captured version | 0.1278.0 |
 | Version release date | 2026-01-29 |
 
-This paywall uses the **Free Trial - Soft Paywall** structure.
+This paywall uses the **Free Trial - Soft Paywall, No Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -89,8 +89,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $31.35K |
 | Avg daily downloads | 4.27K |
 | Avg daily ARPU | $7.34 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 8 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

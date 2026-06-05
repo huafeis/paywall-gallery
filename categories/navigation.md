@@ -8,7 +8,7 @@ Navigation apps use subscription paywalls to communicate value and convert users
 
 | App | Estimated MRR | Pattern | Page |
 |---|---:|---|---|
-| onX Hunt: GPS Hunting Maps | $146.07K | Free Trial - Soft Paywall | [Open](../apps/onx-hunt-gps-hunting-maps-672902340.md) |
+| onX Hunt: GPS Hunting Maps | $146.07K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/onx-hunt-gps-hunting-maps-672902340.md) |
 | Trucker Path: Truck GPS & Fuel | $50.58K | Free Trial - Soft Paywall | [Open](../apps/trucker-path-truck-gps-and-fuel-782746890.md) |
 
 ## What to study

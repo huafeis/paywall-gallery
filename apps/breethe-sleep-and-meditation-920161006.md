@@ -13,8 +13,8 @@ offers:
     prices: ["$14.99"]
   - period: "year"
     prices: ["$89.99"]
-screenshots_count: 3
-onboarding_flows_count: 18
+onboarding_count: 11
+walkthrough_count: 7
 app_detail_url: "https://www.paywallpro.app/apps/Breethe:-Sleep-&-Meditation-us?id=273&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -92,8 +92,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $5.59K |
 | Avg daily downloads | 1.59K |
 | Avg daily ARPU | $3.52 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 11 |
+| Walkthrough preview count | 7 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

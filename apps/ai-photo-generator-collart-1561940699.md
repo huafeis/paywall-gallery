@@ -13,8 +13,8 @@ offers:
     prices: ["$15.99/$38.99"]
   - period: "year"
     prices: ["$79.99/$199.99"]
-screenshots_count: 3
-onboarding_flows_count: 15
+onboarding_count: 6
+walkthrough_count: 9
 app_detail_url: "https://www.paywallpro.app/apps/AI-Photo-Generator---Collart-us?id=4836&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -91,8 +91,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $5.49K |
 | Avg daily downloads | 8.01K |
 | Avg daily ARPU | $0.69 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 6 |
+| Walkthrough preview count | 9 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

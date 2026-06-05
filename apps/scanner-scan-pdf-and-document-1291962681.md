@@ -3,7 +3,7 @@ app_name: "Scanner – Scan PDF & Document"
 app_id: 1291962681
 developer: "Luni"
 category: "Business"
-paywall_type: "Free Trial - Soft Paywall"
+paywall_type: "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
 pricing_model: "3 offer sets across month, year"
 mrr: "$51.76K"
 rating: 4.73
@@ -13,8 +13,8 @@ offers:
     prices: ["$12.99"]
   - period: "year"
     prices: ["$89.99", "$69.99"]
-screenshots_count: 3
-onboarding_flows_count: 13
+onboarding_count: 9
+walkthrough_count: 4
 app_detail_url: "https://www.paywallpro.app/apps/Scanner-%E2%80%93-Scan-PDF-&-Document-us?id=440&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -22,7 +22,7 @@ app_detail_url: "https://www.paywallpro.app/apps/Scanner-%E2%80%93-Scan-PDF-&-Do
 
 Category: Business
 Estimated MRR: $51.76K
-Paywall Pattern: Free Trial - Soft Paywall
+Paywall Pattern: Free Trial - Soft Paywall, No Free Trial - Soft Paywall
 Pricing Model: 3 offer sets across month, year
 Captured Version: 2.10.6
 Version Release Date: 2025-08-28
@@ -40,7 +40,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Scanner – Scan PDF & Document uses the Free Trial - Soft Paywall pattern in the Business category.
+- Scanner – Scan PDF & Document uses the Free Trial - Soft Paywall, No Free Trial - Soft Paywall pattern in the Business category.
 - 3 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The paywall presents month, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Business app packages subscription value for its users.
@@ -66,12 +66,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Business |
-| Paywall type | Free Trial - Soft Paywall |
+| Paywall type | Free Trial - Soft Paywall, No Free Trial - Soft Paywall |
 | Pricing model | 3 offer sets across month, year |
 | Captured version | 2.10.6 |
 | Version release date | 2025-08-28 |
 
-This paywall uses the **Free Trial - Soft Paywall** structure.
+This paywall uses the **Free Trial - Soft Paywall, No Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -93,8 +93,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $4.08K |
 | Avg daily downloads | 727 |
 | Avg daily ARPU | $5.61 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 9 |
+| Walkthrough preview count | 4 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

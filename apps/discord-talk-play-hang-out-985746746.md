@@ -11,8 +11,8 @@ versions_count: 4
 offers:
   - period: "month"
     prices: ["$2.99/$9.99"]
-screenshots_count: 3
-onboarding_flows_count: 7
+onboarding_count: 7
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Discord---Talk%2C-Play%2C-Hang-Out-us?id=36&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -88,8 +88,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $137.14K |
 | Avg daily downloads | 38.45K |
 | Avg daily ARPU | $3.57 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 7 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

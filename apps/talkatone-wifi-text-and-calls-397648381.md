@@ -11,8 +11,8 @@ versions_count: 1
 offers:
   - period: "month"
     prices: ["$2.99", "$14.99", "$3.99"]
-screenshots_count: 3
-onboarding_flows_count: 6
+onboarding_count: 6
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Talkatone:-WiFi-Text-&-Calls-us?id=574&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -90,8 +90,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $5.31K |
 | Avg daily downloads | 3.77K |
 | Avg daily ARPU | $1.41 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 6 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

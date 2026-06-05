@@ -3,7 +3,7 @@ app_name: "Planner 5D: AI Home Design"
 app_id: 606173978
 developer: "Planner5D, UAB"
 category: "Lifestyle"
-paywall_type: "No Free Trial - Soft Paywall"
+paywall_type: "No Free Trial - Soft Paywall, Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across month, year"
 mrr: "$141.03K"
 rating: 4.38
@@ -13,8 +13,8 @@ offers:
     prices: ["$19.99"]
   - period: "year"
     prices: ["$119.99", "$69.99"]
-screenshots_count: 3
-onboarding_flows_count: 29
+onboarding_count: 19
+walkthrough_count: 10
 app_detail_url: "https://www.paywallpro.app/apps/Planner-5D:-AI-Home-Design-us?id=6719&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -22,7 +22,7 @@ app_detail_url: "https://www.paywallpro.app/apps/Planner-5D:-AI-Home-Design-us?i
 
 Category: Lifestyle
 Estimated MRR: $141.03K
-Paywall Pattern: No Free Trial - Soft Paywall
+Paywall Pattern: No Free Trial - Soft Paywall, Free Trial - Soft Paywall
 Pricing Model: 2 offer sets across month, year
 Captured Version: 4.91.0
 Version Release Date: 2026-01-26
@@ -40,7 +40,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Planner 5D: AI Home Design uses the No Free Trial - Soft Paywall pattern in the Lifestyle category.
+- Planner 5D: AI Home Design uses the No Free Trial - Soft Paywall, Free Trial - Soft Paywall pattern in the Lifestyle category.
 - 2 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The paywall presents month, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Lifestyle app packages subscription value for its users.
@@ -66,12 +66,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Lifestyle |
-| Paywall type | No Free Trial - Soft Paywall |
+| Paywall type | No Free Trial - Soft Paywall, Free Trial - Soft Paywall |
 | Pricing model | 2 offer sets across month, year |
 | Captured version | 4.91.0 |
 | Version release date | 2026-01-26 |
 
-This paywall uses the **No Free Trial - Soft Paywall** structure.
+This paywall uses the **No Free Trial - Soft Paywall, Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -92,8 +92,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $9.32K |
 | Avg daily downloads | 2.85K |
 | Avg daily ARPU | $3.27 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 19 |
+| Walkthrough preview count | 10 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

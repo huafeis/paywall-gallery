@@ -10,8 +10,8 @@ rating: 4.82
 versions_count: 2
 offers:
   []
-screenshots_count: 3
-onboarding_flows_count: 10
+onboarding_count: 5
+walkthrough_count: 5
 app_detail_url: "https://www.paywallpro.app/apps/Paperless-Post:-Invitations-us?id=250&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -84,8 +84,8 @@ Not available in preview
 | Avg daily revenue | $9.62K |
 | Avg daily downloads | 1.11K |
 | Avg daily ARPU | $8.64 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 5 |
+| Walkthrough preview count | 5 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

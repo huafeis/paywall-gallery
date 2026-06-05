@@ -5,7 +5,7 @@ developer: "Bending Spoons Apps ApS"
 category: "Photo & Video"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "1 offer set across week, year"
-mrr: "$853.22K"
+mrr: "$46.71K"
 rating: 4.60
 versions_count: 3
 offers:
@@ -13,15 +13,15 @@ offers:
     prices: ["$9.99"]
   - period: "year"
     prices: ["$119.99"]
-screenshots_count: 3
-onboarding_flows_count: 14
+onboarding_count: 11
+walkthrough_count: 3
 app_detail_url: "https://www.paywallpro.app/apps/Splice---Video-Editor-&-Maker-us?id=74&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Splice - Video Editor & Maker Paywall Analysis
 
 Category: Photo & Video
-Estimated MRR: $853.22K
+Estimated MRR: $46.71K
 Paywall Pattern: Free Trial - Soft Paywall
 Pricing Model: 1 offer set across week, year
 Captured Version: 4.28.47
@@ -87,12 +87,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.60 |
 | Category rank | #96 |
-| Estimated MRR | $853.22K |
+| Estimated MRR | $46.71K |
 | Avg daily revenue | $64.10K |
 | Avg daily downloads | 1.52K |
 | Avg daily ARPU | $42.10 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 11 |
+| Walkthrough preview count | 3 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

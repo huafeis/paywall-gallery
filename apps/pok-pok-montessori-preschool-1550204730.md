@@ -3,7 +3,7 @@ app_name: "Pok Pok | Montessori Preschool"
 app_id: 1550204730
 developer: "Pok Pok"
 category: "Education"
-paywall_type: "Free Trial - Soft Paywall"
+paywall_type: "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across month, year"
 mrr: "$165.71K"
 rating: 4.67
@@ -13,8 +13,8 @@ offers:
     prices: ["$9.99"]
   - period: "year"
     prices: ["$59.99", "$45.99"]
-screenshots_count: 3
-onboarding_flows_count: 16
+onboarding_count: 16
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Pok-Pok-%7C-Montessori-Preschool-us?id=490&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -22,7 +22,7 @@ app_detail_url: "https://www.paywallpro.app/apps/Pok-Pok-%7C-Montessori-Preschoo
 
 Category: Education
 Estimated MRR: $165.71K
-Paywall Pattern: Free Trial - Soft Paywall
+Paywall Pattern: Free Trial - Soft Paywall, No Free Trial - Soft Paywall
 Pricing Model: 2 offer sets across month, year
 Captured Version: 48.1.1
 Version Release Date: 2026-01-14
@@ -40,7 +40,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Pok Pok | Montessori Preschool uses the Free Trial - Soft Paywall pattern in the Education category.
+- Pok Pok | Montessori Preschool uses the Free Trial - Soft Paywall, No Free Trial - Soft Paywall pattern in the Education category.
 - 2 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The paywall presents month, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Education app packages subscription value for its users.
@@ -66,12 +66,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Education |
-| Paywall type | Free Trial - Soft Paywall |
+| Paywall type | Free Trial - Soft Paywall, No Free Trial - Soft Paywall |
 | Pricing model | 2 offer sets across month, year |
 | Captured version | 48.1.1 |
 | Version release date | 2026-01-14 |
 
-This paywall uses the **Free Trial - Soft Paywall** structure.
+This paywall uses the **Free Trial - Soft Paywall, No Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -92,8 +92,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $11.97K |
 | Avg daily downloads | 1.41K |
 | Avg daily ARPU | $8.51 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 16 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

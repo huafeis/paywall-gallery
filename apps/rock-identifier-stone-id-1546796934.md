@@ -11,8 +11,8 @@ versions_count: 3
 offers:
   - period: "year"
     prices: ["$39.99"]
-screenshots_count: 3
-onboarding_flows_count: 5
+onboarding_count: 2
+walkthrough_count: 3
 app_detail_url: "https://www.paywallpro.app/apps/Rock-Identifier:-Stone-ID-us?id=550&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -88,8 +88,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $11.81K |
 | Avg daily downloads | 1.62K |
 | Avg daily ARPU | $7.29 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 2 |
+| Walkthrough preview count | 3 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

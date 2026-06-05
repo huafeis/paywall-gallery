@@ -13,8 +13,8 @@ offers:
     prices: ["$14.99", "$19.99"]
   - period: "year"
     prices: ["$89.99", "$119.99"]
-screenshots_count: 3
-onboarding_flows_count: 16
+onboarding_count: 12
+walkthrough_count: 4
 app_detail_url: "https://www.paywallpro.app/apps/Turbo-AI---Notetaker-us?id=734811&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -92,8 +92,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $4.04K |
 | Avg daily downloads | 3.24K |
 | Avg daily ARPU | $1.25 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 12 |
+| Walkthrough preview count | 4 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

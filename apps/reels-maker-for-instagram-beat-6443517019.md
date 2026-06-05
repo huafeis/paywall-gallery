@@ -5,7 +5,7 @@ developer: "Onelight Apps CY Ltd"
 category: "Photo & Video"
 paywall_type: "No Free Trial - Soft Paywall"
 pricing_model: "3 offer sets across week, month, year"
-mrr: "$64.58K"
+mrr: "$5.34K"
 rating: 4.80
 versions_count: 3
 offers:
@@ -15,15 +15,15 @@ offers:
     prices: ["$13.99", "$14.92"]
   - period: "year"
     prices: ["$59.99", "$29.99"]
-screenshots_count: 3
-onboarding_flows_count: 11
+onboarding_count: 7
+walkthrough_count: 4
 app_detail_url: "https://www.paywallpro.app/apps/Reels-Maker-for-Instagram-BEAT-us?id=425513&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Reels Maker for Instagram BEAT Paywall Analysis
 
 Category: Photo & Video
-Estimated MRR: $64.58K
+Estimated MRR: $5.34K
 Paywall Pattern: No Free Trial - Soft Paywall
 Pricing Model: 3 offer sets across week, month, year
 Captured Version: 1.22.1
@@ -91,12 +91,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.80 |
 | Category rank | #184 |
-| Estimated MRR | $64.58K |
+| Estimated MRR | $5.34K |
 | Avg daily revenue | $4.44K |
 | Avg daily downloads | 1.53K |
 | Avg daily ARPU | $2.91 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 7 |
+| Walkthrough preview count | 4 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

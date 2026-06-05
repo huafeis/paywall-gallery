@@ -5,21 +5,21 @@ developer: "AMZN Mobile LLC"
 category: "Music"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "1 offer set across month"
-mrr: "$2.58M"
+mrr: "$171.63K"
 rating: 4.72
 versions_count: 2
 offers:
   - period: "month"
     prices: ["$11.99"]
-screenshots_count: 3
-onboarding_flows_count: 10
+onboarding_count: 5
+walkthrough_count: 5
 app_detail_url: "https://www.paywallpro.app/apps/Amazon-Music:-Songs-&-Podcasts-us?id=28&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Amazon Music: Songs & Podcasts Paywall Analysis
 
 Category: Music
-Estimated MRR: $2.58M
+Estimated MRR: $171.63K
 Paywall Pattern: Free Trial - Soft Paywall
 Pricing Model: 1 offer set across month
 Captured Version: 25.25.0
@@ -84,12 +84,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.72 |
 | Category rank | #5 |
-| Estimated MRR | $2.58M |
+| Estimated MRR | $171.63K |
 | Avg daily revenue | $172.56K |
 | Avg daily downloads | 10.29K |
 | Avg daily ARPU | $16.77 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 5 |
+| Walkthrough preview count | 5 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

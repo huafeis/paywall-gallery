@@ -5,21 +5,21 @@ developer: "Arlo Technologies Inc."
 category: "Lifestyle"
 paywall_type: "No Free Trial - Soft Paywall"
 pricing_model: "1 offer set across month"
-mrr: "$639.79K"
+mrr: "$46.75K"
 rating: 4.03
 versions_count: 2
 offers:
   - period: "month"
     prices: ["$29.99/$9.99"]
-screenshots_count: 3
-onboarding_flows_count: 12
+onboarding_count: 12
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Arlo-Secure:-Home-Security-us?id=756843&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Arlo Secure: Home Security Paywall Analysis
 
 Category: Lifestyle
-Estimated MRR: $639.79K
+Estimated MRR: $46.75K
 Paywall Pattern: No Free Trial - Soft Paywall
 Pricing Model: 1 offer set across month
 Captured Version: 6.6.0
@@ -84,12 +84,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.03 |
 | Category rank | #119 |
-| Estimated MRR | $639.79K |
+| Estimated MRR | $46.75K |
 | Avg daily revenue | $48.95K |
 | Avg daily downloads | 1.74K |
 | Avg daily ARPU | $28.19 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 12 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

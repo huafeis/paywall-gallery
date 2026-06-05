@@ -5,7 +5,7 @@ developer: "Quittr, LLC"
 category: "Health & Fitness"
 paywall_type: "No Free Trial - Soft Paywall"
 pricing_model: "1 offer set across month, year"
-mrr: "$73.03K"
+mrr: "$1.41K"
 rating: 4.72
 versions_count: 2
 offers:
@@ -13,15 +13,15 @@ offers:
     prices: ["$14.99"]
   - period: "year"
     prices: ["$5.41"]
-screenshots_count: 3
-onboarding_flows_count: 5
+onboarding_count: 5
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/QUITTR---Break-Free-Now-us?id=1259824&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # QUITTR - Break Free Now Paywall Analysis
 
 Category: Health & Fitness
-Estimated MRR: $73.03K
+Estimated MRR: $1.41K
 Paywall Pattern: No Free Trial - Soft Paywall
 Pricing Model: 1 offer set across month, year
 Captured Version: 96.0
@@ -87,12 +87,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.72 |
 | Category rank | #67 |
-| Estimated MRR | $73.03K |
+| Estimated MRR | $1.41K |
 | Avg daily revenue | $3.23K |
 | Avg daily downloads | 1.26K |
 | Avg daily ARPU | $2.58 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 5 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

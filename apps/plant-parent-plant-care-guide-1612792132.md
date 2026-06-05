@@ -5,7 +5,7 @@ developer: "Glority Global Group Ltd."
 category: "Lifestyle"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across year, one-time purchase"
-mrr: "$92.96K"
+mrr: "$8.63K"
 rating: 4.68
 versions_count: 6
 offers:
@@ -13,15 +13,15 @@ offers:
     prices: ["$29.99"]
   - period: "one-time purchase"
     prices: ["$59.99"]
-screenshots_count: 3
-onboarding_flows_count: 15
+onboarding_count: 7
+walkthrough_count: 9
 app_detail_url: "https://www.paywallpro.app/apps/Plant-Parent:-Plant-Care-Guide-us?id=320&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Plant Parent: Plant Care Guide Paywall Analysis
 
 Category: Lifestyle
-Estimated MRR: $92.96K
+Estimated MRR: $8.63K
 Paywall Pattern: Free Trial - Soft Paywall
 Pricing Model: 2 offer sets across year, one-time purchase
 Captured Version: 1.137
@@ -88,12 +88,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.68 |
 | Category rank | #183 |
-| Estimated MRR | $92.96K |
+| Estimated MRR | $8.63K |
 | Avg daily revenue | $5.70K |
 | Avg daily downloads | 930 |
 | Avg daily ARPU | $6.14 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 7 |
+| Walkthrough preview count | 9 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

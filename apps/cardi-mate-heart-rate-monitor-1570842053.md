@@ -3,7 +3,7 @@ app_name: "Cardi Mate: Heart Rate Monitor"
 app_id: 1570842053
 developer: "Gismart Limited"
 category: "Health & Fitness"
-paywall_type: "Free Trial - Soft Paywall"
+paywall_type: "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
 pricing_model: "3 offer sets across week, year"
 mrr: "$66.47K"
 rating: 4.69
@@ -13,8 +13,8 @@ offers:
     prices: ["$9.99", "$7.99", "$4.99"]
   - period: "year"
     prices: ["$29.99"]
-screenshots_count: 3
-onboarding_flows_count: 18
+onboarding_count: 10
+walkthrough_count: 8
 app_detail_url: "https://www.paywallpro.app/apps/Cardi-Mate:-Heart-Rate-Monitor-us?id=509&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -22,7 +22,7 @@ app_detail_url: "https://www.paywallpro.app/apps/Cardi-Mate:-Heart-Rate-Monitor-
 
 Category: Health & Fitness
 Estimated MRR: $66.47K
-Paywall Pattern: Free Trial - Soft Paywall
+Paywall Pattern: Free Trial - Soft Paywall, No Free Trial - Soft Paywall
 Pricing Model: 3 offer sets across week, year
 Captured Version: 1.67
 Version Release Date: 2025-07-24
@@ -40,7 +40,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Cardi Mate: Heart Rate Monitor uses the Free Trial - Soft Paywall pattern in the Health & Fitness category.
+- Cardi Mate: Heart Rate Monitor uses the Free Trial - Soft Paywall, No Free Trial - Soft Paywall pattern in the Health & Fitness category.
 - 3 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The paywall presents week, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Health & Fitness app packages subscription value for its users.
@@ -66,12 +66,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Health & Fitness |
-| Paywall type | Free Trial - Soft Paywall |
+| Paywall type | Free Trial - Soft Paywall, No Free Trial - Soft Paywall |
 | Pricing model | 3 offer sets across week, year |
 | Captured version | 1.67 |
 | Version release date | 2025-07-24 |
 
-This paywall uses the **Free Trial - Soft Paywall** structure.
+This paywall uses the **Free Trial - Soft Paywall, No Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -93,8 +93,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $4.17K |
 | Avg daily downloads | 349 |
 | Avg daily ARPU | $11.95 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 10 |
+| Walkthrough preview count | 8 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

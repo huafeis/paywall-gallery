@@ -5,7 +5,7 @@ developer: "Hily Corp."
 category: "Lifestyle"
 paywall_type: "No Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across week, month, year, one-time purchase"
-mrr: "$999.74K"
+mrr: "$67.92K"
 rating: 4.35
 versions_count: 6
 offers:
@@ -17,15 +17,15 @@ offers:
     prices: ["$868"]
   - period: "one-time purchase"
     prices: ["$1298"]
-screenshots_count: 3
-onboarding_flows_count: 9
+onboarding_count: 9
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Hily-Dating-App:-Meet.-Date.-us?id=92&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Hily Dating App: Meet. Date. Paywall Analysis
 
 Category: Lifestyle
-Estimated MRR: $999.74K
+Estimated MRR: $67.92K
 Paywall Pattern: No Free Trial - Soft Paywall
 Pricing Model: 2 offer sets across week, month, year, one-time purchase
 Captured Version: 6.33.0
@@ -92,12 +92,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.35 |
 | Category rank | #25 |
-| Estimated MRR | $999.74K |
+| Estimated MRR | $67.92K |
 | Avg daily revenue | $79.45K |
 | Avg daily downloads | 6.32K |
 | Avg daily ARPU | $12.57 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 9 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

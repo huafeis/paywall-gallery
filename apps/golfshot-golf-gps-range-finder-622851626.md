@@ -6,15 +6,15 @@ category: "Sports"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "1 offer set across month, year"
 mrr: "$80.89K"
-rating: 4.77
+rating: 4.76
 versions_count: 3
 offers:
   - period: "month"
     prices: ["$14.99"]
   - period: "year"
     prices: ["$79.99"]
-screenshots_count: 3
-onboarding_flows_count: 11
+onboarding_count: 11
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Golfshot-Golf-GPS-Range-Finder-us?id=544&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -85,14 +85,14 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 4.77 |
+| App Store rating | 4.76 |
 | Category rank | #183 |
 | Estimated MRR | $80.89K |
 | Avg daily revenue | $6.88K |
 | Avg daily downloads | 383 |
 | Avg daily ARPU | $17.98 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 11 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

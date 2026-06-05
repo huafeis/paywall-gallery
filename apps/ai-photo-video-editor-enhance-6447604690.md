@@ -5,7 +5,7 @@ developer: "COOL SUMMER LIMITED"
 category: "Photo & Video"
 paywall_type: "No Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across week, year, one-time purchase"
-mrr: "$93.71K"
+mrr: "$8.08K"
 rating: 4.55
 versions_count: 2
 offers:
@@ -15,15 +15,15 @@ offers:
     prices: ["$39.99", "$19.99"]
   - period: "one-time purchase"
     prices: ["$79.99"]
-screenshots_count: 3
-onboarding_flows_count: 13
+onboarding_count: 9
+walkthrough_count: 4
 app_detail_url: "https://www.paywallpro.app/apps/AI-Photo-Video-Editor%2C-Enhance-us?id=1836780&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # AI Photo Video Editor, Enhance Paywall Analysis
 
 Category: Photo & Video
-Estimated MRR: $93.71K
+Estimated MRR: $8.08K
 Paywall Pattern: No Free Trial - Soft Paywall
 Pricing Model: 2 offer sets across week, year, one-time purchase
 Captured Version: 1.6.2
@@ -90,12 +90,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.55 |
 | Category rank | #75 |
-| Estimated MRR | $93.71K |
+| Estimated MRR | $8.08K |
 | Avg daily revenue | $6.89K |
 | Avg daily downloads | 2.28K |
 | Avg daily ARPU | $3.02 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 9 |
+| Walkthrough preview count | 4 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

@@ -5,7 +5,7 @@ developer: "Municorn Limited"
 category: "Health & Fitness"
 paywall_type: "No Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across week, year, quarter"
-mrr: "$246.63K"
+mrr: "$8.50K"
 rating: 4.69
 versions_count: 1
 offers:
@@ -15,15 +15,15 @@ offers:
     prices: ["$69.99"]
   - period: "quarter"
     prices: ["$29.99"]
-screenshots_count: 3
-onboarding_flows_count: 19
+onboarding_count: 19
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Calorie-Counter-&-Food-Tracker-us?id=550550&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Calorie Counter & Food Tracker Paywall Analysis
 
 Category: Health & Fitness
-Estimated MRR: $246.63K
+Estimated MRR: $8.50K
 Paywall Pattern: No Free Trial - Soft Paywall
 Pricing Model: 2 offer sets across week, year, quarter
 Captured Version: 1.1.7
@@ -90,12 +90,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.69 |
 | Category rank | #178 |
-| Estimated MRR | $246.63K |
+| Estimated MRR | $8.50K |
 | Avg daily revenue | $2.81K |
 | Avg daily downloads | 2.87K |
 | Avg daily ARPU | $0.99 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 19 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

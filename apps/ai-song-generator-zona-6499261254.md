@@ -5,7 +5,7 @@ developer: "Madduck"
 category: "Music"
 paywall_type: "No Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across week, year"
-mrr: "$61.85K"
+mrr: "$3.54K"
 rating: 4.70
 versions_count: 1
 offers:
@@ -13,15 +13,15 @@ offers:
     prices: ["$9.99"]
   - period: "year"
     prices: ["$59.99", "$29.99"]
-screenshots_count: 3
-onboarding_flows_count: 15
+onboarding_count: 7
+walkthrough_count: 8
 app_detail_url: "https://www.paywallpro.app/apps/AI-Song-Generator---Zona-us?id=1934478&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # AI Song Generator - Zona Paywall Analysis
 
 Category: Music
-Estimated MRR: $61.85K
+Estimated MRR: $3.54K
 Paywall Pattern: No Free Trial - Soft Paywall
 Pricing Model: 2 offer sets across week, year
 Captured Version: 7.5.6
@@ -88,12 +88,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.70 |
 | Category rank | #91 |
-| Estimated MRR | $61.85K |
+| Estimated MRR | $3.54K |
 | Avg daily revenue | Not available |
 | Avg daily downloads | Not available |
 | Avg daily ARPU | Not available |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 7 |
+| Walkthrough preview count | 8 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

@@ -1,5 +1,5 @@
 ---
-app_name: "memory OS: Brain Training"
+app_name: "memoryOS: Memory Games"
 app_id: 1553283646
 developer: "Encoder Inc."
 category: "Education"
@@ -13,12 +13,12 @@ offers:
     prices: ["$4.99"]
   - period: "year"
     prices: ["$39.99"]
-screenshots_count: 3
-onboarding_flows_count: 13
-app_detail_url: "https://www.paywallpro.app/apps/memory-OS:-Brain-Training-us?id=1238373&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
+onboarding_count: 2
+walkthrough_count: 11
+app_detail_url: "https://www.paywallpro.app/apps/memoryOS:-Memory-Games-us?id=1238373&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
-# memory OS: Brain Training Paywall Analysis
+# memoryOS: Memory Games Paywall Analysis
 
 Category: Education
 Estimated MRR: $51.64K
@@ -28,11 +28,11 @@ Captured Version: 1.4.2
 Version Release Date: 2025-10-24
 
 View full case on PaywallPro:
-<a href="https://www.paywallpro.app/apps/memory-OS:-Brain-Training-us?id=1238373&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">Open full case on PaywallPro</a>
+<a href="https://www.paywallpro.app/apps/memoryOS:-Memory-Games-us?id=1238373&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">Open full case on PaywallPro</a>
 
 ## Snapshot
 
-memory OS: Brain Training is an Education app by Encoder Inc.. This compact public preview highlights representative iOS subscription paywall screens from the US storefront.
+memoryOS: Memory Games is an Education app by Encoder Inc.. This compact public preview highlights representative iOS subscription paywall screens from the US storefront.
 
 Its paywall is a useful reference for studying how apps in the Education category present subscription value, structure pricing, use trials, and reduce purchase friction.
 
@@ -40,7 +40,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- memory OS: Brain Training uses the No Free Trial - Soft Paywall pattern in the Education category.
+- memoryOS: Memory Games uses the No Free Trial - Soft Paywall pattern in the Education category.
 - The preview exposes one visible offer set; the full PaywallPro page may include more historical context.
 - The paywall presents month, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Education app packages subscription value for its users.
@@ -49,16 +49,16 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 Paywalls in the Education category need to communicate value quickly and make the subscription decision easy to understand.
 
-This memory OS: Brain Training paywall is worth studying because it shows how a real subscription app combines offer framing, pricing structure, visual hierarchy, and purchase flow into one conversion experience.
+This memoryOS: Memory Games paywall is worth studying because it shows how a real subscription app combines offer framing, pricing structure, visual hierarchy, and purchase flow into one conversion experience.
 
 For app builders, product managers, growth teams, and designers, this case can be used as a reference when researching pricing, trial strategy, subscription UX, or paywall redesign ideas.
 
 ## Screenshots
 
 <p align="center">
-  <a href="https://www.paywallpro.app/apps/memory-OS:-Brain-Training-us?id=1238373&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/memory-os-brain-training-1553283646/cover.webp" width="220" alt="memory OS: Brain Training paywall screen 1"></a>
-  <a href="https://www.paywallpro.app/apps/memory-OS:-Brain-Training-us?id=1238373&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/memory-os-brain-training-1553283646/paywall-screen-2.webp" width="220" alt="Paywall screen 2"></a>
-  <a href="https://www.paywallpro.app/apps/memory-OS:-Brain-Training-us?id=1238373&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/memory-os-brain-training-1553283646/paywall-screen-3.webp" width="220" alt="Paywall screen 3"></a>
+  <a href="https://www.paywallpro.app/apps/memoryOS:-Memory-Games-us?id=1238373&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/memoryos-memory-games-1553283646/cover.webp" width="220" alt="memoryOS: Memory Games paywall screen 1"></a>
+  <a href="https://www.paywallpro.app/apps/memoryOS:-Memory-Games-us?id=1238373&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/memoryos-memory-games-1553283646/paywall-screen-2.webp" width="220" alt="Paywall screen 2"></a>
+  <a href="https://www.paywallpro.app/apps/memoryOS:-Memory-Games-us?id=1238373&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/memoryos-memory-games-1553283646/paywall-screen-3.webp" width="220" alt="Paywall screen 3"></a>
 </p>
 
 ## Paywall Pattern
@@ -91,13 +91,13 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $795.00 |
 | Avg daily downloads | 357 |
 | Avg daily ARPU | $2.23 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 2 |
+| Walkthrough preview count | 11 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn
 
-- How memory OS: Brain Training frames subscription value for users in the Education category.
+- How memoryOS: Memory Games frames subscription value for users in the Education category.
 - How the app structures pricing options and subscription periods.
 - How the paywall uses visual hierarchy to guide the purchase decision.
 - How trials, discounts, or offer sets are used to reduce purchase friction.
@@ -118,7 +118,7 @@ This is a limited public preview.
 
 For the full paywall history, complete screenshot set, onboarding flow, historical changes, pricing experiments, and deeper revenue analysis, visit:
 
-<a href="https://www.paywallpro.app/apps/memory-OS:-Brain-Training-us?id=1238373&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">PaywallPro</a>
+<a href="https://www.paywallpro.app/apps/memoryOS:-Memory-Games-us?id=1238373&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">PaywallPro</a>
 
 ---
 

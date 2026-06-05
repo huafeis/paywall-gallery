@@ -6,7 +6,7 @@ category: "Education"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across week, month, year"
 mrr: "$65.96K"
-rating: 4.77
+rating: 4.76
 versions_count: 2
 offers:
   - period: "week"
@@ -15,8 +15,8 @@ offers:
     prices: ["$19.99"]
   - period: "year"
     prices: ["$99.99"]
-screenshots_count: 3
-onboarding_flows_count: 4
+onboarding_count: 4
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Coconote---AI-Note-Taker-us?id=196950&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -88,14 +88,14 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 4.77 |
+| App Store rating | 4.76 |
 | Category rank | #194 |
 | Estimated MRR | $65.96K |
 | Avg daily revenue | $3.85K |
 | Avg daily downloads | 1.57K |
 | Avg daily ARPU | $2.46 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 4 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

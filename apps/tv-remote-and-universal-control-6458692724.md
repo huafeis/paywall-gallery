@@ -6,15 +6,15 @@ category: "Utilities"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "1 offer set across week, year"
 mrr: "$115.98K"
-rating: 4.76
+rating: 4.75
 versions_count: 3
 offers:
   - period: "week"
     prices: ["$6.99"]
   - period: "year"
     prices: ["$39.99"]
-screenshots_count: 3
-onboarding_flows_count: 10
+onboarding_count: 6
+walkthrough_count: 4
 app_detail_url: "https://www.paywallpro.app/apps/TV-Remote-&-Universal-Control%E2%84%A2-us?id=654&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -85,14 +85,14 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 4.76 |
+| App Store rating | 4.75 |
 | Category rank | #28 |
 | Estimated MRR | $115.98K |
 | Avg daily revenue | $7.96K |
 | Avg daily downloads | 6.39K |
 | Avg daily ARPU | $1.25 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 6 |
+| Walkthrough preview count | 4 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

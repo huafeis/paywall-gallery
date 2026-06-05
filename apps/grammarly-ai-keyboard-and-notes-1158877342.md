@@ -1,11 +1,11 @@
 ---
 app_name: "Grammarly: AI Keyboard & Notes"
 app_id: 1158877342
-developer: "Grammarly, Inc"
+developer: "Superhuman Platform Inc"
 category: "Productivity"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "1 offer set across month, year, quarter"
-mrr: "$564.58K"
+mrr: "$38.68K"
 rating: 4.66
 versions_count: 2
 offers:
@@ -15,15 +15,15 @@ offers:
     prices: ["$139.99"]
   - period: "quarter"
     prices: ["$59.99"]
-screenshots_count: 3
-onboarding_flows_count: 10
+onboarding_count: 10
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Grammarly:-AI-Keyboard-&-Notes-us?id=123&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Grammarly: AI Keyboard & Notes Paywall Analysis
 
 Category: Productivity
-Estimated MRR: $564.58K
+Estimated MRR: $38.68K
 Paywall Pattern: Free Trial - Soft Paywall
 Pricing Model: 1 offer set across month, year, quarter
 Captured Version: 7.1.0
@@ -34,7 +34,7 @@ View full case on PaywallPro:
 
 ## Snapshot
 
-Grammarly: AI Keyboard & Notes is a Productivity app by Grammarly, Inc. This compact public preview highlights representative iOS subscription paywall screens from the US storefront.
+Grammarly: AI Keyboard & Notes is a Productivity app by Superhuman Platform Inc. This compact public preview highlights representative iOS subscription paywall screens from the US storefront.
 
 Its paywall is a useful reference for studying how apps in the Productivity category present subscription value, structure pricing, use trials, and reduce purchase friction.
 
@@ -89,12 +89,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.66 |
 | Category rank | #37 |
-| Estimated MRR | $564.58K |
+| Estimated MRR | $38.68K |
 | Avg daily revenue | $46.59K |
 | Avg daily downloads | 5.01K |
 | Avg daily ARPU | $9.31 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 10 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

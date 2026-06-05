@@ -3,7 +3,7 @@ app_name: "Meitu AI Photo & Video Editor"
 app_id: 416048305
 developer: "Xiamen Meitu Technology Co., Ltd."
 category: "Photo & Video"
-paywall_type: "Free Trial - Soft Paywall"
+paywall_type: "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across month, year, quarter"
 mrr: "$113.53K"
 rating: 4.79
@@ -15,8 +15,8 @@ offers:
     prices: ["$47.99", "$59.99/$84.99/$99.99/$59.99"]
   - period: "quarter"
     prices: ["$32.99/$26.99"]
-screenshots_count: 3
-onboarding_flows_count: 12
+onboarding_count: 3
+walkthrough_count: 9
 app_detail_url: "https://www.paywallpro.app/apps/Meitu-AI-Photo-&-Video-Editor-us?id=704&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -24,7 +24,7 @@ app_detail_url: "https://www.paywallpro.app/apps/Meitu-AI-Photo-&-Video-Editor-u
 
 Category: Photo & Video
 Estimated MRR: $113.53K
-Paywall Pattern: Free Trial - Soft Paywall
+Paywall Pattern: Free Trial - Soft Paywall, No Free Trial - Soft Paywall
 Pricing Model: 2 offer sets across month, year, quarter
 Captured Version: 12.2.5
 Version Release Date: 2026-01-27
@@ -42,7 +42,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Meitu AI Photo & Video Editor uses the Free Trial - Soft Paywall pattern in the Photo & Video category.
+- Meitu AI Photo & Video Editor uses the Free Trial - Soft Paywall, No Free Trial - Soft Paywall pattern in the Photo & Video category.
 - 2 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The paywall presents month, year, quarter option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Photo & Video app packages subscription value for its users.
@@ -68,12 +68,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Photo & Video |
-| Paywall type | Free Trial - Soft Paywall |
+| Paywall type | Free Trial - Soft Paywall, No Free Trial - Soft Paywall |
 | Pricing model | 2 offer sets across month, year, quarter |
 | Captured version | 12.2.5 |
 | Version release date | 2026-01-27 |
 
-This paywall uses the **Free Trial - Soft Paywall** structure.
+This paywall uses the **Free Trial - Soft Paywall, No Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -94,8 +94,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $6.65K |
 | Avg daily downloads | 3.90K |
 | Avg daily ARPU | $1.71 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 3 |
+| Walkthrough preview count | 9 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

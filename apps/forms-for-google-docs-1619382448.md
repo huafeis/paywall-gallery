@@ -5,21 +5,21 @@ developer: "Aurora Innovation"
 category: "Productivity"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "1 offer set across week"
-mrr: "$50.60K"
+mrr: "$2.82K"
 rating: 4.75
 versions_count: 1
 offers:
   - period: "week"
     prices: ["$5.99"]
-screenshots_count: 3
-onboarding_flows_count: 6
+onboarding_count: 6
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Forms-for-Google-Docs-us?id=694380&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Forms for Google Docs Paywall Analysis
 
 Category: Productivity
-Estimated MRR: $50.60K
+Estimated MRR: $2.82K
 Paywall Pattern: Free Trial - Soft Paywall
 Pricing Model: 1 offer set across week
 Captured Version: 1.9.49
@@ -84,12 +84,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.75 |
 | Category rank | #68 |
-| Estimated MRR | $50.60K |
+| Estimated MRR | $2.82K |
 | Avg daily revenue | $2.59K |
 | Avg daily downloads | 2.34K |
 | Avg daily ARPU | $1.11 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 6 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

@@ -5,23 +5,23 @@ developer: "Tennis Channel"
 category: "Sports"
 paywall_type: "No Free Trial - Soft Paywall"
 pricing_model: "1 offer set across month, year"
-mrr: "$52.06K"
-rating: 2.78
+mrr: "$1.91K"
+rating: 2.75
 versions_count: 3
 offers:
   - period: "month"
     prices: ["$11.99"]
   - period: "year"
     prices: ["$109.99"]
-screenshots_count: 3
-onboarding_flows_count: 9
+onboarding_count: 4
+walkthrough_count: 5
 app_detail_url: "https://www.paywallpro.app/apps/Tennis-Channel-us?id=919&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Tennis Channel Paywall Analysis
 
 Category: Sports
-Estimated MRR: $52.06K
+Estimated MRR: $1.91K
 Paywall Pattern: No Free Trial - Soft Paywall
 Pricing Model: 1 offer set across month, year
 Captured Version: 10.5.0
@@ -85,14 +85,14 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 2.78 |
+| App Store rating | 2.75 |
 | Category rank | #177 |
-| Estimated MRR | $52.06K |
+| Estimated MRR | $1.91K |
 | Avg daily revenue | $2.88K |
 | Avg daily downloads | 144 |
 | Avg daily ARPU | $20.04 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 4 |
+| Walkthrough preview count | 5 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

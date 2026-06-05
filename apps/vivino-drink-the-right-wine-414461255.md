@@ -11,8 +11,8 @@ versions_count: 2
 offers:
   - period: "one-time purchase"
     prices: ["$29.99/$32.99/$17.99/$9.99/$14.99"]
-screenshots_count: 3
-onboarding_flows_count: 19
+onboarding_count: 19
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Vivino:-Drink-The-Right-Wine-us?id=2955&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -88,8 +88,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $4.06K |
 | Avg daily downloads | 789 |
 | Avg daily ARPU | $5.15 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 19 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

@@ -5,23 +5,23 @@ developer: "AgileBits Inc."
 category: "Productivity"
 paywall_type: "No Free Trial - Soft Paywall"
 pricing_model: "3 offer sets across month, year"
-mrr: "$99.08K"
-rating: 4.57
+mrr: "$7.15K"
+rating: 4.56
 versions_count: 2
 offers:
   - period: "month"
     prices: ["$4.99", "$7.99", "$19.99"]
   - period: "year"
     prices: ["$47.99", "$71.99", "$239.99"]
-screenshots_count: 3
-onboarding_flows_count: 6
+onboarding_count: 6
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/1Password:-Password-Manager-us?id=466&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # 1Password: Password Manager Paywall Analysis
 
 Category: Productivity
-Estimated MRR: $99.08K
+Estimated MRR: $7.15K
 Paywall Pattern: No Free Trial - Soft Paywall
 Pricing Model: 3 offer sets across month, year
 Captured Version: 8.11.22
@@ -87,14 +87,14 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 4.57 |
+| App Store rating | 4.56 |
 | Category rank | #135 |
-| Estimated MRR | $99.08K |
+| Estimated MRR | $7.15K |
 | Avg daily revenue | $6.64K |
 | Avg daily downloads | 1.48K |
 | Avg daily ARPU | $4.49 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 6 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

@@ -13,8 +13,8 @@ offers:
     prices: ["$0.29/$9.99"]
   - period: "month"
     prices: ["$6.99"]
-screenshots_count: 3
-onboarding_flows_count: 9
+onboarding_count: 9
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/QR-Code-Reader%EF%BC%8ABarcode-Scanner-us?id=199779&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -91,8 +91,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $3.06K |
 | Avg daily downloads | 2.31K |
 | Avg daily ARPU | $1.33 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 9 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

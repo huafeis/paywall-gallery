@@ -13,8 +13,8 @@ offers:
     prices: ["$7.99"]
   - period: "year"
     prices: ["$79"]
-screenshots_count: 3
-onboarding_flows_count: 15
+onboarding_count: 15
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Skylight-App-us?id=522&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -91,8 +91,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $32.08K |
 | Avg daily downloads | 3.52K |
 | Avg daily ARPU | $9.13 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 15 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

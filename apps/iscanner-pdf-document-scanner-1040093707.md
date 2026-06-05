@@ -5,7 +5,7 @@ developer: "BPMobile"
 category: "Business"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "1 offer set across week, year"
-mrr: "$976.93K"
+mrr: "$32.05K"
 rating: 4.76
 versions_count: 4
 offers:
@@ -13,15 +13,15 @@ offers:
     prices: ["$4.99"]
   - period: "year"
     prices: ["$20.99"]
-screenshots_count: 3
-onboarding_flows_count: 21
+onboarding_count: 8
+walkthrough_count: 13
 app_detail_url: "https://www.paywallpro.app/apps/iScanner:-PDF-Document-Scanner-us?id=72&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # iScanner: PDF Document Scanner Paywall Analysis
 
 Category: Business
-Estimated MRR: $976.93K
+Estimated MRR: $32.05K
 Paywall Pattern: Free Trial - Soft Paywall
 Pricing Model: 1 offer set across week, year
 Captured Version: 5.89
@@ -87,12 +87,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.76 |
 | Category rank | #40 |
-| Estimated MRR | $976.93K |
+| Estimated MRR | $32.05K |
 | Avg daily revenue | $68.90K |
 | Avg daily downloads | 3.82K |
 | Avg daily ARPU | $18.05 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 8 |
+| Walkthrough preview count | 13 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

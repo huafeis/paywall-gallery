@@ -3,7 +3,7 @@ app_name: "Universal Remote TV Control ·"
 app_id: 1581765635
 developer: "BEGAMOB GLOBAL LIMITED"
 category: "Utilities"
-paywall_type: "Free Trial - Soft Paywall"
+paywall_type: "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across week"
 mrr: "$72.22K"
 rating: 4.73
@@ -11,8 +11,8 @@ versions_count: 5
 offers:
   - period: "week"
     prices: ["$5.99/$9.99", "$4.99"]
-screenshots_count: 3
-onboarding_flows_count: 12
+onboarding_count: 7
+walkthrough_count: 5
 app_detail_url: "https://www.paywallpro.app/apps/Universal-Remote-TV-Control-%C2%B7-us?id=479&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -20,7 +20,7 @@ app_detail_url: "https://www.paywallpro.app/apps/Universal-Remote-TV-Control-%C2
 
 Category: Utilities
 Estimated MRR: $72.22K
-Paywall Pattern: Free Trial - Soft Paywall
+Paywall Pattern: Free Trial - Soft Paywall, No Free Trial - Soft Paywall
 Pricing Model: 2 offer sets across week
 Captured Version: 4.8.7
 Version Release Date: 2025-12-03
@@ -38,7 +38,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Universal Remote TV Control · uses the Free Trial - Soft Paywall pattern in the Utilities category.
+- Universal Remote TV Control · uses the Free Trial - Soft Paywall, No Free Trial - Soft Paywall pattern in the Utilities category.
 - 2 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The pricing structure shows how a leading Utilities app packages subscription value for its users.
 
@@ -63,12 +63,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Utilities |
-| Paywall type | Free Trial - Soft Paywall |
+| Paywall type | Free Trial - Soft Paywall, No Free Trial - Soft Paywall |
 | Pricing model | 2 offer sets across week |
 | Captured version | 4.8.7 |
 | Version release date | 2025-12-03 |
 
-This paywall uses the **Free Trial - Soft Paywall** structure.
+This paywall uses the **Free Trial - Soft Paywall, No Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -89,8 +89,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $5.21K |
 | Avg daily downloads | 3.56K |
 | Avg daily ARPU | $1.47 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 7 |
+| Walkthrough preview count | 5 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

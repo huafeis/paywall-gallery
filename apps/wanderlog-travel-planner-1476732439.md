@@ -3,7 +3,7 @@ app_name: "Wanderlog - Travel Planner"
 app_id: 1476732439
 developer: "Vacation and Travel Planner App LLC"
 category: "Travel"
-paywall_type: "Free Trial - Soft Paywall"
+paywall_type: "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across year"
 mrr: "$182.38K"
 rating: 4.90
@@ -11,8 +11,8 @@ versions_count: 4
 offers:
   - period: "year"
     prices: ["$39.99", "$31.99"]
-screenshots_count: 3
-onboarding_flows_count: 21
+onboarding_count: 17
+walkthrough_count: 4
 app_detail_url: "https://www.paywallpro.app/apps/Wanderlog---Travel-Planner-us?id=444&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -20,7 +20,7 @@ app_detail_url: "https://www.paywallpro.app/apps/Wanderlog---Travel-Planner-us?i
 
 Category: Travel
 Estimated MRR: $182.38K
-Paywall Pattern: Free Trial - Soft Paywall
+Paywall Pattern: Free Trial - Soft Paywall, No Free Trial - Soft Paywall
 Pricing Model: 2 offer sets across year
 Captured Version: 2.186
 Version Release Date: 2025-12-07
@@ -38,7 +38,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Wanderlog - Travel Planner uses the Free Trial - Soft Paywall pattern in the Travel category.
+- Wanderlog - Travel Planner uses the Free Trial - Soft Paywall, No Free Trial - Soft Paywall pattern in the Travel category.
 - 2 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The pricing structure shows how a leading Travel app packages subscription value for its users.
 
@@ -63,12 +63,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Travel |
-| Paywall type | Free Trial - Soft Paywall |
+| Paywall type | Free Trial - Soft Paywall, No Free Trial - Soft Paywall |
 | Pricing model | 2 offer sets across year |
 | Captured version | 2.186 |
 | Version release date | 2025-12-07 |
 
-This paywall uses the **Free Trial - Soft Paywall** structure.
+This paywall uses the **Free Trial - Soft Paywall, No Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -89,8 +89,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $3.71K |
 | Avg daily downloads | 2.19K |
 | Avg daily ARPU | $1.70 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 17 |
+| Walkthrough preview count | 4 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

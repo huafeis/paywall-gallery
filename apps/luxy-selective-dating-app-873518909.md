@@ -3,7 +3,7 @@ app_name: "Luxy - Selective Dating App"
 app_id: 873518909
 developer: "Luxy Inc."
 category: "Social Networking"
-paywall_type: "No Free Trial - Soft Paywall"
+paywall_type: "No Free Trial - Soft Paywall, Currency Paywall"
 pricing_model: "3 offer sets across month, half year, year"
 mrr: "$118.59K"
 rating: 4.72
@@ -15,8 +15,8 @@ offers:
     prices: ["$41.99", "$349.99"]
   - period: "year"
     prices: ["$329.99", "$449.99"]
-screenshots_count: 3
-onboarding_flows_count: 24
+onboarding_count: 17
+walkthrough_count: 7
 app_detail_url: "https://www.paywallpro.app/apps/Luxy---Selective-Dating-App-us?id=373&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -24,7 +24,7 @@ app_detail_url: "https://www.paywallpro.app/apps/Luxy---Selective-Dating-App-us?
 
 Category: Social Networking
 Estimated MRR: $118.59K
-Paywall Pattern: No Free Trial - Soft Paywall
+Paywall Pattern: No Free Trial - Soft Paywall, Currency Paywall
 Pricing Model: 3 offer sets across month, half year, year
 Captured Version: 7.29.12
 Version Release Date: 2025-09-28
@@ -42,7 +42,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Luxy - Selective Dating App uses the No Free Trial - Soft Paywall pattern in the Social Networking category.
+- Luxy - Selective Dating App uses the No Free Trial - Soft Paywall, Currency Paywall pattern in the Social Networking category.
 - 3 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The paywall presents month, half year, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Social Networking app packages subscription value for its users.
@@ -68,12 +68,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Social Networking |
-| Paywall type | No Free Trial - Soft Paywall |
+| Paywall type | No Free Trial - Soft Paywall, Currency Paywall |
 | Pricing model | 3 offer sets across month, half year, year |
 | Captured version | 7.29.12 |
 | Version release date | 2025-09-28 |
 
-This paywall uses the **No Free Trial - Soft Paywall** structure.
+This paywall uses the **No Free Trial - Soft Paywall, Currency Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -95,8 +95,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $6.42K |
 | Avg daily downloads | 720 |
 | Avg daily ARPU | $8.92 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 17 |
+| Walkthrough preview count | 7 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

@@ -15,8 +15,8 @@ offers:
     prices: ["$53.99"]
   - period: "year"
     prices: ["$95.99", "$79.99"]
-screenshots_count: 3
-onboarding_flows_count: 7
+onboarding_count: 3
+walkthrough_count: 4
 app_detail_url: "https://www.paywallpro.app/apps/VPN-Hotspot-Shield:-Secure-VPN-us?id=341&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -94,8 +94,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $5.08K |
 | Avg daily downloads | 5.10K |
 | Avg daily ARPU | $1.00 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 3 |
+| Walkthrough preview count | 4 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

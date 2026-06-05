@@ -6,13 +6,13 @@ category: "Photo & Video"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "1 offer set across week"
 mrr: "$56.42K"
-rating: 4.75
+rating: 4.76
 versions_count: 1
 offers:
   - period: "week"
     prices: ["$9.99"]
-screenshots_count: 3
-onboarding_flows_count: 8
+onboarding_count: 2
+walkthrough_count: 6
 app_detail_url: "https://www.paywallpro.app/apps/Glowify---AI-Hairstyle-Try-On-us?id=2439992&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -82,14 +82,14 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 4.75 |
+| App Store rating | 4.76 |
 | Category rank | #109 |
 | Estimated MRR | $56.42K |
 | Avg daily revenue | $2.59K |
 | Avg daily downloads | 2.98K |
 | Avg daily ARPU | $0.87 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 2 |
+| Walkthrough preview count | 6 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

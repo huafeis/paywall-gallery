@@ -9,8 +9,8 @@ mrr: ""
 rating: ""
 versions_count: 0
 offers: []
-screenshots_count: 0
-onboarding_flows_count: 0
+onboarding_count: 0
+walkthrough_count: 0
 app_detail_url: ""
 ---
 

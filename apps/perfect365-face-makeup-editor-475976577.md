@@ -1,5 +1,5 @@
 ---
-app_name: "Perfect365 Makeup Photo Editor"
+app_name: "Perfect365: Face Makeup Editor"
 app_id: 475976577
 developer: "Perfect365, Inc."
 category: "Lifestyle"
@@ -13,12 +13,12 @@ offers:
     prices: ["$6.99"]
   - period: "year"
     prices: ["$19.99"]
-screenshots_count: 3
-onboarding_flows_count: 12
-app_detail_url: "https://www.paywallpro.app/apps/Perfect365-Makeup-Photo-Editor-us?id=936&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
+onboarding_count: 6
+walkthrough_count: 6
+app_detail_url: "https://www.paywallpro.app/apps/Perfect365:-Face-Makeup-Editor-us?id=936&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
-# Perfect365 Makeup Photo Editor Paywall Analysis
+# Perfect365: Face Makeup Editor Paywall Analysis
 
 Category: Lifestyle
 Estimated MRR: $47.50K
@@ -28,11 +28,11 @@ Captured Version: 10.6.18
 Version Release Date: 2025-10-10
 
 View full case on PaywallPro:
-<a href="https://www.paywallpro.app/apps/Perfect365-Makeup-Photo-Editor-us?id=936&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">Open full case on PaywallPro</a>
+<a href="https://www.paywallpro.app/apps/Perfect365:-Face-Makeup-Editor-us?id=936&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">Open full case on PaywallPro</a>
 
 ## Snapshot
 
-Perfect365 Makeup Photo Editor is a Lifestyle app by Perfect365, Inc.. This compact public preview highlights representative iOS subscription paywall screens from the US storefront.
+Perfect365: Face Makeup Editor is a Lifestyle app by Perfect365, Inc.. This compact public preview highlights representative iOS subscription paywall screens from the US storefront.
 
 Its paywall is a useful reference for studying how apps in the Lifestyle category present subscription value, structure pricing, use trials, and reduce purchase friction.
 
@@ -40,7 +40,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Perfect365 Makeup Photo Editor uses the Free Trial - Soft Paywall pattern in the Lifestyle category.
+- Perfect365: Face Makeup Editor uses the Free Trial - Soft Paywall pattern in the Lifestyle category.
 - The preview exposes one visible offer set; the full PaywallPro page may include more historical context.
 - The paywall presents month, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Lifestyle app packages subscription value for its users.
@@ -49,16 +49,16 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 Paywalls in the Lifestyle category need to communicate value quickly and make the subscription decision easy to understand.
 
-This Perfect365 Makeup Photo Editor paywall is worth studying because it shows how a real subscription app combines offer framing, pricing structure, visual hierarchy, and purchase flow into one conversion experience.
+This Perfect365: Face Makeup Editor paywall is worth studying because it shows how a real subscription app combines offer framing, pricing structure, visual hierarchy, and purchase flow into one conversion experience.
 
 For app builders, product managers, growth teams, and designers, this case can be used as a reference when researching pricing, trial strategy, subscription UX, or paywall redesign ideas.
 
 ## Screenshots
 
 <p align="center">
-  <a href="https://www.paywallpro.app/apps/Perfect365-Makeup-Photo-Editor-us?id=936&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/perfect365-makeup-photo-editor-475976577/cover.webp" width="220" alt="Perfect365 Makeup Photo Editor paywall screen 1"></a>
-  <a href="https://www.paywallpro.app/apps/Perfect365-Makeup-Photo-Editor-us?id=936&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/perfect365-makeup-photo-editor-475976577/paywall-screen-2.webp" width="220" alt="Paywall screen 2"></a>
-  <a href="https://www.paywallpro.app/apps/Perfect365-Makeup-Photo-Editor-us?id=936&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/perfect365-makeup-photo-editor-475976577/paywall-screen-3.webp" width="220" alt="Paywall screen 3"></a>
+  <a href="https://www.paywallpro.app/apps/Perfect365:-Face-Makeup-Editor-us?id=936&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/perfect365-face-makeup-editor-475976577/cover.webp" width="220" alt="Perfect365: Face Makeup Editor paywall screen 1"></a>
+  <a href="https://www.paywallpro.app/apps/Perfect365:-Face-Makeup-Editor-us?id=936&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/perfect365-face-makeup-editor-475976577/paywall-screen-2.webp" width="220" alt="Paywall screen 2"></a>
+  <a href="https://www.paywallpro.app/apps/Perfect365:-Face-Makeup-Editor-us?id=936&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/perfect365-face-makeup-editor-475976577/paywall-screen-3.webp" width="220" alt="Paywall screen 3"></a>
 </p>
 
 ## Paywall Pattern
@@ -91,13 +91,13 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $3.45K |
 | Avg daily downloads | 744 |
 | Avg daily ARPU | $4.64 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 6 |
+| Walkthrough preview count | 6 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn
 
-- How Perfect365 Makeup Photo Editor frames subscription value for users in the Lifestyle category.
+- How Perfect365: Face Makeup Editor frames subscription value for users in the Lifestyle category.
 - How the app structures pricing options and subscription periods.
 - How the paywall uses visual hierarchy to guide the purchase decision.
 - How trials, discounts, or offer sets are used to reduce purchase friction.
@@ -118,7 +118,7 @@ This is a limited public preview.
 
 For the full paywall history, complete screenshot set, onboarding flow, historical changes, pricing experiments, and deeper revenue analysis, visit:
 
-<a href="https://www.paywallpro.app/apps/Perfect365-Makeup-Photo-Editor-us?id=936&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">PaywallPro</a>
+<a href="https://www.paywallpro.app/apps/Perfect365:-Face-Makeup-Editor-us?id=936&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">PaywallPro</a>
 
 ---
 

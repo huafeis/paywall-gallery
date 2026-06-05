@@ -6,7 +6,7 @@ category: "Education"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across week, month, year"
 mrr: "$65.76K"
-rating: 4.37
+rating: 4.36
 versions_count: 1
 offers:
   - period: "week"
@@ -15,8 +15,8 @@ offers:
     prices: ["$19.99"]
   - period: "year"
     prices: ["$99.99", "$49.99"]
-screenshots_count: 3
-onboarding_flows_count: 7
+onboarding_count: 5
+walkthrough_count: 3
 app_detail_url: "https://www.paywallpro.app/apps/Chibi-Dolls---Games-for-Girls-us?id=1952024&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -88,14 +88,14 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 4.37 |
+| App Store rating | 4.36 |
 | Category rank | #26 |
 | Estimated MRR | $65.76K |
 | Avg daily revenue | $665.00 |
 | Avg daily downloads | 672 |
 | Avg daily ARPU | $1.00 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 5 |
+| Walkthrough preview count | 3 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

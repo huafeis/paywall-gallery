@@ -13,8 +13,8 @@ offers:
     prices: ["$14.99/$12.99/$24.99"]
   - period: "year"
     prices: ["$119.99/$249.99"]
-screenshots_count: 3
-onboarding_flows_count: 10
+onboarding_count: 3
+walkthrough_count: 7
 app_detail_url: "https://www.paywallpro.app/apps/nugs:-Live-Music-Lives-Here-us?id=294&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -91,8 +91,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $13.99K |
 | Avg daily downloads | 165 |
 | Avg daily ARPU | $84.64 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 3 |
+| Walkthrough preview count | 7 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

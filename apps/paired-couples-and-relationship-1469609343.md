@@ -13,8 +13,8 @@ offers:
     prices: ["$14.99"]
   - period: "year"
     prices: ["$39.99"]
-screenshots_count: 3
-onboarding_flows_count: 29
+onboarding_count: 22
+walkthrough_count: 7
 app_detail_url: "https://www.paywallpro.app/apps/Paired:-Couples-&-Relationship-us?id=233&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -91,8 +91,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $5.08K |
 | Avg daily downloads | 2.02K |
 | Avg daily ARPU | $2.52 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 22 |
+| Walkthrough preview count | 7 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

@@ -11,8 +11,8 @@ versions_count: 1
 offers:
   - period: "month"
     prices: ["$13.99"]
-screenshots_count: 3
-onboarding_flows_count: 4
+onboarding_count: 4
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Globoplay:-Novelas%2C-s%C3%A9ries-e-%2B-us?id=10910&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -88,8 +88,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | Not available |
 | Avg daily downloads | Not available |
 | Avg daily ARPU | Not available |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 4 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

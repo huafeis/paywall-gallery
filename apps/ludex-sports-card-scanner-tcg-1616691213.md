@@ -13,8 +13,8 @@ offers:
     prices: ["$9.99/$4.99/$24.99"]
   - period: "year"
     prices: ["$89.99/$44.99/$239.99"]
-screenshots_count: 3
-onboarding_flows_count: 0
+onboarding_count: 0
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/LUDEX-Sports-Card-Scanner-%2BTCG-us?id=393959&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -91,8 +91,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $2.09K |
 | Avg daily downloads | 1.43K |
 | Avg daily ARPU | $1.47 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | No |
+| Onboarding preview count | 0 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

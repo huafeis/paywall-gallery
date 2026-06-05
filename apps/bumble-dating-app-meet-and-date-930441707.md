@@ -3,10 +3,10 @@ app_name: "Bumble Dating App: Meet & Date"
 app_id: 930441707
 developer: "Bumble Holding Limited"
 category: "Lifestyle"
-paywall_type: "Credit Paywall"
+paywall_type: "Credit Paywall, No Free Trial - Soft Paywall"
 pricing_model: "3 offer sets across week, month, half year, quarter, one-time purchase"
-mrr: "$2.57M"
-rating: 4.31
+mrr: "$214.21K"
+rating: 4.32
 versions_count: 1
 offers:
   - period: "week"
@@ -19,16 +19,16 @@ offers:
     prices: ["$149.99/$119.99", "$119.99/$56", "$149.99"]
   - period: "one-time purchase"
     prices: ["$299.99"]
-screenshots_count: 3
-onboarding_flows_count: 0
+onboarding_count: 0
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Bumble-Dating-App:-Meet-&-Date-us?id=8&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # Bumble Dating App: Meet & Date Paywall Analysis
 
 Category: Lifestyle
-Estimated MRR: $2.57M
-Paywall Pattern: Credit Paywall
+Estimated MRR: $214.21K
+Paywall Pattern: Credit Paywall, No Free Trial - Soft Paywall
 Pricing Model: 3 offer sets across week, month, half year, quarter, one-time purchase
 Captured Version: 5.378.1
 Version Release Date: 2024-09-04
@@ -46,7 +46,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Bumble Dating App: Meet & Date uses the Credit Paywall pattern in the Lifestyle category.
+- Bumble Dating App: Meet & Date uses the Credit Paywall, No Free Trial - Soft Paywall pattern in the Lifestyle category.
 - 3 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The paywall presents week, month, half year, quarter, one-time purchase option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Lifestyle app packages subscription value for its users.
@@ -72,12 +72,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Lifestyle |
-| Paywall type | Credit Paywall |
+| Paywall type | Credit Paywall, No Free Trial - Soft Paywall |
 | Pricing model | 3 offer sets across week, month, half year, quarter, one-time purchase |
 | Captured version | 5.378.1 |
 | Version release date | 2024-09-04 |
 
-This paywall uses the **Credit Paywall** structure.
+This paywall uses the **Credit Paywall, No Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -93,14 +93,14 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 4.31 |
+| App Store rating | 4.32 |
 | Category rank | #2 |
-| Estimated MRR | $2.57M |
+| Estimated MRR | $214.21K |
 | Avg daily revenue | $498.98K |
 | Avg daily downloads | 11.55K |
 | Avg daily ARPU | $43.22 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | No |
+| Onboarding preview count | 0 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

@@ -15,8 +15,8 @@ offers:
     prices: ["$47.99"]
   - period: "one-time purchase"
     prices: ["$129.00"]
-screenshots_count: 3
-onboarding_flows_count: 37
+onboarding_count: 31
+walkthrough_count: 6
 app_detail_url: "https://www.paywallpro.app/apps/Moongate:-Binaural-Beats-us?id=663065&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -95,8 +95,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $5.30K |
 | Avg daily downloads | 2.88K |
 | Avg daily ARPU | $1.84 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 31 |
+| Walkthrough preview count | 6 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

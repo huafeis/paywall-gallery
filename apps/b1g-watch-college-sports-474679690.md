@@ -5,23 +5,23 @@ developer: "Big Ten Network"
 category: "Sports"
 paywall_type: "No Free Trial - Soft Paywall"
 pricing_model: "1 offer set across month, year"
-mrr: "$186.92K"
-rating: 1.69
+mrr: "$8.46K"
+rating: 1.67
 versions_count: 3
 offers:
   - period: "month"
     prices: ["$12.99"]
   - period: "year"
     prices: ["$89.99"]
-screenshots_count: 3
-onboarding_flows_count: 15
+onboarding_count: 2
+walkthrough_count: 13
 app_detail_url: "https://www.paywallpro.app/apps/B1G%2B:-Watch-College-Sports-us?id=592&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # B1G+: Watch College Sports Paywall Analysis
 
 Category: Sports
-Estimated MRR: $186.92K
+Estimated MRR: $8.46K
 Paywall Pattern: No Free Trial - Soft Paywall
 Pricing Model: 1 offer set across month, year
 Captured Version: 11.17.0
@@ -85,14 +85,14 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 1.69 |
+| App Store rating | 1.67 |
 | Category rank | #131 |
-| Estimated MRR | $186.92K |
+| Estimated MRR | $8.46K |
 | Avg daily revenue | $14.03K |
 | Avg daily downloads | 484 |
 | Avg daily ARPU | $28.99 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 2 |
+| Walkthrough preview count | 13 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

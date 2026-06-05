@@ -11,8 +11,8 @@ versions_count: 5
 offers:
   - period: "week"
     prices: ["$9.99/$7.99"]
-screenshots_count: 3
-onboarding_flows_count: 9
+onboarding_count: 7
+walkthrough_count: 2
 app_detail_url: "https://www.paywallpro.app/apps/Cleaner-Guru:-Clean-Up-Storage-us?id=193&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -88,8 +88,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | Not available |
 | Avg daily downloads | Not available |
 | Avg daily ARPU | Not available |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 7 |
+| Walkthrough preview count | 2 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

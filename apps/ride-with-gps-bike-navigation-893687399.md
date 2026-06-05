@@ -3,7 +3,7 @@ app_name: "Ride with GPS: Bike Navigation"
 app_id: 893687399
 developer: "Ride with GPS"
 category: "Health & Fitness"
-paywall_type: "Free Trial - Soft Paywall"
+paywall_type: "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across month, year"
 mrr: "$38.90K"
 rating: 4.74
@@ -13,8 +13,8 @@ offers:
     prices: ["$7.99/$9.99"]
   - period: "year"
     prices: ["$59.99", "$59.99/$79.99"]
-screenshots_count: 3
-onboarding_flows_count: 14
+onboarding_count: 9
+walkthrough_count: 5
 app_detail_url: "https://www.paywallpro.app/apps/Ride-with-GPS:-Bike-Navigation-us?id=678&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -22,7 +22,7 @@ app_detail_url: "https://www.paywallpro.app/apps/Ride-with-GPS:-Bike-Navigation-
 
 Category: Health & Fitness
 Estimated MRR: $38.90K
-Paywall Pattern: Free Trial - Soft Paywall
+Paywall Pattern: Free Trial - Soft Paywall, No Free Trial - Soft Paywall
 Pricing Model: 2 offer sets across month, year
 Captured Version: 4.1.4
 Version Release Date: 2026-01-01
@@ -40,7 +40,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Ride with GPS: Bike Navigation uses the Free Trial - Soft Paywall pattern in the Health & Fitness category.
+- Ride with GPS: Bike Navigation uses the Free Trial - Soft Paywall, No Free Trial - Soft Paywall pattern in the Health & Fitness category.
 - 2 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The paywall presents month, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Health & Fitness app packages subscription value for its users.
@@ -66,12 +66,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Health & Fitness |
-| Paywall type | Free Trial - Soft Paywall |
+| Paywall type | Free Trial - Soft Paywall, No Free Trial - Soft Paywall |
 | Pricing model | 2 offer sets across month, year |
 | Captured version | 4.1.4 |
 | Version release date | 2026-01-01 |
 
-This paywall uses the **Free Trial - Soft Paywall** structure.
+This paywall uses the **Free Trial - Soft Paywall, No Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -92,8 +92,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $2.93K |
 | Avg daily downloads | 8 |
 | Avg daily ARPU | $372.93 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 9 |
+| Walkthrough preview count | 5 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

@@ -13,8 +13,8 @@ offers:
     prices: ["$16.99"]
   - period: "year"
     prices: ["$159.99"]
-screenshots_count: 3
-onboarding_flows_count: 16
+onboarding_count: 13
+walkthrough_count: 4
 app_detail_url: "https://www.paywallpro.app/apps/Zoom-Workplace-us?id=150&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -91,8 +91,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $36.63K |
 | Avg daily downloads | 12.98K |
 | Avg daily ARPU | $2.83 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 13 |
+| Walkthrough preview count | 4 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

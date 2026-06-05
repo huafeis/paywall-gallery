@@ -3,7 +3,7 @@ app_name: "Yubo: Chat Meet & Make Friends"
 app_id: 1038653883
 developer: "Twelve APP"
 category: "Social Networking"
-paywall_type: "No Free Trial - Soft Paywall"
+paywall_type: "No Free Trial - Soft Paywall, Free Trial - Soft Paywall"
 pricing_model: "3 offer sets across week, month, quarter"
 mrr: "$807.31K"
 rating: 4.52
@@ -15,8 +15,8 @@ offers:
     prices: ["$23.99", "$29.99"]
   - period: "quarter"
     prices: ["$38.99"]
-screenshots_count: 3
-onboarding_flows_count: 4
+onboarding_count: 4
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Yubo:-Chat-Meet-&-Make-Friends-us?id=97&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -24,7 +24,7 @@ app_detail_url: "https://www.paywallpro.app/apps/Yubo:-Chat-Meet-&-Make-Friends-
 
 Category: Social Networking
 Estimated MRR: $807.31K
-Paywall Pattern: No Free Trial - Soft Paywall
+Paywall Pattern: No Free Trial - Soft Paywall, Free Trial - Soft Paywall
 Pricing Model: 3 offer sets across week, month, quarter
 Captured Version: 4.49.0
 Version Release Date: 2024-05-17
@@ -42,7 +42,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Yubo: Chat Meet & Make Friends uses the No Free Trial - Soft Paywall pattern in the Social Networking category.
+- Yubo: Chat Meet & Make Friends uses the No Free Trial - Soft Paywall, Free Trial - Soft Paywall pattern in the Social Networking category.
 - 3 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The paywall presents week, month, quarter option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Social Networking app packages subscription value for its users.
@@ -68,12 +68,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Social Networking |
-| Paywall type | No Free Trial - Soft Paywall |
+| Paywall type | No Free Trial - Soft Paywall, Free Trial - Soft Paywall |
 | Pricing model | 3 offer sets across week, month, quarter |
 | Captured version | 4.49.0 |
 | Version release date | 2024-05-17 |
 
-This paywall uses the **No Free Trial - Soft Paywall** structure.
+This paywall uses the **No Free Trial - Soft Paywall, Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -95,8 +95,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $65.58K |
 | Avg daily downloads | 4.32K |
 | Avg daily ARPU | $15.18 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 4 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

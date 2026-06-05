@@ -3,7 +3,7 @@ app_name: "Instories: AI Photo & Video"
 app_id: 1454762989
 developer: "Ylee Studio LTD"
 category: "Photo & Video"
-paywall_type: "Free Trial - Soft Paywall"
+paywall_type: "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across month, year"
 mrr: "$224.69K"
 rating: 4.73
@@ -13,8 +13,8 @@ offers:
     prices: ["$14.99"]
   - period: "year"
     prices: ["$119.99", "$36"]
-screenshots_count: 3
-onboarding_flows_count: 21
+onboarding_count: 14
+walkthrough_count: 7
 app_detail_url: "https://www.paywallpro.app/apps/Instories:-AI-Photo-&-Video-us?id=417&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -22,7 +22,7 @@ app_detail_url: "https://www.paywallpro.app/apps/Instories:-AI-Photo-&-Video-us?
 
 Category: Photo & Video
 Estimated MRR: $224.69K
-Paywall Pattern: Free Trial - Soft Paywall
+Paywall Pattern: Free Trial - Soft Paywall, No Free Trial - Soft Paywall
 Pricing Model: 2 offer sets across month, year
 Captured Version: 5.97.0
 Version Release Date: 2026-01-22
@@ -40,7 +40,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Instories: AI Photo & Video uses the Free Trial - Soft Paywall pattern in the Photo & Video category.
+- Instories: AI Photo & Video uses the Free Trial - Soft Paywall, No Free Trial - Soft Paywall pattern in the Photo & Video category.
 - 2 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The paywall presents month, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Photo & Video app packages subscription value for its users.
@@ -66,12 +66,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Photo & Video |
-| Paywall type | Free Trial - Soft Paywall |
+| Paywall type | Free Trial - Soft Paywall, No Free Trial - Soft Paywall |
 | Pricing model | 2 offer sets across month, year |
 | Captured version | 5.97.0 |
 | Version release date | 2026-01-22 |
 
-This paywall uses the **Free Trial - Soft Paywall** structure.
+This paywall uses the **Free Trial - Soft Paywall, No Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -92,8 +92,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $9.12K |
 | Avg daily downloads | 4.46K |
 | Avg daily ARPU | $2.05 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 14 |
+| Walkthrough preview count | 7 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

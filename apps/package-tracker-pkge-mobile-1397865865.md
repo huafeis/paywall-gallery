@@ -3,7 +3,7 @@ app_name: "Package Tracker - pkge Mobile"
 app_id: 1397865865
 developer: "DARADDO APPS"
 category: "Business"
-paywall_type: "Free Trial - Soft Paywall"
+paywall_type: "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across week, month, year"
 mrr: "$232.35K"
 rating: 4.52
@@ -15,8 +15,8 @@ offers:
     prices: ["$14.99"]
   - period: "year"
     prices: ["$59.99"]
-screenshots_count: 3
-onboarding_flows_count: 8
+onboarding_count: 6
+walkthrough_count: 2
 app_detail_url: "https://www.paywallpro.app/apps/Package-Tracker---pkge-Mobile-us?id=308291&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -24,7 +24,7 @@ app_detail_url: "https://www.paywallpro.app/apps/Package-Tracker---pkge-Mobile-u
 
 Category: Business
 Estimated MRR: $232.35K
-Paywall Pattern: Free Trial - Soft Paywall
+Paywall Pattern: Free Trial - Soft Paywall, No Free Trial - Soft Paywall
 Pricing Model: 2 offer sets across week, month, year
 Captured Version: 1.7.1
 Version Release Date: 2025-11-15
@@ -42,7 +42,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Package Tracker - pkge Mobile uses the Free Trial - Soft Paywall pattern in the Business category.
+- Package Tracker - pkge Mobile uses the Free Trial - Soft Paywall, No Free Trial - Soft Paywall pattern in the Business category.
 - 2 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The paywall presents week, month, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Business app packages subscription value for its users.
@@ -68,12 +68,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Business |
-| Paywall type | Free Trial - Soft Paywall |
+| Paywall type | Free Trial - Soft Paywall, No Free Trial - Soft Paywall |
 | Pricing model | 2 offer sets across week, month, year |
 | Captured version | 1.7.1 |
 | Version release date | 2025-11-15 |
 
-This paywall uses the **Free Trial - Soft Paywall** structure.
+This paywall uses the **Free Trial - Soft Paywall, No Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -94,8 +94,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $14.80K |
 | Avg daily downloads | 6.55K |
 | Avg daily ARPU | $2.26 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 6 |
+| Walkthrough preview count | 2 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

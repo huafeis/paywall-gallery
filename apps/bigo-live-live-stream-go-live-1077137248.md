@@ -3,9 +3,9 @@ app_name: "BIGO LIVE-Live Stream, Go Live"
 app_id: 1077137248
 developer: "BIGO TECHNOLOGY PTE. LTD."
 category: "Social Networking"
-paywall_type: "No Free Trial - Soft Paywall"
+paywall_type: "No Free Trial - Soft Paywall, Currency Paywall"
 pricing_model: "1 offer set across month, year, quarter"
-mrr: "$1.65M"
+mrr: "$95.47K"
 rating: 4.47
 versions_count: 3
 offers:
@@ -15,16 +15,16 @@ offers:
     prices: ["$960"]
   - period: "quarter"
     prices: ["$255"]
-screenshots_count: 3
-onboarding_flows_count: 10
+onboarding_count: 10
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/BIGO-LIVE-Live-Stream%2C-Go-Live-us?id=33&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # BIGO LIVE-Live Stream, Go Live Paywall Analysis
 
 Category: Social Networking
-Estimated MRR: $1.65M
-Paywall Pattern: No Free Trial - Soft Paywall
+Estimated MRR: $95.47K
+Paywall Pattern: No Free Trial - Soft Paywall, Currency Paywall
 Pricing Model: 1 offer set across month, year, quarter
 Captured Version: 6.41.1
 Version Release Date: 2025-12-17
@@ -42,7 +42,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- BIGO LIVE-Live Stream, Go Live uses the No Free Trial - Soft Paywall pattern in the Social Networking category.
+- BIGO LIVE-Live Stream, Go Live uses the No Free Trial - Soft Paywall, Currency Paywall pattern in the Social Networking category.
 - The preview exposes one visible offer set; the full PaywallPro page may include more historical context.
 - The paywall presents month, year, quarter option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Social Networking app packages subscription value for its users.
@@ -68,12 +68,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Social Networking |
-| Paywall type | No Free Trial - Soft Paywall |
+| Paywall type | No Free Trial - Soft Paywall, Currency Paywall |
 | Pricing model | 1 offer set across month, year, quarter |
 | Captured version | 6.41.1 |
 | Version release date | 2025-12-17 |
 
-This paywall uses the **No Free Trial - Soft Paywall** structure.
+This paywall uses the **No Free Trial - Soft Paywall, Currency Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -89,12 +89,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.47 |
 | Category rank | #16 |
-| Estimated MRR | $1.65M |
+| Estimated MRR | $95.47K |
 | Avg daily revenue | $102.95K |
 | Avg daily downloads | 7.59K |
 | Avg daily ARPU | $13.56 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 10 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

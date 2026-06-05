@@ -3,7 +3,7 @@ app_name: "Foodvisor - AI Calorie Counter"
 app_id: 1064020872
 developer: "Foodvisor"
 category: "Health & Fitness"
-paywall_type: "No Free Trial - Soft Paywall"
+paywall_type: "No Free Trial - Soft Paywall, Free Trial - Soft Paywall"
 pricing_model: "3 offer sets across month, year"
 mrr: "$43.08K"
 rating: 4.58
@@ -13,8 +13,8 @@ offers:
     prices: ["$29.99"]
   - period: "year"
     prices: ["$83.99", "$23.99"]
-screenshots_count: 3
-onboarding_flows_count: 63
+onboarding_count: 63
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Foodvisor---AI-Calorie-Counter-us?id=635&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -22,7 +22,7 @@ app_detail_url: "https://www.paywallpro.app/apps/Foodvisor---AI-Calorie-Counter-
 
 Category: Health & Fitness
 Estimated MRR: $43.08K
-Paywall Pattern: No Free Trial - Soft Paywall
+Paywall Pattern: No Free Trial - Soft Paywall, Free Trial - Soft Paywall
 Pricing Model: 3 offer sets across month, year
 Captured Version: 7.1.0
 Version Release Date: 2024-08-19
@@ -40,7 +40,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Foodvisor - AI Calorie Counter uses the No Free Trial - Soft Paywall pattern in the Health & Fitness category.
+- Foodvisor - AI Calorie Counter uses the No Free Trial - Soft Paywall, Free Trial - Soft Paywall pattern in the Health & Fitness category.
 - 3 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The paywall presents month, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Health & Fitness app packages subscription value for its users.
@@ -66,12 +66,12 @@ For app builders, product managers, growth teams, and designers, this case can b
 | Field | Value |
 |---|---|
 | Category | Health & Fitness |
-| Paywall type | No Free Trial - Soft Paywall |
+| Paywall type | No Free Trial - Soft Paywall, Free Trial - Soft Paywall |
 | Pricing model | 3 offer sets across month, year |
 | Captured version | 7.1.0 |
 | Version release date | 2024-08-19 |
 
-This paywall uses the **No Free Trial - Soft Paywall** structure.
+This paywall uses the **No Free Trial - Soft Paywall, Free Trial - Soft Paywall** structure.
 
 This pattern is useful for studying how the app presents subscription value, reduces purchase hesitation, and guides users toward a paid plan.
 
@@ -93,8 +93,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $6.09K |
 | Avg daily downloads | 1.96K |
 | Avg daily ARPU | $3.12 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 63 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

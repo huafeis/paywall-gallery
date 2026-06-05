@@ -10,8 +10,8 @@ rating: 4.59
 versions_count: 1
 offers:
   []
-screenshots_count: 3
-onboarding_flows_count: 43
+onboarding_count: 30
+walkthrough_count: 14
 app_detail_url: "https://www.paywallpro.app/apps/Livly-Island---Adopt-Cute-Pets-us?id=234329&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -84,8 +84,8 @@ Not available in preview
 | Avg daily revenue | $3.35K |
 | Avg daily downloads | 7 |
 | Avg daily ARPU | $467.17 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 30 |
+| Walkthrough preview count | 14 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

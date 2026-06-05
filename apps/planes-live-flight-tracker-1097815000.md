@@ -13,8 +13,8 @@ offers:
     prices: ["$9.99"]
   - period: "year"
     prices: ["$99.99"]
-screenshots_count: 3
-onboarding_flows_count: 10
+onboarding_count: 8
+walkthrough_count: 2
 app_detail_url: "https://www.paywallpro.app/apps/Planes-Live---Flight-Tracker-us?id=838&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -91,8 +91,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $3.44K |
 | Avg daily downloads | 344 |
 | Avg daily ARPU | $9.99 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 8 |
+| Walkthrough preview count | 2 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

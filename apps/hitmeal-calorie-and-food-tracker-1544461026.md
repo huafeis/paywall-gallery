@@ -1,5 +1,5 @@
 ---
-app_name: "HitMeal Calorie & Food Tracker"
+app_name: "HitMeal－Calorie & Food Tracker"
 app_id: 1544461026
 developer: "AIBY"
 category: "Health & Fitness"
@@ -13,12 +13,12 @@ offers:
     prices: ["$6.99"]
   - period: "year"
     prices: ["$39.99"]
-screenshots_count: 3
-onboarding_flows_count: 21
-app_detail_url: "https://www.paywallpro.app/apps/HitMeal-Calorie-&-Food-Tracker-us?id=206&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
+onboarding_count: 16
+walkthrough_count: 5
+app_detail_url: "https://www.paywallpro.app/apps/HitMeal%EF%BC%8DCalorie-&-Food-Tracker-us?id=206&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
-# HitMeal Calorie & Food Tracker Paywall Analysis
+# HitMeal－Calorie & Food Tracker Paywall Analysis
 
 Category: Health & Fitness
 Estimated MRR: $69.25K
@@ -28,11 +28,11 @@ Captured Version: 1.47
 Version Release Date: 2025-12-22
 
 View full case on PaywallPro:
-<a href="https://www.paywallpro.app/apps/HitMeal-Calorie-&-Food-Tracker-us?id=206&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">Open full case on PaywallPro</a>
+<a href="https://www.paywallpro.app/apps/HitMeal%EF%BC%8DCalorie-&-Food-Tracker-us?id=206&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">Open full case on PaywallPro</a>
 
 ## Snapshot
 
-HitMeal Calorie & Food Tracker is a Health & Fitness app by AIBY. This compact public preview highlights representative iOS subscription paywall screens from the US storefront.
+HitMeal－Calorie & Food Tracker is a Health & Fitness app by AIBY. This compact public preview highlights representative iOS subscription paywall screens from the US storefront.
 
 Its paywall is a useful reference for studying how apps in the Health & Fitness category present subscription value, structure pricing, use trials, and reduce purchase friction.
 
@@ -40,7 +40,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- HitMeal Calorie & Food Tracker uses the Free Trial - Soft Paywall pattern in the Health & Fitness category.
+- HitMeal－Calorie & Food Tracker uses the Free Trial - Soft Paywall pattern in the Health & Fitness category.
 - The preview exposes one visible offer set; the full PaywallPro page may include more historical context.
 - The paywall presents week, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Health & Fitness app packages subscription value for its users.
@@ -49,16 +49,16 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 Paywalls in the Health & Fitness category need to communicate value quickly and make the subscription decision easy to understand.
 
-This HitMeal Calorie & Food Tracker paywall is worth studying because it shows how a real subscription app combines offer framing, pricing structure, visual hierarchy, and purchase flow into one conversion experience.
+This HitMeal－Calorie & Food Tracker paywall is worth studying because it shows how a real subscription app combines offer framing, pricing structure, visual hierarchy, and purchase flow into one conversion experience.
 
 For app builders, product managers, growth teams, and designers, this case can be used as a reference when researching pricing, trial strategy, subscription UX, or paywall redesign ideas.
 
 ## Screenshots
 
 <p align="center">
-  <a href="https://www.paywallpro.app/apps/HitMeal-Calorie-&-Food-Tracker-us?id=206&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/hitmeal-calorie-and-food-tracker-1544461026/cover.webp" width="220" alt="HitMeal Calorie & Food Tracker paywall screen 1"></a>
-  <a href="https://www.paywallpro.app/apps/HitMeal-Calorie-&-Food-Tracker-us?id=206&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/hitmeal-calorie-and-food-tracker-1544461026/paywall-screen-2.webp" width="220" alt="Paywall screen 2"></a>
-  <a href="https://www.paywallpro.app/apps/HitMeal-Calorie-&-Food-Tracker-us?id=206&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/hitmeal-calorie-and-food-tracker-1544461026/paywall-screen-3.webp" width="220" alt="Paywall screen 3"></a>
+  <a href="https://www.paywallpro.app/apps/HitMeal%EF%BC%8DCalorie-&-Food-Tracker-us?id=206&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/hitmeal-calorie-and-food-tracker-1544461026/cover.webp" width="220" alt="HitMeal－Calorie & Food Tracker paywall screen 1"></a>
+  <a href="https://www.paywallpro.app/apps/HitMeal%EF%BC%8DCalorie-&-Food-Tracker-us?id=206&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/hitmeal-calorie-and-food-tracker-1544461026/paywall-screen-2.webp" width="220" alt="Paywall screen 2"></a>
+  <a href="https://www.paywallpro.app/apps/HitMeal%EF%BC%8DCalorie-&-Food-Tracker-us?id=206&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/hitmeal-calorie-and-food-tracker-1544461026/paywall-screen-3.webp" width="220" alt="Paywall screen 3"></a>
 </p>
 
 ## Paywall Pattern
@@ -91,13 +91,13 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $4.88K |
 | Avg daily downloads | 750 |
 | Avg daily ARPU | $6.51 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 16 |
+| Walkthrough preview count | 5 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn
 
-- How HitMeal Calorie & Food Tracker frames subscription value for users in the Health & Fitness category.
+- How HitMeal－Calorie & Food Tracker frames subscription value for users in the Health & Fitness category.
 - How the app structures pricing options and subscription periods.
 - How the paywall uses visual hierarchy to guide the purchase decision.
 - How trials, discounts, or offer sets are used to reduce purchase friction.
@@ -118,7 +118,7 @@ This is a limited public preview.
 
 For the full paywall history, complete screenshot set, onboarding flow, historical changes, pricing experiments, and deeper revenue analysis, visit:
 
-<a href="https://www.paywallpro.app/apps/HitMeal-Calorie-&-Food-Tracker-us?id=206&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">PaywallPro</a>
+<a href="https://www.paywallpro.app/apps/HitMeal%EF%BC%8DCalorie-&-Food-Tracker-us?id=206&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">PaywallPro</a>
 
 ---
 

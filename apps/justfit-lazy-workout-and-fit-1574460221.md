@@ -15,8 +15,8 @@ offers:
     prices: ["$79.99", "$29.99"]
   - period: "quarter"
     prices: ["$29.99"]
-screenshots_count: 3
-onboarding_flows_count: 60
+onboarding_count: 53
+walkthrough_count: 7
 app_detail_url: "https://www.paywallpro.app/apps/JustFit:-Lazy-Workout-&-Fit-us?id=52&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -94,8 +94,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $6.19K |
 | Avg daily downloads | 457 |
 | Avg daily ARPU | $13.56 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 53 |
+| Walkthrough preview count | 7 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

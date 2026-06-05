@@ -15,8 +15,8 @@ offers:
     prices: ["$59.99"]
   - period: "quarter"
     prices: ["$34.99"]
-screenshots_count: 3
-onboarding_flows_count: 37
+onboarding_count: 37
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Yoga-Go:-Tai-Chi-&-Pilates-us?id=129&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -93,8 +93,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $6.99K |
 | Avg daily downloads | 1.48K |
 | Avg daily ARPU | $4.74 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 37 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

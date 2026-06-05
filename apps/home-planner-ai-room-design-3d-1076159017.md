@@ -15,8 +15,8 @@ offers:
     prices: ["$14.99/$49.99/$99.99"]
   - period: "half year"
     prices: ["$34.99/$99.99/$234.99"]
-screenshots_count: 3
-onboarding_flows_count: 22
+onboarding_count: 14
+walkthrough_count: 8
 app_detail_url: "https://www.paywallpro.app/apps/Home-Planner-AI%EF%BC%9ARoom-Design-3D-us?id=564&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -93,8 +93,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $3.65K |
 | Avg daily downloads | 1.34K |
 | Avg daily ARPU | $2.73 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 14 |
+| Walkthrough preview count | 8 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

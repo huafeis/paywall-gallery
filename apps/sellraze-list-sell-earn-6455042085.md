@@ -13,8 +13,8 @@ offers:
     prices: ["$9.99"]
   - period: "year"
     prices: ["$44.99"]
-screenshots_count: 3
-onboarding_flows_count: 26
+onboarding_count: 26
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/SellRaze:-List%2C-sell%2C-earn-us?id=1965656&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -91,8 +91,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $3.83K |
 | Avg daily downloads | 1.89K |
 | Avg daily ARPU | $2.04 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 26 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

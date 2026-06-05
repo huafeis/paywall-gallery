@@ -5,7 +5,7 @@ developer: "Koi Apps"
 category: "Photo & Video"
 paywall_type: "No Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across week, year"
-mrr: "$72.25K"
+mrr: "$4.12K"
 rating: 4.24
 versions_count: 3
 offers:
@@ -13,15 +13,15 @@ offers:
     prices: ["$7.99"]
   - period: "year"
     prices: ["$50", "$19.99"]
-screenshots_count: 3
-onboarding_flows_count: 12
+onboarding_count: 9
+walkthrough_count: 3
 app_detail_url: "https://www.paywallpro.app/apps/FaceAi:-Face-Swap-Any-Video-us?id=528959&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # FaceAi: Face Swap Any Video Paywall Analysis
 
 Category: Photo & Video
-Estimated MRR: $72.25K
+Estimated MRR: $4.12K
 Paywall Pattern: No Free Trial - Soft Paywall
 Pricing Model: 2 offer sets across week, year
 Captured Version: 6.2
@@ -88,12 +88,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.24 |
 | Category rank | #172 |
-| Estimated MRR | $72.25K |
+| Estimated MRR | $4.12K |
 | Avg daily revenue | $3.16K |
 | Avg daily downloads | 1.23K |
 | Avg daily ARPU | $2.57 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 9 |
+| Walkthrough preview count | 3 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

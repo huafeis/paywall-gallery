@@ -1,5 +1,5 @@
 ---
-app_name: "CleanX: Photo Storage Cleaner"
+app_name: "CleanX: Clean Up Storage"
 app_id: 1575903244
 developer: "TAPSUITE YAZILIM HIZMETLERI ANONIM SIRKETI"
 category: "Utilities"
@@ -13,12 +13,12 @@ offers:
     prices: ["$7.99"]
   - period: "year"
     prices: ["$39.99"]
-screenshots_count: 3
-onboarding_flows_count: 15
-app_detail_url: "https://www.paywallpro.app/apps/CleanX:-Photo-Storage-Cleaner-us?id=1950687&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
+onboarding_count: 9
+walkthrough_count: 6
+app_detail_url: "https://www.paywallpro.app/apps/CleanX:-Clean-Up-Storage-us?id=1950687&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
-# CleanX: Photo Storage Cleaner Paywall Analysis
+# CleanX: Clean Up Storage Paywall Analysis
 
 Category: Utilities
 Estimated MRR: $45.86K
@@ -28,11 +28,11 @@ Captured Version: 5.0.0
 Version Release Date: 2025-09-11
 
 View full case on PaywallPro:
-<a href="https://www.paywallpro.app/apps/CleanX:-Photo-Storage-Cleaner-us?id=1950687&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">Open full case on PaywallPro</a>
+<a href="https://www.paywallpro.app/apps/CleanX:-Clean-Up-Storage-us?id=1950687&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">Open full case on PaywallPro</a>
 
 ## Snapshot
 
-CleanX: Photo Storage Cleaner is an Utilities app by TAPSUITE YAZILIM HIZMETLERI ANONIM SIRKETI. This compact public preview highlights representative iOS subscription paywall screens from the US storefront.
+CleanX: Clean Up Storage is an Utilities app by TAPSUITE YAZILIM HIZMETLERI ANONIM SIRKETI. This compact public preview highlights representative iOS subscription paywall screens from the US storefront.
 
 Its paywall is a useful reference for studying how apps in the Utilities category present subscription value, structure pricing, use trials, and reduce purchase friction.
 
@@ -40,7 +40,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- CleanX: Photo Storage Cleaner uses the Free Trial - Soft Paywall pattern in the Utilities category.
+- CleanX: Clean Up Storage uses the Free Trial - Soft Paywall pattern in the Utilities category.
 - The preview exposes one visible offer set; the full PaywallPro page may include more historical context.
 - The paywall presents week, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Utilities app packages subscription value for its users.
@@ -49,16 +49,16 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 Paywalls in the Utilities category need to communicate value quickly and make the subscription decision easy to understand.
 
-This CleanX: Photo Storage Cleaner paywall is worth studying because it shows how a real subscription app combines offer framing, pricing structure, visual hierarchy, and purchase flow into one conversion experience.
+This CleanX: Clean Up Storage paywall is worth studying because it shows how a real subscription app combines offer framing, pricing structure, visual hierarchy, and purchase flow into one conversion experience.
 
 For app builders, product managers, growth teams, and designers, this case can be used as a reference when researching pricing, trial strategy, subscription UX, or paywall redesign ideas.
 
 ## Screenshots
 
 <p align="center">
-  <a href="https://www.paywallpro.app/apps/CleanX:-Photo-Storage-Cleaner-us?id=1950687&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/cleanx-photo-storage-cleaner-1575903244/cover.webp" width="220" alt="CleanX: Photo Storage Cleaner paywall screen 1"></a>
-  <a href="https://www.paywallpro.app/apps/CleanX:-Photo-Storage-Cleaner-us?id=1950687&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/cleanx-photo-storage-cleaner-1575903244/paywall-screen-2.webp" width="220" alt="Paywall screen 2"></a>
-  <a href="https://www.paywallpro.app/apps/CleanX:-Photo-Storage-Cleaner-us?id=1950687&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/cleanx-photo-storage-cleaner-1575903244/paywall-screen-3.webp" width="220" alt="Paywall screen 3"></a>
+  <a href="https://www.paywallpro.app/apps/CleanX:-Clean-Up-Storage-us?id=1950687&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/cleanx-clean-up-storage-1575903244/cover.webp" width="220" alt="CleanX: Clean Up Storage paywall screen 1"></a>
+  <a href="https://www.paywallpro.app/apps/CleanX:-Clean-Up-Storage-us?id=1950687&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/cleanx-clean-up-storage-1575903244/paywall-screen-2.webp" width="220" alt="Paywall screen 2"></a>
+  <a href="https://www.paywallpro.app/apps/CleanX:-Clean-Up-Storage-us?id=1950687&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/cleanx-clean-up-storage-1575903244/paywall-screen-3.webp" width="220" alt="Paywall screen 3"></a>
 </p>
 
 ## Paywall Pattern
@@ -91,13 +91,13 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $2.56K |
 | Avg daily downloads | 1.11K |
 | Avg daily ARPU | $2.30 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 9 |
+| Walkthrough preview count | 6 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn
 
-- How CleanX: Photo Storage Cleaner frames subscription value for users in the Utilities category.
+- How CleanX: Clean Up Storage frames subscription value for users in the Utilities category.
 - How the app structures pricing options and subscription periods.
 - How the paywall uses visual hierarchy to guide the purchase decision.
 - How trials, discounts, or offer sets are used to reduce purchase friction.
@@ -118,7 +118,7 @@ This is a limited public preview.
 
 For the full paywall history, complete screenshot set, onboarding flow, historical changes, pricing experiments, and deeper revenue analysis, visit:
 
-<a href="https://www.paywallpro.app/apps/CleanX:-Photo-Storage-Cleaner-us?id=1950687&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">PaywallPro</a>
+<a href="https://www.paywallpro.app/apps/CleanX:-Clean-Up-Storage-us?id=1950687&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">PaywallPro</a>
 
 ---
 

@@ -5,7 +5,7 @@ developer: "Nordvpn S.A."
 category: "Utilities"
 paywall_type: "No Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across month, year"
-mrr: "$845.33K"
+mrr: "$56.95K"
 rating: 4.66
 versions_count: 10
 offers:
@@ -13,15 +13,15 @@ offers:
     prices: ["$13.99"]
   - period: "year"
     prices: ["$49.99"]
-screenshots_count: 3
-onboarding_flows_count: 14
+onboarding_count: 8
+walkthrough_count: 6
 app_detail_url: "https://www.paywallpro.app/apps/NordVPN:-VPN-Fast-&-Secure-us?id=73&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
 # NordVPN: VPN Fast & Secure Paywall Analysis
 
 Category: Utilities
-Estimated MRR: $845.33K
+Estimated MRR: $56.95K
 Paywall Pattern: No Free Trial - Soft Paywall
 Pricing Model: 2 offer sets across month, year
 Captured Version: 9.2.0
@@ -88,12 +88,12 @@ This pattern is useful for studying how the app presents subscription value, red
 |---|---:|
 | App Store rating | 4.66 |
 | Category rank | #14 |
-| Estimated MRR | $845.33K |
+| Estimated MRR | $56.95K |
 | Avg daily revenue | Not available |
 | Avg daily downloads | Not available |
 | Avg daily ARPU | Not available |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 8 |
+| Walkthrough preview count | 6 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

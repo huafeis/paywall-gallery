@@ -6,13 +6,13 @@ category: "Medical"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "1 offer set across year"
 mrr: "$76.83K"
-rating: 4.86
+rating: 4.85
 versions_count: 1
 offers:
   - period: "year"
     prices: ["$39.99"]
-screenshots_count: 3
-onboarding_flows_count: 8
+onboarding_count: 8
+walkthrough_count: 0
 app_detail_url: "https://www.paywallpro.app/apps/Davis's-Drug-Guide---Nurses-us?id=931&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -82,14 +82,14 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 4.86 |
+| App Store rating | 4.85 |
 | Category rank | #5 |
 | Estimated MRR | $76.83K |
 | Avg daily revenue | $1.58K |
 | Avg daily downloads | 95 |
 | Avg daily ARPU | $16.59 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 8 |
+| Walkthrough preview count | 0 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

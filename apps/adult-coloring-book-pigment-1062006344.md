@@ -13,8 +13,8 @@ offers:
     prices: ["$4.99"]
   - period: "year"
     prices: ["$59.99"]
-screenshots_count: 3
-onboarding_flows_count: 10
+onboarding_count: 6
+walkthrough_count: 4
 app_detail_url: "https://www.paywallpro.app/apps/Adult-Coloring-Book---Pigment-us?id=260&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -91,8 +91,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $9.46K |
 | Avg daily downloads | 2.70K |
 | Avg daily ARPU | $3.51 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 6 |
+| Walkthrough preview count | 4 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn

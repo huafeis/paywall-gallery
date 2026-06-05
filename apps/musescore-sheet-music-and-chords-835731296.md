@@ -13,8 +13,8 @@ offers:
     prices: ["$24.99"]
   - period: "year"
     prices: ["$189.99/$139.99"]
-screenshots_count: 3
-onboarding_flows_count: 21
+onboarding_count: 19
+walkthrough_count: 2
 app_detail_url: "https://www.paywallpro.app/apps/MuseScore%EF%BC%8DSheet-Music-&-Chords-us?id=314&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
@@ -91,8 +91,8 @@ This pattern is useful for studying how the app presents subscription value, red
 | Avg daily revenue | $8.40K |
 | Avg daily downloads | 1.25K |
 | Avg daily ARPU | $6.71 |
-| Screenshot count in public repo | 3 |
-| Onboarding flow available | Yes |
+| Onboarding preview count | 19 |
+| Walkthrough preview count | 2 |
 | Full history available on PaywallPro | Yes |
 
 ## What Builders Can Learn
