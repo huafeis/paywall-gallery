@@ -49,6 +49,10 @@ Lifestyle apps often convert by selling better outcomes, personalization, confid
 | Arlo Secure: Home Security | $46.75K | No Free Trial - Soft Paywall | [Open](../apps/arlo-secure-home-security-1459289784.md) |
 | Care.com: Hire Caregivers | $43.62K | Currency Paywall | [Open](../apps/care-com-hire-caregivers-328453619.md) |
 | MyScreen - Live Wallpapers | $42.62K | Free Trial - Soft Paywall | [Open](../apps/myscreen-live-wallpapers-1039845801.md) |
+| Qustodio Parental Control App | $37.92K | No Free Trial - Soft Paywall | [Open](../apps/qustodio-parental-control-app-1501720596.md) |
+| Lake: Coloring Book for Adults | $37.51K | Free Trial - Soft Paywall | [Open](../apps/lake-coloring-book-for-adults-1183717726.md) |
+| Watch Faces by Facer | $35.01K | No Free Trial - Soft Paywall | [Open](../apps/watch-faces-by-facer-1057071179.md) |
+| Harmoni - Health & Sleep | $34.98K | Free Trial - Soft Paywall | [Open](../apps/harmoni-health-and-sleep-6474233032.md) |
 | Plant Parent: Plant Care Guide | $8.63K | Free Trial - Soft Paywall | [Open](../apps/plant-parent-plant-care-guide-1612792132.md) |
 
 ## What to study

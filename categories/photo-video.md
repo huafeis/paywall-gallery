@@ -77,6 +77,13 @@ Photo and video apps often rely on creative control, premium features, editing c
 | Pollo AI - AI Video Generator | $40.48K | No Free Trial - Soft Paywall | [Open](../apps/pollo-ai-ai-video-generator-6740024098.md) |
 | Elf Alert: Elf & Santa Camera | $39.76K | Currency Paywall | [Open](../apps/elf-alert-elf-and-santa-camera-6754893687.md) |
 | Photo Lab — AI Image Editor | $39.35K | Free Trial - Soft Paywall | [Open](../apps/photo-lab-ai-image-editor-441457218.md) |
+| SNOW - AI Profile | $38.22K | Free Trial - Soft Paywall | [Open](../apps/snow-ai-profile-1022267439.md) |
+| Collage Maker - LiveCollage | $37.73K | Free Trial - Soft Paywall | [Open](../apps/collage-maker-livecollage-530957474.md) |
+| Fotor AI Photo Editor & Video | $37.48K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/fotor-ai-photo-editor-and-video-440159265.md) |
+| AI Photo Editor - BgMaster™ | $36.31K | No Free Trial - Soft Paywall | [Open](../apps/ai-photo-editor-bgmaster-6499191999.md) |
+| Beautify - Hairstyle Try On | $36.21K | No Free Trial - Soft Paywall | [Open](../apps/beautify-hairstyle-try-on-6670521987.md) |
+| YouCam Video: AI Video Editor | $34.51K | Free Trial - Soft Paywall | [Open](../apps/youcam-video-ai-video-editor-1536076386.md) |
+| Photica・Live Photo AI Animator | $33.99K | No Free Trial - Soft Paywall | [Open](../apps/photica-live-photo-ai-animator-6673907297.md) |
 | Tezza: Aesthetic Photo Editor | $29.88K | Free Trial - Soft Paywall | [Open](../apps/tezza-aesthetic-photo-editor-1393061654.md) |
 | Video Up! Video Editor & Maker | $14.43K | No Free Trial - Soft Paywall | [Open](../apps/video-up-video-editor-and-maker-1585824635.md) |
 | Photo Collage Maker PicJointer | $11.57K | Free Trial - Soft Paywall | [Open](../apps/photo-collage-maker-picjointer-509987785.md) |

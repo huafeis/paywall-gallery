@@ -36,6 +36,9 @@ Productivity apps often convert users by selling time savings, professional outp
 | Authenticator ® App | $42.31K | Free Trial - Soft Paywall | [Open](../apps/authenticator-app-6480253221.md) |
 | Forma: PDF Document Editor | $40.29K | Free Trial - Soft Paywall | [Open](../apps/forma-pdf-document-editor-1658514439.md) |
 | Grammarly: AI Keyboard & Notes | $38.68K | Free Trial - Soft Paywall | [Open](../apps/grammarly-ai-keyboard-and-notes-1158877342.md) |
+| Voicenotes AI Notes & Meetings | $36.71K | Free Trial - Soft Paywall | [Open](../apps/voicenotes-ai-notes-and-meetings-6483293628.md) |
+| TunnelBear: Secure VPN & Wifi | $35.56K | No Free Trial - Soft Paywall | [Open](../apps/tunnelbear-secure-vpn-and-wifi-564842283.md) |
+| TickTick:To-Do List & Calendar | $35.40K | Free Trial - Soft Paywall | [Open](../apps/ticktick-to-do-list-and-calendar-626144601.md) |
 | 1Password: Password Manager | $7.15K | No Free Trial - Soft Paywall | [Open](../apps/1password-password-manager-1511601750.md) |
 | Bark - Parental Controls | $6.43K | No Free Trial - Soft Paywall | [Open](../apps/bark-parental-controls-1477619146.md) |
 | LastPass Password Manager | $4.97K | No Free Trial - Soft Paywall | [Open](../apps/lastpass-password-manager-324613447.md) |

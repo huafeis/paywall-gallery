@@ -11,6 +11,7 @@ Reference apps use subscription paywalls to communicate value and convert users 
 | Hallow: Prayer & Meditation | $672.17K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/hallow-prayer-and-meditation-1405323394.md) |
 | Ancestry: Family History & DNA | $308.26K | Free Trial - Soft Paywall | [Open](../apps/ancestry-family-history-and-dna-349554263.md) |
 | Lens AI & Identifier・EveryScan | $42.95K | Free Trial - Soft Paywall | [Open](../apps/lens-ai-and-identifier-everyscan-1663862037.md) |
+| Dwell: Audio Bible | $38.62K | Free Trial - Soft Paywall | [Open](../apps/dwell-audio-bible-1343917374.md) |
 | CoinSnap: Coin Identifier | $5.70K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/coinsnap-coin-identifier-1634551626.md) |
 
 ## What to study

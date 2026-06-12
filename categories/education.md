@@ -86,6 +86,14 @@ Education apps use subscription paywalls to communicate value and convert users 
 | Buddy.ai: Kids Learning Games | $38.94K | Free Trial - Soft Paywall | [Open](../apps/buddy-ai-kids-learning-games-1255783056.md) |
 | Kids cooking games 2+ year old | $38.91K | Free Trial - Hard Paywall | [Open](../apps/kids-cooking-games-2-year-old-1623570895.md) |
 | Fender Play: Learn Guitar | $38.80K | No Free Trial - Soft Paywall | [Open](../apps/fender-play-learn-guitar-1226057939.md) |
+| Toca Boca Hair Salon 4 | $38.70K | Free Trial - Soft Paywall | [Open](../apps/toca-boca-hair-salon-4-1485387513.md) |
+| HOMER: Fun Learning For Kids | $38.40K | Free Trial - Hard Paywall | [Open](../apps/homer-fun-learning-for-kids-601437586.md) |
+| Drawing Desk:Learn How to Draw | $36.96K | Free Trial - Soft Paywall | [Open](../apps/drawing-desk-learn-how-to-draw-588358613.md) |
+| ASL Bloom - Sign Language | $36.86K | Free Trial - Soft Paywall | [Open](../apps/asl-bloom-sign-language-1631587710.md) |
+| Sago Mini School (Kids 2-5) | $36.70K | Free Trial - Soft Paywall | [Open](../apps/sago-mini-school-kids-2-5-1483068197.md) |
+| EWA: Learn Languages | $36.25K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/ewa-learn-languages-1200778841.md) |
+| Mimo: Learn Coding/Programming | $35.41K | Free Trial - Soft Paywall | [Open](../apps/mimo-learn-coding-programming-1133960732.md) |
+| Clever: Brain Training Games | $34.66K | Free Trial - Soft Paywall | [Open](../apps/clever-brain-training-games-1599756543.md) |
 | Solvely - AI Study Tools | $17.97K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/solvely-ai-study-tools-6446930976.md) |
 | Lingvano - Learn Sign Language | $13.58K | Free Trial - Soft Paywall | [Open](../apps/lingvano-learn-sign-language-1547252782.md) |
 | LEGO® DUPLO® MARVEL | $992 | No Free Trial - Soft Paywall | [Open](../apps/lego-duplo-marvel-1573101225.md) |

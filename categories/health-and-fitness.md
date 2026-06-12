@@ -57,6 +57,14 @@ Health & Fitness apps use subscription paywalls to communicate value and convert
 | SmartGym: Gym & Home Workouts | $43.18K | No Free Trial - Soft Paywall | [Open](../apps/smartgym-gym-and-home-workouts-922744883.md) |
 | Foodvisor - AI Calorie Counter | $43.08K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/foodvisor-ai-calorie-counter-1064020872.md) |
 | Ride with GPS: Bike Navigation | $38.90K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/ride-with-gps-bike-navigation-893687399.md) |
+| ASICS Runkeeper—Run Tracker | $38.74K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/asics-runkeeper-run-tracker-300235330.md) |
+| OnSkin: Beauty Product Scanner | $38.53K | Free Trial - Soft Paywall | [Open](../apps/onskin-beauty-product-scanner-1630768985.md) |
+| Happy Scale | $38.34K | Free Trial - Soft Paywall | [Open](../apps/happy-scale-532430574.md) |
+| RP Diet Coach & Planner | $37.26K | No Free Trial - Soft Paywall | [Open](../apps/rp-diet-coach-and-planner-1330041267.md) |
+| Wellthly-Feel Heart Rhythm | $35.72K | No Free Trial - Soft Paywall | [Open](../apps/wellthly-feel-heart-rhythm-6739807377.md) |
+| Rain Rain Sleep Sounds | $35.37K | Free Trial - Soft Paywall | [Open](../apps/rain-rain-sleep-sounds-478687481.md) |
+| Centr: Strength & Fitness App | $34.90K | Free Trial - Soft Paywall | [Open](../apps/centr-strength-and-fitness-app-1382530817.md) |
+| HeartFit - BP Health Tracker | $33.80K | No Free Trial - Soft Paywall | [Open](../apps/heartfit-bp-health-tracker-6739602668.md) |
 | Headspace: Sleep & Meditation | $10.56K | Free Trial - Soft Paywall | [Open](../apps/headspace-sleep-and-meditation-493145008.md) |
 | Calorie Counter & Food Tracker | $8.50K | No Free Trial - Soft Paywall | [Open](../apps/calorie-counter-and-food-tracker-6474290049.md) |
 | InPulse - Heart Rate Monitor | $7.32K | Free Trial - Soft Paywall | [Open](../apps/inpulse-heart-rate-monitor-1489944782.md) |

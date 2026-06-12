@@ -43,6 +43,10 @@ Utilities apps use subscription paywalls to communicate value and convert users 
 | Hushed: US Second Phone Number | $41.15K | Credit Paywall | [Open](../apps/hushed-us-second-phone-number-600520752.md) |
 | HeyStar-AI Photo Editor | $40.60K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/heystar-ai-photo-editor-6754450703.md) |
 | TotalAV | $40.50K | No Free Trial - Soft Paywall | [Open](../apps/totalav-1130411958.md) |
+| Voice Recorder & Audio Editor | $38.74K | Free Trial - Soft Paywall | [Open](../apps/voice-recorder-and-audio-editor-685310398.md) |
+| Universal Remote TV Control | $38.13K | Free Trial - Hard Paywall | [Open](../apps/universal-remote-tv-control-1591238748.md) |
+| RemoTV: Universal TV Remote | $37.80K | Free Trial - Soft Paywall | [Open](../apps/remotv-universal-tv-remote-6461419341.md) |
+| KeyConnect Digital Car Key | $35.32K | No Free Trial - Soft Paywall | [Open](../apps/keyconnect-digital-car-key-1492560451.md) |
 | QR Reader for iPhone | $4.46K | Free Trial - Soft Paywall | [Open](../apps/qr-reader-for-iphone-368494609.md) |
 | Clean Manager: Storage Cleaner | $2.56K | Free Trial - Soft Paywall | [Open](../apps/clean-manager-storage-cleaner-1579881271.md) |
 

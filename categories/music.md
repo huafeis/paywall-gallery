@@ -41,6 +41,10 @@ Music apps often convert by selling ad-free listening, offline access, better pl
 | Rap Fame - Rap Music Studio | $48.42K | Free Trial - Soft Paywall | [Open](../apps/rap-fame-rap-music-studio-1476399789.md) |
 | Tuner Pro: Guitar Tuner & Tab | $44.82K | Free Trial - Soft Paywall | [Open](../apps/tuner-pro-guitar-tuner-and-tab-1438248122.md) |
 | Chordify: Songs, Chords, Tuner | $43.73K | No Free Trial - Soft Paywall | [Open](../apps/chordify-songs-chords-tuner-1073624757.md) |
+| ClipTone: Ringtone & AI Cover | $37.81K | No Free Trial - Soft Paywall | [Open](../apps/cliptone-ringtone-and-ai-cover-6737531446.md) |
+| Garage Ringtones for iPhone | $36.38K | Free Trial - Soft Paywall | [Open](../apps/garage-ringtones-for-iphone-6444570129.md) |
+| Voloco: Vocal Recording Studio | $36.34K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/voloco-vocal-recording-studio-1052970183.md) |
+| AI Song Music Generator: Muzio | $35.74K | No Free Trial - Soft Paywall | [Open](../apps/ai-song-music-generator-muzio-6502530415.md) |
 | Ultimate Guitar: Chords & Tabs | $35.62K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/ultimate-guitar-chords-and-tabs-357828853.md) |
 | Simply Sing: My Singing App | $9.03K | Free Trial - Soft Paywall | [Open](../apps/simply-sing-my-singing-app-1592900217.md) |
 | AI Song Generator - Zona | $3.54K | No Free Trial - Soft Paywall | [Open](../apps/ai-song-generator-zona-6499261254.md) |

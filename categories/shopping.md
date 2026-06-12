@@ -11,6 +11,7 @@ Shopping apps use subscription paywalls to communicate value and convert users i
 | CARFAX - New & Used Cars | $331.68K | No Free Trial - Soft Paywall | [Open](../apps/carfax-new-and-used-cars-479267592.md) |
 | ‎My Package Delivery Tracker | $150.58K | Free Trial - Soft Paywall | [Open](../apps/my-package-delivery-tracker-6447516226.md) |
 | SellRaze: List, sell, earn | $85.98K | Free Trial - Soft Paywall | [Open](../apps/sellraze-list-sell-earn-6455042085.md) |
+| Package tracker: Parcels Hub | $35.25K | Free Trial - Soft Paywall | [Open](../apps/package-tracker-parcels-hub-1559261145.md) |
 
 ## What to study
 

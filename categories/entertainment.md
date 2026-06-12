@@ -32,6 +32,10 @@ Entertainment apps often rely on content value, exclusive access, free trials, a
 | MBC Shahid | $47.17K | No Free Trial - Soft Paywall | [Open](../apps/mbc-shahid-879915134.md) |
 | DreameShort - Drama TV | $46.22K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/dreameshort-drama-tv-6462846884.md) |
 | Spicychat AI: Roleplay Chat | $39.75K | No Free Trial - Soft Paywall | [Open](../apps/spicychat-ai-roleplay-chat-6471116525.md) |
+| Viki: Asian Dramas, Movies, TV | $38.38K | Free Trial - Soft Paywall | [Open](../apps/viki-asian-dramas-movies-tv-445553058.md) |
+| The Criterion Channel | $38.21K | Free Trial - Soft Paywall | [Open](../apps/the-criterion-channel-1454275199.md) |
+| Philo: Shows, Movies & Live TV | $35.23K | Free Trial - Soft Paywall | [Open](../apps/philo-shows-movies-and-live-tv-1248646044.md) |
+| My Drama - Stream Short Dramas | $34.42K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/my-drama-stream-short-dramas-6498713494.md) |
 
 ## What to study
 

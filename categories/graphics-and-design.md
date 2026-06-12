@@ -11,6 +11,7 @@ Graphics & Design apps use subscription paywalls to communicate value and conver
 | Cricut Design Space | $81.69K | No Free Trial - Soft Paywall | [Open](../apps/cricut-design-space-749471884.md) |
 | AI Photo Generator - Collart | $74.04K | No Free Trial - Soft Paywall | [Open](../apps/ai-photo-generator-collart-1561940699.md) |
 | Clip Studio Paint | $63.07K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/clip-studio-paint-1262985592.md) |
+| AI Home Design: Interior DecAI | $35.35K | No Free Trial - Soft Paywall | [Open](../apps/ai-home-design-interior-decai-6502747597.md) |
 
 ## What to study
 

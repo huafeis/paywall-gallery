@@ -513,8 +513,58 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | Kids cooking games 2+ year old | Education | [Open](../apps/kids-cooking-games-2-year-old-1623570895.md) |
 | Ride with GPS: Bike Navigation | Health & Fitness | [Open](../apps/ride-with-gps-bike-navigation-893687399.md) |
 | Fender Play: Learn Guitar | Education | [Open](../apps/fender-play-learn-guitar-1226057939.md) |
+| SDC Adult Dating | Social Networking | [Open](../apps/sdc-adult-dating-1114616696.md) |
+| Voice Recorder & Audio Editor | Utilities | [Open](../apps/voice-recorder-and-audio-editor-685310398.md) |
+| ASICS Runkeeper—Run Tracker | Health & Fitness | [Open](../apps/asics-runkeeper-run-tracker-300235330.md) |
+| NFL Fantasy Football | Sports | [Open](../apps/nfl-fantasy-football-876054082.md) |
+| Toca Boca Hair Salon 4 | Education | [Open](../apps/toca-boca-hair-salon-4-1485387513.md) |
 | Grammarly: AI Keyboard & Notes | Productivity | [Open](../apps/grammarly-ai-keyboard-and-notes-1158877342.md) |
+| Dwell: Audio Bible | Reference | [Open](../apps/dwell-audio-bible-1343917374.md) |
+| Salams: Halal Muslim Marriage | Social Networking | [Open](../apps/salams-halal-muslim-marriage-965359176.md) |
+| OnSkin: Beauty Product Scanner | Health & Fitness | [Open](../apps/onskin-beauty-product-scanner-1630768985.md) |
+| Linemate: Find Your Next Bet | Sports | [Open](../apps/linemate-find-your-next-bet-1635246793.md) |
+| HOMER: Fun Learning For Kids | Education | [Open](../apps/homer-fun-learning-for-kids-601437586.md) |
+| Viki: Asian Dramas, Movies, TV | Entertainment | [Open](../apps/viki-asian-dramas-movies-tv-445553058.md) |
+| Happy Scale | Health & Fitness | [Open](../apps/happy-scale-532430574.md) |
+| Positive Singles®: Herpes Date | Social Networking | [Open](../apps/positive-singles-herpes-date-1419085637.md) |
+| SNOW - AI Profile | Photo & Video | [Open](../apps/snow-ai-profile-1022267439.md) |
+| The Criterion Channel | Entertainment | [Open](../apps/the-criterion-channel-1454275199.md) |
+| Universal Remote TV Control | Utilities | [Open](../apps/universal-remote-tv-control-1591238748.md) |
+| Qustodio Parental Control App | Lifestyle | [Open](../apps/qustodio-parental-control-app-1501720596.md) |
+| ClipTone: Ringtone & AI Cover | Music | [Open](../apps/cliptone-ringtone-and-ai-cover-6737531446.md) |
+| RemoTV: Universal TV Remote | Utilities | [Open](../apps/remotv-universal-tv-remote-6461419341.md) |
+| Collage Maker - LiveCollage | Photo & Video | [Open](../apps/collage-maker-livecollage-530957474.md) |
+| Lake: Coloring Book for Adults | Lifestyle | [Open](../apps/lake-coloring-book-for-adults-1183717726.md) |
+| Fotor AI Photo Editor & Video | Photo & Video | [Open](../apps/fotor-ai-photo-editor-and-video-440159265.md) |
+| RP Diet Coach & Planner | Health & Fitness | [Open](../apps/rp-diet-coach-and-planner-1330041267.md) |
+| Drawing Desk:Learn How to Draw | Education | [Open](../apps/drawing-desk-learn-how-to-draw-588358613.md) |
+| ASL Bloom - Sign Language | Education | [Open](../apps/asl-bloom-sign-language-1631587710.md) |
+| Voicenotes AI Notes & Meetings | Productivity | [Open](../apps/voicenotes-ai-notes-and-meetings-6483293628.md) |
+| Sago Mini School (Kids 2-5) | Education | [Open](../apps/sago-mini-school-kids-2-5-1483068197.md) |
+| Garage Ringtones for iPhone | Music | [Open](../apps/garage-ringtones-for-iphone-6444570129.md) |
+| Voloco: Vocal Recording Studio | Music | [Open](../apps/voloco-vocal-recording-studio-1052970183.md) |
+| AI Photo Editor - BgMaster™ | Photo & Video | [Open](../apps/ai-photo-editor-bgmaster-6499191999.md) |
+| EWA: Learn Languages | Education | [Open](../apps/ewa-learn-languages-1200778841.md) |
+| Beautify - Hairstyle Try On | Photo & Video | [Open](../apps/beautify-hairstyle-try-on-6670521987.md) |
+| AI Song Music Generator: Muzio | Music | [Open](../apps/ai-song-music-generator-muzio-6502530415.md) |
+| Wellthly-Feel Heart Rhythm | Health & Fitness | [Open](../apps/wellthly-feel-heart-rhythm-6739807377.md) |
 | Ultimate Guitar: Chords & Tabs | Music | [Open](../apps/ultimate-guitar-chords-and-tabs-357828853.md) |
+| TunnelBear: Secure VPN & Wifi | Productivity | [Open](../apps/tunnelbear-secure-vpn-and-wifi-564842283.md) |
+| Mimo: Learn Coding/Programming | Education | [Open](../apps/mimo-learn-coding-programming-1133960732.md) |
+| TickTick:To-Do List & Calendar | Productivity | [Open](../apps/ticktick-to-do-list-and-calendar-626144601.md) |
+| Rain Rain Sleep Sounds | Health & Fitness | [Open](../apps/rain-rain-sleep-sounds-478687481.md) |
+| AI Home Design: Interior DecAI | Graphics & Design | [Open](../apps/ai-home-design-interior-decai-6502747597.md) |
+| KeyConnect Digital Car Key | Utilities | [Open](../apps/keyconnect-digital-car-key-1492560451.md) |
+| Package tracker: Parcels Hub | Shopping | [Open](../apps/package-tracker-parcels-hub-1559261145.md) |
+| Philo: Shows, Movies & Live TV | Entertainment | [Open](../apps/philo-shows-movies-and-live-tv-1248646044.md) |
+| Watch Faces by Facer | Lifestyle | [Open](../apps/watch-faces-by-facer-1057071179.md) |
+| Harmoni - Health & Sleep | Lifestyle | [Open](../apps/harmoni-health-and-sleep-6474233032.md) |
+| Centr: Strength & Fitness App | Health & Fitness | [Open](../apps/centr-strength-and-fitness-app-1382530817.md) |
+| Clever: Brain Training Games | Education | [Open](../apps/clever-brain-training-games-1599756543.md) |
+| YouCam Video: AI Video Editor | Photo & Video | [Open](../apps/youcam-video-ai-video-editor-1536076386.md) |
+| My Drama - Stream Short Dramas | Entertainment | [Open](../apps/my-drama-stream-short-dramas-6498713494.md) |
+| Photica・Live Photo AI Animator | Photo & Video | [Open](../apps/photica-live-photo-ai-animator-6673907297.md) |
+| HeartFit - BP Health Tracker | Health & Fitness | [Open](../apps/heartfit-bp-health-tracker-6739602668.md) |
 | iScanner: PDF Document Scanner | Business | [Open](../apps/iscanner-pdf-document-scanner-1040093707.md) |
 | Tezza: Aesthetic Photo Editor | Photo & Video | [Open](../apps/tezza-aesthetic-photo-editor-1393061654.md) |
 | Solvely - AI Study Tools | Education | [Open](../apps/solvely-ai-study-tools-6446930976.md) |
