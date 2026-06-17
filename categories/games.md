@@ -9,6 +9,7 @@ Games apps use subscription paywalls to communicate value and convert users into
 | App | Estimated MRR | Pattern | Page |
 |---|---:|---|---|
 | iRomance-Step Into Stories | $62.83K | Currency Paywall, No Free Trial - Soft Paywall | [Open](../apps/iromance-step-into-stories-1643862208.md) |
+| Tamadog - Puppy Pet Dog Games | $32.33K | Currency Paywall | [Open](../apps/tamadog-puppy-pet-dog-games-1484655112.md) |
 
 ## What to study
 

@@ -28,6 +28,7 @@ Sports apps use subscription paywalls to communicate value and convert users int
 | Cricbuzz Live Cricket Scores | $40.12K | No Free Trial - Soft Paywall | [Open](../apps/cricbuzz-live-cricket-scores-360466413.md) |
 | NFL Fantasy Football | $38.73K | No Free Trial - Soft Paywall | [Open](../apps/nfl-fantasy-football-876054082.md) |
 | Linemate: Find Your Next Bet | $38.46K | Free Trial - Soft Paywall | [Open](../apps/linemate-find-your-next-bet-1635246793.md) |
+| TheGrint: Golf GPS & Scorecard | $33.03K | Free Trial - Soft Paywall | [Open](../apps/thegrint-golf-gps-and-scorecard-532085262.md) |
 | Fishbrain - Fishing App | $14.20K | Free Trial - Soft Paywall | [Open](../apps/fishbrain-fishing-app-477967747.md) |
 | B1G+: Watch College Sports | $8.46K | No Free Trial - Soft Paywall | [Open](../apps/b1g-watch-college-sports-474679690.md) |
 | Outlier: Smart Sports Betting | $6.17K | Free Trial - Soft Paywall | [Open](../apps/outlier-smart-sports-betting-6443885102.md) |

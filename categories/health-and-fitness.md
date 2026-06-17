@@ -65,6 +65,8 @@ Health & Fitness apps use subscription paywalls to communicate value and convert
 | Rain Rain Sleep Sounds | $35.37K | Free Trial - Soft Paywall | [Open](../apps/rain-rain-sleep-sounds-478687481.md) |
 | Centr: Strength & Fitness App | $34.90K | Free Trial - Soft Paywall | [Open](../apps/centr-strength-and-fitness-app-1382530817.md) |
 | HeartFit - BP Health Tracker | $33.80K | No Free Trial - Soft Paywall | [Open](../apps/heartfit-bp-health-tracker-6739602668.md) |
+| JEFIT Workout Plan Gym Tracker | $33.70K | No Free Trial - Soft Paywall | [Open](../apps/jefit-workout-plan-gym-tracker-449810000.md) |
+| Strava: Run, Bike, Walk | $31.06K | Free Trial - Soft Paywall | [Open](../apps/strava-run-bike-walk-426826309.md) |
 | Headspace: Sleep & Meditation | $10.56K | Free Trial - Soft Paywall | [Open](../apps/headspace-sleep-and-meditation-493145008.md) |
 | Calorie Counter & Food Tracker | $8.50K | No Free Trial - Soft Paywall | [Open](../apps/calorie-counter-and-food-tracker-6474290049.md) |
 | InPulse - Heart Rate Monitor | $7.32K | Free Trial - Soft Paywall | [Open](../apps/inpulse-heart-rate-monitor-1489944782.md) |

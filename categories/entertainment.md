@@ -36,6 +36,7 @@ Entertainment apps often rely on content value, exclusive access, free trials, a
 | The Criterion Channel | $38.21K | Free Trial - Soft Paywall | [Open](../apps/the-criterion-channel-1454275199.md) |
 | Philo: Shows, Movies & Live TV | $35.23K | Free Trial - Soft Paywall | [Open](../apps/philo-shows-movies-and-live-tv-1248646044.md) |
 | My Drama - Stream Short Dramas | $34.42K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/my-drama-stream-short-dramas-6498713494.md) |
+| Funny Prank Sounds Video Calls | $31.12K | Free Trial - Soft Paywall | [Open](../apps/funny-prank-sounds-video-calls-6444277853.md) |
 
 ## What to study
 

@@ -565,7 +565,55 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | My Drama - Stream Short Dramas | Entertainment | [Open](../apps/my-drama-stream-short-dramas-6498713494.md) |
 | Photica・Live Photo AI Animator | Photo & Video | [Open](../apps/photica-live-photo-ai-animator-6673907297.md) |
 | HeartFit - BP Health Tracker | Health & Fitness | [Open](../apps/heartfit-bp-health-tracker-6739602668.md) |
+| AI Phone:Call&Voice Translator | Utilities | [Open](../apps/ai-phone-call-and-voice-translator-6465173251.md) |
+| JEFIT Workout Plan Gym Tracker | Health & Fitness | [Open](../apps/jefit-workout-plan-gym-tracker-449810000.md) |
+| Simple Radio - FM AM Stations | Music | [Open](../apps/simple-radio-fm-am-stations-891132290.md) |
+| Kinedu: Baby Development | Education | [Open](../apps/kinedu-baby-development-741277284.md) |
+| NaturalReader - Text To Speech | Productivity | [Open](../apps/naturalreader-text-to-speech-1487572960.md) |
+| Breeze: Start Self-Discovery | Lifestyle | [Open](../apps/breeze-start-self-discovery-1450365119.md) |
+| Cozy Couples: Relationship App | Lifestyle | [Open](../apps/cozy-couples-relationship-app-6463766369.md) |
+| WriteSwift AI - Note Taking | Utilities | [Open](../apps/writeswift-ai-note-taking-6751185513.md) |
+| Super AI Chat - AI Chatbot | Productivity | [Open](../apps/super-ai-chat-ai-chatbot-6468887595.md) |
+| ArcSite: Floor Plans and CAD | Productivity | [Open](../apps/arcsite-floor-plans-and-cad-986274256.md) |
+| Wondery: Must-Hear Podcasts | News | [Open](../apps/wondery-must-hear-podcasts-1485913772.md) |
+| TheGrint: Golf GPS & Scorecard | Sports | [Open](../apps/thegrint-golf-gps-and-scorecard-532085262.md) |
+| LogicLike: Kids Learning Games | Education | [Open](../apps/logiclike-kids-learning-games-1565113819.md) |
+| BeenVerified: People Search | Reference | [Open](../apps/beenverified-people-search-342585873.md) |
+| Couple Joy - Relationship App | Lifestyle | [Open](../apps/couple-joy-relationship-app-1624758651.md) |
+| Wave AI Note Taker & Recorder | Productivity | [Open](../apps/wave-ai-note-taker-and-recorder-6451491556.md) |
+| Hair AI: Hairstyle Filter, Cut | Lifestyle | [Open](../apps/hair-ai-hairstyle-filter-cut-6695743833.md) |
+| Phone Number Tracker: Location | Lifestyle | [Open](../apps/phone-number-tracker-location-6502455147.md) |
+| AI Video Generator, Pic・Filter | Photo & Video | [Open](../apps/ai-video-generator-pic-filter-6498628946.md) |
+| Piano ٞ | Music | [Open](../apps/piano-1126477246.md) |
+| Second Texting Number | Social Networking | [Open](../apps/second-texting-number-1274216319.md) |
+| Body Temperature App For Fever | Medical | [Open](../apps/body-temperature-app-for-fever-1516844582.md) |
+| VPN 360: Super Fast VPN Proxy | Productivity | [Open](../apps/vpn-360-super-fast-vpn-proxy-1193154948.md) |
+| MOMO陌陌-视频交友与语音聊天平台 | Social Networking | [Open](../apps/momo-448165862.md) |
+| LA Times | News | [Open](../apps/la-times-373238146.md) |
 | iScanner: PDF Document Scanner | Business | [Open](../apps/iscanner-pdf-document-scanner-1040093707.md) |
+| BrainGain - Brain Training | Education | [Open](../apps/braingain-brain-training-6475691697.md) |
+| Quiz AI: Homework Helper | Education | [Open](../apps/quiz-ai-homework-helper-6479678271.md) |
+| Antique Identifier Zophi | Photo & Video | [Open](../apps/antique-identifier-zophi-6745821219.md) |
+| GROWLR: Gay Bears Near You | Social Networking | [Open](../apps/growlr-gay-bears-near-you-393402212.md) |
+| Nerd AI - Math Problem Solver | Education | [Open](../apps/nerd-ai-math-problem-solver-6449704549.md) |
+| Phone Storage Cleaner: Free up | Utilities | [Open](../apps/phone-storage-cleaner-free-up-6449484412.md) |
+| Funny Prank Sounds Video Calls | Entertainment | [Open](../apps/funny-prank-sounds-video-calls-6444277853.md) |
+| Anghami: Play Music & Podcasts | Music | [Open](../apps/anghami-play-music-and-podcasts-545395155.md) |
+| Strava: Run, Bike, Walk | Health & Fitness | [Open](../apps/strava-run-bike-walk-426826309.md) |
+| HyNote: AI Note Taker, Summary | Productivity | [Open](../apps/hynote-ai-note-taker-summary-6478655348.md) |
+| VCharm - your AI love coach | Lifestyle | [Open](../apps/vcharm-your-ai-love-coach-6748373771.md) |
+| Speaker & Headphones Connect | Music | [Open](../apps/speaker-and-headphones-connect-1612024321.md) |
+| ABCya Games: Kids Learning App | Education | [Open](../apps/abcya-games-kids-learning-app-1079974015.md) |
+| Printer app ® | Business | [Open](../apps/printer-app-1541008027.md) |
+| Leica LUX - Pro Manual Camera | Photo & Video | [Open](../apps/leica-lux-pro-manual-camera-6477182657.md) |
+| BlazeTV: Pro-America | News | [Open](../apps/blazetv-pro-america-1080655620.md) |
+| Whoop Triggerz Plus | Music | [Open](../apps/whoop-triggerz-plus-1441880422.md) |
+| Watch Faces - WatchLab | Lifestyle | [Open](../apps/watch-faces-watchlab-6446290569.md) |
+| AI Cleaner: Clean Up Storage | Utilities | [Open](../apps/ai-cleaner-clean-up-storage-6448330325.md) |
+| AI Music: Cover & Song Maker | Music | [Open](../apps/ai-music-cover-and-song-maker-6529535168.md) |
+| eMeals - Healthy Meal Plans | Food & Drink | [Open](../apps/emeals-healthy-meal-plans-575756462.md) |
+| TOR Browser: OrNET Onion + VPN | Productivity | [Open](../apps/tor-browser-ornet-onion-vpn-1177964608.md) |
+| ChatOn AI - Chat Bot Assistant | Productivity | [Open](../apps/chaton-ai-chat-bot-assistant-1661308505.md) |
 | Tezza: Aesthetic Photo Editor | Photo & Video | [Open](../apps/tezza-aesthetic-photo-editor-1393061654.md) |
 | Solvely - AI Study Tools | Education | [Open](../apps/solvely-ai-study-tools-6446930976.md) |
 | Video Up! Video Editor & Maker | Photo & Video | [Open](../apps/video-up-video-editor-and-maker-1585824635.md) |

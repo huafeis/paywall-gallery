@@ -94,6 +94,12 @@ Education apps use subscription paywalls to communicate value and convert users 
 | EWA: Learn Languages | $36.25K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/ewa-learn-languages-1200778841.md) |
 | Mimo: Learn Coding/Programming | $35.41K | Free Trial - Soft Paywall | [Open](../apps/mimo-learn-coding-programming-1133960732.md) |
 | Clever: Brain Training Games | $34.66K | Free Trial - Soft Paywall | [Open](../apps/clever-brain-training-games-1599756543.md) |
+| Kinedu: Baby Development | $33.53K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/kinedu-baby-development-741277284.md) |
+| LogicLike: Kids Learning Games | $32.97K | Free Trial - Soft Paywall | [Open](../apps/logiclike-kids-learning-games-1565113819.md) |
+| BrainGain - Brain Training | $32.04K | Free Trial - Soft Paywall | [Open](../apps/braingain-brain-training-6475691697.md) |
+| Quiz AI: Homework Helper | $32.02K | Free Trial - Soft Paywall | [Open](../apps/quiz-ai-homework-helper-6479678271.md) |
+| Nerd AI - Math Problem Solver | $31.61K | Free Trial - Soft Paywall | [Open](../apps/nerd-ai-math-problem-solver-6449704549.md) |
+| ABCya Games: Kids Learning App | $30.75K | No Free Trial - Soft Paywall | [Open](../apps/abcya-games-kids-learning-app-1079974015.md) |
 | Solvely - AI Study Tools | $17.97K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/solvely-ai-study-tools-6446930976.md) |
 | Lingvano - Learn Sign Language | $13.58K | Free Trial - Soft Paywall | [Open](../apps/lingvano-learn-sign-language-1547252782.md) |
 | LEGO® DUPLO® MARVEL | $992 | No Free Trial - Soft Paywall | [Open](../apps/lego-duplo-marvel-1573101225.md) |

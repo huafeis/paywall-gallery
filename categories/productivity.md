@@ -39,6 +39,14 @@ Productivity apps often convert users by selling time savings, professional outp
 | Voicenotes AI Notes & Meetings | $36.71K | Free Trial - Soft Paywall | [Open](../apps/voicenotes-ai-notes-and-meetings-6483293628.md) |
 | TunnelBear: Secure VPN & Wifi | $35.56K | No Free Trial - Soft Paywall | [Open](../apps/tunnelbear-secure-vpn-and-wifi-564842283.md) |
 | TickTick:To-Do List & Calendar | $35.40K | Free Trial - Soft Paywall | [Open](../apps/ticktick-to-do-list-and-calendar-626144601.md) |
+| NaturalReader - Text To Speech | $33.48K | No Free Trial - Soft Paywall | [Open](../apps/naturalreader-text-to-speech-1487572960.md) |
+| Super AI Chat - AI Chatbot | $33.24K | Free Trial - Soft Paywall | [Open](../apps/super-ai-chat-ai-chatbot-6468887595.md) |
+| ArcSite: Floor Plans and CAD | $33.17K | Free Trial - Soft Paywall | [Open](../apps/arcsite-floor-plans-and-cad-986274256.md) |
+| Wave AI Note Taker & Recorder | $32.87K | Free Trial - Soft Paywall | [Open](../apps/wave-ai-note-taker-and-recorder-6451491556.md) |
+| VPN 360: Super Fast VPN Proxy | $32.40K | Free Trial - Soft Paywall | [Open](../apps/vpn-360-super-fast-vpn-proxy-1193154948.md) |
+| HyNote: AI Note Taker, Summary | $31.04K | Free Trial - Soft Paywall | [Open](../apps/hynote-ai-note-taker-summary-6478655348.md) |
+| TOR Browser: OrNET Onion + VPN | $30.31K | Free Trial - Soft Paywall | [Open](../apps/tor-browser-ornet-onion-vpn-1177964608.md) |
+| ChatOn AI - Chat Bot Assistant | $30.25K | Free Trial - Soft Paywall | [Open](../apps/chaton-ai-chat-bot-assistant-1661308505.md) |
 | 1Password: Password Manager | $7.15K | No Free Trial - Soft Paywall | [Open](../apps/1password-password-manager-1511601750.md) |
 | Bark - Parental Controls | $6.43K | No Free Trial - Soft Paywall | [Open](../apps/bark-parental-controls-1477619146.md) |
 | LastPass Password Manager | $4.97K | No Free Trial - Soft Paywall | [Open](../apps/lastpass-password-manager-324613447.md) |

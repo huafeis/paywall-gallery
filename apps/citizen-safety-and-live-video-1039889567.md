@@ -6,7 +6,7 @@ category: "News"
 paywall_type: "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across month"
 mrr: "$416.35K"
-rating: 4.73
+rating: 4.72
 versions_count: 2
 offers:
   - period: "month"
@@ -83,7 +83,7 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 4.73 |
+| App Store rating | 4.72 |
 | Category rank | #8 |
 | Estimated MRR | $416.35K |
 | Avg daily revenue | $31.35K |

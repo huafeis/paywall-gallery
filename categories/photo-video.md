@@ -84,6 +84,9 @@ Photo and video apps often rely on creative control, premium features, editing c
 | Beautify - Hairstyle Try On | $36.21K | No Free Trial - Soft Paywall | [Open](../apps/beautify-hairstyle-try-on-6670521987.md) |
 | YouCam Video: AI Video Editor | $34.51K | Free Trial - Soft Paywall | [Open](../apps/youcam-video-ai-video-editor-1536076386.md) |
 | Photica・Live Photo AI Animator | $33.99K | No Free Trial - Soft Paywall | [Open](../apps/photica-live-photo-ai-animator-6673907297.md) |
+| AI Video Generator, Pic・Filter | $32.66K | No Free Trial - Soft Paywall | [Open](../apps/ai-video-generator-pic-filter-6498628946.md) |
+| Antique Identifier Zophi | $31.80K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/antique-identifier-zophi-6745821219.md) |
+| Leica LUX - Pro Manual Camera | $30.54K | Free Trial - Soft Paywall | [Open](../apps/leica-lux-pro-manual-camera-6477182657.md) |
 | Tezza: Aesthetic Photo Editor | $29.88K | Free Trial - Soft Paywall | [Open](../apps/tezza-aesthetic-photo-editor-1393061654.md) |
 | Video Up! Video Editor & Maker | $14.43K | No Free Trial - Soft Paywall | [Open](../apps/video-up-video-editor-and-maker-1585824635.md) |
 | Photo Collage Maker PicJointer | $11.57K | Free Trial - Soft Paywall | [Open](../apps/photo-collage-maker-picjointer-509987785.md) |

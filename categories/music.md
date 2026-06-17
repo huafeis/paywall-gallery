@@ -46,6 +46,12 @@ Music apps often convert by selling ad-free listening, offline access, better pl
 | Voloco: Vocal Recording Studio | $36.34K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/voloco-vocal-recording-studio-1052970183.md) |
 | AI Song Music Generator: Muzio | $35.74K | No Free Trial - Soft Paywall | [Open](../apps/ai-song-music-generator-muzio-6502530415.md) |
 | Ultimate Guitar: Chords & Tabs | $35.62K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/ultimate-guitar-chords-and-tabs-357828853.md) |
+| Simple Radio - FM AM Stations | $33.67K | Free Trial - Soft Paywall | [Open](../apps/simple-radio-fm-am-stations-891132290.md) |
+| Piano ٞ | $32.64K | Free Trial - Soft Paywall | [Open](../apps/piano-1126477246.md) |
+| Anghami: Play Music & Podcasts | $31.08K | Free Trial - Soft Paywall | [Open](../apps/anghami-play-music-and-podcasts-545395155.md) |
+| Speaker & Headphones Connect | $30.76K | No Free Trial - Soft Paywall | [Open](../apps/speaker-and-headphones-connect-1612024321.md) |
+| Whoop Triggerz Plus | $30.37K | No Free Trial - Soft Paywall | [Open](../apps/whoop-triggerz-plus-1441880422.md) |
+| AI Music: Cover & Song Maker | $30.35K | No Free Trial - Soft Paywall | [Open](../apps/ai-music-cover-and-song-maker-6529535168.md) |
 | Simply Sing: My Singing App | $9.03K | Free Trial - Soft Paywall | [Open](../apps/simply-sing-my-singing-app-1592900217.md) |
 | AI Song Generator - Zona | $3.54K | No Free Trial - Soft Paywall | [Open](../apps/ai-song-generator-zona-6499261254.md) |
 

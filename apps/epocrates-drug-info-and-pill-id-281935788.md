@@ -6,7 +6,7 @@ category: "Medical"
 paywall_type: "Free Trial - Soft Paywall"
 pricing_model: "1 offer set across month, year"
 mrr: "$908.38K"
-rating: 4.46
+rating: 4.45
 versions_count: 2
 offers:
   - period: "month"
@@ -85,7 +85,7 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 4.46 |
+| App Store rating | 4.45 |
 | Category rank | #139 |
 | Estimated MRR | $908.38K |
 | Avg daily revenue | $26.19K |

@@ -47,6 +47,10 @@ Utilities apps use subscription paywalls to communicate value and convert users 
 | Universal Remote TV Control | $38.13K | Free Trial - Hard Paywall | [Open](../apps/universal-remote-tv-control-1591238748.md) |
 | RemoTV: Universal TV Remote | $37.80K | Free Trial - Soft Paywall | [Open](../apps/remotv-universal-tv-remote-6461419341.md) |
 | KeyConnect Digital Car Key | $35.32K | No Free Trial - Soft Paywall | [Open](../apps/keyconnect-digital-car-key-1492560451.md) |
+| AI Phone:Call&Voice Translator | $33.78K | Free Trial - Soft Paywall | [Open](../apps/ai-phone-call-and-voice-translator-6465173251.md) |
+| WriteSwift AI - Note Taking | $33.24K | Free Trial - Soft Paywall | [Open](../apps/writeswift-ai-note-taking-6751185513.md) |
+| Phone Storage Cleaner: Free up | $31.48K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/phone-storage-cleaner-free-up-6449484412.md) |
+| AI Cleaner: Clean Up Storage | $30.36K | Free Trial - Soft Paywall | [Open](../apps/ai-cleaner-clean-up-storage-6448330325.md) |
 | QR Reader for iPhone | $4.46K | Free Trial - Soft Paywall | [Open](../apps/qr-reader-for-iphone-368494609.md) |
 | Clean Manager: Storage Cleaner | $2.56K | Free Trial - Soft Paywall | [Open](../apps/clean-manager-storage-cleaner-1579881271.md) |
 

@@ -50,6 +50,9 @@ Social Networking apps use subscription paywalls to communicate value and conver
 | SDC Adult Dating | $38.76K | No Free Trial - Soft Paywall | [Open](../apps/sdc-adult-dating-1114616696.md) |
 | Salams: Halal Muslim Marriage | $38.61K | No Free Trial - Soft Paywall | [Open](../apps/salams-halal-muslim-marriage-965359176.md) |
 | Positive Singles®: Herpes Date | $38.26K | No Free Trial - Soft Paywall | [Open](../apps/positive-singles-herpes-date-1419085637.md) |
+| Second Texting Number | $32.61K | Free Trial - Soft Paywall | [Open](../apps/second-texting-number-1274216319.md) |
+| MOMO陌陌-视频交友与语音聊天平台 | $32.38K | No Free Trial - Soft Paywall | [Open](../apps/momo-448165862.md) |
+| GROWLR: Gay Bears Near You | $31.67K | No Free Trial - Soft Paywall | [Open](../apps/growlr-gay-bears-near-you-393402212.md) |
 | Bumpy – International Dating | $8.43K | No Free Trial - Soft Paywall | [Open](../apps/bumpy-international-dating-1455336523.md) |
 | Repost+ for Instagram . | $7.43K | Free Trial - Soft Paywall | [Open](../apps/repost-for-instagram-1477820240.md) |
 | GraceChat | $3.15K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/gracechat-1658972379.md) |

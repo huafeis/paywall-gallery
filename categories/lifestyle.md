@@ -53,6 +53,14 @@ Lifestyle apps often convert by selling better outcomes, personalization, confid
 | Lake: Coloring Book for Adults | $37.51K | Free Trial - Soft Paywall | [Open](../apps/lake-coloring-book-for-adults-1183717726.md) |
 | Watch Faces by Facer | $35.01K | No Free Trial - Soft Paywall | [Open](../apps/watch-faces-by-facer-1057071179.md) |
 | Harmoni - Health & Sleep | $34.98K | Free Trial - Soft Paywall | [Open](../apps/harmoni-health-and-sleep-6474233032.md) |
+| Breeze: Start Self-Discovery | $33.35K | Free Trial - Soft Paywall | [Open](../apps/breeze-start-self-discovery-1450365119.md) |
+| Cozy Couples: Relationship App | $33.27K | Free Trial - Soft Paywall | [Open](../apps/cozy-couples-relationship-app-6463766369.md) |
+| Couple Joy - Relationship App | $32.95K | No Free Trial - Soft Paywall | [Open](../apps/couple-joy-relationship-app-1624758651.md) |
+| Hair AI: Hairstyle Filter, Cut | $32.82K | Free Trial - Soft Paywall | [Open](../apps/hair-ai-hairstyle-filter-cut-6695743833.md) |
+| Phone Number Tracker: Location | $32.74K | No Free Trial - Soft Paywall | [Open](../apps/phone-number-tracker-location-6502455147.md) |
+| VCharm - your AI love coach | $30.89K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/vcharm-your-ai-love-coach-6748373771.md) |
+| Candid - Capture the Moment | $30.62K | Currency Paywall | [Open](../apps/candid-capture-the-moment-6755029675.md) |
+| Watch Faces - WatchLab | $30.36K | Free Trial - Soft Paywall | [Open](../apps/watch-faces-watchlab-6446290569.md) |
 | Plant Parent: Plant Care Guide | $8.63K | Free Trial - Soft Paywall | [Open](../apps/plant-parent-plant-care-guide-1612792132.md) |
 
 ## What to study

@@ -18,6 +18,7 @@ Medical apps use subscription paywalls to communicate value and convert users in
 | Full Code Medical Simulation | $48.07K | No Free Trial - Soft Paywall | [Open](../apps/full-code-medical-simulation-1207424206.md) |
 | AI Skin Scanner - SkinGuru | $44.36K | Free Trial - Soft Paywall | [Open](../apps/ai-skin-scanner-skinguru-6474288157.md) |
 | Glucose \| Blood Sugar Tracker | $39.36K | No Free Trial - Soft Paywall | [Open](../apps/glucose-blood-sugar-tracker-1135157609.md) |
+| Body Temperature App For Fever | $32.42K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/body-temperature-app-for-fever-1516844582.md) |
 
 ## What to study
 

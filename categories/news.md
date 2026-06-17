@@ -25,6 +25,9 @@ News apps use subscription paywalls to communicate value and convert users into 
 | The Atlantic Magazine | $46.89K | Free Trial - Soft Paywall | [Open](../apps/the-atlantic-magazine-397599894.md) |
 | Epoch Times: Live & Breaking | $46.82K | No Free Trial - Soft Paywall | [Open](../apps/epoch-times-live-and-breaking-670443321.md) |
 | Reddit | $43.21K | No Free Trial - Soft Paywall | [Open](../apps/reddit-1064216828.md) |
+| Wondery: Must-Hear Podcasts | $33.09K | Free Trial - Soft Paywall | [Open](../apps/wondery-must-hear-podcasts-1485913772.md) |
+| LA Times | $32.29K | Free Trial - Soft Paywall | [Open](../apps/la-times-373238146.md) |
+| BlazeTV: Pro-America | $30.43K | No Free Trial - Soft Paywall | [Open](../apps/blazetv-pro-america-1080655620.md) |
 
 ## What to study
 

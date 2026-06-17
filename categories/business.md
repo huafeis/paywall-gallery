@@ -37,6 +37,7 @@ Business apps often convert users by selling professional growth, productivity, 
 | ‎Smart Printer App: iPrint | $43.07K | Free Trial - Soft Paywall | [Open](../apps/smart-printer-app-iprint-6445919810.md) |
 | Jotform - Form, Sign & Survey | $41.38K | No Free Trial - Soft Paywall | [Open](../apps/jotform-form-sign-and-survey-1391524277.md) |
 | iScanner: PDF Document Scanner | $32.05K | Free Trial - Soft Paywall | [Open](../apps/iscanner-pdf-document-scanner-1040093707.md) |
+| Printer app ® | $30.67K | Free Trial - Soft Paywall | [Open](../apps/printer-app-1541008027.md) |
 | Invoice Maker - Invoice Fly | $10.88K | Free Trial - Soft Paywall | [Open](../apps/invoice-maker-invoice-fly-1606911248.md) |
 | ScanGuru: PDF Scanner App | $3.35K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/scanguru-pdf-scanner-app-1040149161.md) |
 
