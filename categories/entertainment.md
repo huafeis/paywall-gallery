@@ -37,6 +37,7 @@ Entertainment apps often rely on content value, exclusive access, free trials, a
 | Philo: Shows, Movies & Live TV | $35.23K | Free Trial - Soft Paywall | [Open](../apps/philo-shows-movies-and-live-tv-1248646044.md) |
 | My Drama - Stream Short Dramas | $34.42K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/my-drama-stream-short-dramas-6498713494.md) |
 | Funny Prank Sounds Video Calls | $31.12K | Free Trial - Soft Paywall | [Open](../apps/funny-prank-sounds-video-calls-6444277853.md) |
+| Quinn - Audio Stories | $27.07K | No Free Trial - Soft Paywall | [Open](../apps/quinn-audio-stories-1565600312.md) |
 
 ## What to study
 

@@ -53,6 +53,11 @@ Social Networking apps use subscription paywalls to communicate value and conver
 | Second Texting Number | $32.61K | Free Trial - Soft Paywall | [Open](../apps/second-texting-number-1274216319.md) |
 | MOMO陌陌-视频交友与语音聊天平台 | $32.38K | No Free Trial - Soft Paywall | [Open](../apps/momo-448165862.md) |
 | GROWLR: Gay Bears Near You | $31.67K | No Free Trial - Soft Paywall | [Open](../apps/growlr-gay-bears-near-you-393402212.md) |
+| Connected2.me | $29.33K | Credit Paywall | [Open](../apps/connected2-me-832556482.md) |
+| Skout Dating App & Live Chat | $28.77K | No Free Trial - Soft Paywall | [Open](../apps/skout-dating-app-and-live-chat-302324249.md) |
+| TopLive: Watch Live Streams | $28.46K | Currency Paywall | [Open](../apps/toplive-watch-live-streams-1598551382.md) |
+| Flirtini - Match, Chat, Flirt | $28.45K | No Free Trial - Soft Paywall | [Open](../apps/flirtini-match-chat-flirt-1534105525.md) |
+| ThaiFriendly Dating | $26.58K | Free Trial - Soft Paywall | [Open](../apps/thaifriendly-dating-1008710182.md) |
 | Bumpy – International Dating | $8.43K | No Free Trial - Soft Paywall | [Open](../apps/bumpy-international-dating-1455336523.md) |
 | Repost+ for Instagram . | $7.43K | Free Trial - Soft Paywall | [Open](../apps/repost-for-instagram-1477820240.md) |
 | GraceChat | $3.15K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/gracechat-1658972379.md) |

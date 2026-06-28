@@ -100,6 +100,13 @@ Education apps use subscription paywalls to communicate value and convert users 
 | Quiz AI: Homework Helper | $32.02K | Free Trial - Soft Paywall | [Open](../apps/quiz-ai-homework-helper-6479678271.md) |
 | Nerd AI - Math Problem Solver | $31.61K | Free Trial - Soft Paywall | [Open](../apps/nerd-ai-math-problem-solver-6449704549.md) |
 | ABCya Games: Kids Learning App | $30.75K | No Free Trial - Soft Paywall | [Open](../apps/abcya-games-kids-learning-app-1079974015.md) |
+| Aha World: Avatar & Family Fun | $30.20K | No Free Trial - Soft Paywall | [Open](../apps/aha-world-avatar-and-family-fun-6444042347.md) |
+| ELSA Speak - English Learning | $29.09K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/elsa-speak-english-learning-1083804886.md) |
+| Toddler Games Baby Balloon Pop | $29.01K | Free Trial - Soft Paywall | [Open](../apps/toddler-games-baby-balloon-pop-1448010566.md) |
+| Smart Tales ® Learning Games | $28.77K | Free Trial - Soft Paywall | [Open](../apps/smart-tales-learning-games-1452196861.md) |
+| iClicker Student | $28.66K | No Free Trial - Soft Paywall | [Open](../apps/iclicker-student-899690067.md) |
+| Plant Identifier: Plantiary | $28.21K | Free Trial - Soft Paywall | [Open](../apps/plant-identifier-plantiary-1596971856.md) |
+| Endless Learning Academy | $28.11K | Free Trial - Soft Paywall | [Open](../apps/endless-learning-academy-1034523226.md) |
 | Solvely - AI Study Tools | $17.97K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/solvely-ai-study-tools-6446930976.md) |
 | Lingvano - Learn Sign Language | $13.58K | Free Trial - Soft Paywall | [Open](../apps/lingvano-learn-sign-language-1547252782.md) |
 | LEGO® DUPLO® MARVEL | $992 | No Free Trial - Soft Paywall | [Open](../apps/lego-duplo-marvel-1573101225.md) |

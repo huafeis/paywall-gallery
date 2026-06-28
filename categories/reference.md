@@ -13,6 +13,7 @@ Reference apps use subscription paywalls to communicate value and convert users 
 | Lens AI & Identifier・EveryScan | $42.95K | Free Trial - Soft Paywall | [Open](../apps/lens-ai-and-identifier-everyscan-1663862037.md) |
 | Dwell: Audio Bible | $38.62K | Free Trial - Soft Paywall | [Open](../apps/dwell-audio-bible-1343917374.md) |
 | BeenVerified: People Search | $32.97K | No Free Trial - Soft Paywall | [Open](../apps/beenverified-people-search-342585873.md) |
+| Whitepages: People Search | $29.47K | No Free Trial - Soft Paywall | [Open](../apps/whitepages-people-search-287734809.md) |
 | CoinSnap: Coin Identifier | $5.70K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/coinsnap-coin-identifier-1634551626.md) |
 
 ## What to study

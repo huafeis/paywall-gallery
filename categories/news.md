@@ -28,6 +28,10 @@ News apps use subscription paywalls to communicate value and convert users into 
 | Wondery: Must-Hear Podcasts | $33.09K | Free Trial - Soft Paywall | [Open](../apps/wondery-must-hear-podcasts-1485913772.md) |
 | LA Times | $32.29K | Free Trial - Soft Paywall | [Open](../apps/la-times-373238146.md) |
 | BlazeTV: Pro-America | $30.43K | No Free Trial - Soft Paywall | [Open](../apps/blazetv-pro-america-1080655620.md) |
+| Reuters - Breaking World News | $30.09K | No Free Trial - Soft Paywall | [Open](../apps/reuters-breaking-world-news-602660809.md) |
+| USA TODAY: US & Breaking News | $29.99K | No Free Trial - Soft Paywall | [Open](../apps/usa-today-us-and-breaking-news-504631398.md) |
+| Narwhal for Reddit | $29.18K | Free Trial - Soft Paywall | [Open](../apps/narwhal-for-reddit-845422455.md) |
+| Barron’s - Investing Insights | $28.48K | Free Trial - Soft Paywall | [Open](../apps/barron-s-investing-insights-409882593.md) |
 
 ## What to study
 

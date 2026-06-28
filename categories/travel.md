@@ -13,6 +13,7 @@ Travel apps use subscription paywalls to communicate value and convert users int
 | Flight Tracker + | $109.35K | Free Trial - Soft Paywall | [Open](../apps/flight-tracker-533365777.md) |
 | Planes Live - Flight Tracker | $65.78K | Free Trial - Soft Paywall | [Open](../apps/planes-live-flight-tracker-1097815000.md) |
 | Flighty – Live Flight Tracker | $42.39K | No Free Trial - Soft Paywall | [Open](../apps/flighty-live-flight-tracker-1358823008.md) |
+| The Dyrt: RV & Free Camping | $26.73K | Free Trial - Soft Paywall | [Open](../apps/the-dyrt-rv-and-free-camping-1187626329.md) |
 
 ## What to study
 

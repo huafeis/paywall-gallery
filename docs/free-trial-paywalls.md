@@ -614,7 +614,55 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | eMeals - Healthy Meal Plans | Food & Drink | [Open](../apps/emeals-healthy-meal-plans-575756462.md) |
 | TOR Browser: OrNET Onion + VPN | Productivity | [Open](../apps/tor-browser-ornet-onion-vpn-1177964608.md) |
 | ChatOn AI - Chat Bot Assistant | Productivity | [Open](../apps/chaton-ai-chat-bot-assistant-1661308505.md) |
+| Aha World: Avatar & Family Fun | Education | [Open](../apps/aha-world-avatar-and-family-fun-6444042347.md) |
+| Pic Stitch - Collage Editor | Photo & Video | [Open](../apps/pic-stitch-collage-editor-454768104.md) |
+| Reuters - Breaking World News | News | [Open](../apps/reuters-breaking-world-news-602660809.md) |
+| USA TODAY: US & Breaking News | News | [Open](../apps/usa-today-us-and-breaking-news-504631398.md) |
 | Tezza: Aesthetic Photo Editor | Photo & Video | [Open](../apps/tezza-aesthetic-photo-editor-1393061654.md) |
+| EPIK - AI Photo & Video Editor | Photo & Video | [Open](../apps/epik-ai-photo-and-video-editor-1577705074.md) |
+| NBA: Live Games & Scores | Sports | [Open](../apps/nba-live-games-and-scores-484672289.md) |
+| Remini - AI Photo Enhancer | Photo & Video | [Open](../apps/remini-ai-photo-enhancer-1470373330.md) |
+| Whitepages: People Search | Reference | [Open](../apps/whitepages-people-search-287734809.md) |
+| Water Eject ‒ Speaker Cleaner | Music | [Open](../apps/water-eject-speaker-cleaner-6499516431.md) |
+| UDisc Disc Golf | Sports | [Open](../apps/udisc-disc-golf-1072228953.md) |
+| Plug AI: Texting Assistant | Lifestyle | [Open](../apps/plug-ai-texting-assistant-6449750416.md) |
+| Flo Cycle & Period Tracker | Health & Fitness | [Open](../apps/flo-cycle-and-period-tracker-1038369065.md) |
+| Narwhal for Reddit | News | [Open](../apps/narwhal-for-reddit-845422455.md) |
+| ELSA Speak - English Learning | Education | [Open](../apps/elsa-speak-english-learning-1083804886.md) |
+| Phone Cleaner:AI Clean Storage | Utilities | [Open](../apps/phone-cleaner-ai-clean-storage-6636528078.md) |
+| Toddler Games Baby Balloon Pop | Education | [Open](../apps/toddler-games-baby-balloon-pop-1448010566.md) |
+| Aloha Browser – Private VPN | Utilities | [Open](../apps/aloha-browser-private-vpn-1105317682.md) |
+| Wave: Small Business Software | Business | [Open](../apps/wave-small-business-software-881629660.md) |
+| Prove It - Supplement Scanner | Health & Fitness | [Open](../apps/prove-it-supplement-scanner-6740288836.md) |
+| Smart Tales ® Learning Games | Education | [Open](../apps/smart-tales-learning-games-1452196861.md) |
+| Skout Dating App & Live Chat | Social Networking | [Open](../apps/skout-dating-app-and-live-chat-302324249.md) |
+| iClicker Student | Education | [Open](../apps/iclicker-student-899690067.md) |
+| Photoroom: AI Photo Editor | Photo & Video | [Open](../apps/photoroom-ai-photo-editor-1455009060.md) |
+| Bedtime Fan: White Noise Baby | Health & Fitness | [Open](../apps/bedtime-fan-white-noise-baby-907295335.md) |
+| VocalMe: AI Music Generator | Music | [Open](../apps/vocalme-ai-music-generator-6479740642.md) |
+| Scoreholio | Sports | [Open](../apps/scoreholio-1370777926.md) |
+| Barron’s - Investing Insights | News | [Open](../apps/barron-s-investing-insights-409882593.md) |
+| Flirtini - Match, Chat, Flirt | Social Networking | [Open](../apps/flirtini-match-chat-flirt-1534105525.md) |
+| SongShift | Music | [Open](../apps/songshift-1097974566.md) |
+| Call Recorder iCall | Business | [Open](../apps/call-recorder-icall-1447098963.md) |
+| Plant Identifier: Plantiary | Education | [Open](../apps/plant-identifier-plantiary-1596971856.md) |
+| Endless Learning Academy | Education | [Open](../apps/endless-learning-academy-1034523226.md) |
+| GRIDS Post maker for Instagram | Photo & Video | [Open](../apps/grids-post-maker-for-instagram-666575203.md) |
+| Chat AI - Ask Anything | Productivity | [Open](../apps/chat-ai-ask-anything-1660877567.md) |
+| Onform: Video Analysis App | Sports | [Open](../apps/onform-video-analysis-app-1490334045.md) |
+| Teleprompter for Video | Photo & Video | [Open](../apps/teleprompter-for-video-1139307843.md) |
+| Quinn - Audio Stories | Entertainment | [Open](../apps/quinn-audio-stories-1565600312.md) |
+| Keto Diet App － Carb Tracker | Health & Fitness | [Open](../apps/keto-diet-app-carb-tracker-1406879426.md) |
+| Expert Cleaner - Clean Storage | Productivity | [Open](../apps/expert-cleaner-clean-storage-6702024252.md) |
+| VivaVideo - Video Cut & Editor | Photo & Video | [Open](../apps/vivavideo-video-cut-and-editor-738897668.md) |
+| Avast One: Security & Privacy | Utilities | [Open](../apps/avast-one-security-and-privacy-1276551855.md) |
+| Poe – Fast AI Chat | Productivity | [Open](../apps/poe-fast-ai-chat-1640745955.md) |
+| The Dyrt: RV & Free Camping | Travel | [Open](../apps/the-dyrt-rv-and-free-camping-1187626329.md) |
+| Garmin Golf | Sports | [Open](../apps/garmin-golf-1192480582.md) |
+| Poke Genie -Remote Raid IV PvP | Utilities | [Open](../apps/poke-genie-remote-raid-iv-pvp-1143920524.md) |
+| ThaiFriendly Dating | Social Networking | [Open](../apps/thaifriendly-dating-1008710182.md) |
+| NFHS Network | Sports | [Open](../apps/nfhs-network-1116186798.md) |
+| Tap Gallery: Block Tap Away | Games | [Open](../apps/tap-gallery-block-tap-away-6499528122.md) |
 | Solvely - AI Study Tools | Education | [Open](../apps/solvely-ai-study-tools-6446930976.md) |
 | Video Up! Video Editor & Maker | Photo & Video | [Open](../apps/video-up-video-editor-and-maker-1585824635.md) |
 | Fishbrain - Fishing App | Sports | [Open](../apps/fishbrain-fishing-app-477967747.md) |

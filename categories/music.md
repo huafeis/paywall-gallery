@@ -52,6 +52,9 @@ Music apps often convert by selling ad-free listening, offline access, better pl
 | Speaker & Headphones Connect | $30.76K | No Free Trial - Soft Paywall | [Open](../apps/speaker-and-headphones-connect-1612024321.md) |
 | Whoop Triggerz Plus | $30.37K | No Free Trial - Soft Paywall | [Open](../apps/whoop-triggerz-plus-1441880422.md) |
 | AI Music: Cover & Song Maker | $30.35K | No Free Trial - Soft Paywall | [Open](../apps/ai-music-cover-and-song-maker-6529535168.md) |
+| Water Eject ‒ Speaker Cleaner | $29.40K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/water-eject-speaker-cleaner-6499516431.md) |
+| VocalMe: AI Music Generator | $28.58K | No Free Trial - Soft Paywall | [Open](../apps/vocalme-ai-music-generator-6479740642.md) |
+| SongShift | $28.41K | No Free Trial - Soft Paywall | [Open](../apps/songshift-1097974566.md) |
 | Simply Sing: My Singing App | $9.03K | Free Trial - Soft Paywall | [Open](../apps/simply-sing-my-singing-app-1592900217.md) |
 | AI Song Generator - Zona | $3.54K | No Free Trial - Soft Paywall | [Open](../apps/ai-song-generator-zona-6499261254.md) |
 

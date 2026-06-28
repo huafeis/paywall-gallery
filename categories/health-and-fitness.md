@@ -67,6 +67,10 @@ Health & Fitness apps use subscription paywalls to communicate value and convert
 | HeartFit - BP Health Tracker | $33.80K | No Free Trial - Soft Paywall | [Open](../apps/heartfit-bp-health-tracker-6739602668.md) |
 | JEFIT Workout Plan Gym Tracker | $33.70K | No Free Trial - Soft Paywall | [Open](../apps/jefit-workout-plan-gym-tracker-449810000.md) |
 | Strava: Run, Bike, Walk | $31.06K | Free Trial - Soft Paywall | [Open](../apps/strava-run-bike-walk-426826309.md) |
+| Flo Cycle & Period Tracker | $29.23K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/flo-cycle-and-period-tracker-1038369065.md) |
+| Prove It - Supplement Scanner | $28.87K | No Free Trial - Hard Paywall | [Open](../apps/prove-it-supplement-scanner-6740288836.md) |
+| Bedtime Fan: White Noise Baby | $28.61K | Free Trial - Soft Paywall | [Open](../apps/bedtime-fan-white-noise-baby-907295335.md) |
+| Keto Diet App － Carb Tracker | $27.06K | No Free Trial - Soft Paywall | [Open](../apps/keto-diet-app-carb-tracker-1406879426.md) |
 | Headspace: Sleep & Meditation | $10.56K | Free Trial - Soft Paywall | [Open](../apps/headspace-sleep-and-meditation-493145008.md) |
 | Calorie Counter & Food Tracker | $8.50K | No Free Trial - Soft Paywall | [Open](../apps/calorie-counter-and-food-tracker-6474290049.md) |
 | InPulse - Heart Rate Monitor | $7.32K | Free Trial - Soft Paywall | [Open](../apps/inpulse-heart-rate-monitor-1489944782.md) |

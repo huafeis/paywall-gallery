@@ -87,7 +87,14 @@ Photo and video apps often rely on creative control, premium features, editing c
 | AI Video Generator, Pic・Filter | $32.66K | No Free Trial - Soft Paywall | [Open](../apps/ai-video-generator-pic-filter-6498628946.md) |
 | Antique Identifier Zophi | $31.80K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/antique-identifier-zophi-6745821219.md) |
 | Leica LUX - Pro Manual Camera | $30.54K | Free Trial - Soft Paywall | [Open](../apps/leica-lux-pro-manual-camera-6477182657.md) |
+| Pic Stitch - Collage Editor | $30.18K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/pic-stitch-collage-editor-454768104.md) |
 | Tezza: Aesthetic Photo Editor | $29.88K | Free Trial - Soft Paywall | [Open](../apps/tezza-aesthetic-photo-editor-1393061654.md) |
+| EPIK - AI Photo & Video Editor | $29.66K | Free Trial - Soft Paywall | [Open](../apps/epik-ai-photo-and-video-editor-1577705074.md) |
+| Remini - AI Photo Enhancer | $29.54K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/remini-ai-photo-enhancer-1470373330.md) |
+| Photoroom: AI Photo Editor | $28.64K | No Free Trial - Soft Paywall | [Open](../apps/photoroom-ai-photo-editor-1455009060.md) |
+| GRIDS Post maker for Instagram | $27.95K | Free Trial - Hard Paywall | [Open](../apps/grids-post-maker-for-instagram-666575203.md) |
+| Teleprompter for Video | $27.43K | Free Trial - Soft Paywall | [Open](../apps/teleprompter-for-video-1139307843.md) |
+| VivaVideo - Video Cut & Editor | $26.98K | Free Trial - Soft Paywall | [Open](../apps/vivavideo-video-cut-and-editor-738897668.md) |
 | Video Up! Video Editor & Maker | $14.43K | No Free Trial - Soft Paywall | [Open](../apps/video-up-video-editor-and-maker-1585824635.md) |
 | Photo Collage Maker PicJointer | $11.57K | Free Trial - Soft Paywall | [Open](../apps/photo-collage-maker-picjointer-509987785.md) |
 | Rumble: Livestreams & Videos | $9.34K | No Free Trial - Soft Paywall | [Open](../apps/rumble-livestreams-and-videos-1518427877.md) |

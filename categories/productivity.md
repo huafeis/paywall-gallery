@@ -47,6 +47,9 @@ Productivity apps often convert users by selling time savings, professional outp
 | HyNote: AI Note Taker, Summary | $31.04K | Free Trial - Soft Paywall | [Open](../apps/hynote-ai-note-taker-summary-6478655348.md) |
 | TOR Browser: OrNET Onion + VPN | $30.31K | Free Trial - Soft Paywall | [Open](../apps/tor-browser-ornet-onion-vpn-1177964608.md) |
 | ChatOn AI - Chat Bot Assistant | $30.25K | Free Trial - Soft Paywall | [Open](../apps/chaton-ai-chat-bot-assistant-1661308505.md) |
+| Chat AI - Ask Anything | $27.94K | Free Trial - Soft Paywall | [Open](../apps/chat-ai-ask-anything-1660877567.md) |
+| Expert Cleaner - Clean Storage | $26.99K | Free Trial - Soft Paywall | [Open](../apps/expert-cleaner-clean-storage-6702024252.md) |
+| Poe – Fast AI Chat | $26.74K | No Free Trial - Soft Paywall | [Open](../apps/poe-fast-ai-chat-1640745955.md) |
 | 1Password: Password Manager | $7.15K | No Free Trial - Soft Paywall | [Open](../apps/1password-password-manager-1511601750.md) |
 | Bark - Parental Controls | $6.43K | No Free Trial - Soft Paywall | [Open](../apps/bark-parental-controls-1477619146.md) |
 | LastPass Password Manager | $4.97K | No Free Trial - Soft Paywall | [Open](../apps/lastpass-password-manager-324613447.md) |

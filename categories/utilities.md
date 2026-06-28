@@ -51,6 +51,10 @@ Utilities apps use subscription paywalls to communicate value and convert users 
 | WriteSwift AI - Note Taking | $33.24K | Free Trial - Soft Paywall | [Open](../apps/writeswift-ai-note-taking-6751185513.md) |
 | Phone Storage Cleaner: Free up | $31.48K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/phone-storage-cleaner-free-up-6449484412.md) |
 | AI Cleaner: Clean Up Storage | $30.36K | Free Trial - Soft Paywall | [Open](../apps/ai-cleaner-clean-up-storage-6448330325.md) |
+| Phone Cleaner:AI Clean Storage | $29.02K | Free Trial - Soft Paywall | [Open](../apps/phone-cleaner-ai-clean-storage-6636528078.md) |
+| Aloha Browser – Private VPN | $28.95K | No Free Trial - Soft Paywall | [Open](../apps/aloha-browser-private-vpn-1105317682.md) |
+| Avast One: Security & Privacy | $26.97K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/avast-one-security-and-privacy-1276551855.md) |
+| Poke Genie -Remote Raid IV PvP | $26.62K | No Free Trial - Soft Paywall | [Open](../apps/poke-genie-remote-raid-iv-pvp-1143920524.md) |
 | QR Reader for iPhone | $4.46K | Free Trial - Soft Paywall | [Open](../apps/qr-reader-for-iphone-368494609.md) |
 | Clean Manager: Storage Cleaner | $2.56K | Free Trial - Soft Paywall | [Open](../apps/clean-manager-storage-cleaner-1579881271.md) |
 

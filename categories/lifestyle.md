@@ -61,6 +61,7 @@ Lifestyle apps often convert by selling better outcomes, personalization, confid
 | VCharm - your AI love coach | $30.89K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/vcharm-your-ai-love-coach-6748373771.md) |
 | Candid - Capture the Moment | $30.62K | Currency Paywall | [Open](../apps/candid-capture-the-moment-6755029675.md) |
 | Watch Faces - WatchLab | $30.36K | Free Trial - Soft Paywall | [Open](../apps/watch-faces-watchlab-6446290569.md) |
+| Plug AI: Texting Assistant | $29.25K | Free Trial - Soft Paywall | [Open](../apps/plug-ai-texting-assistant-6449750416.md) |
 | Plant Parent: Plant Care Guide | $8.63K | Free Trial - Soft Paywall | [Open](../apps/plant-parent-plant-care-guide-1612792132.md) |
 
 ## What to study
