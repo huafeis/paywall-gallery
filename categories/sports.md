@@ -35,6 +35,8 @@ Sports apps use subscription paywalls to communicate value and convert users int
 | Onform: Video Analysis App | $27.46K | No Free Trial - Soft Paywall | [Open](../apps/onform-video-analysis-app-1490334045.md) |
 | Garmin Golf | $26.72K | Free Trial - Soft Paywall | [Open](../apps/garmin-golf-1192480582.md) |
 | NFHS Network | $26.55K | No Free Trial - Soft Paywall | [Open](../apps/nfhs-network-1116186798.md) |
+| Marquee Sports Network | $25.03K | No Free Trial - Soft Paywall | [Open](../apps/marquee-sports-network-1497058186.md) |
+| Cardstock: Sports Card Scanner | $24.40K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/cardstock-sports-card-scanner-1508888618.md) |
 | Fishbrain - Fishing App | $14.20K | Free Trial - Soft Paywall | [Open](../apps/fishbrain-fishing-app-477967747.md) |
 | B1G+: Watch College Sports | $8.46K | No Free Trial - Soft Paywall | [Open](../apps/b1g-watch-college-sports-474679690.md) |
 | Outlier: Smart Sports Betting | $6.17K | Free Trial - Soft Paywall | [Open](../apps/outlier-smart-sports-betting-6443885102.md) |

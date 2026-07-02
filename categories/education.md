@@ -107,6 +107,17 @@ Education apps use subscription paywalls to communicate value and convert users 
 | iClicker Student | $28.66K | No Free Trial - Soft Paywall | [Open](../apps/iclicker-student-899690067.md) |
 | Plant Identifier: Plantiary | $28.21K | Free Trial - Soft Paywall | [Open](../apps/plant-identifier-plantiary-1596971856.md) |
 | Endless Learning Academy | $28.11K | Free Trial - Soft Paywall | [Open](../apps/endless-learning-academy-1034523226.md) |
+| Hearty App: Everyday Bonding | $26.32K | No Free Trial - Soft Paywall | [Open](../apps/hearty-app-everyday-bonding-1567076603.md) |
+| Wiser: Bite-Sized Learning | $25.99K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/wiser-bite-sized-learning-1619331385.md) |
+| Promova: Language Learning App | $25.98K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/promova-language-learning-app-1460782849.md) |
+| Beauty Salon Games for Girls | $25.89K | Free Trial - Hard Paywall | [Open](../apps/beauty-salon-games-for-girls-6450780939.md) |
+| Paladin: Learn History | $25.86K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/paladin-learn-history-6511242367.md) |
+| Pocket Prep EMS 2026 | $25.30K | No Free Trial - Soft Paywall | [Open](../apps/pocket-prep-ems-2026-1503584128.md) |
+| LEGO® Bluey | $24.56K | No Free Trial - Soft Paywall | [Open](../apps/lego-bluey-6740210196.md) |
+| Babbel - Language Learning | $24.34K | No Free Trial - Soft Paywall | [Open](../apps/babbel-language-learning-829587759.md) |
+| Plant App: Plant Identifier | $24.25K | Free Trial - Soft Paywall | [Open](../apps/plant-app-plant-identifier-1595795215.md) |
+| Toddler Games For 2 Year Olds. | $24.23K | Free Trial - Soft Paywall | [Open](../apps/toddler-games-for-2-year-olds-571421198.md) |
+| Montessori Preschool, Kids 3-7 | $23.72K | Free Trial - Soft Paywall | [Open](../apps/montessori-preschool-kids-3-7-1138436619.md) |
 | Solvely - AI Study Tools | $17.97K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/solvely-ai-study-tools-6446930976.md) |
 | Lingvano - Learn Sign Language | $13.58K | Free Trial - Soft Paywall | [Open](../apps/lingvano-learn-sign-language-1547252782.md) |
 | LEGO® DUPLO® MARVEL | $992 | No Free Trial - Soft Paywall | [Open](../apps/lego-duplo-marvel-1573101225.md) |

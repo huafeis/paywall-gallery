@@ -10,6 +10,8 @@ Navigation apps use subscription paywalls to communicate value and convert users
 |---|---:|---|---|
 | onX Hunt: GPS Hunting Maps | $146.07K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/onx-hunt-gps-hunting-maps-672902340.md) |
 | Trucker Path: Truck GPS & Fuel | $50.58K | Free Trial - Soft Paywall | [Open](../apps/trucker-path-truck-gps-and-fuel-782746890.md) |
+| LandGlide: Land & Field Maps | $26.31K | Free Trial - Soft Paywall | [Open](../apps/landglide-land-and-field-maps-560902465.md) |
+| Wellsite Navigator | $24.30K | Free Trial - Soft Paywall | [Open](../apps/wellsite-navigator-594298510.md) |
 
 ## What to study
 

@@ -71,6 +71,9 @@ Health & Fitness apps use subscription paywalls to communicate value and convert
 | Prove It - Supplement Scanner | $28.87K | No Free Trial - Hard Paywall | [Open](../apps/prove-it-supplement-scanner-6740288836.md) |
 | Bedtime Fan: White Noise Baby | $28.61K | Free Trial - Soft Paywall | [Open](../apps/bedtime-fan-white-noise-baby-907295335.md) |
 | Keto Diet App － Carb Tracker | $27.06K | No Free Trial - Soft Paywall | [Open](../apps/keto-diet-app-carb-tracker-1406879426.md) |
+| 5K Runner: couch potato to 5K | $25.80K | Free Trial - Hard Paywall | [Open](../apps/5k-runner-couch-potato-to-5k-448357306.md) |
+| Calm | $24.67K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/calm-571800810.md) |
+| QuickPulse: Blood Pressure | $23.75K | No Free Trial - Soft Paywall | [Open](../apps/quickpulse-blood-pressure-6742134509.md) |
 | Headspace: Sleep & Meditation | $10.56K | Free Trial - Soft Paywall | [Open](../apps/headspace-sleep-and-meditation-493145008.md) |
 | Calorie Counter & Food Tracker | $8.50K | No Free Trial - Soft Paywall | [Open](../apps/calorie-counter-and-food-tracker-6474290049.md) |
 | InPulse - Heart Rate Monitor | $7.32K | Free Trial - Soft Paywall | [Open](../apps/inpulse-heart-rate-monitor-1489944782.md) |

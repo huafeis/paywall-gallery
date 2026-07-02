@@ -55,6 +55,8 @@ Utilities apps use subscription paywalls to communicate value and convert users 
 | Aloha Browser – Private VPN | $28.95K | No Free Trial - Soft Paywall | [Open](../apps/aloha-browser-private-vpn-1105317682.md) |
 | Avast One: Security & Privacy | $26.97K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/avast-one-security-and-privacy-1276551855.md) |
 | Poke Genie -Remote Raid IV PvP | $26.62K | No Free Trial - Soft Paywall | [Open](../apps/poke-genie-remote-raid-iv-pvp-1143920524.md) |
+| Phoner: Second Phone Number | $26.12K | No Free Trial - Soft Paywall | [Open](../apps/phoner-second-phone-number-1050267310.md) |
+| Avantero: Privacy Defender | $25.47K | No Free Trial - Soft Paywall | [Open](../apps/avantero-privacy-defender-6466796980.md) |
 | QR Reader for iPhone | $4.46K | Free Trial - Soft Paywall | [Open](../apps/qr-reader-for-iphone-368494609.md) |
 | Clean Manager: Storage Cleaner | $2.56K | Free Trial - Soft Paywall | [Open](../apps/clean-manager-storage-cleaner-1579881271.md) |
 

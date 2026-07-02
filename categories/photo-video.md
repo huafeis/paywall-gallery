@@ -95,6 +95,9 @@ Photo and video apps often rely on creative control, premium features, editing c
 | GRIDS Post maker for Instagram | $27.95K | Free Trial - Hard Paywall | [Open](../apps/grids-post-maker-for-instagram-666575203.md) |
 | Teleprompter for Video | $27.43K | Free Trial - Soft Paywall | [Open](../apps/teleprompter-for-video-1139307843.md) |
 | VivaVideo - Video Cut & Editor | $26.98K | Free Trial - Soft Paywall | [Open](../apps/vivavideo-video-cut-and-editor-738897668.md) |
+| Pixelup: AI Photo Enhancer App | $25.82K | Free Trial - Soft Paywall | [Open](../apps/pixelup-ai-photo-enhancer-app-1589599169.md) |
+| AI Video Generator - PictoPop | $25.71K | No Free Trial - Soft Paywall, Credit Paywall | [Open](../apps/ai-video-generator-pictopop-1552672537.md) |
+| Filmic Pro－Video Camera | $25.17K | Free Trial - Soft Paywall | [Open](../apps/filmic-pro-video-camera-436577167.md) |
 | Video Up! Video Editor & Maker | $14.43K | No Free Trial - Soft Paywall | [Open](../apps/video-up-video-editor-and-maker-1585824635.md) |
 | Photo Collage Maker PicJointer | $11.57K | Free Trial - Soft Paywall | [Open](../apps/photo-collage-maker-picjointer-509987785.md) |
 | Rumble: Livestreams & Videos | $9.34K | No Free Trial - Soft Paywall | [Open](../apps/rumble-livestreams-and-videos-1518427877.md) |

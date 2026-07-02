@@ -14,6 +14,8 @@ Travel apps use subscription paywalls to communicate value and convert users int
 | Planes Live - Flight Tracker | $65.78K | Free Trial - Soft Paywall | [Open](../apps/planes-live-flight-tracker-1097815000.md) |
 | Flighty – Live Flight Tracker | $42.39K | No Free Trial - Soft Paywall | [Open](../apps/flighty-live-flight-tracker-1358823008.md) |
 | The Dyrt: RV & Free Camping | $26.73K | Free Trial - Soft Paywall | [Open](../apps/the-dyrt-rv-and-free-camping-1187626329.md) |
+| Airclub - Flight Deals | $26.36K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/airclub-flight-deals-6740247064.md) |
+| Track My Flight Now | $23.75K | Free Trial - Soft Paywall | [Open](../apps/track-my-flight-now-1666079904.md) |
 
 ## What to study
 

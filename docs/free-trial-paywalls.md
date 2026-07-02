@@ -663,6 +663,56 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | ThaiFriendly Dating | Social Networking | [Open](../apps/thaifriendly-dating-1008710182.md) |
 | NFHS Network | Sports | [Open](../apps/nfhs-network-1116186798.md) |
 | Tap Gallery: Block Tap Away | Games | [Open](../apps/tap-gallery-block-tap-away-6499528122.md) |
+| Airclub - Flight Deals | Travel | [Open](../apps/airclub-flight-deals-6740247064.md) |
+| Hearty App: Everyday Bonding | Education | [Open](../apps/hearty-app-everyday-bonding-1567076603.md) |
+| LandGlide: Land & Field Maps | Navigation | [Open](../apps/landglide-land-and-field-maps-560902465.md) |
+| SnackShort | Entertainment | [Open](../apps/snackshort-6450035850.md) |
+| Punchbowl: Invitations & Cards | Lifestyle | [Open](../apps/punchbowl-invitations-and-cards-628215241.md) |
+| Phoner: Second Phone Number | Utilities | [Open](../apps/phoner-second-phone-number-1050267310.md) |
+| Wiser: Bite-Sized Learning | Education | [Open](../apps/wiser-bite-sized-learning-1619331385.md) |
+| Promova: Language Learning App | Education | [Open](../apps/promova-language-learning-app-1460782849.md) |
+| Beauty Salon Games for Girls | Education | [Open](../apps/beauty-salon-games-for-girls-6450780939.md) |
+| Paladin: Learn History | Education | [Open](../apps/paladin-learn-history-6511242367.md) |
+| Pixelup: AI Photo Enhancer App | Photo & Video | [Open](../apps/pixelup-ai-photo-enhancer-app-1589599169.md) |
+| 5K Runner: couch potato to 5K | Health & Fitness | [Open](../apps/5k-runner-couch-potato-to-5k-448357306.md) |
+| Jacquie Lawson Ecards | Lifestyle | [Open](../apps/jacquie-lawson-ecards-1538019085.md) |
+| AI Video Generator - PictoPop | Photo & Video | [Open](../apps/ai-video-generator-pictopop-1552672537.md) |
+| Uvoo - Connect, Share & Enjoy | Lifestyle | [Open](../apps/uvoo-connect-share-and-enjoy-6746151141.md) |
+| Avantero: Privacy Defender | Utilities | [Open](../apps/avantero-privacy-defender-6466796980.md) |
+| VPN Proxy Master - Super VPN | Productivity | [Open](../apps/vpn-proxy-master-super-vpn-1025707485.md) |
+| Viorix | Productivity | [Open](../apps/viorix-6448087510.md) |
+| Pocket Prep EMS 2026 | Education | [Open](../apps/pocket-prep-ems-2026-1503584128.md) |
+| MaxProtection VPN PRO | Productivity | [Open](../apps/maxprotection-vpn-pro-6743002311.md) |
+| Calendars: Schedule Planner | Productivity | [Open](../apps/calendars-schedule-planner-608834326.md) |
+| Hilo - Connect, Share, Enjoy | Lifestyle | [Open](../apps/hilo-connect-share-enjoy-6746736263.md) |
+| Filmic Pro－Video Camera | Photo & Video | [Open](../apps/filmic-pro-video-camera-436577167.md) |
+| magicplan | Productivity | [Open](../apps/magicplan-427424432.md) |
+| CyberGhost: Safe & Private VPN | Productivity | [Open](../apps/cyberghost-safe-and-private-vpn-583009522.md) |
+| Marquee Sports Network | Sports | [Open](../apps/marquee-sports-network-1497058186.md) |
+| Bible Bff-Modern Bible Stories | Reference | [Open](../apps/bible-bff-modern-bible-stories-6745900126.md) |
+| Home Security - Camera Scanner | Lifestyle | [Open](../apps/home-security-camera-scanner-6478574268.md) |
+| Smart Printer App: Print, Scan | Business | [Open](../apps/smart-printer-app-print-scan-6450398308.md) |
+| The San Francisco Chronicle | News | [Open](../apps/the-san-francisco-chronicle-423260205.md) |
+| Calm | Health & Fitness | [Open](../apps/calm-571800810.md) |
+| YOUKU-Drama, Film, Show, Anime | Entertainment | [Open](../apps/youku-drama-film-show-anime-1619761040.md) |
+| LEGO® Bluey | Education | [Open](../apps/lego-bluey-6740210196.md) |
+| Led Light Controller Home App | Lifestyle | [Open](../apps/led-light-controller-home-app-1670269554.md) |
+| Text App: Wifi Calling+Texting | Social Networking | [Open](../apps/text-app-wifi-calling-texting-1507375125.md) |
+| Toybox: 3D Print your own toys | Entertainment | [Open](../apps/toybox-3d-print-your-own-toys-1166269606.md) |
+| Smart Home - Remote Control | Lifestyle | [Open](../apps/smart-home-remote-control-6738117098.md) |
+| Cardstock: Sports Card Scanner | Sports | [Open](../apps/cardstock-sports-card-scanner-1508888618.md) |
+| iTranscribe - Audio to Text | Productivity | [Open](../apps/itranscribe-audio-to-text-1639842068.md) |
+| Babbel - Language Learning | Education | [Open](../apps/babbel-language-learning-829587759.md) |
+| Wellsite Navigator | Navigation | [Open](../apps/wellsite-navigator-594298510.md) |
+| Plant App: Plant Identifier | Education | [Open](../apps/plant-app-plant-identifier-1595795215.md) |
+| Toddler Games For 2 Year Olds. | Education | [Open](../apps/toddler-games-for-2-year-olds-571421198.md) |
+| Seed Oil Scout: Healthy Dining | Food & Drink | [Open](../apps/seed-oil-scout-healthy-dining-1627514527.md) |
+| Abide: Bible Prayer Meditation | Reference | [Open](../apps/abide-bible-prayer-meditation-726031617.md) |
+| Meetup: Social Events & Groups | Social Networking | [Open](../apps/meetup-social-events-and-groups-375990038.md) |
+| Track My Flight Now | Travel | [Open](../apps/track-my-flight-now-1666079904.md) |
+| QuickPulse: Blood Pressure | Health & Fitness | [Open](../apps/quickpulse-blood-pressure-6742134509.md) |
+| Montessori Preschool, Kids 3-7 | Education | [Open](../apps/montessori-preschool-kids-3-7-1138436619.md) |
+| Prepry - ARDMS & CCI Exam Prep | Medical | [Open](../apps/prepry-ardms-and-cci-exam-prep-1481825715.md) |
 | Solvely - AI Study Tools | Education | [Open](../apps/solvely-ai-study-tools-6446930976.md) |
 | Video Up! Video Editor & Maker | Photo & Video | [Open](../apps/video-up-video-editor-and-maker-1585824635.md) |
 | Fishbrain - Fishing App | Sports | [Open](../apps/fishbrain-fishing-app-477967747.md) |

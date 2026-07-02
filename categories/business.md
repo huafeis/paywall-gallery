@@ -40,6 +40,7 @@ Business apps often convert users by selling professional growth, productivity, 
 | Printer app ® | $30.67K | Free Trial - Soft Paywall | [Open](../apps/printer-app-1541008027.md) |
 | Wave: Small Business Software | $28.93K | No Free Trial - Soft Paywall | [Open](../apps/wave-small-business-software-881629660.md) |
 | Call Recorder iCall | $28.39K | Free Trial - Soft Paywall | [Open](../apps/call-recorder-icall-1447098963.md) |
+| Smart Printer App: Print, Scan | $24.94K | Free Trial - Soft Paywall | [Open](../apps/smart-printer-app-print-scan-6450398308.md) |
 | Invoice Maker - Invoice Fly | $10.88K | Free Trial - Soft Paywall | [Open](../apps/invoice-maker-invoice-fly-1606911248.md) |
 | ScanGuru: PDF Scanner App | $3.35K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/scanguru-pdf-scanner-app-1040149161.md) |
 

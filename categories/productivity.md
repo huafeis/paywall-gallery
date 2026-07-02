@@ -50,6 +50,13 @@ Productivity apps often convert users by selling time savings, professional outp
 | Chat AI - Ask Anything | $27.94K | Free Trial - Soft Paywall | [Open](../apps/chat-ai-ask-anything-1660877567.md) |
 | Expert Cleaner - Clean Storage | $26.99K | Free Trial - Soft Paywall | [Open](../apps/expert-cleaner-clean-storage-6702024252.md) |
 | Poe – Fast AI Chat | $26.74K | No Free Trial - Soft Paywall | [Open](../apps/poe-fast-ai-chat-1640745955.md) |
+| VPN Proxy Master - Super VPN | $25.39K | Free Trial - Soft Paywall | [Open](../apps/vpn-proxy-master-super-vpn-1025707485.md) |
+| Viorix | $25.37K | Free Trial - Soft Paywall | [Open](../apps/viorix-6448087510.md) |
+| MaxProtection VPN PRO | $25.28K | No Free Trial - Soft Paywall | [Open](../apps/maxprotection-vpn-pro-6743002311.md) |
+| Calendars: Schedule Planner | $25.27K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/calendars-schedule-planner-608834326.md) |
+| magicplan | $25.11K | No Free Trial - Soft Paywall | [Open](../apps/magicplan-427424432.md) |
+| CyberGhost: Safe & Private VPN | $25.06K | Free Trial - Soft Paywall | [Open](../apps/cyberghost-safe-and-private-vpn-583009522.md) |
+| iTranscribe - Audio to Text | $24.35K | Free Trial - Soft Paywall | [Open](../apps/itranscribe-audio-to-text-1639842068.md) |
 | 1Password: Password Manager | $7.15K | No Free Trial - Soft Paywall | [Open](../apps/1password-password-manager-1511601750.md) |
 | Bark - Parental Controls | $6.43K | No Free Trial - Soft Paywall | [Open](../apps/bark-parental-controls-1477619146.md) |
 | LastPass Password Manager | $4.97K | No Free Trial - Soft Paywall | [Open](../apps/lastpass-password-manager-324613447.md) |

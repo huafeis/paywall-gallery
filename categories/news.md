@@ -32,6 +32,7 @@ News apps use subscription paywalls to communicate value and convert users into 
 | USA TODAY: US & Breaking News | $29.99K | No Free Trial - Soft Paywall | [Open](../apps/usa-today-us-and-breaking-news-504631398.md) |
 | Narwhal for Reddit | $29.18K | Free Trial - Soft Paywall | [Open](../apps/narwhal-for-reddit-845422455.md) |
 | Barron’s - Investing Insights | $28.48K | Free Trial - Soft Paywall | [Open](../apps/barron-s-investing-insights-409882593.md) |
+| The San Francisco Chronicle | $24.91K | Free Trial - Soft Paywall | [Open](../apps/the-san-francisco-chronicle-423260205.md) |
 
 ## What to study
 

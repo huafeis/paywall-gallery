@@ -58,6 +58,8 @@ Social Networking apps use subscription paywalls to communicate value and conver
 | TopLive: Watch Live Streams | $28.46K | Currency Paywall | [Open](../apps/toplive-watch-live-streams-1598551382.md) |
 | Flirtini - Match, Chat, Flirt | $28.45K | No Free Trial - Soft Paywall | [Open](../apps/flirtini-match-chat-flirt-1534105525.md) |
 | ThaiFriendly Dating | $26.58K | Free Trial - Soft Paywall | [Open](../apps/thaifriendly-dating-1008710182.md) |
+| Text App: Wifi Calling+Texting | $24.49K | Free Trial - Soft Paywall | [Open](../apps/text-app-wifi-calling-texting-1507375125.md) |
+| Meetup: Social Events & Groups | $23.79K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/meetup-social-events-and-groups-375990038.md) |
 | Bumpy – International Dating | $8.43K | No Free Trial - Soft Paywall | [Open](../apps/bumpy-international-dating-1455336523.md) |
 | Repost+ for Instagram . | $7.43K | Free Trial - Soft Paywall | [Open](../apps/repost-for-instagram-1477820240.md) |
 | GraceChat | $3.15K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/gracechat-1658972379.md) |

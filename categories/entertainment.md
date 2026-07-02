@@ -38,6 +38,9 @@ Entertainment apps often rely on content value, exclusive access, free trials, a
 | My Drama - Stream Short Dramas | $34.42K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/my-drama-stream-short-dramas-6498713494.md) |
 | Funny Prank Sounds Video Calls | $31.12K | Free Trial - Soft Paywall | [Open](../apps/funny-prank-sounds-video-calls-6444277853.md) |
 | Quinn - Audio Stories | $27.07K | No Free Trial - Soft Paywall | [Open](../apps/quinn-audio-stories-1565600312.md) |
+| SnackShort | $26.24K | No Free Trial - Soft Paywall | [Open](../apps/snackshort-6450035850.md) |
+| YOUKU-Drama, Film, Show, Anime | $24.64K | No Free Trial - Soft Paywall | [Open](../apps/youku-drama-film-show-anime-1619761040.md) |
+| Toybox: 3D Print your own toys | $24.44K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/toybox-3d-print-your-own-toys-1166269606.md) |
 
 ## What to study
 

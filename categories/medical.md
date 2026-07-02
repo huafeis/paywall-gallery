@@ -19,6 +19,7 @@ Medical apps use subscription paywalls to communicate value and convert users in
 | AI Skin Scanner - SkinGuru | $44.36K | Free Trial - Soft Paywall | [Open](../apps/ai-skin-scanner-skinguru-6474288157.md) |
 | Glucose \| Blood Sugar Tracker | $39.36K | No Free Trial - Soft Paywall | [Open](../apps/glucose-blood-sugar-tracker-1135157609.md) |
 | Body Temperature App For Fever | $32.42K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/body-temperature-app-for-fever-1516844582.md) |
+| Prepry - ARDMS & CCI Exam Prep | $23.70K | No Free Trial - Soft Paywall | [Open](../apps/prepry-ardms-and-cci-exam-prep-1481825715.md) |
 
 ## What to study
 
