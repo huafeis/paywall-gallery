@@ -1,7 +1,7 @@
 ---
 title: Gallery Increments
 description: Historical increment records — one file per gallery app-count expansion.
-generated_at: 2026-06-12
+generated_at: 2026-07-02
 ---
 
 # Gallery Increments
@@ -34,6 +34,9 @@ Examples:
 
 | Date | Range | Added | File |
 |------|------|-----:|------|
+| 2026-07-02 | 700 → 750 | 50 | [2026-07-02-700-to-750.md](2026-07-02-700-to-750.md) |
+| 2026-06-28 | 650 → 700 | 50 | [2026-06-28-650-to-700.md](2026-06-28-650-to-700.md) |
+| 2026-06-17 | 600 → 650 | 50 | [2026-06-17-600-to-650.md](2026-06-17-600-to-650.md) |
 | 2026-06-12 | 550 → 600 | 50 | [2026-06-12-550-to-600.md](2026-06-12-550-to-600.md) |
 | 2026-06-03 | 500 → 550 | 50 | [2026-06-03-500-to-550.md](2026-06-03-500-to-550.md) |
 
