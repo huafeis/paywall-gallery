@@ -69,6 +69,8 @@ Lifestyle apps often convert by selling better outcomes, personalization, confid
 | Home Security - Camera Scanner | $24.95K | No Free Trial - Soft Paywall | [Open](../apps/home-security-camera-scanner-6478574268.md) |
 | Led Light Controller Home App | $24.51K | No Free Trial - Soft Paywall | [Open](../apps/led-light-controller-home-app-1670269554.md) |
 | Smart Home - Remote Control | $24.42K | No Free Trial - Soft Paywall | [Open](../apps/smart-home-remote-control-6738117098.md) |
+| Wink Dating: Meet, Chat & Date | $23.12K | No Free Trial - Soft Paywall | [Open](../apps/wink-dating-meet-chat-and-date-1482681335.md) |
+| Phone Tracker - GPS Location | $22.32K | No Free Trial - Hard Paywall | [Open](../apps/phone-tracker-gps-location-1559708047.md) |
 | Plant Parent: Plant Care Guide | $8.63K | Free Trial - Soft Paywall | [Open](../apps/plant-parent-plant-care-guide-1612792132.md) |
 
 ## What to study

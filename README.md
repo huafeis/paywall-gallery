@@ -2,7 +2,7 @@
 
 Languages: [English](README.md) | [简体中文](README.zh-CN.md)
 
-A public dataset of 750 top iOS subscription app paywalls and onboarding flows, published by <a href="https://www.paywallpro.app/?utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">PaywallPro</a>.
+A public dataset of 800 top iOS subscription app paywalls and onboarding flows, published by <a href="https://www.paywallpro.app/?utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">PaywallPro</a>.
 
 Explore screenshots, pricing models, paywall patterns, onboarding previews, and monetization signals from real subscription apps.
 
@@ -70,9 +70,9 @@ It is a curated subset of the PaywallPro database, designed to be:
 - Easy to browse, with human-readable summaries and preview screenshots
 - Useful for product research, pricing research, UX reference, and growth analysis
 
-Current public release: 750 apps. We will keep adding 50 new apps every week.
+Current public release: 800 apps. We will keep adding 50 new apps every week.
 
-The complete app index lives in [apps/index.md](apps/index.md). [Browse all 750 apps](apps/index.md).
+The complete app index lives in [apps/index.md](apps/index.md). [Browse all 800 apps](apps/index.md).
 
 ---
 
@@ -168,11 +168,11 @@ See [Data Dictionary](docs/data-dictionary.md) for field definitions.
 | Yubo: Chat Meet & Make Friends | Social Networking | $807.31K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](apps/yubo-chat-meet-and-make-friends-1038653883.md) |
 | Paramount+ | Entertainment | $756.00K | No Free Trial - Soft Paywall | [Open](apps/paramount-530168168.md) |
 | PURE: Open-Minded Dating App | Lifestyle | $752.12K | No Free Trial - Soft Paywall | [Open](apps/pure-open-minded-dating-app-690661663.md) |
-| Suno - AI Songs & Music | Music | $743.32K | No Free Trial - Soft Paywall | [Open](apps/suno-ai-songs-and-music-6480136315.md) |
+| Suno - AI Songs, Music, Lyrics | Music | $743.32K | No Free Trial - Soft Paywall | [Open](apps/suno-ai-songs-music-lyrics-6480136315.md) |
 | Text Me - Phone Call + Texting | Social Networking | $727.67K | No Free Trial - Soft Paywall | [Open](apps/text-me-phone-call-texting-514485964.md) |
 | Fambase: Live & Group Chat | Utilities | $726.99K | No Free Trial - Soft Paywall, Currency Paywall | [Open](apps/fambase-live-and-group-chat-1580059320.md) |
 
-The complete app index lives in [apps/index.md](apps/index.md). [Browse all 750 apps](apps/index.md).
+The complete app index lives in [apps/index.md](apps/index.md). [Browse all 800 apps](apps/index.md).
 
 ---
 

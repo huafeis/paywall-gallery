@@ -36,7 +36,7 @@ The strongest paywalls usually make the comparison easy to understand.
 | Yubo: Chat Meet & Make Friends | Social Networking | [Open](../apps/yubo-chat-meet-and-make-friends-1038653883.md) |
 | Paramount+ | Entertainment | [Open](../apps/paramount-530168168.md) |
 | PURE: Open-Minded Dating App | Lifestyle | [Open](../apps/pure-open-minded-dating-app-690661663.md) |
-| Suno - AI Songs & Music | Music | [Open](../apps/suno-ai-songs-and-music-6480136315.md) |
+| Suno - AI Songs, Music, Lyrics | Music | [Open](../apps/suno-ai-songs-music-lyrics-6480136315.md) |
 | Text Me - Phone Call + Texting | Social Networking | [Open](../apps/text-me-phone-call-texting-514485964.md) |
 | Fambase: Live & Group Chat | Utilities | [Open](../apps/fambase-live-and-group-chat-1580059320.md) |
 | ClassDojo | Education | [Open](../apps/classdojo-552602056.md) |

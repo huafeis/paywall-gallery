@@ -1,5 +1,5 @@
 ---
-app_name: "Huckleberry: Baby & Child"
+app_name: "Huckleberry: Baby Tracker"
 app_id: 1169136078
 developer: "Huckleberry Labs Inc."
 category: "Medical"
@@ -15,10 +15,10 @@ offers:
     prices: ["$68.99/$119.99", "$119.99"]
 onboarding_count: 23
 walkthrough_count: 8
-app_detail_url: "https://www.paywallpro.app/apps/Huckleberry:-Baby-&-Child-us?id=305&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
+app_detail_url: "https://www.paywallpro.app/apps/Huckleberry:-Baby-Tracker-us?id=305&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery"
 ---
 
-# Huckleberry: Baby & Child Paywall Analysis
+# Huckleberry: Baby Tracker Paywall Analysis
 
 Category: Medical
 Estimated MRR: $377.92K
@@ -28,11 +28,11 @@ Captured Version: v0.9.286
 Version Release Date: 2026-02-02
 
 View full case on PaywallPro:
-<a href="https://www.paywallpro.app/apps/Huckleberry:-Baby-&-Child-us?id=305&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">Open full case on PaywallPro</a>
+<a href="https://www.paywallpro.app/apps/Huckleberry:-Baby-Tracker-us?id=305&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">Open full case on PaywallPro</a>
 
 ## Snapshot
 
-Huckleberry: Baby & Child is a Medical app by Huckleberry Labs Inc.. This compact public preview highlights representative iOS subscription paywall screens from the US storefront.
+Huckleberry: Baby Tracker is a Medical app by Huckleberry Labs Inc.. This compact public preview highlights representative iOS subscription paywall screens from the US storefront.
 
 Its paywall is a useful reference for studying how apps in the Medical category present subscription value, structure pricing, use trials, and reduce purchase friction.
 
@@ -40,7 +40,7 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 ## Key Takeaways
 
-- Huckleberry: Baby & Child uses the No Free Trial - Soft Paywall pattern in the Medical category.
+- Huckleberry: Baby Tracker uses the No Free Trial - Soft Paywall pattern in the Medical category.
 - 2 distinct offer set(s) are visible in this capture, making it useful for comparing pricing variants, plan structure, or tiering strategy.
 - The paywall presents month, year option(s), which can help reveal how the app uses price anchoring and subscription framing.
 - The pricing structure shows how a leading Medical app packages subscription value for its users.
@@ -49,16 +49,16 @@ The full PaywallPro page includes the complete screenshot set, version history, 
 
 Paywalls in the Medical category need to communicate value quickly and make the subscription decision easy to understand.
 
-This Huckleberry: Baby & Child paywall is worth studying because it shows how a real subscription app combines offer framing, pricing structure, visual hierarchy, and purchase flow into one conversion experience.
+This Huckleberry: Baby Tracker paywall is worth studying because it shows how a real subscription app combines offer framing, pricing structure, visual hierarchy, and purchase flow into one conversion experience.
 
 For app builders, product managers, growth teams, and designers, this case can be used as a reference when researching pricing, trial strategy, subscription UX, or paywall redesign ideas.
 
 ## Screenshots
 
 <p align="center">
-  <a href="https://www.paywallpro.app/apps/Huckleberry:-Baby-&-Child-us?id=305&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/huckleberry-baby-and-child-1169136078/cover.webp" width="220" alt="Huckleberry: Baby & Child paywall screen 1"></a>
-  <a href="https://www.paywallpro.app/apps/Huckleberry:-Baby-&-Child-us?id=305&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/huckleberry-baby-and-child-1169136078/paywall-monthly-14-99.webp" width="220" alt="Monthly $14.99"></a>
-  <a href="https://www.paywallpro.app/apps/Huckleberry:-Baby-&-Child-us?id=305&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/huckleberry-baby-and-child-1169136078/paywall-screen-3.webp" width="220" alt="Paywall screen 3"></a>
+  <a href="https://www.paywallpro.app/apps/Huckleberry:-Baby-Tracker-us?id=305&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/huckleberry-baby-tracker-1169136078/cover.webp" width="220" alt="Huckleberry: Baby Tracker paywall screen 1"></a>
+  <a href="https://www.paywallpro.app/apps/Huckleberry:-Baby-Tracker-us?id=305&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/huckleberry-baby-tracker-1169136078/paywall-monthly-14-99.webp" width="220" alt="Monthly $14.99"></a>
+  <a href="https://www.paywallpro.app/apps/Huckleberry:-Baby-Tracker-us?id=305&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer"><img src="../screenshots/huckleberry-baby-tracker-1169136078/paywall-screen-3.webp" width="220" alt="Paywall screen 3"></a>
 </p>
 
 ## Paywall Pattern
@@ -98,7 +98,7 @@ This pattern is useful for studying how the app presents subscription value, red
 
 ## What Builders Can Learn
 
-- How Huckleberry: Baby & Child frames subscription value for users in the Medical category.
+- How Huckleberry: Baby Tracker frames subscription value for users in the Medical category.
 - How the app structures pricing options and subscription periods.
 - How the paywall uses visual hierarchy to guide the purchase decision.
 - How trials, discounts, or offer sets are used to reduce purchase friction.
@@ -119,7 +119,7 @@ This is a limited public preview.
 
 For the full paywall history, complete screenshot set, onboarding flow, historical changes, pricing experiments, and deeper revenue analysis, visit:
 
-<a href="https://www.paywallpro.app/apps/Huckleberry:-Baby-&-Child-us?id=305&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">PaywallPro</a>
+<a href="https://www.paywallpro.app/apps/Huckleberry:-Baby-Tracker-us?id=305&utm_source=github&utm_medium=open_dataset&utm_campaign=paywall_gallery" target="_blank" rel="noopener noreferrer">PaywallPro</a>
 
 ---
 

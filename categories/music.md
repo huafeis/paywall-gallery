@@ -9,7 +9,7 @@ Music apps often convert by selling ad-free listening, offline access, better pl
 | App | Estimated MRR | Pattern | Page |
 |---|---:|---|---|
 | TIDAL Music: HiFi Sound | $1.03M | Free Trial - Soft Paywall | [Open](../apps/tidal-music-hifi-sound-913943275.md) |
-| Suno - AI Songs & Music | $743.32K | No Free Trial - Soft Paywall | [Open](../apps/suno-ai-songs-and-music-6480136315.md) |
+| Suno - AI Songs, Music, Lyrics | $743.32K | No Free Trial - Soft Paywall | [Open](../apps/suno-ai-songs-music-lyrics-6480136315.md) |
 | YouTube Music | $576.01K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/youtube-music-1017492454.md) |
 | SiriusXM: Music, Sports & News | $525.95K | Free Trial - Soft Paywall | [Open](../apps/siriusxm-music-sports-and-news-317951436.md) |
 | iHeart: Radio, Music, Podcasts | $408.71K | Free Trial - Soft Paywall | [Open](../apps/iheart-radio-music-podcasts-290638154.md) |
@@ -55,6 +55,10 @@ Music apps often convert by selling ad-free listening, offline access, better pl
 | Water Eject ‒ Speaker Cleaner | $29.40K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/water-eject-speaker-cleaner-6499516431.md) |
 | VocalMe: AI Music Generator | $28.58K | No Free Trial - Soft Paywall | [Open](../apps/vocalme-ai-music-generator-6479740642.md) |
 | SongShift | $28.41K | No Free Trial - Soft Paywall | [Open](../apps/songshift-1097974566.md) |
+| AI Song: AI Music Generator | $22.77K | No Free Trial - Soft Paywall | [Open](../apps/ai-song-ai-music-generator-6489035718.md) |
+| LittyTone:Ringtone & AI Voice | $22.62K | Free Trial - Soft Paywall | [Open](../apps/littytone-ringtone-and-ai-voice-6743316094.md) |
+| SingUp: AI Music Generator | $21.62K | No Free Trial - Soft Paywall | [Open](../apps/singup-ai-music-generator-6470182519.md) |
+| Clear Wave | $21.24K | Free Trial - Soft Paywall | [Open](../apps/clear-wave-1557211189.md) |
 | Simply Sing: My Singing App | $9.03K | Free Trial - Soft Paywall | [Open](../apps/simply-sing-my-singing-app-1592900217.md) |
 | AI Song Generator - Zona | $3.54K | No Free Trial - Soft Paywall | [Open](../apps/ai-song-generator-zona-6499261254.md) |
 

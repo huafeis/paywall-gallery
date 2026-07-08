@@ -118,6 +118,9 @@ Education apps use subscription paywalls to communicate value and convert users 
 | Plant App: Plant Identifier | $24.25K | Free Trial - Soft Paywall | [Open](../apps/plant-app-plant-identifier-1595795215.md) |
 | Toddler Games For 2 Year Olds. | $24.23K | Free Trial - Soft Paywall | [Open](../apps/toddler-games-for-2-year-olds-571421198.md) |
 | Montessori Preschool, Kids 3-7 | $23.72K | Free Trial - Soft Paywall | [Open](../apps/montessori-preschool-kids-3-7-1138436619.md) |
+| HelloChinese - Learn Chinese | $23.69K | No Free Trial - Soft Paywall | [Open](../apps/hellochinese-learn-chinese-1001507516.md) |
+| LEGO® DUPLO® Peppa Pig | $22.18K | No Free Trial - Soft Paywall | [Open](../apps/lego-duplo-peppa-pig-6474300843.md) |
+| Plantion - Plant Identifier | $21.16K | Free Trial - Soft Paywall | [Open](../apps/plantion-plant-identifier-1673397906.md) |
 | Solvely - AI Study Tools | $17.97K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/solvely-ai-study-tools-6446930976.md) |
 | Lingvano - Learn Sign Language | $13.58K | Free Trial - Soft Paywall | [Open](../apps/lingvano-learn-sign-language-1547252782.md) |
 | LEGO® DUPLO® MARVEL | $992 | No Free Trial - Soft Paywall | [Open](../apps/lego-duplo-marvel-1573101225.md) |

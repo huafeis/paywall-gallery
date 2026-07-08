@@ -57,6 +57,11 @@ Productivity apps often convert users by selling time savings, professional outp
 | magicplan | $25.11K | No Free Trial - Soft Paywall | [Open](../apps/magicplan-427424432.md) |
 | CyberGhost: Safe & Private VPN | $25.06K | Free Trial - Soft Paywall | [Open](../apps/cyberghost-safe-and-private-vpn-583009522.md) |
 | iTranscribe - Audio to Text | $24.35K | Free Trial - Soft Paywall | [Open](../apps/itranscribe-audio-to-text-1639842068.md) |
+| Friday AI Email Writer | $23.65K | Free Trial - Soft Paywall | [Open](../apps/friday-ai-email-writer-1661969777.md) |
+| Artful Agenda | $23.21K | No Free Trial - Soft Paywall | [Open](../apps/artful-agenda-1444781716.md) |
+| Teleprompter - VILO | $22.75K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/teleprompter-vilo-1590820344.md) |
+| Speechify – Text to Speech PDF | $21.45K | Free Trial - Soft Paywall | [Open](../apps/speechify-text-to-speech-pdf-1209815023.md) |
+| Secure Cleaner: Utility | $21.19K | No Free Trial - Soft Paywall | [Open](../apps/secure-cleaner-utility-6751528054.md) |
 | 1Password: Password Manager | $7.15K | No Free Trial - Soft Paywall | [Open](../apps/1password-password-manager-1511601750.md) |
 | Bark - Parental Controls | $6.43K | No Free Trial - Soft Paywall | [Open](../apps/bark-parental-controls-1477619146.md) |
 | LastPass Password Manager | $4.97K | No Free Trial - Soft Paywall | [Open](../apps/lastpass-password-manager-324613447.md) |

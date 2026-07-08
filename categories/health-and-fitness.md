@@ -74,6 +74,7 @@ Health & Fitness apps use subscription paywalls to communicate value and convert
 | 5K Runner: couch potato to 5K | $25.80K | Free Trial - Hard Paywall | [Open](../apps/5k-runner-couch-potato-to-5k-448357306.md) |
 | Calm | $24.67K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/calm-571800810.md) |
 | QuickPulse: Blood Pressure | $23.75K | No Free Trial - Soft Paywall | [Open](../apps/quickpulse-blood-pressure-6742134509.md) |
+| YESOUL FITNESS | $22.57K | No Free Trial - Soft Paywall | [Open](../apps/yesoul-fitness-1517375015.md) |
 | Headspace: Sleep & Meditation | $10.56K | Free Trial - Soft Paywall | [Open](../apps/headspace-sleep-and-meditation-493145008.md) |
 | Calorie Counter & Food Tracker | $8.50K | No Free Trial - Soft Paywall | [Open](../apps/calorie-counter-and-food-tracker-6474290049.md) |
 | InPulse - Heart Rate Monitor | $7.32K | Free Trial - Soft Paywall | [Open](../apps/inpulse-heart-rate-monitor-1489944782.md) |

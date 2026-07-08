@@ -60,6 +60,10 @@ Social Networking apps use subscription paywalls to communicate value and conver
 | ThaiFriendly Dating | $26.58K | Free Trial - Soft Paywall | [Open](../apps/thaifriendly-dating-1008710182.md) |
 | Text App: Wifi Calling+Texting | $24.49K | Free Trial - Soft Paywall | [Open](../apps/text-app-wifi-calling-texting-1507375125.md) |
 | Meetup: Social Events & Groups | $23.79K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/meetup-social-events-and-groups-375990038.md) |
+| Trans Live Video Chat: TS Chat | $23.23K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/trans-live-video-chat-ts-chat-6453024466.md) |
+| PNK – chat now | $22.59K | No Free Trial - Soft Paywall | [Open](../apps/pnk-chat-now-6476118402.md) |
+| BeFriend - Make new friends | $22.39K | No Free Trial - Soft Paywall | [Open](../apps/befriend-make-new-friends-1537012560.md) |
+| PLINK – Team Up, Chat, Play | $21.55K | Free Trial - Soft Paywall | [Open](../apps/plink-team-up-chat-play-1306783602.md) |
 | Bumpy – International Dating | $8.43K | No Free Trial - Soft Paywall | [Open](../apps/bumpy-international-dating-1455336523.md) |
 | Repost+ for Instagram . | $7.43K | Free Trial - Soft Paywall | [Open](../apps/repost-for-instagram-1477820240.md) |
 | GraceChat | $3.15K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/gracechat-1658972379.md) |

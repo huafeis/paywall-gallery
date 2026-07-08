@@ -98,6 +98,14 @@ Photo and video apps often rely on creative control, premium features, editing c
 | Pixelup: AI Photo Enhancer App | $25.82K | Free Trial - Soft Paywall | [Open](../apps/pixelup-ai-photo-enhancer-app-1589599169.md) |
 | AI Video Generator - PictoPop | $25.71K | No Free Trial - Soft Paywall, Credit Paywall | [Open](../apps/ai-video-generator-pictopop-1552672537.md) |
 | Filmic Pro－Video Camera | $25.17K | Free Trial - Soft Paywall | [Open](../apps/filmic-pro-video-camera-436577167.md) |
+| Halide Mark III - Pro Camera | $23.53K | Free Trial - Soft Paywall | [Open](../apps/halide-mark-iii-pro-camera-885697368.md) |
+| B612 AI Photo&Video Editor | $23.52K | Free Trial - Soft Paywall | [Open](../apps/b612-ai-photo-and-video-editor-904209370.md) |
+| AI Baby Generator: Face Maker | $23.47K | Free Trial - Soft Paywall | [Open](../apps/ai-baby-generator-face-maker-1607753158.md) |
+| Lift: AI Video & Photo Editor | $22.79K | Free Trial - Soft Paywall | [Open](../apps/lift-ai-video-and-photo-editor-1505322988.md) |
+| Vixer: AI Video Editor & Maker | $22.76K | Free Trial - Soft Paywall | [Open](../apps/vixer-ai-video-editor-and-maker-1487668791.md) |
+| AI Video - AI Video Generator | $22.27K | No Free Trial - Soft Paywall | [Open](../apps/ai-video-ai-video-generator-6478868302.md) |
+| Peachy - AI Face & Body Editor | $21.96K | Free Trial - Soft Paywall | [Open](../apps/peachy-ai-face-and-body-editor-1390423469.md) |
+| AI Marvels - AI Photo Editor | $21.27K | No Free Trial - Soft Paywall | [Open](../apps/ai-marvels-ai-photo-editor-6444902792.md) |
 | Video Up! Video Editor & Maker | $14.43K | No Free Trial - Soft Paywall | [Open](../apps/video-up-video-editor-and-maker-1585824635.md) |
 | Photo Collage Maker PicJointer | $11.57K | Free Trial - Soft Paywall | [Open](../apps/photo-collage-maker-picjointer-509987785.md) |
 | Rumble: Livestreams & Videos | $9.34K | No Free Trial - Soft Paywall | [Open](../apps/rumble-livestreams-and-videos-1518427877.md) |

@@ -16,6 +16,7 @@ Travel apps use subscription paywalls to communicate value and convert users int
 | The Dyrt: RV & Free Camping | $26.73K | Free Trial - Soft Paywall | [Open](../apps/the-dyrt-rv-and-free-camping-1187626329.md) |
 | Airclub - Flight Deals | $26.36K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/airclub-flight-deals-6740247064.md) |
 | Track My Flight Now | $23.75K | Free Trial - Soft Paywall | [Open](../apps/track-my-flight-now-1666079904.md) |
+| AllStays Camp & RV: Camping | $21.81K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/allstays-camp-and-rv-camping-370820516.md) |
 
 ## What to study
 

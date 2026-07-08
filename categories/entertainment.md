@@ -41,6 +41,8 @@ Entertainment apps often rely on content value, exclusive access, free trials, a
 | SnackShort | $26.24K | No Free Trial - Soft Paywall | [Open](../apps/snackshort-6450035850.md) |
 | YOUKU-Drama, Film, Show, Anime | $24.64K | No Free Trial - Soft Paywall | [Open](../apps/youku-drama-film-show-anime-1619761040.md) |
 | Toybox: 3D Print your own toys | $24.44K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/toybox-3d-print-your-own-toys-1166269606.md) |
+| Gaia: Streaming Consciousness | $23.09K | No Free Trial - Soft Paywall | [Open](../apps/gaia-streaming-consciousness-821068605.md) |
+| Tonight's Conversation | $22.45K | Free Trial - Soft Paywall | [Open](../apps/tonight-s-conversation-1599497175.md) |
 
 ## What to study
 

@@ -57,6 +57,11 @@ Utilities apps use subscription paywalls to communicate value and convert users 
 | Poke Genie -Remote Raid IV PvP | $26.62K | No Free Trial - Soft Paywall | [Open](../apps/poke-genie-remote-raid-iv-pvp-1143920524.md) |
 | Phoner: Second Phone Number | $26.12K | No Free Trial - Soft Paywall | [Open](../apps/phoner-second-phone-number-1050267310.md) |
 | Avantero: Privacy Defender | $25.47K | No Free Trial - Soft Paywall | [Open](../apps/avantero-privacy-defender-6466796980.md) |
+| Car Play Connect: Remote Start | $23.18K | No Free Trial - Soft Paywall | [Open](../apps/car-play-connect-remote-start-6451399317.md) |
+| Lens Scan: Identify Anything | $22.49K | Free Trial - Soft Paywall | [Open](../apps/lens-scan-identify-anything-6560107458.md) |
+| True Cleaner - Cleanup Storage | $22.40K | Free Trial - Soft Paywall | [Open](../apps/true-cleaner-cleanup-storage-6747470149.md) |
+| TV Cast for Chromecast ! | $21.85K | Free Trial - Soft Paywall | [Open](../apps/tv-cast-for-chromecast-1523826729.md) |
+| Phone Security: Privacy Shield | $21.58K | Free Trial - Soft Paywall | [Open](../apps/phone-security-privacy-shield-6737263668.md) |
 | QR Reader for iPhone | $4.46K | Free Trial - Soft Paywall | [Open](../apps/qr-reader-for-iphone-368494609.md) |
 | Clean Manager: Storage Cleaner | $2.56K | Free Trial - Soft Paywall | [Open](../apps/clean-manager-storage-cleaner-1579881271.md) |
 

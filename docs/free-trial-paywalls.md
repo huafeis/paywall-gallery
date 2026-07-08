@@ -36,7 +36,7 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | Yubo: Chat Meet & Make Friends | Social Networking | [Open](../apps/yubo-chat-meet-and-make-friends-1038653883.md) |
 | Paramount+ | Entertainment | [Open](../apps/paramount-530168168.md) |
 | PURE: Open-Minded Dating App | Lifestyle | [Open](../apps/pure-open-minded-dating-app-690661663.md) |
-| Suno - AI Songs & Music | Music | [Open](../apps/suno-ai-songs-and-music-6480136315.md) |
+| Suno - AI Songs, Music, Lyrics | Music | [Open](../apps/suno-ai-songs-music-lyrics-6480136315.md) |
 | Text Me - Phone Call + Texting | Social Networking | [Open](../apps/text-me-phone-call-texting-514485964.md) |
 | Fambase: Live & Group Chat | Utilities | [Open](../apps/fambase-live-and-group-chat-1580059320.md) |
 | ClassDojo | Education | [Open](../apps/classdojo-552602056.md) |
@@ -67,7 +67,7 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | TP-Link Tapo | Lifestyle | [Open](../apps/tp-link-tapo-1472718009.md) |
 | ReciMe: Recipes & Meal Planner | Food & Drink | [Open](../apps/recime-recipes-and-meal-planner-1593779280.md) |
 | VSCO: Photo & Video Editor | Photo & Video | [Open](../apps/vsco-photo-and-video-editor-588013838.md) |
-| Huckleberry: Baby & Child | Medical | [Open](../apps/huckleberry-baby-and-child-1169136078.md) |
+| Huckleberry: Baby Tracker | Medical | [Open](../apps/huckleberry-baby-tracker-1169136078.md) |
 | Blinkist: Book Summaries Daily | Education | [Open](../apps/blinkist-book-summaries-daily-568839295.md) |
 | Flightradar24 \| Flight Tracker | Travel | [Open](../apps/flightradar24-flight-tracker-382233851.md) |
 | Early Learning Academy | Education | [Open](../apps/early-learning-academy-586328581.md) |
@@ -713,6 +713,56 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | QuickPulse: Blood Pressure | Health & Fitness | [Open](../apps/quickpulse-blood-pressure-6742134509.md) |
 | Montessori Preschool, Kids 3-7 | Education | [Open](../apps/montessori-preschool-kids-3-7-1138436619.md) |
 | Prepry - ARDMS & CCI Exam Prep | Medical | [Open](../apps/prepry-ardms-and-cci-exam-prep-1481825715.md) |
+| HelloChinese - Learn Chinese | Education | [Open](../apps/hellochinese-learn-chinese-1001507516.md) |
+| Friday AI Email Writer | Productivity | [Open](../apps/friday-ai-email-writer-1661969777.md) |
+| Translate Now - AI Translator | Reference | [Open](../apps/translate-now-ai-translator-1348028646.md) |
+| Halide Mark III - Pro Camera | Photo & Video | [Open](../apps/halide-mark-iii-pro-camera-885697368.md) |
+| B612 AI Photo&Video Editor | Photo & Video | [Open](../apps/b612-ai-photo-and-video-editor-904209370.md) |
+| AI Baby Generator: Face Maker | Photo & Video | [Open](../apps/ai-baby-generator-face-maker-1607753158.md) |
+| Mystro Driver: Drive & Deliver | Business | [Open](../apps/mystro-driver-drive-and-deliver-1524407919.md) |
+| Pose: AI Photo Video Generator | Graphics & Design | [Open](../apps/pose-ai-photo-video-generator-6737417022.md) |
+| FantasyPros - Fantasy Advice | Sports | [Open](../apps/fantasypros-fantasy-advice-1141119371.md) |
+| Night Sky | Reference | [Open](../apps/night-sky-475772902.md) |
+| Trans Live Video Chat: TS Chat | Social Networking | [Open](../apps/trans-live-video-chat-ts-chat-6453024466.md) |
+| Artful Agenda | Productivity | [Open](../apps/artful-agenda-1444781716.md) |
+| Car Play Connect: Remote Start | Utilities | [Open](../apps/car-play-connect-remote-start-6451399317.md) |
+| Owll Translator：AI Voice Clone | Business | [Open](../apps/owll-translator-ai-voice-clone-6742527823.md) |
+| Police Scanner: Fire Radio | News | [Open](../apps/police-scanner-fire-radio-1477440076.md) |
+| Wink Dating: Meet, Chat & Date | Lifestyle | [Open](../apps/wink-dating-meet-chat-and-date-1482681335.md) |
+| Gaia: Streaming Consciousness | Entertainment | [Open](../apps/gaia-streaming-consciousness-821068605.md) |
+| MotoGP™ | Sports | [Open](../apps/motogp-1157573265.md) |
+| Lift: AI Video & Photo Editor | Photo & Video | [Open](../apps/lift-ai-video-and-photo-editor-1505322988.md) |
+| AI Song: AI Music Generator | Music | [Open](../apps/ai-song-ai-music-generator-6489035718.md) |
+| Vixer: AI Video Editor & Maker | Photo & Video | [Open](../apps/vixer-ai-video-editor-and-maker-1487668791.md) |
+| Teleprompter - VILO | Productivity | [Open](../apps/teleprompter-vilo-1590820344.md) |
+| Migraine Buddy: Track Headache | Medical | [Open](../apps/migraine-buddy-track-headache-975074413.md) |
+| LittyTone:Ringtone & AI Voice | Music | [Open](../apps/littytone-ringtone-and-ai-voice-6743316094.md) |
+| PNK – chat now | Social Networking | [Open](../apps/pnk-chat-now-6476118402.md) |
+| YESOUL FITNESS | Health & Fitness | [Open](../apps/yesoul-fitness-1517375015.md) |
+| eSign App: Sign PDF Documents | Business | [Open](../apps/esign-app-sign-pdf-documents-6446249178.md) |
+| Lens Scan: Identify Anything | Utilities | [Open](../apps/lens-scan-identify-anything-6560107458.md) |
+| Tonight's Conversation | Entertainment | [Open](../apps/tonight-s-conversation-1599497175.md) |
+| True Cleaner - Cleanup Storage | Utilities | [Open](../apps/true-cleaner-cleanup-storage-6747470149.md) |
+| BeFriend - Make new friends | Social Networking | [Open](../apps/befriend-make-new-friends-1537012560.md) |
+| 5-0 Radio Pro Police Scanner | News | [Open](../apps/5-0-radio-pro-police-scanner-341776037.md) |
+| Phone Tracker - GPS Location | Lifestyle | [Open](../apps/phone-tracker-gps-location-1559708047.md) |
+| AI Video - AI Video Generator | Photo & Video | [Open](../apps/ai-video-ai-video-generator-6478868302.md) |
+| MarketWatch - News & Data | Finance | [Open](../apps/marketwatch-news-and-data-336693422.md) |
+| LEGO® DUPLO® Peppa Pig | Education | [Open](../apps/lego-duplo-peppa-pig-6474300843.md) |
+| Smart Printer App & Scanner | Business | [Open](../apps/smart-printer-app-and-scanner-1517103958.md) |
+| Peachy - AI Face & Body Editor | Photo & Video | [Open](../apps/peachy-ai-face-and-body-editor-1390423469.md) |
+| Voice Translator: AI Translate | Reference | [Open](../apps/voice-translator-ai-translate-1036725690.md) |
+| TV Cast for Chromecast ! | Utilities | [Open](../apps/tv-cast-for-chromecast-1523826729.md) |
+| AllStays Camp & RV: Camping | Travel | [Open](../apps/allstays-camp-and-rv-camping-370820516.md) |
+| SingUp: AI Music Generator | Music | [Open](../apps/singup-ai-music-generator-6470182519.md) |
+| Phone Security: Privacy Shield | Utilities | [Open](../apps/phone-security-privacy-shield-6737263668.md) |
+| PLINK – Team Up, Chat, Play | Social Networking | [Open](../apps/plink-team-up-chat-play-1306783602.md) |
+| F1 TV | Sports | [Open](../apps/f1-tv-1315007279.md) |
+| Speechify – Text to Speech PDF | Productivity | [Open](../apps/speechify-text-to-speech-pdf-1209815023.md) |
+| AI Marvels - AI Photo Editor | Photo & Video | [Open](../apps/ai-marvels-ai-photo-editor-6444902792.md) |
+| Clear Wave | Music | [Open](../apps/clear-wave-1557211189.md) |
+| Secure Cleaner: Utility | Productivity | [Open](../apps/secure-cleaner-utility-6751528054.md) |
+| Plantion - Plant Identifier | Education | [Open](../apps/plantion-plant-identifier-1673397906.md) |
 | Solvely - AI Study Tools | Education | [Open](../apps/solvely-ai-study-tools-6446930976.md) |
 | Video Up! Video Editor & Maker | Photo & Video | [Open](../apps/video-up-video-editor-and-maker-1585824635.md) |
 | Fishbrain - Fishing App | Sports | [Open](../apps/fishbrain-fishing-app-477967747.md) |

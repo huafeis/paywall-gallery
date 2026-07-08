@@ -16,6 +16,9 @@ Reference apps use subscription paywalls to communicate value and convert users 
 | Whitepages: People Search | $29.47K | No Free Trial - Soft Paywall | [Open](../apps/whitepages-people-search-287734809.md) |
 | Bible Bff-Modern Bible Stories | $25.02K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/bible-bff-modern-bible-stories-6745900126.md) |
 | Abide: Bible Prayer Meditation | $23.96K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/abide-bible-prayer-meditation-726031617.md) |
+| Translate Now - AI Translator | $23.64K | Free Trial - Soft Paywall | [Open](../apps/translate-now-ai-translator-1348028646.md) |
+| Night Sky | $23.28K | No Free Trial - Soft Paywall | [Open](../apps/night-sky-475772902.md) |
+| Voice Translator: AI Translate | $21.94K | Free Trial - Hard Paywall | [Open](../apps/voice-translator-ai-translate-1036725690.md) |
 | CoinSnap: Coin Identifier | $5.70K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/coinsnap-coin-identifier-1634551626.md) |
 
 ## What to study

@@ -33,6 +33,8 @@ News apps use subscription paywalls to communicate value and convert users into 
 | Narwhal for Reddit | $29.18K | Free Trial - Soft Paywall | [Open](../apps/narwhal-for-reddit-845422455.md) |
 | Barron’s - Investing Insights | $28.48K | Free Trial - Soft Paywall | [Open](../apps/barron-s-investing-insights-409882593.md) |
 | The San Francisco Chronicle | $24.91K | Free Trial - Soft Paywall | [Open](../apps/the-san-francisco-chronicle-423260205.md) |
+| Police Scanner: Fire Radio | $23.13K | Free Trial - Soft Paywall | [Open](../apps/police-scanner-fire-radio-1477440076.md) |
+| 5-0 Radio Pro Police Scanner | $22.38K | Free Trial - Soft Paywall | [Open](../apps/5-0-radio-pro-police-scanner-341776037.md) |
 
 ## What to study
 
