@@ -21,6 +21,9 @@ Medical apps use subscription paywalls to communicate value and convert users in
 | Body Temperature App For Fever | $32.42K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/body-temperature-app-for-fever-1516844582.md) |
 | Prepry - ARDMS & CCI Exam Prep | $23.70K | No Free Trial - Soft Paywall | [Open](../apps/prepry-ardms-and-cci-exam-prep-1481825715.md) |
 | Migraine Buddy: Track Headache | $22.68K | No Free Trial - Soft Paywall | [Open](../apps/migraine-buddy-track-headache-975074413.md) |
+| Freed - AI Scribe & Assistant | $20.41K | No Free Trial - Soft Paywall | [Open](../apps/freed-ai-scribe-and-assistant-6449428266.md) |
+| Blood Oxygen App | $20.28K | No Free Trial - Soft Paywall | [Open](../apps/blood-oxygen-app-1541992656.md) |
+| Contraction Timer & Counter 9m | $18.59K | No Free Trial - Soft Paywall | [Open](../apps/contraction-timer-and-counter-9m-877303791.md) |
 
 ## What to study
 

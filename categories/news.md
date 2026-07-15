@@ -35,6 +35,8 @@ News apps use subscription paywalls to communicate value and convert users into 
 | The San Francisco Chronicle | $24.91K | Free Trial - Soft Paywall | [Open](../apps/the-san-francisco-chronicle-423260205.md) |
 | Police Scanner: Fire Radio | $23.13K | Free Trial - Soft Paywall | [Open](../apps/police-scanner-fire-radio-1477440076.md) |
 | 5-0 Radio Pro Police Scanner | $22.38K | Free Trial - Soft Paywall | [Open](../apps/5-0-radio-pro-police-scanner-341776037.md) |
+| The Minnesota Star Tribune | $19.82K | No Free Trial - Soft Paywall | [Open](../apps/the-minnesota-star-tribune-476107280.md) |
+| The Philadelphia Inquirer | $19.46K | No Free Trial - Soft Paywall | [Open](../apps/the-philadelphia-inquirer-577251728.md) |
 
 ## What to study
 

@@ -121,6 +121,13 @@ Education apps use subscription paywalls to communicate value and convert users 
 | HelloChinese - Learn Chinese | $23.69K | No Free Trial - Soft Paywall | [Open](../apps/hellochinese-learn-chinese-1001507516.md) |
 | LEGO® DUPLO® Peppa Pig | $22.18K | No Free Trial - Soft Paywall | [Open](../apps/lego-duplo-peppa-pig-6474300843.md) |
 | Plantion - Plant Identifier | $21.16K | Free Trial - Soft Paywall | [Open](../apps/plantion-plant-identifier-1673397906.md) |
+| Todli: Drawing Games for Kids | $20.70K | Free Trial - Soft Paywall | [Open](../apps/todli-drawing-games-for-kids-908698556.md) |
+| Splash Math: K-5 Learning app | $20.67K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/splash-math-k-5-learning-app-463471155.md) |
+| Voice Dream - Natural Reader | $20.67K | Free Trial - Soft Paywall | [Open](../apps/voice-dream-natural-reader-496177674.md) |
+| Solvo: AI Homework Helper | $19.50K | Free Trial - Soft Paywall | [Open](../apps/solvo-ai-homework-helper-6447069698.md) |
+| Kids Learning Games: Toddlers | $19.11K | Free Trial - Soft Paywall | [Open](../apps/kids-learning-games-toddlers-1475467785.md) |
+| SpanishDictionary.com Learning | $18.78K | Free Trial - Soft Paywall | [Open](../apps/spanishdictionary-com-learning-332510494.md) |
+| Kodable Basics | $18.62K | No Free Trial - Soft Paywall | [Open](../apps/kodable-basics-577673067.md) |
 | Solvely - AI Study Tools | $17.97K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/solvely-ai-study-tools-6446930976.md) |
 | Lingvano - Learn Sign Language | $13.58K | Free Trial - Soft Paywall | [Open](../apps/lingvano-learn-sign-language-1547252782.md) |
 | LEGO® DUPLO® MARVEL | $992 | No Free Trial - Soft Paywall | [Open](../apps/lego-duplo-marvel-1573101225.md) |

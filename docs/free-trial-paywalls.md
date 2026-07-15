@@ -763,6 +763,66 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | Clear Wave | Music | [Open](../apps/clear-wave-1557211189.md) |
 | Secure Cleaner: Utility | Productivity | [Open](../apps/secure-cleaner-utility-6751528054.md) |
 | Plantion - Plant Identifier | Education | [Open](../apps/plantion-plant-identifier-1673397906.md) |
+| Screen Mirroring・Smart View TV | Utilities | [Open](../apps/screen-mirroring-smart-view-tv-1529106085.md) |
+| FilipinoCupid: Filipino Dating | Lifestyle | [Open](../apps/filipinocupid-filipino-dating-1601320796.md) |
+| Kompanion: Weight Loss Plan | Health & Fitness | [Open](../apps/kompanion-weight-loss-plan-1576161548.md) |
+| Findo: Find My Friends, Phone | Social Networking | [Open](../apps/findo-find-my-friends-phone-1348649804.md) |
+| Happier Meditation | Health & Fitness | [Open](../apps/happier-meditation-992210239.md) |
+| Todli: Drawing Games for Kids | Education | [Open](../apps/todli-drawing-games-for-kids-908698556.md) |
+| Splash Math: K-5 Learning app | Education | [Open](../apps/splash-math-k-5-learning-app-463471155.md) |
+| Voice Dream - Natural Reader | Education | [Open](../apps/voice-dream-natural-reader-496177674.md) |
+| SnapTk Save Video from Links | Social Networking | [Open](../apps/snaptk-save-video-from-links-1606553510.md) |
+| Voices AI: Change Your Voice | Productivity | [Open](../apps/voices-ai-change-your-voice-6461268224.md) |
+| PDF Scanner App: TapScanner | Business | [Open](../apps/pdf-scanner-app-tapscanner-1382564905.md) |
+| SwingU: Golf GPS Range Finder | Sports | [Open](../apps/swingu-golf-gps-range-finder-332116103.md) |
+| Freed - AI Scribe & Assistant | Medical | [Open](../apps/freed-ai-scribe-and-assistant-6449428266.md) |
+| Blood Oxygen App | Medical | [Open](../apps/blood-oxygen-app-1541992656.md) |
+| ToonMe: AI Cartoon Face Maker | Photo & Video | [Open](../apps/toonme-ai-cartoon-face-maker-1508120751.md) |
+| Dazzly: Color by Number Game | Entertainment | [Open](../apps/dazzly-color-by-number-game-1318233975.md) |
+| Package Tracker － Packy | Business | [Open](../apps/package-tracker-packy-6737194931.md) |
+| Smart Remote for Sam TV | Utilities | [Open](../apps/smart-remote-for-sam-tv-1561954125.md) |
+| Everand: Audiobooks & Ebooks | Books | [Open](../apps/everand-audiobooks-and-ebooks-542557212.md) |
+| MySudo - Identity Protection | Productivity | [Open](../apps/mysudo-identity-protection-1237892621.md) |
+| AnyStories-Top Novels & Books | Books | [Open](../apps/anystories-top-novels-and-books-1500217654.md) |
+| QR Code & Barcode Scanner app. | Utilities | [Open](../apps/qr-code-and-barcode-scanner-app-6451212658.md) |
+| Relatio: Couples Relationship | Lifestyle | [Open](../apps/relatio-couples-relationship-6642703892.md) |
+| Stitchly: Cross stitch | Lifestyle | [Open](../apps/stitchly-cross-stitch-1467867656.md) |
+| Morpholio Trace - Sketch CAD | Graphics & Design | [Open](../apps/morpholio-trace-sketch-cad-547274918.md) |
+| BallparkDJ Walkout Intros | Sports | [Open](../apps/ballparkdj-walkout-intros-821956884.md) |
+| Gridwise: Gig Driver Assistant | Finance | [Open](../apps/gridwise-gig-driver-assistant-1215991382.md) |
+| Clean Up Now: AI Cleaner | Utilities | [Open](../apps/clean-up-now-ai-cleaner-6748724320.md) |
+| The Minnesota Star Tribune | News | [Open](../apps/the-minnesota-star-tribune-476107280.md) |
+| Add Background Music To Video | Photo & Video | [Open](../apps/add-background-music-to-video-1006639052.md) |
+| Tallflix: Short Dramas & Films | Entertainment | [Open](../apps/tallflix-short-dramas-and-films-6502703406.md) |
+| ASMR Makeup Fun: Makeover Game | Entertainment | [Open](../apps/asmr-makeup-fun-makeover-game-6447597892.md) |
+| Home AI - AI Interior Design | Graphics & Design | [Open](../apps/home-ai-ai-interior-design-6464476667.md) |
+| SCRL: Photo Collage Maker | Photo & Video | [Open](../apps/scrl-photo-collage-maker-1289057196.md) |
+| AllTrails: Hike, Bike & Run | Health & Fitness | [Open](../apps/alltrails-hike-bike-and-run-405075943.md) |
+| Coin ID: Coin Value Identifier | Reference | [Open](../apps/coin-id-coin-value-identifier-1665672552.md) |
+| Stemz: remover vocal audio pro | Music | [Open](../apps/stemz-remover-vocal-audio-pro-1596495598.md) |
+| Zigazoo | Social Networking | [Open](../apps/zigazoo-1506092240.md) |
+| Solvo: AI Homework Helper | Education | [Open](../apps/solvo-ai-homework-helper-6447069698.md) |
+| The Philadelphia Inquirer | News | [Open](../apps/the-philadelphia-inquirer-577251728.md) |
+| FlickReels: Short Drama Series | Entertainment | [Open](../apps/flickreels-short-drama-series-6514312894.md) |
+| Peanut: Find Mom Friends | Lifestyle | [Open](../apps/peanut-find-mom-friends-1178656034.md) |
+| ChackTok - Photo Booth Event | Photo & Video | [Open](../apps/chacktok-photo-booth-event-1613120226.md) |
+| Quillbot-AI Writing & Keyboard | Productivity | [Open](../apps/quillbot-ai-writing-and-keyboard-6463116243.md) |
+| AI Chatbot - Ask Me Anything | Productivity | [Open](../apps/ai-chatbot-ask-me-anything-1668805457.md) |
+| Text Number-Phone Text Message | Productivity | [Open](../apps/text-number-phone-text-message-1639787026.md) |
+| Playlist Transfer for My Music | Music | [Open](../apps/playlist-transfer-for-my-music-6478631467.md) |
+| Kids Learning Games: Toddlers | Education | [Open](../apps/kids-learning-games-toddlers-1475467785.md) |
+| BodyFast: Intermittent Fasting | Health & Fitness | [Open](../apps/bodyfast-intermittent-fasting-1189568780.md) |
+| Copy My Data - Smart Transfer | Utilities | [Open](../apps/copy-my-data-smart-transfer-870099476.md) |
+| Lanetalk Bowling | Sports | [Open](../apps/lanetalk-bowling-493763132.md) |
+| Renew - Restore Old Photos AI | Photo & Video | [Open](../apps/renew-restore-old-photos-ai-6740345364.md) |
+| AVG Mobile Security | Utilities | [Open](../apps/avg-mobile-security-1473934066.md) |
+| Security Camera - Smart Home | Lifestyle | [Open](../apps/security-camera-smart-home-6738720524.md) |
+| SpanishDictionary.com Learning | Education | [Open](../apps/spanishdictionary-com-learning-332510494.md) |
+| Health Care-Healthy Life&Heart | Lifestyle | [Open](../apps/health-care-healthy-life-and-heart-6451237931.md) |
+| Kodable Basics | Education | [Open](../apps/kodable-basics-577673067.md) |
+| Contraction Timer & Counter 9m | Medical | [Open](../apps/contraction-timer-and-counter-9m-877303791.md) |
+| BlackGentry: Black Dating App | Social Networking | [Open](../apps/blackgentry-black-dating-app-1494548587.md) |
+| LiteTV - Short Dramas & Movies | Entertainment | [Open](../apps/litetv-short-dramas-and-movies-6499304362.md) |
 | Solvely - AI Study Tools | Education | [Open](../apps/solvely-ai-study-tools-6446930976.md) |
 | Video Up! Video Editor & Maker | Photo & Video | [Open](../apps/video-up-video-editor-and-maker-1585824635.md) |
 | Fishbrain - Fishing App | Sports | [Open](../apps/fishbrain-fishing-app-477967747.md) |

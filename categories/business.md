@@ -45,6 +45,8 @@ Business apps often convert users by selling professional growth, productivity, 
 | Owll Translator：AI Voice Clone | $23.15K | No Free Trial - Soft Paywall | [Open](../apps/owll-translator-ai-voice-clone-6742527823.md) |
 | eSign App: Sign PDF Documents | $22.56K | Free Trial - Soft Paywall | [Open](../apps/esign-app-sign-pdf-documents-6446249178.md) |
 | Smart Printer App & Scanner | $22.02K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/smart-printer-app-and-scanner-1517103958.md) |
+| PDF Scanner App: TapScanner | $20.46K | Free Trial - Soft Paywall | [Open](../apps/pdf-scanner-app-tapscanner-1382564905.md) |
+| Package Tracker － Packy | $20.21K | Free Trial - Soft Paywall | [Open](../apps/package-tracker-packy-6737194931.md) |
 | Invoice Maker - Invoice Fly | $10.88K | Free Trial - Soft Paywall | [Open](../apps/invoice-maker-invoice-fly-1606911248.md) |
 | ScanGuru: PDF Scanner App | $3.35K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/scanguru-pdf-scanner-app-1040149161.md) |
 

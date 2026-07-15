@@ -64,6 +64,10 @@ Social Networking apps use subscription paywalls to communicate value and conver
 | PNK – chat now | $22.59K | No Free Trial - Soft Paywall | [Open](../apps/pnk-chat-now-6476118402.md) |
 | BeFriend - Make new friends | $22.39K | No Free Trial - Soft Paywall | [Open](../apps/befriend-make-new-friends-1537012560.md) |
 | PLINK – Team Up, Chat, Play | $21.55K | Free Trial - Soft Paywall | [Open](../apps/plink-team-up-chat-play-1306783602.md) |
+| Findo: Find My Friends, Phone | $20.80K | Free Trial - Soft Paywall | [Open](../apps/findo-find-my-friends-phone-1348649804.md) |
+| SnapTk Save Video from Links | $20.67K | Free Trial - Soft Paywall | [Open](../apps/snaptk-save-video-from-links-1606553510.md) |
+| Zigazoo | $19.50K | Free Trial - Soft Paywall | [Open](../apps/zigazoo-1506092240.md) |
+| BlackGentry: Black Dating App | $18.48K | No Free Trial - Soft Paywall | [Open](../apps/blackgentry-black-dating-app-1494548587.md) |
 | Bumpy – International Dating | $8.43K | No Free Trial - Soft Paywall | [Open](../apps/bumpy-international-dating-1455336523.md) |
 | Repost+ for Instagram . | $7.43K | Free Trial - Soft Paywall | [Open](../apps/repost-for-instagram-1477820240.md) |
 | GraceChat | $3.15K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/gracechat-1658972379.md) |

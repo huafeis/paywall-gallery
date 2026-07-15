@@ -106,6 +106,11 @@ Photo and video apps often rely on creative control, premium features, editing c
 | AI Video - AI Video Generator | $22.27K | No Free Trial - Soft Paywall | [Open](../apps/ai-video-ai-video-generator-6478868302.md) |
 | Peachy - AI Face & Body Editor | $21.96K | Free Trial - Soft Paywall | [Open](../apps/peachy-ai-face-and-body-editor-1390423469.md) |
 | AI Marvels - AI Photo Editor | $21.27K | No Free Trial - Soft Paywall | [Open](../apps/ai-marvels-ai-photo-editor-6444902792.md) |
+| ToonMe: AI Cartoon Face Maker | $20.27K | Free Trial - Soft Paywall | [Open](../apps/toonme-ai-cartoon-face-maker-1508120751.md) |
+| Add Background Music To Video | $19.80K | Free Trial - Soft Paywall | [Open](../apps/add-background-music-to-video-1006639052.md) |
+| SCRL: Photo Collage Maker | $19.68K | Free Trial - Soft Paywall | [Open](../apps/scrl-photo-collage-maker-1289057196.md) |
+| ChackTok - Photo Booth Event | $19.25K | No Free Trial - Soft Paywall | [Open](../apps/chacktok-photo-booth-event-1613120226.md) |
+| Renew - Restore Old Photos AI | $18.90K | Free Trial - Soft Paywall | [Open](../apps/renew-restore-old-photos-ai-6740345364.md) |
 | Video Up! Video Editor & Maker | $14.43K | No Free Trial - Soft Paywall | [Open](../apps/video-up-video-editor-and-maker-1585824635.md) |
 | Photo Collage Maker PicJointer | $11.57K | Free Trial - Soft Paywall | [Open](../apps/photo-collage-maker-picjointer-509987785.md) |
 | Rumble: Livestreams & Videos | $9.34K | No Free Trial - Soft Paywall | [Open](../apps/rumble-livestreams-and-videos-1518427877.md) |

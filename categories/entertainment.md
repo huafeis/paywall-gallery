@@ -43,6 +43,11 @@ Entertainment apps often rely on content value, exclusive access, free trials, a
 | Toybox: 3D Print your own toys | $24.44K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/toybox-3d-print-your-own-toys-1166269606.md) |
 | Gaia: Streaming Consciousness | $23.09K | No Free Trial - Soft Paywall | [Open](../apps/gaia-streaming-consciousness-821068605.md) |
 | Tonight's Conversation | $22.45K | Free Trial - Soft Paywall | [Open](../apps/tonight-s-conversation-1599497175.md) |
+| Dazzly: Color by Number Game | $20.23K | Free Trial - Soft Paywall | [Open](../apps/dazzly-color-by-number-game-1318233975.md) |
+| Tallflix: Short Dramas & Films | $19.71K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/tallflix-short-dramas-and-films-6502703406.md) |
+| ASMR Makeup Fun: Makeover Game | $19.70K | Free Trial - Soft Paywall | [Open](../apps/asmr-makeup-fun-makeover-game-6447597892.md) |
+| FlickReels: Short Drama Series | $19.44K | No Free Trial - Soft Paywall | [Open](../apps/flickreels-short-drama-series-6514312894.md) |
+| LiteTV - Short Dramas & Movies | $18.48K | No Free Trial - Soft Paywall | [Open](../apps/litetv-short-dramas-and-movies-6499304362.md) |
 
 ## What to study
 

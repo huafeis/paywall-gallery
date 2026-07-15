@@ -40,6 +40,9 @@ Sports apps use subscription paywalls to communicate value and convert users int
 | FantasyPros - Fantasy Advice | $23.34K | No Free Trial - Soft Paywall | [Open](../apps/fantasypros-fantasy-advice-1141119371.md) |
 | MotoGP™ | $22.81K | No Free Trial - Soft Paywall | [Open](../apps/motogp-1157573265.md) |
 | F1 TV | $21.53K | No Free Trial - Soft Paywall | [Open](../apps/f1-tv-1315007279.md) |
+| SwingU: Golf GPS Range Finder | $20.45K | Free Trial - Soft Paywall | [Open](../apps/swingu-golf-gps-range-finder-332116103.md) |
+| BallparkDJ Walkout Intros | $19.93K | No Free Trial - Soft Paywall | [Open](../apps/ballparkdj-walkout-intros-821956884.md) |
+| Lanetalk Bowling | $19.02K | Free Trial - Soft Paywall | [Open](../apps/lanetalk-bowling-493763132.md) |
 | Fishbrain - Fishing App | $14.20K | Free Trial - Soft Paywall | [Open](../apps/fishbrain-fishing-app-477967747.md) |
 | B1G+: Watch College Sports | $8.46K | No Free Trial - Soft Paywall | [Open](../apps/b1g-watch-college-sports-474679690.md) |
 | Outlier: Smart Sports Betting | $6.17K | Free Trial - Soft Paywall | [Open](../apps/outlier-smart-sports-betting-6443885102.md) |

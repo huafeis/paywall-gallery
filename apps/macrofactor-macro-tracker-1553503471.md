@@ -6,7 +6,7 @@ category: "Health & Fitness"
 paywall_type: "No Free Trial - Soft Paywall"
 pricing_model: "1 offer set across month, half year, year"
 mrr: "$448.73K"
-rating: 4.83
+rating: 4.84
 versions_count: 2
 offers:
   - period: "month"
@@ -87,7 +87,7 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 4.83 |
+| App Store rating | 4.84 |
 | Category rank | #14 |
 | Estimated MRR | $448.73K |
 | Avg daily revenue | $30.95K |

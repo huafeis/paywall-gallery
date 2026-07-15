@@ -62,6 +62,12 @@ Utilities apps use subscription paywalls to communicate value and convert users 
 | True Cleaner - Cleanup Storage | $22.40K | Free Trial - Soft Paywall | [Open](../apps/true-cleaner-cleanup-storage-6747470149.md) |
 | TV Cast for Chromecast ! | $21.85K | Free Trial - Soft Paywall | [Open](../apps/tv-cast-for-chromecast-1523826729.md) |
 | Phone Security: Privacy Shield | $21.58K | Free Trial - Soft Paywall | [Open](../apps/phone-security-privacy-shield-6737263668.md) |
+| Screen Mirroring・Smart View TV | $21.00K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/screen-mirroring-smart-view-tv-1529106085.md) |
+| Smart Remote for Sam TV | $20.11K | Free Trial - Soft Paywall | [Open](../apps/smart-remote-for-sam-tv-1561954125.md) |
+| QR Code & Barcode Scanner app. | $19.99K | Free Trial - Soft Paywall | [Open](../apps/qr-code-and-barcode-scanner-app-6451212658.md) |
+| Clean Up Now: AI Cleaner | $19.84K | Free Trial - Soft Paywall | [Open](../apps/clean-up-now-ai-cleaner-6748724320.md) |
+| Copy My Data - Smart Transfer | $19.02K | Free Trial - Soft Paywall | [Open](../apps/copy-my-data-smart-transfer-870099476.md) |
+| AVG Mobile Security | $18.87K | No Free Trial - Soft Paywall | [Open](../apps/avg-mobile-security-1473934066.md) |
 | QR Reader for iPhone | $4.46K | Free Trial - Soft Paywall | [Open](../apps/qr-reader-for-iphone-368494609.md) |
 | Clean Manager: Storage Cleaner | $2.56K | Free Trial - Soft Paywall | [Open](../apps/clean-manager-storage-cleaner-1579881271.md) |
 

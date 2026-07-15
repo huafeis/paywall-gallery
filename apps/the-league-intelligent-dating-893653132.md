@@ -6,7 +6,7 @@ category: "Lifestyle"
 paywall_type: "No Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across week, month, quarter"
 mrr: "$589.13K"
-rating: 4.20
+rating: 4.21
 versions_count: 2
 offers:
   - period: "week"
@@ -88,7 +88,7 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 4.20 |
+| App Store rating | 4.21 |
 | Category rank | #124 |
 | Estimated MRR | $589.13K |
 | Avg daily revenue | $35.05K |

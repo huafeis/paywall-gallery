@@ -20,6 +20,7 @@ Finance apps use subscription paywalls to communicate value and convert users in
 | Aura: Security & Protection | $58.76K | Free Trial - Soft Paywall | [Open](../apps/aura-security-and-protection-1547735089.md) |
 | LifeLock Identity | $51.97K | No Free Trial - Soft Paywall | [Open](../apps/lifelock-identity-1422875903.md) |
 | MarketWatch - News & Data | $22.24K | No Free Trial - Soft Paywall | [Open](../apps/marketwatch-news-and-data-336693422.md) |
+| Gridwise: Gig Driver Assistant | $19.92K | Free Trial - Soft Paywall | [Open](../apps/gridwise-gig-driver-assistant-1215991382.md) |
 
 ## What to study
 

@@ -59,6 +59,8 @@ Music apps often convert by selling ad-free listening, offline access, better pl
 | LittyTone:Ringtone & AI Voice | $22.62K | Free Trial - Soft Paywall | [Open](../apps/littytone-ringtone-and-ai-voice-6743316094.md) |
 | SingUp: AI Music Generator | $21.62K | No Free Trial - Soft Paywall | [Open](../apps/singup-ai-music-generator-6470182519.md) |
 | Clear Wave | $21.24K | Free Trial - Soft Paywall | [Open](../apps/clear-wave-1557211189.md) |
+| Stemz: remover vocal audio pro | $19.56K | Free Trial - Soft Paywall | [Open](../apps/stemz-remover-vocal-audio-pro-1596495598.md) |
+| Playlist Transfer for My Music | $19.19K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/playlist-transfer-for-my-music-6478631467.md) |
 | Simply Sing: My Singing App | $9.03K | Free Trial - Soft Paywall | [Open](../apps/simply-sing-my-singing-app-1592900217.md) |
 | AI Song Generator - Zona | $3.54K | No Free Trial - Soft Paywall | [Open](../apps/ai-song-generator-zona-6499261254.md) |
 

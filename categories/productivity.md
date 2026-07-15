@@ -62,6 +62,11 @@ Productivity apps often convert users by selling time savings, professional outp
 | Teleprompter - VILO | $22.75K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/teleprompter-vilo-1590820344.md) |
 | Speechify – Text to Speech PDF | $21.45K | Free Trial - Soft Paywall | [Open](../apps/speechify-text-to-speech-pdf-1209815023.md) |
 | Secure Cleaner: Utility | $21.19K | No Free Trial - Soft Paywall | [Open](../apps/secure-cleaner-utility-6751528054.md) |
+| Voices AI: Change Your Voice | $20.62K | No Free Trial - Soft Paywall | [Open](../apps/voices-ai-change-your-voice-6461268224.md) |
+| MySudo - Identity Protection | $20.07K | No Free Trial - Soft Paywall | [Open](../apps/mysudo-identity-protection-1237892621.md) |
+| Quillbot-AI Writing & Keyboard | $19.24K | No Free Trial - Soft Paywall | [Open](../apps/quillbot-ai-writing-and-keyboard-6463116243.md) |
+| AI Chatbot - Ask Me Anything | $19.24K | Free Trial - Soft Paywall | [Open](../apps/ai-chatbot-ask-me-anything-1668805457.md) |
+| Text Number-Phone Text Message | $19.21K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/text-number-phone-text-message-1639787026.md) |
 | 1Password: Password Manager | $7.15K | No Free Trial - Soft Paywall | [Open](../apps/1password-password-manager-1511601750.md) |
 | Bark - Parental Controls | $6.43K | No Free Trial - Soft Paywall | [Open](../apps/bark-parental-controls-1477619146.md) |
 | LastPass Password Manager | $4.97K | No Free Trial - Soft Paywall | [Open](../apps/lastpass-password-manager-324613447.md) |

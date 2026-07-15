@@ -75,6 +75,10 @@ Health & Fitness apps use subscription paywalls to communicate value and convert
 | Calm | $24.67K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/calm-571800810.md) |
 | QuickPulse: Blood Pressure | $23.75K | No Free Trial - Soft Paywall | [Open](../apps/quickpulse-blood-pressure-6742134509.md) |
 | YESOUL FITNESS | $22.57K | No Free Trial - Soft Paywall | [Open](../apps/yesoul-fitness-1517375015.md) |
+| Kompanion: Weight Loss Plan | $20.82K | No Free Trial - Soft Paywall | [Open](../apps/kompanion-weight-loss-plan-1576161548.md) |
+| Happier Meditation | $20.71K | Free Trial - Soft Paywall | [Open](../apps/happier-meditation-992210239.md) |
+| AllTrails: Hike, Bike & Run | $19.64K | Free Trial - Soft Paywall | [Open](../apps/alltrails-hike-bike-and-run-405075943.md) |
+| BodyFast: Intermittent Fasting | $19.06K | No Free Trial - Soft Paywall | [Open](../apps/bodyfast-intermittent-fasting-1189568780.md) |
 | Headspace: Sleep & Meditation | $10.56K | Free Trial - Soft Paywall | [Open](../apps/headspace-sleep-and-meditation-493145008.md) |
 | Calorie Counter & Food Tracker | $8.50K | No Free Trial - Soft Paywall | [Open](../apps/calorie-counter-and-food-tracker-6474290049.md) |
 | InPulse - Heart Rate Monitor | $7.32K | Free Trial - Soft Paywall | [Open](../apps/inpulse-heart-rate-monitor-1489944782.md) |

@@ -71,6 +71,12 @@ Lifestyle apps often convert by selling better outcomes, personalization, confid
 | Smart Home - Remote Control | $24.42K | No Free Trial - Soft Paywall | [Open](../apps/smart-home-remote-control-6738117098.md) |
 | Wink Dating: Meet, Chat & Date | $23.12K | No Free Trial - Soft Paywall | [Open](../apps/wink-dating-meet-chat-and-date-1482681335.md) |
 | Phone Tracker - GPS Location | $22.32K | No Free Trial - Hard Paywall | [Open](../apps/phone-tracker-gps-location-1559708047.md) |
+| FilipinoCupid: Filipino Dating | $20.84K | No Free Trial - Soft Paywall | [Open](../apps/filipinocupid-filipino-dating-1601320796.md) |
+| Relatio: Couples Relationship | $19.98K | No Free Trial - Hard Paywall | [Open](../apps/relatio-couples-relationship-6642703892.md) |
+| Stitchly: Cross stitch | $19.96K | No Free Trial - Soft Paywall | [Open](../apps/stitchly-cross-stitch-1467867656.md) |
+| Peanut: Find Mom Friends | $19.36K | No Free Trial - Soft Paywall | [Open](../apps/peanut-find-mom-friends-1178656034.md) |
+| Security Camera - Smart Home | $18.83K | No Free Trial - Soft Paywall | [Open](../apps/security-camera-smart-home-6738720524.md) |
+| Health Care-Healthy Life&Heart | $18.71K | Free Trial - Soft Paywall | [Open](../apps/health-care-healthy-life-and-heart-6451237931.md) |
 | Plant Parent: Plant Care Guide | $8.63K | Free Trial - Soft Paywall | [Open](../apps/plant-parent-plant-care-guide-1612792132.md) |
 
 ## What to study
