@@ -68,6 +68,11 @@ Utilities apps use subscription paywalls to communicate value and convert users 
 | Clean Up Now: AI Cleaner | $19.84K | Free Trial - Soft Paywall | [Open](../apps/clean-up-now-ai-cleaner-6748724320.md) |
 | Copy My Data - Smart Transfer | $19.02K | Free Trial - Soft Paywall | [Open](../apps/copy-my-data-smart-transfer-870099476.md) |
 | AVG Mobile Security | $18.87K | No Free Trial - Soft Paywall | [Open](../apps/avg-mobile-security-1473934066.md) |
+| TV Remote - Universal | $18.05K | Free Trial - Soft Paywall | [Open](../apps/tv-remote-universal-1670649189.md) |
+| SolveLab AI - Smart & Fast | $17.66K | Free Trial - Soft Paywall | [Open](../apps/solvelab-ai-smart-and-fast-6575352839.md) |
+| SMS Virtual - Receive SMS | $17.40K | No Free Trial - Soft Paywall | [Open](../apps/sms-virtual-receive-sms-1558276033.md) |
+| WhatSticker - Sticker Maker | $17.39K | Free Trial - Soft Paywall | [Open](../apps/whatsticker-sticker-maker-1147094379.md) |
+| Pure Cleaner: Clean Storage | $17.09K | Free Trial - Soft Paywall | [Open](../apps/pure-cleaner-clean-storage-6740195889.md) |
 | QR Reader for iPhone | $4.46K | Free Trial - Soft Paywall | [Open](../apps/qr-reader-for-iphone-368494609.md) |
 | Clean Manager: Storage Cleaner | $2.56K | Free Trial - Soft Paywall | [Open](../apps/clean-manager-storage-cleaner-1579881271.md) |
 

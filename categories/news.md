@@ -37,6 +37,7 @@ News apps use subscription paywalls to communicate value and convert users into 
 | 5-0 Radio Pro Police Scanner | $22.38K | Free Trial - Soft Paywall | [Open](../apps/5-0-radio-pro-police-scanner-341776037.md) |
 | The Minnesota Star Tribune | $19.82K | No Free Trial - Soft Paywall | [Open](../apps/the-minnesota-star-tribune-476107280.md) |
 | The Philadelphia Inquirer | $19.46K | No Free Trial - Soft Paywall | [Open](../apps/the-philadelphia-inquirer-577251728.md) |
+| Business Insider: News & more | $16.98K | No Free Trial - Soft Paywall | [Open](../apps/business-insider-news-and-more-554260576.md) |
 
 ## What to study
 

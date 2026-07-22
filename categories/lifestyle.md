@@ -77,6 +77,11 @@ Lifestyle apps often convert by selling better outcomes, personalization, confid
 | Peanut: Find Mom Friends | $19.36K | No Free Trial - Soft Paywall | [Open](../apps/peanut-find-mom-friends-1178656034.md) |
 | Security Camera - Smart Home | $18.83K | No Free Trial - Soft Paywall | [Open](../apps/security-camera-smart-home-6738720524.md) |
 | Health Care-Healthy Life&Heart | $18.71K | Free Trial - Soft Paywall | [Open](../apps/health-care-healthy-life-and-heart-6451237931.md) |
+| Find My Location: Tracker | $17.99K | No Free Trial - Soft Paywall | [Open](../apps/find-my-location-tracker-6741145225.md) |
+| Ease - Body & Mental Health | $17.34K | Free Trial - Soft Paywall | [Open](../apps/ease-body-and-mental-health-6740797755.md) |
+| WingAI: Your AI Wingman | $17.02K | Free Trial - Hard Paywall | [Open](../apps/wingai-your-ai-wingman-6448704223.md) |
+| Clario AntiSpy | $16.71K | No Free Trial - Soft Paywall | [Open](../apps/clario-antispy-1663473665.md) |
+| Daylio Journal - Mood Tracker | $16.66K | Free Trial - Soft Paywall | [Open](../apps/daylio-journal-mood-tracker-1194023242.md) |
 | Plant Parent: Plant Care Guide | $8.63K | Free Trial - Soft Paywall | [Open](../apps/plant-parent-plant-care-guide-1612792132.md) |
 
 ## What to study

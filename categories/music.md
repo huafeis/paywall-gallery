@@ -61,6 +61,9 @@ Music apps often convert by selling ad-free listening, offline access, better pl
 | Clear Wave | $21.24K | Free Trial - Soft Paywall | [Open](../apps/clear-wave-1557211189.md) |
 | Stemz: remover vocal audio pro | $19.56K | Free Trial - Soft Paywall | [Open](../apps/stemz-remover-vocal-audio-pro-1596495598.md) |
 | Playlist Transfer for My Music | $19.19K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/playlist-transfer-for-my-music-6478631467.md) |
+| Jamzone - Sing & Play Along | $18.39K | No Free Trial - Soft Paywall | [Open](../apps/jamzone-sing-and-play-along-998972770.md) |
+| Ringtones: for iPhone | $17.22K | Free Trial - Soft Paywall | [Open](../apps/ringtones-for-iphone-1470100930.md) |
+| Rapchat: Music Maker Studio | $17.03K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/rapchat-music-maker-studio-804913240.md) |
 | Simply Sing: My Singing App | $9.03K | Free Trial - Soft Paywall | [Open](../apps/simply-sing-my-singing-app-1592900217.md) |
 | AI Song Generator - Zona | $3.54K | No Free Trial - Soft Paywall | [Open](../apps/ai-song-generator-zona-6499261254.md) |
 

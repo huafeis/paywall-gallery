@@ -9,6 +9,7 @@ Weather apps use subscription paywalls to communicate value and convert users in
 | App | Estimated MRR | Pattern | Page |
 |---|---:|---|---|
 | AccuWeather: Weather Forecast | $99.48K | Free Trial - Soft Paywall | [Open](../apps/accuweather-weather-forecast-300048137.md) |
+| Clime: NOAA Weather Radar Live | $16.93K | No Free Trial - Soft Paywall | [Open](../apps/clime-noaa-weather-radar-live-749133753.md) |
 
 ## What to study
 

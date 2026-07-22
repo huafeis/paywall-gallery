@@ -67,6 +67,7 @@ Productivity apps often convert users by selling time savings, professional outp
 | Quillbot-AI Writing & Keyboard | $19.24K | No Free Trial - Soft Paywall | [Open](../apps/quillbot-ai-writing-and-keyboard-6463116243.md) |
 | AI Chatbot - Ask Me Anything | $19.24K | Free Trial - Soft Paywall | [Open](../apps/ai-chatbot-ask-me-anything-1668805457.md) |
 | Text Number-Phone Text Message | $19.21K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/text-number-phone-text-message-1639787026.md) |
+| 百度网盘 | $17.23K | No Free Trial - Soft Paywall | [Open](../apps/-547166701.md) |
 | 1Password: Password Manager | $7.15K | No Free Trial - Soft Paywall | [Open](../apps/1password-password-manager-1511601750.md) |
 | Bark - Parental Controls | $6.43K | No Free Trial - Soft Paywall | [Open](../apps/bark-parental-controls-1477619146.md) |
 | LastPass Password Manager | $4.97K | No Free Trial - Soft Paywall | [Open](../apps/lastpass-password-manager-324613447.md) |

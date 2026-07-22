@@ -24,6 +24,7 @@ Medical apps use subscription paywalls to communicate value and convert users in
 | Freed - AI Scribe & Assistant | $20.41K | No Free Trial - Soft Paywall | [Open](../apps/freed-ai-scribe-and-assistant-6449428266.md) |
 | Blood Oxygen App | $20.28K | No Free Trial - Soft Paywall | [Open](../apps/blood-oxygen-app-1541992656.md) |
 | Contraction Timer & Counter 9m | $18.59K | No Free Trial - Soft Paywall | [Open](../apps/contraction-timer-and-counter-9m-877303791.md) |
+| AMBOSS Medical Knowledge | $17.11K | Free Trial - Soft Paywall | [Open](../apps/amboss-medical-knowledge-1169487026.md) |
 
 ## What to study
 

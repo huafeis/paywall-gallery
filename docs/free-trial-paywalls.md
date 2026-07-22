@@ -823,7 +823,57 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | Contraction Timer & Counter 9m | Medical | [Open](../apps/contraction-timer-and-counter-9m-877303791.md) |
 | BlackGentry: Black Dating App | Social Networking | [Open](../apps/blackgentry-black-dating-app-1494548587.md) |
 | LiteTV - Short Dramas & Movies | Entertainment | [Open](../apps/litetv-short-dramas-and-movies-6499304362.md) |
+| Splash Jr: Toddler Games 2-4 | Education | [Open](../apps/splash-jr-toddler-games-2-4-504807361.md) |
+| Jamzone - Sing & Play Along | Music | [Open](../apps/jamzone-sing-and-play-along-998972770.md) |
+| Hair Salon Games for Kids 2-5 | Education | [Open](../apps/hair-salon-games-for-kids-2-5-6476086679.md) |
+| Wonster Words Learning Games | Education | [Open](../apps/wonster-words-learning-games-881119321.md) |
+| AI Video Generator : SelfyzAI | Photo & Video | [Open](../apps/ai-video-generator-selfyzai-6449351247.md) |
+| TV Remote - Universal | Utilities | [Open](../apps/tv-remote-universal-1670649189.md) |
+| VEED Shorts: AI videos | Photo & Video | [Open](../apps/veed-shorts-ai-videos-1634439688.md) |
+| 10 Minute English | Education | [Open](../apps/10-minute-english-1558659494.md) |
+| Mondly: Learn 41 Languages | Education | [Open](../apps/mondly-learn-41-languages-987873536.md) |
+| Find My Location: Tracker | Lifestyle | [Open](../apps/find-my-location-tracker-6741145225.md) |
 | Solvely - AI Study Tools | Education | [Open](../apps/solvely-ai-study-tools-6446930976.md) |
+| Google Health (Fitbit) | Health & Fitness | [Open](../apps/google-health-fitbit-462638897.md) |
+| AI Dermatologist: Skin Scanner | Health & Fitness | [Open](../apps/ai-dermatologist-skin-scanner-1511472597.md) |
+| Monster Truck Game for Kids 2+ | Education | [Open](../apps/monster-truck-game-for-kids-2-1635153294.md) |
+| Coursiv – AI Tools Mastery | Education | [Open](../apps/coursiv-ai-tools-mastery-6478281150.md) |
+| SolveLab AI - Smart & Fast | Utilities | [Open](../apps/solvelab-ai-smart-and-fast-6575352839.md) |
+| Preschool & Kindergarten Games | Education | [Open](../apps/preschool-and-kindergarten-games-509771809.md) |
+| MyHeritage: Family Tree & DNA | Reference | [Open](../apps/myheritage-family-tree-and-dna-477971748.md) |
+| TipRanks Stock Market Analysis | Finance | [Open](../apps/tipranks-stock-market-analysis-1237516490.md) |
+| Hole19: Golf GPS Range Finder | Sports | [Open](../apps/hole19-golf-gps-range-finder-794462227.md) |
+| Workout Planner MuscleFit | Health & Fitness | [Open](../apps/workout-planner-musclefit-6479605427.md) |
+| PhotoDirector: AI Photo Editor | Photo & Video | [Open](../apps/photodirector-ai-photo-editor-907366587.md) |
+| eFax® Plus-Pro-Protect | Business | [Open](../apps/efax-plus-pro-protect-399922064.md) |
+| Blood pressure-i Heart tracker | Health & Fitness | [Open](../apps/blood-pressure-i-heart-tracker-6462986894.md) |
+| SMS Virtual - Receive SMS | Utilities | [Open](../apps/sms-virtual-receive-sms-1558276033.md) |
+| WhatSticker - Sticker Maker | Utilities | [Open](../apps/whatsticker-sticker-maker-1147094379.md) |
+| LingoDeer - Learn Languages | Education | [Open](../apps/lingodeer-learn-languages-1261193709.md) |
+| Glam App - AI Video Generator | Photo & Video | [Open](../apps/glam-app-ai-video-generator-6746596173.md) |
+| Ease - Body & Mental Health | Lifestyle | [Open](../apps/ease-body-and-mental-health-6740797755.md) |
+| Good Inside: Parenting | Education | [Open](../apps/good-inside-parenting-6463803046.md) |
+| Univision Now | Entertainment | [Open](../apps/univision-now-1049321283.md) |
+| 百度网盘 | Productivity | [Open](../apps/-547166701.md) |
+| Ringtones: for iPhone | Music | [Open](../apps/ringtones-for-iphone-1470100930.md) |
+| CatholicMatch Dating App | Social Networking | [Open](../apps/catholicmatch-dating-app-1438033563.md) |
+| AMBOSS Medical Knowledge | Medical | [Open](../apps/amboss-medical-knowledge-1169487026.md) |
+| Smart Printer App - Air Print | Business | [Open](../apps/smart-printer-app-air-print-1602635337.md) |
+| Pure Cleaner: Clean Storage | Utilities | [Open](../apps/pure-cleaner-clean-storage-6740195889.md) |
+| Math Solver AI Homework Helper | Education | [Open](../apps/math-solver-ai-homework-helper-6473790677.md) |
+| Rapchat: Music Maker Studio | Music | [Open](../apps/rapchat-music-maker-studio-804913240.md) |
+| WingAI: Your AI Wingman | Lifestyle | [Open](../apps/wingai-your-ai-wingman-6448704223.md) |
+| Business Insider: News & more | News | [Open](../apps/business-insider-news-and-more-554260576.md) |
+| Ice Cream - Cooking for Kids | Education | [Open](../apps/ice-cream-cooking-for-kids-6444559661.md) |
+| ShortMax - Short Dramas & TV | Entertainment | [Open](../apps/shortmax-short-dramas-and-tv-6464002625.md) |
+| Clime: NOAA Weather Radar Live | Weather | [Open](../apps/clime-noaa-weather-radar-live-749133753.md) |
+| Clario AntiSpy | Lifestyle | [Open](../apps/clario-antispy-1663473665.md) |
+| Daylio Journal - Mood Tracker | Lifestyle | [Open](../apps/daylio-journal-mood-tracker-1194023242.md) |
+| Car games for toddler and kids | Education | [Open](../apps/car-games-for-toddler-and-kids-1586113521.md) |
+| Kids Coloring. Drawing Games | Education | [Open](../apps/kids-coloring-drawing-games-6444398254.md) |
+| TouchShort-TV | Entertainment | [Open](../apps/touchshort-tv-6504555661.md) |
+| Photo Math: AI Homework Helper | Education | [Open](../apps/photo-math-ai-homework-helper-6473621954.md) |
+| iHeart-Pulse Rate Monitor App. | Health & Fitness | [Open](../apps/iheart-pulse-rate-monitor-app-6462593274.md) |
 | Video Up! Video Editor & Maker | Photo & Video | [Open](../apps/video-up-video-editor-and-maker-1585824635.md) |
 | Fishbrain - Fishing App | Sports | [Open](../apps/fishbrain-fishing-app-477967747.md) |
 | Lingvano - Learn Sign Language | Education | [Open](../apps/lingvano-learn-sign-language-1547252782.md) |

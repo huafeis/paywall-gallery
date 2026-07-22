@@ -43,6 +43,7 @@ Sports apps use subscription paywalls to communicate value and convert users int
 | SwingU: Golf GPS Range Finder | $20.45K | Free Trial - Soft Paywall | [Open](../apps/swingu-golf-gps-range-finder-332116103.md) |
 | BallparkDJ Walkout Intros | $19.93K | No Free Trial - Soft Paywall | [Open](../apps/ballparkdj-walkout-intros-821956884.md) |
 | Lanetalk Bowling | $19.02K | Free Trial - Soft Paywall | [Open](../apps/lanetalk-bowling-493763132.md) |
+| Hole19: Golf GPS Range Finder | $17.61K | No Free Trial - Soft Paywall | [Open](../apps/hole19-golf-gps-range-finder-794462227.md) |
 | Fishbrain - Fishing App | $14.20K | Free Trial - Soft Paywall | [Open](../apps/fishbrain-fishing-app-477967747.md) |
 | B1G+: Watch College Sports | $8.46K | No Free Trial - Soft Paywall | [Open](../apps/b1g-watch-college-sports-474679690.md) |
 | Outlier: Smart Sports Betting | $6.17K | Free Trial - Soft Paywall | [Open](../apps/outlier-smart-sports-betting-6443885102.md) |

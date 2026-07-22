@@ -111,6 +111,10 @@ Photo and video apps often rely on creative control, premium features, editing c
 | SCRL: Photo Collage Maker | $19.68K | Free Trial - Soft Paywall | [Open](../apps/scrl-photo-collage-maker-1289057196.md) |
 | ChackTok - Photo Booth Event | $19.25K | No Free Trial - Soft Paywall | [Open](../apps/chacktok-photo-booth-event-1613120226.md) |
 | Renew - Restore Old Photos AI | $18.90K | Free Trial - Soft Paywall | [Open](../apps/renew-restore-old-photos-ai-6740345364.md) |
+| AI Video Generator : SelfyzAI | $18.07K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/ai-video-generator-selfyzai-6449351247.md) |
+| VEED Shorts: AI videos | $18.03K | Free Trial - Soft Paywall | [Open](../apps/veed-shorts-ai-videos-1634439688.md) |
+| PhotoDirector: AI Photo Editor | $17.55K | Free Trial - Soft Paywall | [Open](../apps/photodirector-ai-photo-editor-907366587.md) |
+| Glam App - AI Video Generator | $17.35K | No Free Trial - Soft Paywall | [Open](../apps/glam-app-ai-video-generator-6746596173.md) |
 | Video Up! Video Editor & Maker | $14.43K | No Free Trial - Soft Paywall | [Open](../apps/video-up-video-editor-and-maker-1585824635.md) |
 | Photo Collage Maker PicJointer | $11.57K | Free Trial - Soft Paywall | [Open](../apps/photo-collage-maker-picjointer-509987785.md) |
 | Rumble: Livestreams & Videos | $9.34K | No Free Trial - Soft Paywall | [Open](../apps/rumble-livestreams-and-videos-1518427877.md) |

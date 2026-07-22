@@ -20,6 +20,7 @@ Reference apps use subscription paywalls to communicate value and convert users 
 | Night Sky | $23.28K | No Free Trial - Soft Paywall | [Open](../apps/night-sky-475772902.md) |
 | Voice Translator: AI Translate | $21.94K | Free Trial - Hard Paywall | [Open](../apps/voice-translator-ai-translate-1036725690.md) |
 | Coin ID: Coin Value Identifier | $19.56K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/coin-id-coin-value-identifier-1665672552.md) |
+| MyHeritage: Family Tree & DNA | $17.63K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/myheritage-family-tree-and-dna-477971748.md) |
 | CoinSnap: Coin Identifier | $5.70K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/coinsnap-coin-identifier-1634551626.md) |
 
 ## What to study

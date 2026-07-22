@@ -68,6 +68,7 @@ Social Networking apps use subscription paywalls to communicate value and conver
 | SnapTk Save Video from Links | $20.67K | Free Trial - Soft Paywall | [Open](../apps/snaptk-save-video-from-links-1606553510.md) |
 | Zigazoo | $19.50K | Free Trial - Soft Paywall | [Open](../apps/zigazoo-1506092240.md) |
 | BlackGentry: Black Dating App | $18.48K | No Free Trial - Soft Paywall | [Open](../apps/blackgentry-black-dating-app-1494548587.md) |
+| CatholicMatch Dating App | $17.13K | No Free Trial - Soft Paywall | [Open](../apps/catholicmatch-dating-app-1438033563.md) |
 | Bumpy – International Dating | $8.43K | No Free Trial - Soft Paywall | [Open](../apps/bumpy-international-dating-1455336523.md) |
 | Repost+ for Instagram . | $7.43K | Free Trial - Soft Paywall | [Open](../apps/repost-for-instagram-1477820240.md) |
 | GraceChat | $3.15K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/gracechat-1658972379.md) |

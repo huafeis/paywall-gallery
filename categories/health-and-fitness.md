@@ -79,6 +79,11 @@ Health & Fitness apps use subscription paywalls to communicate value and convert
 | Happier Meditation | $20.71K | Free Trial - Soft Paywall | [Open](../apps/happier-meditation-992210239.md) |
 | AllTrails: Hike, Bike & Run | $19.64K | Free Trial - Soft Paywall | [Open](../apps/alltrails-hike-bike-and-run-405075943.md) |
 | BodyFast: Intermittent Fasting | $19.06K | No Free Trial - Soft Paywall | [Open](../apps/bodyfast-intermittent-fasting-1189568780.md) |
+| Google Health (Fitbit) | $17.89K | Free Trial - Soft Paywall | [Open](../apps/google-health-fitbit-462638897.md) |
+| AI Dermatologist: Skin Scanner | $17.88K | No Free Trial - Soft Paywall | [Open](../apps/ai-dermatologist-skin-scanner-1511472597.md) |
+| Workout Planner MuscleFit | $17.57K | Free Trial - Soft Paywall | [Open](../apps/workout-planner-musclefit-6479605427.md) |
+| Blood pressure-i Heart tracker | $17.44K | Free Trial - Soft Paywall | [Open](../apps/blood-pressure-i-heart-tracker-6462986894.md) |
+| iHeart-Pulse Rate Monitor App. | $16.34K | No Free Trial - Soft Paywall | [Open](../apps/iheart-pulse-rate-monitor-app-6462593274.md) |
 | Headspace: Sleep & Meditation | $10.56K | Free Trial - Soft Paywall | [Open](../apps/headspace-sleep-and-meditation-493145008.md) |
 | Calorie Counter & Food Tracker | $8.50K | No Free Trial - Soft Paywall | [Open](../apps/calorie-counter-and-food-tracker-6474290049.md) |
 | InPulse - Heart Rate Monitor | $7.32K | Free Trial - Soft Paywall | [Open](../apps/inpulse-heart-rate-monitor-1489944782.md) |

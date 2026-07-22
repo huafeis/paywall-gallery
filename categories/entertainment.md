@@ -48,6 +48,9 @@ Entertainment apps often rely on content value, exclusive access, free trials, a
 | ASMR Makeup Fun: Makeover Game | $19.70K | Free Trial - Soft Paywall | [Open](../apps/asmr-makeup-fun-makeover-game-6447597892.md) |
 | FlickReels: Short Drama Series | $19.44K | No Free Trial - Soft Paywall | [Open](../apps/flickreels-short-drama-series-6514312894.md) |
 | LiteTV - Short Dramas & Movies | $18.48K | No Free Trial - Soft Paywall | [Open](../apps/litetv-short-dramas-and-movies-6499304362.md) |
+| Univision Now | $17.25K | No Free Trial - Soft Paywall | [Open](../apps/univision-now-1049321283.md) |
+| ShortMax - Short Dramas & TV | $16.94K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/shortmax-short-dramas-and-tv-6464002625.md) |
+| TouchShort-TV | $16.50K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/touchshort-tv-6504555661.md) |
 
 ## What to study
 

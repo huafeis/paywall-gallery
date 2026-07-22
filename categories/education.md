@@ -128,7 +128,22 @@ Education apps use subscription paywalls to communicate value and convert users 
 | Kids Learning Games: Toddlers | $19.11K | Free Trial - Soft Paywall | [Open](../apps/kids-learning-games-toddlers-1475467785.md) |
 | SpanishDictionary.com Learning | $18.78K | Free Trial - Soft Paywall | [Open](../apps/spanishdictionary-com-learning-332510494.md) |
 | Kodable Basics | $18.62K | No Free Trial - Soft Paywall | [Open](../apps/kodable-basics-577673067.md) |
+| Splash Jr: Toddler Games 2-4 | $18.44K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/splash-jr-toddler-games-2-4-504807361.md) |
+| Hair Salon Games for Kids 2-5 | $18.34K | Free Trial - Soft Paywall | [Open](../apps/hair-salon-games-for-kids-2-5-6476086679.md) |
+| Wonster Words Learning Games | $18.17K | Free Trial - Soft Paywall | [Open](../apps/wonster-words-learning-games-881119321.md) |
+| 10 Minute English | $18.02K | Free Trial - Hard Paywall | [Open](../apps/10-minute-english-1558659494.md) |
+| Mondly: Learn 41 Languages | $18.01K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/mondly-learn-41-languages-987873536.md) |
 | Solvely - AI Study Tools | $17.97K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/solvely-ai-study-tools-6446930976.md) |
+| Monster Truck Game for Kids 2+ | $17.84K | Free Trial - Soft Paywall | [Open](../apps/monster-truck-game-for-kids-2-1635153294.md) |
+| Coursiv – AI Tools Mastery | $17.68K | Free Trial - Hard Paywall | [Open](../apps/coursiv-ai-tools-mastery-6478281150.md) |
+| Preschool & Kindergarten Games | $17.65K | Free Trial - Soft Paywall | [Open](../apps/preschool-and-kindergarten-games-509771809.md) |
+| LingoDeer - Learn Languages | $17.39K | No Free Trial - Soft Paywall | [Open](../apps/lingodeer-learn-languages-1261193709.md) |
+| Good Inside: Parenting | $17.31K | No Free Trial - Hard Paywall | [Open](../apps/good-inside-parenting-6463803046.md) |
+| Math Solver AI Homework Helper | $17.07K | Free Trial - Hard Paywall | [Open](../apps/math-solver-ai-homework-helper-6473790677.md) |
+| Ice Cream - Cooking for Kids | $16.96K | Free Trial - Soft Paywall | [Open](../apps/ice-cream-cooking-for-kids-6444559661.md) |
+| Car games for toddler and kids | $16.65K | Free Trial - Soft Paywall | [Open](../apps/car-games-for-toddler-and-kids-1586113521.md) |
+| Kids Coloring. Drawing Games | $16.58K | Free Trial - Soft Paywall | [Open](../apps/kids-coloring-drawing-games-6444398254.md) |
+| Photo Math: AI Homework Helper | $16.42K | Free Trial - Soft Paywall | [Open](../apps/photo-math-ai-homework-helper-6473621954.md) |
 | Lingvano - Learn Sign Language | $13.58K | Free Trial - Soft Paywall | [Open](../apps/lingvano-learn-sign-language-1547252782.md) |
 | LEGO® DUPLO® MARVEL | $992 | No Free Trial - Soft Paywall | [Open](../apps/lego-duplo-marvel-1573101225.md) |
 
