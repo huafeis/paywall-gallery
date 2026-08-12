@@ -65,6 +65,11 @@ Entertainment apps often rely on content value, exclusive access, free trials, a
 | Kokoa AI: Chat, Talk, Text | $12.46K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/kokoa-ai-chat-talk-text-6755166256.md) |
 | Call Santa Claus! create video | $12.31K | No Free Trial - Soft Paywall | [Open](../apps/call-santa-claus-create-video-933921849.md) |
 | WOW Presents Plus | $12.26K | No Free Trial - Soft Paywall | [Open](../apps/wow-presents-plus-1194749500.md) |
+| FlareFlow | $11.82K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/flareflow-6744237126.md) |
+| MCPE Addons Maps Skins Shaders | $11.57K | Free Trial - Hard Paywall | [Open](../apps/mcpe-addons-maps-skins-shaders-6451086620.md) |
+| Mimic - AI Photo Face Animator | $11.44K | Free Trial - Soft Paywall | [Open](../apps/mimic-ai-photo-face-animator-1590841930.md) |
+| iQIYI - Dramas, Anime, Shows | $10.96K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/iqiyi-dramas-anime-shows-1461999674.md) |
+| Coloring Book for Me | $10.86K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/coloring-book-for-me-1093108529.md) |
 
 ## What to study
 

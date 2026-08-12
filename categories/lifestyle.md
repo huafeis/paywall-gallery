@@ -85,6 +85,9 @@ Lifestyle apps often convert by selling better outcomes, personalization, confid
 | Parental Control App - Kidslox | $16.00K | No Free Trial - Soft Paywall | [Open](../apps/parental-control-app-kidslox-914825567.md) |
 | AI Secure Suite | $14.35K | No Free Trial - Soft Paywall | [Open](../apps/ai-secure-suite-6756100560.md) |
 | YI Home | $13.57K | Free Trial - Soft Paywall | [Open](../apps/yi-home-1011626777.md) |
+| HeartFit - Heart Rate Monitor | $11.73K | Free Trial - Soft Paywall, Free Trial - Hard Paywall | [Open](../apps/heartfit-heart-rate-monitor-6443872496.md) |
+| Nomi: AI Companion with a Soul | $11.16K | No Free Trial - Soft Paywall | [Open](../apps/nomi-ai-companion-with-a-soul-6450270929.md) |
+| Markup R-XP | $10.91K | No Free Trial - Soft Paywall | [Open](../apps/markup-r-xp-1559524491.md) |
 | Plant Parent: Plant Care Guide | $8.63K | Free Trial - Soft Paywall | [Open](../apps/plant-parent-plant-care-guide-1612792132.md) |
 
 ## What to study

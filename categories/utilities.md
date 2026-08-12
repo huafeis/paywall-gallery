@@ -82,6 +82,9 @@ Utilities apps use subscription paywalls to communicate value and convert users 
 | Ask Assist - AI Chat Bot | $13.41K | Free Trial - Soft Paywall | [Open](../apps/ask-assist-ai-chat-bot-6448989090.md) |
 | AI Cleaner: Storage Cleaner | $13.01K | Free Trial - Soft Paywall | [Open](../apps/ai-cleaner-storage-cleaner-6496865463.md) |
 | Car.Play Connect: Auto Sync | $12.87K | Free Trial - Soft Paywall | [Open](../apps/car-play-connect-auto-sync-6740556805.md) |
+| Voice Recorder－Audio Memos Арр | $12.04K | Free Trial - Soft Paywall | [Open](../apps/voice-recorder-audio-memos-1515080485.md) |
+| 快连VPN | $12.00K | No Free Trial - Soft Paywall | [Open](../apps/vpn-1471102783.md) |
+| QR, Barcode Scanner for iPhone | $11.80K | No Free Trial - Soft Paywall | [Open](../apps/qr-barcode-scanner-for-iphone-1322234579.md) |
 | QR Reader for iPhone | $4.46K | Free Trial - Soft Paywall | [Open](../apps/qr-reader-for-iphone-368494609.md) |
 | Clean Manager: Storage Cleaner | $2.56K | Free Trial - Soft Paywall | [Open](../apps/clean-manager-storage-cleaner-1579881271.md) |
 

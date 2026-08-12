@@ -44,6 +44,9 @@ News apps use subscription paywalls to communicate value and convert users into 
 | The Economist: News & Analysis | $12.58K | Free Trial - Soft Paywall | [Open](../apps/the-economist-news-and-analysis-1239397626.md) |
 | The Information: Tech News | $12.26K | No Free Trial - Soft Paywall | [Open](../apps/the-information-tech-news-1485459932.md) |
 | Pocket Casts: Podcast Player | $12.19K | Free Trial - Soft Paywall | [Open](../apps/pocket-casts-podcast-player-414834813.md) |
+| The Telegraph: UK & World News | $11.88K | Free Trial - Soft Paywall | [Open](../apps/the-telegraph-uk-and-world-news-388947468.md) |
+| NOLA.com | $11.32K | No Free Trial - Soft Paywall | [Open](../apps/nola-com-419878345.md) |
+| The Detroit News: Local News | $11.01K | No Free Trial - Soft Paywall | [Open](../apps/the-detroit-news-local-news-904391210.md) |
 
 ## What to study
 

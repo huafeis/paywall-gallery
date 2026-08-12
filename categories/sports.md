@@ -47,6 +47,7 @@ Sports apps use subscription paywalls to communicate value and convert users int
 | Market Movers | $15.58K | No Free Trial - Soft Paywall | [Open](../apps/market-movers-1561027917.md) |
 | Fishbrain - Fishing App | $14.20K | Free Trial - Soft Paywall | [Open](../apps/fishbrain-fishing-app-477967747.md) |
 | Formula 1® | $13.26K | No Free Trial - Soft Paywall | [Open](../apps/formula-1-835022598.md) |
+| Fishbox - Smart Fishing App | $11.34K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/fishbox-smart-fishing-app-542238652.md) |
 | B1G+: Watch College Sports | $8.46K | No Free Trial - Soft Paywall | [Open](../apps/b1g-watch-college-sports-474679690.md) |
 | Outlier: Smart Sports Betting | $6.17K | Free Trial - Soft Paywall | [Open](../apps/outlier-smart-sports-betting-6443885102.md) |
 | Tennis Channel | $1.91K | No Free Trial - Soft Paywall | [Open](../apps/tennis-channel-651092377.md) |

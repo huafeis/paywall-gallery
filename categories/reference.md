@@ -23,6 +23,8 @@ Reference apps use subscription paywalls to communicate value and convert users 
 | MyHeritage: Family Tree & DNA | $17.63K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/myheritage-family-tree-and-dna-477971748.md) |
 | Muslim Pro: Quran & Athan | $14.08K | Free Trial - Soft Paywall | [Open](../apps/muslim-pro-quran-and-athan-388389451.md) |
 | #Bible - Verse of the Day | $13.40K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/bible-verse-of-the-day-1255711035.md) |
+| Life Bible App | $11.47K | Free Trial - Soft Paywall | [Open](../apps/life-bible-app-325955298.md) |
+| ScanCoin: identify & check | $11.46K | Free Trial - Soft Paywall | [Open](../apps/scancoin-identify-and-check-6445847779.md) |
 | CoinSnap: Coin Identifier | $5.70K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/coinsnap-coin-identifier-1634551626.md) |
 
 ## What to study

@@ -16,6 +16,7 @@ Graphics & Design apps use subscription paywalls to communicate value and conver
 | Morpholio Trace - Sketch CAD | $19.95K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/morpholio-trace-sketch-cad-547274918.md) |
 | Home AI - AI Interior Design | $19.68K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/home-ai-ai-interior-design-6464476667.md) |
 | ‎AI Remodel — Interior Design | $12.29K | No Free Trial - Soft Paywall | [Open](../apps/ai-remodel-interior-design-6477533581.md) |
+| Kling AI: AI Image&Video Maker | $12.07K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/kling-ai-ai-image-and-video-maker-6738049229.md) |
 
 ## What to study
 

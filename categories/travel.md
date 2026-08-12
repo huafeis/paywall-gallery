@@ -17,6 +17,8 @@ Travel apps use subscription paywalls to communicate value and convert users int
 | Airclub - Flight Deals | $26.36K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/airclub-flight-deals-6740247064.md) |
 | Track My Flight Now | $23.75K | Free Trial - Soft Paywall | [Open](../apps/track-my-flight-now-1666079904.md) |
 | AllStays Camp & RV: Camping | $21.81K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/allstays-camp-and-rv-camping-370820516.md) |
+| MarineTraffic - Ship Tracking | $11.26K | No Free Trial - Soft Paywall | [Open](../apps/marinetraffic-ship-tracking-563910324.md) |
+| Timeshifter | $10.91K | No Free Trial - Soft Paywall | [Open](../apps/timeshifter-1380684374.md) |
 
 ## What to study
 

@@ -163,6 +163,16 @@ Education apps use subscription paywalls to communicate value and convert users 
 | Coloring Book - Kids Games 2+ | $12.85K | Free Trial - Soft Paywall | [Open](../apps/coloring-book-kids-games-2-1635552708.md) |
 | Toddler Games for 3+ years old | $12.74K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/toddler-games-for-3-years-old-1527978047.md) |
 | Learn to Read - Reading.com | $12.67K | Free Trial - Soft Paywall | [Open](../apps/learn-to-read-reading-com-1534938305.md) |
+| Planto: Plant Identifier | $12.16K | Free Trial - Soft Paywall | [Open](../apps/planto-plant-identifier-1531728753.md) |
+| Falou - Fast language learning | $11.98K | No Free Trial - Soft Paywall | [Open](../apps/falou-fast-language-learning-1460579936.md) |
+| Plantum - AI Plant Identifier | $11.73K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/plantum-ai-plant-identifier-1476047194.md) |
+| Crayola Scribble Scrubbie Pets | $11.67K | No Free Trial - Soft Paywall | [Open](../apps/crayola-scribble-scrubbie-pets-1475682282.md) |
+| Toddler Games for 2+ Year Olds | $11.57K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/toddler-games-for-2-year-olds-1347045754.md) |
+| Pinksy: Drawing Games for Kids | $11.45K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/pinksy-drawing-games-for-kids-1260895318.md) |
+| Brainscape - Study Flashcards | $11.33K | No Free Trial - Soft Paywall | [Open](../apps/brainscape-study-flashcards-442415567.md) |
+| Plant Identification－Plantaria | $11.20K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/plant-identification-plantaria-1490577892.md) |
+| Drawing for Kids - Baby Games | $11.09K | No Free Trial - Soft Paywall | [Open](../apps/drawing-for-kids-baby-games-1001555097.md) |
+| Doctor Games for Kids! | $10.96K | Free Trial - Soft Paywall | [Open](../apps/doctor-games-for-kids-1506886061.md) |
 | LEGO® DUPLO® MARVEL | $992 | No Free Trial - Soft Paywall | [Open](../apps/lego-duplo-marvel-1573101225.md) |
 
 ## What to study

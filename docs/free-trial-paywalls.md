@@ -975,8 +975,57 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | Clarity: CBT Self Help Journal | Medical | [Open](../apps/clarity-cbt-self-help-journal-1010391170.md) |
 | Chatbot AI - Smart Search Bot | Productivity | [Open](../apps/chatbot-ai-smart-search-bot-6476502171.md) |
 | Stocks To Buy Now : AI Signals | Finance | [Open](../apps/stocks-to-buy-now-ai-signals-1565527320.md) |
+| Christian Hypnobirthing | Medical | [Open](../apps/christian-hypnobirthing-1362809276.md) |
+| Aura: Meditation & Sleep, CBT | Health & Fitness | [Open](../apps/aura-meditation-and-sleep-cbt-1114223104.md) |
+| Planto: Plant Identifier | Education | [Open](../apps/planto-plant-identifier-1531728753.md) |
+| Kling AI: AI Image&Video Maker | Graphics & Design | [Open](../apps/kling-ai-ai-image-and-video-maker-6738049229.md) |
+| Voice Recorder－Audio Memos Арр | Utilities | [Open](../apps/voice-recorder-audio-memos-1515080485.md) |
+| 快连VPN | Utilities | [Open](../apps/vpn-1471102783.md) |
+| Falou - Fast language learning | Education | [Open](../apps/falou-fast-language-learning-1460579936.md) |
+| The Telegraph: UK & World News | News | [Open](../apps/the-telegraph-uk-and-world-news-388947468.md) |
+| Glam AI: Video & Photo Editor | Photo & Video | [Open](../apps/glam-ai-video-and-photo-editor-1545593132.md) |
+| FlareFlow | Entertainment | [Open](../apps/flareflow-6744237126.md) |
+| QR, Barcode Scanner for iPhone | Utilities | [Open](../apps/qr-barcode-scanner-for-iphone-1322234579.md) |
+| xScan : Document Scanner App | Business | [Open](../apps/xscan-document-scanner-app-1496800347.md) |
+| Plantum - AI Plant Identifier | Education | [Open](../apps/plantum-ai-plant-identifier-1476047194.md) |
+| HeartFit - Heart Rate Monitor | Lifestyle | [Open](../apps/heartfit-heart-rate-monitor-6443872496.md) |
+| Authenticator App © | Productivity | [Open](../apps/authenticator-app-1662071074.md) |
+| Crayola Scribble Scrubbie Pets | Education | [Open](../apps/crayola-scribble-scrubbie-pets-1475682282.md) |
+| MCPE Addons Maps Skins Shaders | Entertainment | [Open](../apps/mcpe-addons-maps-skins-shaders-6451086620.md) |
 | Photo Collage Maker PicJointer | Photo & Video | [Open](../apps/photo-collage-maker-picjointer-509987785.md) |
+| Toddler Games for 2+ Year Olds | Education | [Open](../apps/toddler-games-for-2-year-olds-1347045754.md) |
+| AI Song Generator & Creator | Music | [Open](../apps/ai-song-generator-and-creator-6751800272.md) |
+| Portrait:Make Avatar Character | Photo & Video | [Open](../apps/portrait-make-avatar-character-1494275997.md) |
+| Life Bible App | Reference | [Open](../apps/life-bible-app-325955298.md) |
+| ScanCoin: identify & check | Reference | [Open](../apps/scancoin-identify-and-check-6445847779.md) |
+| onX Offroad: Trail Maps & GPS | Navigation | [Open](../apps/onx-offroad-trail-maps-and-gps-1475112177.md) |
+| Pinksy: Drawing Games for Kids | Education | [Open](../apps/pinksy-drawing-games-for-kids-1260895318.md) |
+| Mimic - AI Photo Face Animator | Entertainment | [Open](../apps/mimic-ai-photo-face-animator-1590841930.md) |
+| Face Swap Video by DuoFace | Photo & Video | [Open](../apps/face-swap-video-by-duoface-1625343601.md) |
+| Fishbox - Smart Fishing App | Sports | [Open](../apps/fishbox-smart-fishing-app-542238652.md) |
+| Brainscape - Study Flashcards | Education | [Open](../apps/brainscape-study-flashcards-442415567.md) |
+| NOLA.com | News | [Open](../apps/nola-com-419878345.md) |
+| MarineTraffic - Ship Tracking | Travel | [Open](../apps/marinetraffic-ship-tracking-563910324.md) |
+| Daddyhunt– Gay Dating & Chat | Social Networking | [Open](../apps/daddyhunt-gay-dating-and-chat-921687947.md) |
+| Cleaner PRO:photos cleaner | Productivity | [Open](../apps/cleaner-pro-photos-cleaner-6740075199.md) |
+| Plant Identification－Plantaria | Education | [Open](../apps/plant-identification-plantaria-1490577892.md) |
+| Videoleap: AI Video Editor | Photo & Video | [Open](../apps/videoleap-ai-video-editor-1255135442.md) |
+| Nomi: AI Companion with a Soul | Lifestyle | [Open](../apps/nomi-ai-companion-with-a-soul-6450270929.md) |
+| Scan Now: PDF Document Scanner | Business | [Open](../apps/scan-now-pdf-document-scanner-1666079896.md) |
+| Drawing for Kids - Baby Games | Education | [Open](../apps/drawing-for-kids-baby-games-1001555097.md) |
+| LivePhish | Music | [Open](../apps/livephish-374048661.md) |
+| The Detroit News: Local News | News | [Open](../apps/the-detroit-news-local-news-904391210.md) |
+| iQIYI - Dramas, Anime, Shows | Entertainment | [Open](../apps/iqiyi-dramas-anime-shows-1461999674.md) |
+| Doctor Games for Kids! | Education | [Open](../apps/doctor-games-for-kids-1506886061.md) |
+| Do Habits: Get It Done | Productivity | [Open](../apps/do-habits-get-it-done-1103961876.md) |
+| Timeshifter | Travel | [Open](../apps/timeshifter-1380684374.md) |
+| Markup R-XP | Lifestyle | [Open](../apps/markup-r-xp-1559524491.md) |
 | Invoice Maker - Invoice Fly | Business | [Open](../apps/invoice-maker-invoice-fly-1606911248.md) |
+| Coloring Book for Me | Entertainment | [Open](../apps/coloring-book-for-me-1093108529.md) |
+| TypeAI: AI Keyboard & Writer | Productivity | [Open](../apps/typeai-ai-keyboard-and-writer-6448661220.md) |
+| WeightWatchers Program | Health & Fitness | [Open](../apps/weightwatchers-program-331308914.md) |
+| Water tracker Waterllama | Health & Fitness | [Open](../apps/water-tracker-waterllama-1454778585.md) |
+| HotStock - in-stock alerts | Shopping | [Open](../apps/hotstock-in-stock-alerts-1257690900.md) |
 | Headspace: Sleep & Meditation | Health & Fitness | [Open](../apps/headspace-sleep-and-meditation-493145008.md) |
 | Rumble: Livestreams & Videos | Photo & Video | [Open](../apps/rumble-livestreams-and-videos-1518427877.md) |
 | Simply Sing: My Singing App | Music | [Open](../apps/simply-sing-my-singing-app-1592900217.md) |

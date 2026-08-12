@@ -78,6 +78,10 @@ Productivity apps often convert users by selling time savings, professional outp
 | ClearNet VPN Secure | $12.59K | Free Trial - Soft Paywall | [Open](../apps/clearnet-vpn-secure-6747262267.md) |
 | WeTransfer: Transfer Files | $12.57K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/wetransfer-transfer-files-1569379048.md) |
 | Chatbot AI - Smart Search Bot | $12.19K | Free Trial - Soft Paywall | [Open](../apps/chatbot-ai-smart-search-bot-6476502171.md) |
+| Authenticator App © | $11.67K | Free Trial - Soft Paywall | [Open](../apps/authenticator-app-1662071074.md) |
+| Cleaner PRO:photos cleaner | $11.21K | Free Trial - Soft Paywall | [Open](../apps/cleaner-pro-photos-cleaner-6740075199.md) |
+| Do Habits: Get It Done | $10.94K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/do-habits-get-it-done-1103961876.md) |
+| TypeAI: AI Keyboard & Writer | $10.81K | Free Trial - Soft Paywall | [Open](../apps/typeai-ai-keyboard-and-writer-6448661220.md) |
 | 1Password: Password Manager | $7.15K | No Free Trial - Soft Paywall | [Open](../apps/1password-password-manager-1511601750.md) |
 | Bark - Parental Controls | $6.43K | No Free Trial - Soft Paywall | [Open](../apps/bark-parental-controls-1477619146.md) |
 | LastPass Password Manager | $4.97K | No Free Trial - Soft Paywall | [Open](../apps/lastpass-password-manager-324613447.md) |

@@ -75,6 +75,8 @@ Social Networking apps use subscription paywalls to communicate value and conver
 | HilYal Live:Stream and Friends | $13.79K | Currency Paywall | [Open](../apps/hilyal-live-stream-and-friends-1615501545.md) |
 | Adam4Adam Gay Dating Chat A4A | $13.35K | Free Trial - Soft Paywall | [Open](../apps/adam4adam-gay-dating-chat-a4a-440185993.md) |
 | Hit Em Up: Mass Text Bulk SMS | $12.54K | No Free Trial - Soft Paywall | [Open](../apps/hit-em-up-mass-text-bulk-sms-943630636.md) |
+| Daddyhunt– Gay Dating & Chat | $11.25K | No Free Trial - Soft Paywall | [Open](../apps/daddyhunt-gay-dating-and-chat-921687947.md) |
+| Знакомства для тебя. RusDate | $11.21K | Currency Paywall | [Open](../apps/rusdate-1121784385.md) |
 | Bumpy – International Dating | $8.43K | No Free Trial - Soft Paywall | [Open](../apps/bumpy-international-dating-1455336523.md) |
 | Repost+ for Instagram . | $7.43K | Free Trial - Soft Paywall | [Open](../apps/repost-for-instagram-1477820240.md) |
 | GraceChat | $3.15K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/gracechat-1658972379.md) |

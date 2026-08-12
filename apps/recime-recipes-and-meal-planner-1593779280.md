@@ -6,7 +6,7 @@ category: "Food & Drink"
 paywall_type: "Free Trial - Soft Paywall, No Free Trial - Soft Paywall"
 pricing_model: "2 offer sets across month, year, one-time purchase"
 mrr: "$383.01K"
-rating: 4.80
+rating: 4.79
 versions_count: 3
 offers:
   - period: "month"
@@ -88,7 +88,7 @@ This pattern is useful for studying how the app presents subscription value, red
 
 | Metric | Value |
 |---|---:|
-| App Store rating | 4.80 |
+| App Store rating | 4.79 |
 | Category rank | #8 |
 | Estimated MRR | $383.01K |
 | Avg daily revenue | $8.04K |

@@ -88,6 +88,9 @@ Health & Fitness apps use subscription paywalls to communicate value and convert
 | Heartify: Heart Health Monitor | $14.90K | Free Trial - Soft Paywall | [Open](../apps/heartify-heart-health-monitor-1546156891.md) |
 | Natal - Pregnancy & Postpartum | $14.41K | Free Trial - Soft Paywall | [Open](../apps/natal-pregnancy-and-postpartum-6596773195.md) |
 | HealthGuard:Heart&Blood Sugar | $13.54K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/healthguard-heart-and-blood-sugar-6737974524.md) |
+| Aura: Meditation & Sleep, CBT | $12.16K | Free Trial - Soft Paywall | [Open](../apps/aura-meditation-and-sleep-cbt-1114223104.md) |
+| WeightWatchers Program | $10.76K | No Free Trial - Soft Paywall | [Open](../apps/weightwatchers-program-331308914.md) |
+| Water tracker Waterllama | $10.75K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/water-tracker-waterllama-1454778585.md) |
 | Headspace: Sleep & Meditation | $10.56K | Free Trial - Soft Paywall | [Open](../apps/headspace-sleep-and-meditation-493145008.md) |
 | Calorie Counter & Food Tracker | $8.50K | No Free Trial - Soft Paywall | [Open](../apps/calorie-counter-and-food-tracker-6474290049.md) |
 | InPulse - Heart Rate Monitor | $7.32K | Free Trial - Soft Paywall | [Open](../apps/inpulse-heart-rate-monitor-1489944782.md) |

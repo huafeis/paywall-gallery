@@ -123,7 +123,11 @@ Photo and video apps often rely on creative control, premium features, editing c
 | Version AI: AI Photo Creator | $15.16K | No Free Trial - Soft Paywall | [Open](../apps/version-ai-ai-photo-creator-6744824597.md) |
 | Video Editor · | $14.73K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/video-editor-1438312320.md) |
 | Video Up! Video Editor & Maker | $14.43K | No Free Trial - Soft Paywall | [Open](../apps/video-up-video-editor-and-maker-1585824635.md) |
+| Glam AI: Video & Photo Editor | $11.85K | No Free Trial - Soft Paywall | [Open](../apps/glam-ai-video-and-photo-editor-1545593132.md) |
 | Photo Collage Maker PicJointer | $11.57K | Free Trial - Soft Paywall | [Open](../apps/photo-collage-maker-picjointer-509987785.md) |
+| Portrait:Make Avatar Character | $11.48K | Free Trial - Soft Paywall | [Open](../apps/portrait-make-avatar-character-1494275997.md) |
+| Face Swap Video by DuoFace | $11.40K | Free Trial - Soft Paywall | [Open](../apps/face-swap-video-by-duoface-1625343601.md) |
+| Videoleap: AI Video Editor | $11.17K | Free Trial - Soft Paywall | [Open](../apps/videoleap-ai-video-editor-1255135442.md) |
 | Rumble: Livestreams & Videos | $9.34K | No Free Trial - Soft Paywall | [Open](../apps/rumble-livestreams-and-videos-1518427877.md) |
 | AI Photo Video Editor, Enhance | $8.08K | No Free Trial - Soft Paywall | [Open](../apps/ai-photo-video-editor-enhance-6447604690.md) |
 | Photo Collage - Collageable | $6.51K | Free Trial - Soft Paywall | [Open](../apps/photo-collage-collageable-1085652055.md) |

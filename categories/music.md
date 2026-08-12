@@ -71,6 +71,8 @@ Music apps often convert by selling ad-free listening, offline access, better pl
 | JioSaavn – Music & Podcasts | $12.96K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/jiosaavn-music-and-podcasts-441813332.md) |
 | MP3 Converter : music editor | $12.77K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/mp3-converter-music-editor-6469768761.md) |
 | Ukulele Tuner & Lessons: Kala | $12.73K | Free Trial - Soft Paywall | [Open](../apps/ukulele-tuner-and-lessons-kala-1064893690.md) |
+| AI Song Generator & Creator | $11.55K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/ai-song-generator-and-creator-6751800272.md) |
+| LivePhish | $11.03K | Free Trial - Soft Paywall | [Open](../apps/livephish-374048661.md) |
 | Simply Sing: My Singing App | $9.03K | Free Trial - Soft Paywall | [Open](../apps/simply-sing-my-singing-app-1592900217.md) |
 | AI Song Generator - Zona | $3.54K | No Free Trial - Soft Paywall | [Open](../apps/ai-song-generator-zona-6499261254.md) |
 
