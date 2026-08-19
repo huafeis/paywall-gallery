@@ -173,6 +173,12 @@ Education apps use subscription paywalls to communicate value and convert users 
 | Plant Identification－Plantaria | $11.20K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/plant-identification-plantaria-1490577892.md) |
 | Drawing for Kids - Baby Games | $11.09K | No Free Trial - Soft Paywall | [Open](../apps/drawing-for-kids-baby-games-1001555097.md) |
 | Doctor Games for Kids! | $10.96K | Free Trial - Soft Paywall | [Open](../apps/doctor-games-for-kids-1506886061.md) |
+| Archer Review NCLEX | $10.59K | No Free Trial - Soft Paywall | [Open](../apps/archer-review-nclex-1492019618.md) |
+| IQ Booster: Brain Games & Test | $10.39K | Free Trial - Soft Paywall | [Open](../apps/iq-booster-brain-games-and-test-6740035698.md) |
+| BrainPOP | $10.00K | Free Trial - Soft Paywall | [Open](../apps/brainpop-364894352.md) |
+| Talking Tom & Friends: World | $9.95K | No Free Trial - Soft Paywall | [Open](../apps/talking-tom-and-friends-world-6497331326.md) |
+| Impulse - Brain Training | $9.91K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/impulse-brain-training-1451295827.md) |
+| Baby Shark World for Kids | $9.81K | No Free Trial - Soft Paywall | [Open](../apps/baby-shark-world-for-kids-1596897739.md) |
 | LEGO® DUPLO® MARVEL | $992 | No Free Trial - Soft Paywall | [Open](../apps/lego-duplo-marvel-1573101225.md) |
 
 ## What to study

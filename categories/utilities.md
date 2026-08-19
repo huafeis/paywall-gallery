@@ -85,6 +85,8 @@ Utilities apps use subscription paywalls to communicate value and convert users 
 | Voice Recorder－Audio Memos Арр | $12.04K | Free Trial - Soft Paywall | [Open](../apps/voice-recorder-audio-memos-1515080485.md) |
 | 快连VPN | $12.00K | No Free Trial - Soft Paywall | [Open](../apps/vpn-1471102783.md) |
 | QR, Barcode Scanner for iPhone | $11.80K | No Free Trial - Soft Paywall | [Open](../apps/qr-barcode-scanner-for-iphone-1322234579.md) |
+| Clean Phone Storage Now | $10.32K | Free Trial - Soft Paywall | [Open](../apps/clean-phone-storage-now-6467652964.md) |
+| Construction Master Pro Calc | $10.30K | Free Trial - Soft Paywall | [Open](../apps/construction-master-pro-calc-370406446.md) |
 | QR Reader for iPhone | $4.46K | Free Trial - Soft Paywall | [Open](../apps/qr-reader-for-iphone-368494609.md) |
 | Clean Manager: Storage Cleaner | $2.56K | Free Trial - Soft Paywall | [Open](../apps/clean-manager-storage-cleaner-1579881271.md) |
 

@@ -88,6 +88,9 @@ Lifestyle apps often convert by selling better outcomes, personalization, confid
 | HeartFit - Heart Rate Monitor | $11.73K | Free Trial - Soft Paywall, Free Trial - Hard Paywall | [Open](../apps/heartfit-heart-rate-monitor-6443872496.md) |
 | Nomi: AI Companion with a Soul | $11.16K | No Free Trial - Soft Paywall | [Open](../apps/nomi-ai-companion-with-a-soul-6450270929.md) |
 | Markup R-XP | $10.91K | No Free Trial - Soft Paywall | [Open](../apps/markup-r-xp-1559524491.md) |
+| LifePulse :smartlife app | $10.63K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/lifepulse-smartlife-app-6618141389.md) |
+| Moonly: Moon Phases & Calendar | $10.48K | No Free Trial - Soft Paywall | [Open](../apps/moonly-moon-phases-and-calendar-1489889871.md) |
+| WellMe: Track & Boost Wellness | $9.81K | Free Trial - Soft Paywall | [Open](../apps/wellme-track-and-boost-wellness-6749838351.md) |
 | Plant Parent: Plant Care Guide | $8.63K | Free Trial - Soft Paywall | [Open](../apps/plant-parent-plant-care-guide-1612792132.md) |
 
 ## What to study

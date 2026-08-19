@@ -55,6 +55,7 @@ Business apps often convert users by selling professional growth, productivity, 
 | xScan : Document Scanner App | $11.80K | Free Trial - Soft Paywall | [Open](../apps/xscan-document-scanner-app-1496800347.md) |
 | Scan Now: PDF Document Scanner | $11.13K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/scan-now-pdf-document-scanner-1666079896.md) |
 | Invoice Maker - Invoice Fly | $10.88K | Free Trial - Soft Paywall | [Open](../apps/invoice-maker-invoice-fly-1606911248.md) |
+| Magic Eraser Background Editor | $10.35K | Free Trial - Soft Paywall | [Open](../apps/magic-eraser-background-editor-989920057.md) |
 | ScanGuru: PDF Scanner App | $3.35K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/scanguru-pdf-scanner-app-1040149161.md) |
 
 ## What to study

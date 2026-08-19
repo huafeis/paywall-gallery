@@ -24,6 +24,8 @@ Finance apps use subscription paywalls to communicate value and convert users in
 | TipRanks Stock Market Analysis | $17.62K | No Free Trial - Soft Paywall | [Open](../apps/tipranks-stock-market-analysis-1237516490.md) |
 | Bitcoin Mining: Crypto Miner | $12.68K | No Free Trial - Soft Paywall | [Open](../apps/bitcoin-mining-crypto-miner-6468313323.md) |
 | Stocks To Buy Now : AI Signals | $12.18K | No Free Trial - Soft Paywall | [Open](../apps/stocks-to-buy-now-ai-signals-1565527320.md) |
+| Stock Signal: AI Stocks Watch | $10.21K | No Free Trial - Soft Paywall | [Open](../apps/stock-signal-ai-stocks-watch-1545704110.md) |
+| PocketGuard・Budget Planner App | $9.85K | Free Trial - Soft Paywall | [Open](../apps/pocketguard-budget-planner-app-949414211.md) |
 
 ## What to study
 

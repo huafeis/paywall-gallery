@@ -1026,7 +1026,56 @@ Free trials can make a paid subscription feel easier to start. They are especial
 | WeightWatchers Program | Health & Fitness | [Open](../apps/weightwatchers-program-331308914.md) |
 | Water tracker Waterllama | Health & Fitness | [Open](../apps/water-tracker-waterllama-1454778585.md) |
 | HotStock - in-stock alerts | Shopping | [Open](../apps/hotstock-in-stock-alerts-1257690900.md) |
+| Mini Photobooth | Photo & Video | [Open](../apps/mini-photobooth-1342093386.md) |
+| CafeDrama-Stream Shorts&Series | Entertainment | [Open](../apps/cafedrama-stream-shorts-and-series-6480451978.md) |
+| Bible Chat: Daily Devotional | Reference | [Open](../apps/bible-chat-daily-devotional-6448849666.md) |
+| Optimal Bet: EV Sports Betting | Sports | [Open](../apps/optimal-bet-ev-sports-betting-1562901389.md) |
+| Radio‎‎ App | Music | [Open](../apps/radio-app-6477182124.md) |
+| Acapella from PicPlayPost | Music | [Open](../apps/acapella-from-picplaypost-924635678.md) |
+| LifePulse :smartlife app | Lifestyle | [Open](../apps/lifepulse-smartlife-app-6618141389.md) |
+| Coin Identifier & AI Scanner | Reference | [Open](../apps/coin-identifier-and-ai-scanner-6737041776.md) |
+| Archer Review NCLEX | Education | [Open](../apps/archer-review-nclex-1492019618.md) |
+| 2nd1st - Truth, News & Social | News | [Open](../apps/2nd1st-truth-news-and-social-1466169815.md) |
+| BassForecast: Bass Fishing App | Sports | [Open](../apps/bassforecast-bass-fishing-app-1088297101.md) |
+| Prisma: Photo Editor, Filters | Photo & Video | [Open](../apps/prisma-photo-editor-filters-1122649984.md) |
 | Headspace: Sleep & Meditation | Health & Fitness | [Open](../apps/headspace-sleep-and-meditation-493145008.md) |
+| Xeela: Train, Fuel, Transform | Health & Fitness | [Open](../apps/xeela-train-fuel-transform-6468574624.md) |
+| Surfline: Wave & Surf Reports | Weather | [Open](../apps/surfline-wave-and-surf-reports-393782096.md) |
+| Music Recognition- Song Finder | Music | [Open](../apps/music-recognition-song-finder-6599842047.md) |
+| Evernote: AI Notes & Notebook | Productivity | [Open](../apps/evernote-ai-notes-and-notebook-281796108.md) |
+| iOverlander | Travel | [Open](../apps/ioverlander-1486556203.md) |
+| Moonly: Moon Phases & Calendar | Lifestyle | [Open](../apps/moonly-moon-phases-and-calendar-1489889871.md) |
+| Beatz: AI Song・Cover Generator | Music | [Open](../apps/beatz-ai-song-cover-generator-6670199973.md) |
+| HIDIVE | Entertainment | [Open](../apps/hidive-1233367570.md) |
+| IQ Booster: Brain Games & Test | Education | [Open](../apps/iq-booster-brain-games-and-test-6740035698.md) |
+| Lose It! – Calorie Counter | Health & Fitness | [Open](../apps/lose-it-calorie-counter-297368629.md) |
+| Boostcamp: Workout Programs | Health & Fitness | [Open](../apps/boostcamp-workout-programs-1529354455.md) |
+| Essential - Healthy Lifestyle | Health & Fitness | [Open](../apps/essential-healthy-lifestyle-6461420447.md) |
+| Marvel: Color Your Own | Entertainment | [Open](../apps/marvel-color-your-own-1136343771.md) |
+| Athlytic: Fitness & Recovery | Health & Fitness | [Open](../apps/athlytic-fitness-and-recovery-1543571755.md) |
+| Magic Eraser Background Editor | Business | [Open](../apps/magic-eraser-background-editor-989920057.md) |
+| Mealime Meal Plans & Recipes | Food & Drink | [Open](../apps/mealime-meal-plans-and-recipes-1079999103.md) |
+| Vocal Remover - Musiclab | Music | [Open](../apps/vocal-remover-musiclab-6479388279.md) |
+| Clean Phone Storage Now | Utilities | [Open](../apps/clean-phone-storage-now-6467652964.md) |
+| Construction Master Pro Calc | Utilities | [Open](../apps/construction-master-pro-calc-370406446.md) |
+| Picture Bird: Bird identifier | Reference | [Open](../apps/picture-bird-bird-identifier-1474586978.md) |
+| Well Up-Level Up Your Wellness | Health & Fitness | [Open](../apps/well-up-level-up-your-wellness-6615069676.md) |
+| The Boston Globe | News | [Open](../apps/the-boston-globe-632761100.md) |
+| Stock Signal: AI Stocks Watch | Finance | [Open](../apps/stock-signal-ai-stocks-watch-1545704110.md) |
+| BetterMe: Health Coaching | Health & Fitness | [Open](../apps/betterme-health-coaching-1264546236.md) |
+| MiniShorts | Entertainment | [Open](../apps/minishorts-6475380865.md) |
+| Camera Connect - Home Security | Travel | [Open](../apps/camera-connect-home-security-6450106931.md) |
+| Fitbod: Gym & Fitness Planner | Health & Fitness | [Open](../apps/fitbod-gym-and-fitness-planner-1041517543.md) |
+| LANDR - For Music Makers | Music | [Open](../apps/landr-for-music-makers-6443542020.md) |
+| BrainPOP | Education | [Open](../apps/brainpop-364894352.md) |
+| VEO 3 · AI Video Generator | Photo & Video | [Open](../apps/veo-3-ai-video-generator-6747337777.md) |
+| Talking Tom & Friends: World | Education | [Open](../apps/talking-tom-and-friends-world-6497331326.md) |
+| AI Photo Generator: FaceOff | Photo & Video | [Open](../apps/ai-photo-generator-faceoff-6453163602.md) |
+| Impulse - Brain Training | Education | [Open](../apps/impulse-brain-training-1451295827.md) |
+| PocketGuard・Budget Planner App | Finance | [Open](../apps/pocketguard-budget-planner-app-949414211.md) |
+| Translate: Voice & Text | Reference | [Open](../apps/translate-voice-and-text-1666080084.md) |
+| WellMe: Track & Boost Wellness | Lifestyle | [Open](../apps/wellme-track-and-boost-wellness-6749838351.md) |
+| Baby Shark World for Kids | Education | [Open](../apps/baby-shark-world-for-kids-1596897739.md) |
 | Rumble: Livestreams & Videos | Photo & Video | [Open](../apps/rumble-livestreams-and-videos-1518427877.md) |
 | Simply Sing: My Singing App | Music | [Open](../apps/simply-sing-my-singing-app-1592900217.md) |
 | Plant Parent: Plant Care Guide | Lifestyle | [Open](../apps/plant-parent-plant-care-guide-1612792132.md) |

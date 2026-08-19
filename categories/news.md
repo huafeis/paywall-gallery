@@ -47,6 +47,8 @@ News apps use subscription paywalls to communicate value and convert users into 
 | The Telegraph: UK & World News | $11.88K | Free Trial - Soft Paywall | [Open](../apps/the-telegraph-uk-and-world-news-388947468.md) |
 | NOLA.com | $11.32K | No Free Trial - Soft Paywall | [Open](../apps/nola-com-419878345.md) |
 | The Detroit News: Local News | $11.01K | No Free Trial - Soft Paywall | [Open](../apps/the-detroit-news-local-news-904391210.md) |
+| 2nd1st - Truth, News & Social | $10.58K | Free Trial - Soft Paywall | [Open](../apps/2nd1st-truth-news-and-social-1466169815.md) |
+| The Boston Globe | $10.23K | No Free Trial - Soft Paywall | [Open](../apps/the-boston-globe-632761100.md) |
 
 ## What to study
 

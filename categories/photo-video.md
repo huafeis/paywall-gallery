@@ -128,6 +128,10 @@ Photo and video apps often rely on creative control, premium features, editing c
 | Portrait:Make Avatar Character | $11.48K | Free Trial - Soft Paywall | [Open](../apps/portrait-make-avatar-character-1494275997.md) |
 | Face Swap Video by DuoFace | $11.40K | Free Trial - Soft Paywall | [Open](../apps/face-swap-video-by-duoface-1625343601.md) |
 | Videoleap: AI Video Editor | $11.17K | Free Trial - Soft Paywall | [Open](../apps/videoleap-ai-video-editor-1255135442.md) |
+| Mini Photobooth | $10.74K | No Free Trial - Soft Paywall | [Open](../apps/mini-photobooth-1342093386.md) |
+| Prisma: Photo Editor, Filters | $10.57K | Free Trial - Soft Paywall | [Open](../apps/prisma-photo-editor-filters-1122649984.md) |
+| VEO 3 · AI Video Generator | $9.98K | No Free Trial - Soft Paywall | [Open](../apps/veo-3-ai-video-generator-6747337777.md) |
+| AI Photo Generator: FaceOff | $9.93K | No Free Trial - Soft Paywall | [Open](../apps/ai-photo-generator-faceoff-6453163602.md) |
 | Rumble: Livestreams & Videos | $9.34K | No Free Trial - Soft Paywall | [Open](../apps/rumble-livestreams-and-videos-1518427877.md) |
 | AI Photo Video Editor, Enhance | $8.08K | No Free Trial - Soft Paywall | [Open](../apps/ai-photo-video-editor-enhance-6447604690.md) |
 | Photo Collage - Collageable | $6.51K | Free Trial - Soft Paywall | [Open](../apps/photo-collage-collageable-1085652055.md) |

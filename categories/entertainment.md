@@ -70,6 +70,10 @@ Entertainment apps often rely on content value, exclusive access, free trials, a
 | Mimic - AI Photo Face Animator | $11.44K | Free Trial - Soft Paywall | [Open](../apps/mimic-ai-photo-face-animator-1590841930.md) |
 | iQIYI - Dramas, Anime, Shows | $10.96K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/iqiyi-dramas-anime-shows-1461999674.md) |
 | Coloring Book for Me | $10.86K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/coloring-book-for-me-1093108529.md) |
+| CafeDrama-Stream Shorts&Series | $10.70K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/cafedrama-stream-shorts-and-series-6480451978.md) |
+| HIDIVE | $10.40K | Free Trial - Soft Paywall | [Open](../apps/hidive-1233367570.md) |
+| Marvel: Color Your Own | $10.37K | Free Trial - Soft Paywall | [Open](../apps/marvel-color-your-own-1136343771.md) |
+| MiniShorts | $10.14K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/minishorts-6475380865.md) |
 
 ## What to study
 

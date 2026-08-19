@@ -73,6 +73,12 @@ Music apps often convert by selling ad-free listening, offline access, better pl
 | Ukulele Tuner & Lessons: Kala | $12.73K | Free Trial - Soft Paywall | [Open](../apps/ukulele-tuner-and-lessons-kala-1064893690.md) |
 | AI Song Generator & Creator | $11.55K | No Free Trial - Soft Paywall, Currency Paywall | [Open](../apps/ai-song-generator-and-creator-6751800272.md) |
 | LivePhish | $11.03K | Free Trial - Soft Paywall | [Open](../apps/livephish-374048661.md) |
+| Radio‎‎ App | $10.65K | Free Trial - Soft Paywall | [Open](../apps/radio-app-6477182124.md) |
+| Acapella from PicPlayPost | $10.63K | Free Trial - Soft Paywall | [Open](../apps/acapella-from-picplaypost-924635678.md) |
+| Music Recognition- Song Finder | $10.54K | Free Trial - Soft Paywall, Free Trial - Hard Paywall | [Open](../apps/music-recognition-song-finder-6599842047.md) |
+| Beatz: AI Song・Cover Generator | $10.40K | No Free Trial - Soft Paywall | [Open](../apps/beatz-ai-song-cover-generator-6670199973.md) |
+| Vocal Remover - Musiclab | $10.34K | Free Trial - Soft Paywall | [Open](../apps/vocal-remover-musiclab-6479388279.md) |
+| LANDR - For Music Makers | $10.03K | No Free Trial - Soft Paywall | [Open](../apps/landr-for-music-makers-6443542020.md) |
 | Simply Sing: My Singing App | $9.03K | Free Trial - Soft Paywall | [Open](../apps/simply-sing-my-singing-app-1592900217.md) |
 | AI Song Generator - Zona | $3.54K | No Free Trial - Soft Paywall | [Open](../apps/ai-song-generator-zona-6499261254.md) |
 

@@ -92,6 +92,14 @@ Health & Fitness apps use subscription paywalls to communicate value and convert
 | WeightWatchers Program | $10.76K | No Free Trial - Soft Paywall | [Open](../apps/weightwatchers-program-331308914.md) |
 | Water tracker Waterllama | $10.75K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/water-tracker-waterllama-1454778585.md) |
 | Headspace: Sleep & Meditation | $10.56K | Free Trial - Soft Paywall | [Open](../apps/headspace-sleep-and-meditation-493145008.md) |
+| Xeela: Train, Fuel, Transform | $10.55K | Free Trial - Hard Paywall | [Open](../apps/xeela-train-fuel-transform-6468574624.md) |
+| Lose It! – Calorie Counter | $10.38K | No Free Trial - Soft Paywall | [Open](../apps/lose-it-calorie-counter-297368629.md) |
+| Boostcamp: Workout Programs | $10.38K | No Free Trial - Soft Paywall, Free Trial - Soft Paywall | [Open](../apps/boostcamp-workout-programs-1529354455.md) |
+| Essential - Healthy Lifestyle | $10.37K | Free Trial - Soft Paywall | [Open](../apps/essential-healthy-lifestyle-6461420447.md) |
+| Athlytic: Fitness & Recovery | $10.36K | Free Trial - Soft Paywall | [Open](../apps/athlytic-fitness-and-recovery-1543571755.md) |
+| Well Up-Level Up Your Wellness | $10.24K | No Free Trial - Soft Paywall | [Open](../apps/well-up-level-up-your-wellness-6615069676.md) |
+| BetterMe: Health Coaching | $10.21K | No Free Trial - Hard Paywall | [Open](../apps/betterme-health-coaching-1264546236.md) |
+| Fitbod: Gym & Fitness Planner | $10.05K | Free Trial - Soft Paywall | [Open](../apps/fitbod-gym-and-fitness-planner-1041517543.md) |
 | Calorie Counter & Food Tracker | $8.50K | No Free Trial - Soft Paywall | [Open](../apps/calorie-counter-and-food-tracker-6474290049.md) |
 | InPulse - Heart Rate Monitor | $7.32K | Free Trial - Soft Paywall | [Open](../apps/inpulse-heart-rate-monitor-1489944782.md) |
 | LazyFit: Workout For Beginners | $7.07K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/lazyfit-workout-for-beginners-1669413773.md) |

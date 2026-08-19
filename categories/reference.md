@@ -25,6 +25,10 @@ Reference apps use subscription paywalls to communicate value and convert users 
 | #Bible - Verse of the Day | $13.40K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/bible-verse-of-the-day-1255711035.md) |
 | Life Bible App | $11.47K | Free Trial - Soft Paywall | [Open](../apps/life-bible-app-325955298.md) |
 | ScanCoin: identify & check | $11.46K | Free Trial - Soft Paywall | [Open](../apps/scancoin-identify-and-check-6445847779.md) |
+| Bible Chat: Daily Devotional | $10.69K | Free Trial - Soft Paywall | [Open](../apps/bible-chat-daily-devotional-6448849666.md) |
+| Coin Identifier & AI Scanner | $10.62K | No Free Trial - Soft Paywall | [Open](../apps/coin-identifier-and-ai-scanner-6737041776.md) |
+| Picture Bird: Bird identifier | $10.28K | Free Trial - Soft Paywall | [Open](../apps/picture-bird-bird-identifier-1474586978.md) |
+| Translate: Voice & Text | $9.84K | Free Trial - Soft Paywall | [Open](../apps/translate-voice-and-text-1666080084.md) |
 | CoinSnap: Coin Identifier | $5.70K | Free Trial - Soft Paywall, No Free Trial - Soft Paywall | [Open](../apps/coinsnap-coin-identifier-1634551626.md) |
 
 ## What to study

@@ -10,6 +10,7 @@ Weather apps use subscription paywalls to communicate value and convert users in
 |---|---:|---|---|
 | AccuWeather: Weather Forecast | $99.48K | Free Trial - Soft Paywall | [Open](../apps/accuweather-weather-forecast-300048137.md) |
 | Clime: NOAA Weather Radar Live | $16.93K | No Free Trial - Soft Paywall | [Open](../apps/clime-noaa-weather-radar-live-749133753.md) |
+| Surfline: Wave & Surf Reports | $10.55K | Free Trial - Soft Paywall | [Open](../apps/surfline-wave-and-surf-reports-393782096.md) |
 
 ## What to study
 
